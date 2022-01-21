@@ -16,7 +16,7 @@
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 
-permalink: simple_ext
+permalink: simple
 template_engine: liquid
 
 # Other options you might want to investigate:
@@ -28,4 +28,4 @@ timezone: America/Los_Angeles
 
 collections:
   posts:
-    permalink: /:collection/:year/:title.html
+    permalink: /:title/
