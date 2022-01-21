@@ -14,12 +14,9 @@ date: 2018-09-29 09:56:27.000000000 -07:00
 
 I hadn’t planned on posting anything of substance, today, but I came across this fresh post from Tim Berners-Lee, the founder of the modern Internet as we know it, and director of the W3C (World Wide Web Consortium) and knew immediately I had to share it. He’s sharing news about his latest project, a successor to the Internet as it stands in its current form. I’ll let him [explain it](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085):
 
-> I’ve always believed the web is for everyone. That’s why I and others fight fiercely to protect it. The changes we’ve managed to bring have created a better and more connected world. But for all the good we’ve achieved, the web has evolved into an engine of inequity and division; swayed by powerful forces who use it for their own agendas.
-
+>  I’ve always believed the web is for everyone. That’s why I and others fight fiercely to protect it. The changes we’ve managed to bring have created a better and more connected world. But for all the good we’ve achieved, the web has evolved into an engine of inequity and division; swayed by powerful forces who use it for their own agendas.
 > Today, I believe we’ve reached a critical tipping point, and that powerful change for the better is possible — and necessary.
-
-> This is why I have, over recent years, been working with a few people at MIT and elsewhere to develop Solid, an open-source project to restore the power and agency of individuals on the web.
-
+>  This is why I have, over recent years, been working with a few people at MIT and elsewhere to develop Solid, an open-source project to restore the power and agency of individuals on the web.
 > Solid changes the current model where users have to hand over personal data to digital giants in exchange for perceived value. As we’ve all discovered, this hasn’t been in our best interests. Solid is how we evolve the web in order to restore balance — by giving every one of us complete control over data, personal or not, in a revolutionary way.
 
 The goal, to summarize those four paragraphs, is to create a more decentralized Internet where ones data isn’t kept hostage by a service provider. The owner of data is the individual and it’s up to you to allow services to access it.

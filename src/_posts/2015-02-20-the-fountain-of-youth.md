@@ -17,4 +17,3 @@ We’re always striving for more. We always want to have the competitive edge, t
 
 Click below to see the full comics by The Gentleman’s Armchair.
 
-<!--kg-card-begin: html-->[![(null)](/assets/images/2015/02/IMG_0446-1.jpg?w=525&ssl=1)](/assets/images/2015/02/IMG_0446-1.jpg?ssl=1)<!--kg-card-end: html--><!--kg-card-begin: html-->[![(null)](/assets/images/2015/02/IMG_0447.jpg?w=525&ssl=1)](/assets/images/2015/02/IMG_0447.jpg?ssl=1)<!--kg-card-end: html-->

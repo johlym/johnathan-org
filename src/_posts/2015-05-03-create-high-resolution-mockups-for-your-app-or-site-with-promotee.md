@@ -25,7 +25,7 @@ Over the top of the window is side-scrolling menu where you can choose the devic
 
 Because I’m about bullying testing it out, I took three screenshots of my homepage for the 3-way vertical iPhone arrangement. The middle image aligned properly, but the side two did not, leading to a less-than-ideal visual:
 
-<!--kg-card-begin: html-->[![Screenshot 2015-05-03 15.45.32](/assets/images/2015/05/Screenshot-2015-05-03-15.45.32.png?resize=525%2C416&ssl=1)](/assets/images/2015/05/Screenshot-2015-05-03-15.45.32.png?ssl=1)<!--kg-card-end: html-->
+
 
 Hoping that it was just a bug, I moved to a single device both vertical and laying flat, both iPhones. This time, I had success both times. All hope was not lost on this app. When dragging the image into the zone marked on our mock device, it took next to no time at all for the render to complete. I suspect this is because re-orienting an image within bounds is trivial. I don’t foresee any issues on even lightweight OS X systems like a Macbook Air. My Macbook Pro is four years old and it was just another day in the life.
 

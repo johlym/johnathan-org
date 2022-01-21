@@ -28,7 +28,7 @@ _Before I begin, I want to give special thanks to [Josh Sherman](https://twitter
 We’ll be testing the following configurations from each provider:
 
 ### Digital Ocean
-<!--kg-card-begin: html-->
+
 
 | RAM | vCPUs | Storage | Transfer | Price |
 | --- | --- | --- | --- | --- |
@@ -36,9 +36,9 @@ We’ll be testing the following configurations from each provider:
 | 4GB | 2 | 80GB | 4TB | $20/month or $0.030/hour |
 | 8GB | 4 | 160GB | 5TB | $40/month or $0.060/hour |
 
-<!--kg-card-end: html-->
+
 ### Linode
-<!--kg-card-begin: html-->
+
 
 | RAM | vCPUs | Storage | Transfer | Price |
 | --- | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ We’ll be testing the following configurations from each provider:
 | 4GB | 2 | 48GB | 3TB | $20/month or $0.030/hour |
 | 8GB | 4 | 96GB | 4TB | $40/month or $0.060/hour |
 
-<!--kg-card-end: html-->
+
 ### Deployment Notes
 
 - The latest Ubuntu 16.04.3 x64 provided by Linode and Digital Ocean will be installed.
@@ -76,7 +76,7 @@ cat /proc/cpuinfo
 ```
 
 ### Digital Ocean
-<!--kg-card-begin: html-->
+
 
 | RAM | Model | MHz | Cache | BogoMips |
 | --- | --- | --- | --- | --- |
@@ -84,9 +84,9 @@ cat /proc/cpuinfo
 | 4GB | Intel(R) Xeon(R) CPU E5-2650 v4 | 2.20Ghz | 30MB | 4400 |
 | 8GB | Intel(R) Xeon(R) CPU E5-2650L v3 | 1.80Ghz | 30MB | 3600 |
 
-<!--kg-card-end: html-->
+
 ### Linode
-<!--kg-card-begin: html-->
+
 
 | RAM | Model | MHz | Cache | BogoMips |
 | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ cat /proc/cpuinfo
 | 4GB | Intel(R) Xeon(R) CPU E5-2680 v2 | 2.80Ghz | 16MB | 5602 |
 | 8GB | Intel(R) Xeon(R) CPU E5-2680 v3 | 2.50Ghz | 16MB | 5001 |
 
-<!--kg-card-end: html-->
+
 ## The Results
 
 ### 1GB — $5.00/month
@@ -104,7 +104,7 @@ cat /proc/cpuinfo
 ```
 sysbench --test=cpu run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -116,7 +116,7 @@ sysbench --test=cpu run
 | Maximum Request | **3.05ms** | 29.83ms<sup id="fnref-1"><a href="#fn-1" class="footnote">1</a></sup> |
 | p95 | **1.29ms** | 2.00ms |
 
-<!--kg-card-end: html-->
+
 #### Memory
 
 ##### **Read**
@@ -124,7 +124,7 @@ sysbench --test=cpu run
 ```
 sysbench --test=memory run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -138,14 +138,14 @@ sysbench --test=memory run
 | Operations/Second | **2,099,725/sec** | 463,417/sec |
 | MB/Second | **2,050.02 MB/sec** | 453.34 MB/sec |
 
-<!--kg-card-end: html-->
+
 
 **Write**
 
 ```
 sysbench --test=memory --memory-oper=write run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -159,7 +159,7 @@ sysbench --test=memory --memory-oper=write run
 | Operations/Second | **2,095,630/sec** | 463,797/sec |
 | MB/Second | **2,046 MB/sec** | 453 MB/sec |
 
-<!--kg-card-end: html-->
+
 #### File I/O
 
 ```
@@ -167,7 +167,7 @@ sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -181,13 +181,13 @@ sysbench --test=fileio cleanup
 | Requests/Second | 1,957/sec | **4,730/sec** |
 | MB/Second | 30.586 MB/sec | **73.909 MB/sec** |
 
-<!--kg-card-end: html-->
+
 #### Apps: Apache
 
 ```
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -199,7 +199,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 | Time per request (mean) | **702.418ms** | 705.108ms |
 | Transfer Rate | 15,560 KB/sec | **15,934 KB/sec** |
 
-<!--kg-card-end: html-->
+
 #### Apps: MySQL
 
 ```
@@ -208,7 +208,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -223,13 +223,13 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 | Transactions/sec | **224.58/sec** | 155.69/sec |
 | Other Operations/sec | **449.17/sec** | 311.38/sec |
 
-<!--kg-card-end: html-->
+
 #### Apps: Speedtest
 
 ```
 speedtest-cli --server=5479
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -238,7 +238,7 @@ speedtest-cli --server=5479
 | Download | 1040.06 Mbit/sec | **1,392.52 Mbit/sec** |
 | Upload | **387.06 Mbit/sec** | 258.02 Mbit/sec |
 
-<!--kg-card-end: html-->
+
 ### 4GB — $20.00/month
 
 #### CPU
@@ -246,7 +246,7 @@ speedtest-cli --server=5479
 ```
 sysbench --test=cpu run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -258,7 +258,7 @@ sysbench --test=cpu run
 | Maximum Request | **4.47ms** | 4.49ms |
 | p95 | **1.51ms** | 1.64ms |
 
-<!--kg-card-end: html-->
+
 #### Memory
 
 ##### **Read**
@@ -266,7 +266,7 @@ sysbench --test=cpu run
 ```
 sysbench --test=memory run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -280,14 +280,14 @@ sysbench --test=memory run
 | Operations/Second | **2,276,220/sec** | 587,047/sec |
 | MB/Second | **2,222.87 MB/sec** | 573.29 MB/sec |
 
-<!--kg-card-end: html-->
+
 
 **Write**
 
 ```
 sysbench --test=memory --memory-oper=write run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -301,7 +301,7 @@ sysbench --test=memory --memory-oper=write run
 | Operations/Second | **2,311,510.22/sec** | 548,551.45/sec |
 | MB/Second | **2,257.33 MB/sec** | 535.68 MB/seec |
 
-<!--kg-card-end: html-->
+
 #### File I/O
 
 ```
@@ -309,7 +309,7 @@ sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -323,13 +323,13 @@ sysbench --test=fileio cleanup
 | Requests/Second | 5,919.56/sec | **6,159.62/sec** |
 | MB/Second | **92.493 MB/sec** | 96.244 MB/sec |
 
-<!--kg-card-end: html-->
+
 #### Apps: Apache
 
 ```
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -341,7 +341,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 | Time per request (mean) | **242.622ms** | 590.172ms |
 | Transfer Rate | **45,405.85 KB/sec** | 18,697.41 KB/sec |
 
-<!--kg-card-end: html-->
+
 #### Apps: MySQL
 
 ```
@@ -350,7 +350,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -365,13 +365,13 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 | Transactions/sec | **276.55/sec** | 180.71/sec |
 | Other Operations/sec | **553.10/sec** | 361.42/sec |
 
-<!--kg-card-end: html-->
+
 #### Apps: Speedtest
 
 ```
 speedtest-cli --server=5479
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -380,7 +380,7 @@ speedtest-cli --server=5479
 | Download | **1,432.71 Mbit/sec** | 1118.17 Mbit/sec |
 | Upload | **344.86 Mbit/sec** | 314.71 Mbit/sec |
 
-<!--kg-card-end: html-->
+
 ### 8GB — $40.00/month
 
 #### CPU
@@ -388,7 +388,7 @@ speedtest-cli --server=5479
 ```
 sysbench --test=cpu run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -400,7 +400,7 @@ sysbench --test=cpu run
 | Maximum Request | **2.94ms** | 3.28ms |
 | p95 | **1.50ms** | 1.52ms |
 
-<!--kg-card-end: html-->
+
 #### Memory
 
 ##### **Read**
@@ -408,7 +408,7 @@ sysbench --test=cpu run
 ```
 sysbench --test=memory run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -422,14 +422,14 @@ sysbench --test=memory run
 | Operations/Second | **1,900,637.74/sec** | 533,501.80/sec |
 | MB/Second | **1,856.09 MB/sec** | 521 MB/sec |
 
-<!--kg-card-end: html-->
+
 
 **Write**
 
 ```
 sysbench --test=memory --memory-oper=write run
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -443,7 +443,7 @@ sysbench --test=memory --memory-oper=write run
 | Operations/Second | **1,676.770.31/sec** | 517,745.73/sec |
 | MB/Second | **1,637.47 MB/sec** | 505.61 MB/sec |
 
-<!--kg-card-end: html-->
+
 #### File I/O
 
 ```
@@ -451,7 +451,7 @@ sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -465,13 +465,13 @@ sysbench --test=fileio cleanup
 | Requests/Second | 4,673.39/sec | **8,852.78/sec** |
 | MB/Second | 73.022 MB/sec | **138.32 MB/sec** |
 
-<!--kg-card-end: html-->
+
 #### Apps: Apache
 
 ```
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -483,7 +483,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 | Time per request (mean) | **577.811ms** | 580.323ms |
 | Transfer Rate | 18,733.09 KB/sec | **18,946.15 KB/sec** |
 
-<!--kg-card-end: html-->
+
 #### Apps: MySQL
 
 ```
@@ -492,7 +492,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -507,13 +507,13 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 | Transactions/sec | 257.44/sec | **259.35/sec** |
 | Other Operations/sec | 514.89/sec | **518.71/sec** |
 
-<!--kg-card-end: html-->
+
 #### Apps: Speedtest
 
 ```
 speedtest-cli --server=5479
 ```
-<!--kg-card-begin: html-->
+
 
 | &nbsp; | Linode | Digital Ocean |
 | --- | --- | --- |
@@ -522,7 +522,7 @@ speedtest-cli --server=5479
 | Download | **1,635.88 Mbit/sec** | 824.12 Mbit/sec |
 | Upload | **275.91 Mbit/sec** | 262.63 Mbit/sec |
 
-<!--kg-card-end: html-->
+
 ## Conclusion
 
 Comparing both sets of VPSes against each other yielded mixed results. The Linoe VPSes ran away with the win in most categories, with Digital Ocean ending up the underdog winner. For CPU performance, both providers were pretty well in line. I wouldn’t consider at 1.08x difference enough to warrant a migration or decision based on that stat alone. If Digital Ocean’s High CPU offerings were in play, I would be surprised if they didn’t take the cake.

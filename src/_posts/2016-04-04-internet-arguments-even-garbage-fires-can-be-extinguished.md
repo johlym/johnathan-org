@@ -27,7 +27,7 @@ Before I explain how to get out of this scenario on top, lets look at why this h
 
 Everyone has their opinion. Unfortunately, not everyone that has an opinion has made it on a well-informed foundation. Oh well, there’s nothing we can do about that. This, by itself isn’t a deal breaker as some are open to the idea of seeing the error in their judgement and conceding. That’s a debate, not an argument.
 
-<!--kg-card-begin: html-->[![The guy on the right is showing the guy on the left his opinion. The guy on the left doesn't care.](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-pointing-men-960x640.jpg?resize=525%2C350)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-pointing-men-960x640.jpg)<!--kg-card-end: html-->
+
 
 The guy on the right is showing the guy on the left his opinion. The guy on the left doesn’t care.
 
@@ -41,7 +41,7 @@ See, here’s the thing. Something crazy happens when we mix polarizing topics, 
 
 Social media gives a false sense of power and authority that what we’re saying is true. We have a tendency to propagate fear, anger, divisive ideals, and try to “get people on our side.” Depending on your political assignment, you might be [more likely](https://www.psychologytoday.com/blog/the-human-beast/201104/conservatives-big-fear-brain-study-finds) [to do so](http://www.scientificamerican.com/article/calling-truce-political-wars/), but I couldn’t [find more than a few](https://www.salon.com/2014/07/29/secrets_of_the_right_wing_brain_new_study_proves_it_conservatives_see_a_different_hostile_world/) [articles on this](http://www.wired.com/2008/09/fearmongering-h/) that were from the last decade so the [five I’m linking](http://blogs.discovermagazine.com/intersection/2011/09/07/your-brain-on-politics-the-cognitive-neuroscience-of-liberals-and-conservatives/) will have to do. I don’t want to get too deep into that as I’m not a doctor. That’s not my field of expertise (we’ll come back to the _expertise_ bit).
 
-<!--kg-card-begin: html-->[![Where we're going, there isn't going to be much enLIGHTenment... get it?](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-lightbulb-960x600.jpg?resize=525%2C328)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-lightbulb-960x600.jpg)<!--kg-card-end: html-->
+
 
 Where we’re going, there isn’t going to be much enLIGHTenment… get it?
 
@@ -51,7 +51,7 @@ For this, we’ll use names, but make them up. Thanks to the [random name genera
 
 Arthur doesn’t like that, at all. Usually around this time if things are going to go sideways, you’ll start getting attacks right away. Here’s where you can pick which route you want to take, both of which lead to wins: send them on their way or watch them explode. I’ve done both, personally. I use these types of scenarios to weed out people who probably shouldn’t have been a friend in the first place. It’s helped me curate those I want to be in regular contact with and I’ve had more meaningful relationships because of it. If I really want to gauge someone, I’ll go for the latter. Depending on it turns out determines if they’re a decent friend.
 
-<!--kg-card-begin: html-->[![These two stayed together because when they have differences of opinion, they're not douche waffles about it... probably.](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-woman-man-couple-walking-street-960x640.jpg?resize=525%2C350)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-woman-man-couple-walking-street-960x640.jpg)<!--kg-card-end: html-->
+
 
 These two stayed together because when they have differences of opinion, they’re not douche waffles about it… probably.
 
@@ -68,7 +68,7 @@ If Brent takes the first route, Arthur just got dressed up with nowhere to go. A
 
 It’s a good thing Brent isn’t the kind to just walk away from a fight. No sir. Brent isn’t going to put up with stupid people. Brent is smart. Brent will make them lose their minds.
 
-<!--kg-card-begin: html-->[![The angst is going to get real, so be ready.](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-man-ocean-water-front-lake-960x640.jpg?resize=525%2C350)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-man-ocean-water-front-lake-960x640.jpg)<!--kg-card-end: html-->
+
 
 The angst is going to get real, so be ready.
 
@@ -80,7 +80,7 @@ Once you’re at this point, it’s smooth sailing. It might take a few tries to
 
 Start dropping the logic bombs. This’ll toss them for a loop, for sure. Get ready for the personal attacks and mockery, because that’s usually what happens by about now. Keep playing the logic cards in your hand and watch the tire fire grow. Odds are no one else will join in at this point. They’re either not going to touch this with a 10 foot pole because it’s so diseased or they’re too amused.
 
-<!--kg-card-begin: html-->[![An artist rendition of what a logic bomb looks like within a one-sided conversation on Facebook.](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-pumpkins-baby-960x640.jpg?resize=525%2C350)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-pumpkins-baby-960x640.jpg)<!--kg-card-end: html-->
+
 
 An artist rendition of what a logic bomb looks like within a one-sided conversation on Facebook.
 
@@ -90,7 +90,7 @@ So Brent and Arthur have traded some shots, or rather Arthur shot Brent several 
 
 All in all, you probably said a total of 50 words, and they lost their mind. Most importantly, though: you won. I guarantee you didn’t actually get your point across. That’s not what this is about, though. This is about winning. You showed them you’re number one. Their tiny brain couldn’t handle it. They collapsed under the weight of their nonsense and you’re standing tall like the Internet king you are.
 
-<!--kg-card-begin: html-->[![boss-fight-free-high-quality-stock-images-photos-photography-motorcycle-road-trick-960x640](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-motorcycle-road-trick-960x640.jpg?resize=525%2C350)](/assets/images/2016/04/boss-fight-free-high-quality-stock-images-photos-photography-motorcycle-road-trick-960x640.jpg)<!--kg-card-end: html-->
+
 
 This is what winners on the Internet look like.
 

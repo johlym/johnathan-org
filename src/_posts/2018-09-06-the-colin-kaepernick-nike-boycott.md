@@ -21,11 +21,12 @@ I wish I could say I was surprised by the “level” of “outrage” or whatev
 
 The punch line on this joke comes in two parts:
 
-> Stop using the troops as an excuse to burn your Nike shit. I’m not your scapegoat. I’m gonna sit over here and continue to buy my Nike stuff, they give military a discount ??[#NikeBoycott](https://twitter.com/hashtag/NikeBoycott?src=hash&ref_src=twsrc%5Etfw)
-> 
-> — Katlin Bellaw (@KatlinBellaw) [September 4, 2018](https://twitter.com/KatlinBellaw/status/1036968838745604096?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+Stop using the troops as an excuse to burn your Nike shit. I’m not your scapegoat. I’m gonna sit over here and continue to buy my Nike stuff, they give military a discount ??[#NikeBoycott](https://twitter.com/hashtag/NikeBoycott?src=hash&ref_src=twsrc%5Etfw)
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— Katlin Bellaw (@KatlinBellaw) [September 4, 2018](https://twitter.com/KatlinBellaw/status/1036968838745604096?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 and
 

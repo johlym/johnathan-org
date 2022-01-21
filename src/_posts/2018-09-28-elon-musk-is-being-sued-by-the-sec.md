@@ -14,10 +14,8 @@ date: 2018-09-28 14:03:33.000000000 -07:00
 
 From The New York Times’ Emily Flitter and Matthew Goldstein:
 
-> In a lawsuit filed in federal court in New York, the Securities and Exchange Commission accused Mr. Musk of committing fraud by making false public statements with the potential to hurt investors. The suit seeks to bar Mr. Musk, who is also Tesla’s chairman, from serving as an executive or director of publicly traded companies like Tesla. Such a punishment is one of the most serious remedies the S.E.C. can impose against a corporate executive.
-
+>  In a lawsuit filed in federal court in New York, the Securities and Exchange Commission accused Mr. Musk of committing fraud by making false public statements with the potential to hurt investors. The suit seeks to bar Mr. Musk, who is also Tesla’s chairman, from serving as an executive or director of publicly traded companies like Tesla. Such a punishment is one of the most serious remedies the S.E.C. can impose against a corporate executive.
 > …
-
 > The S.E.C. said Mr. Musk “knew or was reckless in not knowing” that his statements were false or misleading. “In truth and in fact, Musk had not even discussed, much less confirmed, key deal terms, including price, with any potential funding source,” the S.E.C. said in its lawsuit.
 
 I still can’t wrap my head around what he thought this would accomplish. If he really did know there was no funding, all he did was pull a shitty move to try and increase the value of his stock price. If he thought he had funding and it later fell through… then it was just an amateur move on his part.

@@ -13,7 +13,7 @@ categories: posts
 date: 2016-06-09 05:37:43.000000000 -07:00
 ---
 
-[![13413604_10206144656807181_2769894144566463025_n](/assets/images/2016/06/13413604_10206144656807181_2769894144566463025_n.jpg?resize=250%2C445&ssl=1)](/assets/images/2016/06/13413604_10206144656807181_2769894144566463025_n.jpg?ssl=1)<!--kg-card-end: html-->
+[![13413604_10206144656807181_2769894144566463025_n](/assets/images/2016/06/13413604_10206144656807181_2769894144566463025_n.jpg?resize=250%2C445&ssl=1)](/assets/images/2016/06/13413604_10206144656807181_2769894144566463025_n.jpg?ssl=1)
 
 You have to kind of care about Starbucks and coffee shop-type music but this morning I strolled into Starbucks and when I went to pay with my Starbucks card via the app, I was able to get [the playlist for the music being played](https://open.spotify.com/user/starbucks/playlist/0LPsYH4hIRjLUKXuZd2vAt) at that location.
 

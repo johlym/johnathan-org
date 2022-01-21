@@ -32,8 +32,8 @@ It used to be way more complicated before I wrote this post but as I was thinkin
 If you’d like to follow along, this entire site is available to browse through it in [GitHub repo form](https://github.com/johlym/johnathan.org) and the Circle CI config file [is here](https://github.com/johlym/johnathan.org/blob/master/.circleci/config.yml).
 
 # Table of Contents
-<!--kg-card-begin: html-->
-<!--kg-card-begin: html--><!--kg-card-begin: html-->- [The Circle CI File](#the-circle-ci-file)<!--kg-card-begin: html--><!--kg-card-begin: html-->
+
+
   - [Deployment](#deployment)
     - [Pre-game Tasks](#pre-game-tasks)
     - [Cache Handling, Part 1](#cache-handling-part-1)
@@ -45,9 +45,9 @@ If you’d like to follow along, this entire site is available to browse through
     - [Cloudflare](#cloudflare)
     - [Cache Handling, Part 2](#cache-handling-part-2)
   - [Workflow Management](#workflow-management)
-<!--kg-card-end: html--><!--kg-card-end: html-->
-<!--kg-card-end: html--><!--kg-card-end: html-->- [Wrap Up](#wrap-up)
-<!--kg-card-end: html-->
+
+- [Wrap Up](#wrap-up)
+
 # The Circle CI File
 
 Starting off first, let’s take a look at the defaults I have set:

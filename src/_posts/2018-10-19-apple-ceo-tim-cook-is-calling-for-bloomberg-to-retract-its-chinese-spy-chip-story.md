@@ -17,14 +17,10 @@ date: 2018-10-19 13:50:05.000000000 -07:00
 
 From John Paczkowski and Joseph Bernstein over at BuzzFeed News:
 
-> “There is no truth in their story about Apple,” Cook told BuzzFeed News in a phone interview. “They need to do that right thing and retract it.”
-
+>  “There is no truth in their story about Apple,” Cook told BuzzFeed News in a phone interview. “They need to do that right thing and retract it.”
 > …
-
-> “I was involved in our response to this story from the beginning,” said Cook.
-
+>  “I was involved in our response to this story from the beginning,” said Cook.
 > “I personally talked to the Bloomberg reporters along with Bruce Sewell, who was then our general counsel. We were very clear with them that this did not happen, and answered all their questions,” said Cook. “Each time they brought this up to us, the story changed, and each time we investigated we found nothing.”
-
 > In addition to disputing the report itself, Cook also took issue with the lack of evidence he said Bloomberg supplied to document its claims. Cook said the reporters never provided Apple with any specific details about the malicious chips it is alleged to have found and removed. He added that he thinks the allegations are undergirded by “vague secondhand accounts.”
 
 This story is getting so damn strange. Listening to the most recent episode of [The Talk Show with John Gruber](https://daringfireball.net/thetalkshow/2018/10/16/ep-231), Gruber mentioned his theory that this is more of a plot by folks within the Trump Administration to paint China in a bad light as a move to bolster the trade war with the country.

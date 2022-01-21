@@ -18,10 +18,8 @@ From [NewScientist](https://www.newscientist.com/article/2180406-famed-mathemati
 
 Before I posted this, I didn’t know anything about the [Riemann hypothesis](https://en.wikipedia.org/wiki/Riemann_hypothesis) so I did some digging. The Wikipedia article is full of technical terminology so if you’re a layman like me, this’ll make more sense (from the [Simple English version](https://simple.wikipedia.org/wiki/Riemann_hypothesis) of Wikipedia):
 
-> The hypothesis is named after Bernhard Riemann. It is about a special function, the Riemann zeta function. This function inputs and outputs complex number values. The inputs that give the output zero are called zeros of the zeta function. Many zeros have been found. The “obvious” ones to find are the negative even integers. This follows from Riemann’s functional equation. More have been computed and have real part 1/2. The hypothesis states all the undiscovered zeros must have real part 1/2.
-
+>  The hypothesis is named after Bernhard Riemann. It is about a special function, the Riemann zeta function. This function inputs and outputs complex number values. The inputs that give the output zero are called zeros of the zeta function. Many zeros have been found. The “obvious” ones to find are the negative even integers. This follows from Riemann’s functional equation. More have been computed and have real part 1/2. The hypothesis states all the undiscovered zeros must have real part 1/2.
 > The functional equation also says all zeros (except the “obvious” ones) must be in the critical strip: real part is between 0 and 1. The Riemann hypothesis says more: they are on the line given, in the image on the right (the [white dots](https://simple.wikipedia.org/wiki/File:Riemann_Zeta.jpg)). If the hypothesis is false, this would mean that there are white dots which are not on the line given.
-
 > If proven correct, this would allow mathematicians to better describe how the prime numbers are placed among whole numbers.
 
 Short version: it deals with prime numbers and if Atiyah has a proof, it’ll make prime number discovery and understanding much easier.

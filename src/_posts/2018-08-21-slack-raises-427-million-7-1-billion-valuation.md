@@ -15,8 +15,7 @@ date: 2018-08-21 14:33:22.000000000 -07:00
 
 [NY Times](https://www.nytimes.com/2018/08/21/business/dealbook/slack-fund-raising-round.html?rref=collection%2Fsectioncollection%2Ftechnology&action=click&contentCollection=technology&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront):
 
-> Slack, the four-year-old workplace messaging company, said on Tuesday that it had raised $427 million in new funding, just a year after its last huge infusion of money. The latest round values the company at $7.1 billion.
-
+>  Slack, the four-year-old workplace messaging company, said on Tuesday that it had raised $427 million in new funding, just a year after its last huge infusion of money. The latest round values the company at $7.1 billion.
 > …  
 > When Microsoft introduced its own Slack competitor, called Microsoft Teams, in 2016, Slack took out a full-page newspaper ad offering advice. “We’re genuinely excited to have some competition,” read the ad, signed “Your friends at Slack.”
 

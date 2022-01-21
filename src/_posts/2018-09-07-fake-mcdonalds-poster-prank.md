@@ -15,8 +15,9 @@ I saw this first posted [on Mashable](https://mashable.com/article/mcdonalds-fak
 
 51 days later… it’s still there.
 
-> i noticed there was a blank wall at mcdonald’s so i decided to make this fake poster of me and my friend. It’s now been 51 days since i hung it up. [pic.twitter.com/5OTf5aR4vm](https://t.co/5OTf5aR4vm)
-> 
-> — JΞVH M (@Jevholution) [September 3, 2018](https://twitter.com/Jevholution/status/1036415320959930368?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+i noticed there was a blank wall at mcdonald’s so i decided to make this fake poster of me and my friend. It’s now been 51 days since i hung it up. [pic.twitter.com/5OTf5aR4vm](https://t.co/5OTf5aR4vm)
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— JΞVH M (@Jevholution) [September 3, 2018](https://twitter.com/Jevholution/status/1036415320959930368?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

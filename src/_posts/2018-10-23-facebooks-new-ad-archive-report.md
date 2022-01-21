@@ -17,10 +17,8 @@ date: 2018-10-23 12:26:53.000000000 -07:00
 
 From Facebook:
 
-> Facebook’s Ad Archive is a searchable database. It includes ads related to politics and issues of national importance that have run on Facebook or Instagram.
-
+>  Facebook’s Ad Archive is a searchable database. It includes ads related to politics and issues of national importance that have run on Facebook or Instagram.
 > This report is a weekly summary of the archive and includes data for ads that have been viewed by people in the US for the time period selected above.
-
 > Making this report available to the public is part of Facebook’s efforts to increase transparency in advertising.
 
 A step in the right direction, for sure!

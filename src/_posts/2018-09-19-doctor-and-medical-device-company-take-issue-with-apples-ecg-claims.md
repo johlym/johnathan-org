@@ -15,10 +15,8 @@ date: 2018-09-19 10:51:38.000000000 -07:00
 
 Regarding Apple’s claims of 98% accuracy when detecting aFib ([Atrial Fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)), Dr. Venkatesh Murthy, a cardiologist from the University of Michigan had this to say to [Health News Review](https://www.healthnewsreview.org/2018/09/what-did-journalists-overlook-about-the-apple-watch-heart-monitor-feature/):
 
-> Neither of these sets of data have been published or peer-reviewed … In both of these data sets, researchers knew who had AFib. The numbers will change significantly when tested on a large population of people.
-
+>  Neither of these sets of data have been published or peer-reviewed … In both of these data sets, researchers knew who had AFib. The numbers will change significantly when tested on a large population of people.
 > …
-
 > “The big problem with this conclusion is that this population has a prevalence of AFib that is probably 100-fold larger than Apple’s target market,” Murthy said. “This is not good. However, the major caveat here is that we are still lacking most of the information needed to be sure how this experiment was done, so we really are just guessing.”
 
 I can understand his concern. It’s jarring, especially in the medical community, when a big-name tech company that’s never made mainstream medical devices before comes out and says they’ve added this medical functionality to their product and it’s 98% accurate.

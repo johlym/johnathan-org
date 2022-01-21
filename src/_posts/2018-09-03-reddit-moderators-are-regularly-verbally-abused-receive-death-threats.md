@@ -15,10 +15,8 @@ date: 2018-09-03 18:49:54.000000000 -07:00
 
 Among other things:
 
-> “I’ve had a few death threats,” said Emily, who asked to be referred to by her first name and her Reddit username, lolihull, to prevent the online harassment from spilling over into her real life. “And when people find out you’re a woman, you get rape threats.”
-
+>  “I’ve had a few death threats,” said Emily, who asked to be referred to by her first name and her Reddit username, lolihull, to prevent the online harassment from spilling over into her real life. “And when people find out you’re a woman, you get rape threats.”
 > …
-
 > But others are profoundly disturbing and more creative. In one rambling attack, a Redditor told Emily, “I want you to get cancer because I wanna see your own body killing you…”
 
 That paragraph goes on into some really dark shit. Reddit is poison and really should not exist at all. Those that have power within the community it seems:

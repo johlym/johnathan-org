@@ -17,11 +17,12 @@ There’s a bit of a debate in various corners of the Internet about how Google�
 
 This tweet sums up both sides nicely:
 
-> The sites that have stood the test of time are our most valuable — but they are the least likely to be updated. No platform change is worth losing 20+ years of accumulated value
-> 
-> — Matt Webb (@genmon) [March 8, 2018](https://twitter.com/genmon/status/971686493004713984?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+The sites that have stood the test of time are our most valuable — but they are the least likely to be updated. No platform change is worth losing 20+ years of accumulated value
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— Matt Webb (@genmon) [March 8, 2018](https://twitter.com/genmon/status/971686493004713984?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I have mixed feelings. I get where folks are coming from when they say that Google shouldn’t be doing this carte blanche, but it also seems like a petty hill to die on. Google is a s–t company but HTTPS is easy, free, and at least does some stuff to ensure the content you’re accessing is the content that was served. The barrier for entry into an HTTPS-enabled Web site is super low and we should be making these migrations independently of what Google is pushing.
 

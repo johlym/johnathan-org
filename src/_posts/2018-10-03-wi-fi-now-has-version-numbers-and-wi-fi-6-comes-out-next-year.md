@@ -14,10 +14,8 @@ date: 2018-10-03 16:34:37.000000000 -07:00
 
 From Jacob Kastrenakes at The Verge:
 
-> In the past, Wi-Fi versions were identified by a letter or a pair of letters that referred to a wireless standard. The current version is 802.11ac, but before that, we had 802.11n, 802.11g, 802.11a, and 802.11b. It was not comprehensible, so the Wi-Fi Alliance — the group that stewards the implementation of Wi-Fi — is changing it.
-
+>  In the past, Wi-Fi versions were identified by a letter or a pair of letters that referred to a wireless standard. The current version is 802.11ac, but before that, we had 802.11n, 802.11g, 802.11a, and 802.11b. It was not comprehensible, so the Wi-Fi Alliance — the group that stewards the implementation of Wi-Fi — is changing it.
 > All of those convoluted codenames are being changed. So instead of the current Wi-Fi being called 802.11ac, it’ll be called Wi-Fi 5 (because it’s the fifth version). It’ll probably make more sense this way, starting with the first version of Wi-Fi, 802.11b:
-
 > Wi-Fi 1: 802.11b (1999)  
 > Wi-Fi 2: 802.11a (1999)  
 > Wi-Fi 3: 802.11g (2003)  

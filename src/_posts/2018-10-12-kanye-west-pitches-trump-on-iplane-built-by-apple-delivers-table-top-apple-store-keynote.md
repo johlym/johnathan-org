@@ -20,11 +20,12 @@ From 9to5Mac:
 
 That’s the only paragraph you really need from this story because he said this, in all seriousness:
 
-> Kanye West thinks Trump should ditch AirForceOne for this plane to be manufactured by Apple [#tictocnews](https://twitter.com/hashtag/tictocnews?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7dBcOVhHlr](https://t.co/7dBcOVhHlr)
-> 
-> — TicToc by Bloomberg (@tictoc) [October 11, 2018](https://twitter.com/tictoc/status/1050437000019333120?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+Kanye West thinks Trump should ditch AirForceOne for this plane to be manufactured by Apple [#tictocnews](https://twitter.com/hashtag/tictocnews?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7dBcOVhHlr](https://t.co/7dBcOVhHlr)
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— TicToc by Bloomberg (@tictoc) [October 11, 2018](https://twitter.com/tictoc/status/1050437000019333120?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A piece of work, for sure.
 

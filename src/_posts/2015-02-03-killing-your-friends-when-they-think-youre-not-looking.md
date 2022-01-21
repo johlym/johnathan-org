@@ -15,8 +15,7 @@ date: 2015-02-03 04:29:01.000000000 -08:00
 
 Today is the last day for The Unofficial Apple Weblog. TUAW has been a staple in keeping up with the latest Apple news, products and happenings. The site was always a go-to of mine to keep up to date on rumors, and it did its job well.
 
-> TUAW, for lots of reasons beyond our control, has no future, but Apple’s burns brightly. It’s been great writing about these growing technologies, and seeing and testing apps — some that were great and some that fell short. All of us here tried to tell the story of Apple and its offspring of hardware and software companies and tell it straight; the good along with the sometimes ugly.
-
+>  TUAW, for lots of reasons beyond our control, has no future, but Apple’s burns brightly. It’s been great writing about these growing technologies, and seeing and testing apps — some that were great and some that fell short. All of us here tried to tell the story of Apple and its offspring of hardware and software companies and tell it straight; the good along with the sometimes ugly.
 > — [Mel Martin](http://www.tuaw.com/2015/02/02/some-final-thoughts/), TUAW
 
 If you’re unsure of what that first sentence means let me translate: “TUAW doesn’t write enough fluff. Engadget and TechCrunch do. AOL wants to keep them because fluff pieces make more ad dollars. Without ad dollars, AOL will we all die.”

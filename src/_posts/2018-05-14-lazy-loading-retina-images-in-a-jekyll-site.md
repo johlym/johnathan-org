@@ -52,4 +52,3 @@ You might have noticed the data-proofer-ignore attribute. That’s to keep htmlp
 
 Once this is all said and done, let the better test results come pouring in!
 
-<!--kg-card-begin: html--> [![]()](https://johnathan.org/wp-content/uploads/2018/05/gtmetrix_0514.jpg)<!--kg-card-end: html-->

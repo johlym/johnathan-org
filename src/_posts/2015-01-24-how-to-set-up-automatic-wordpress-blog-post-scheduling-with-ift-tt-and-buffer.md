@@ -21,19 +21,19 @@ Let’s be honest. The year is 2015 and nobody wants to do things by hand or man
 
 I’ll admit, I like speeding up the process of sharing what I’ve written but I like controlling it a bit more than some. Here’s how I do it. You’ll want to create an account with IFT.TT and Buffer if you haven’t already. IFT.TT stands for **IF T** his, **T** hen **T** hat. The premise is that you can take data being expelled from one service, and based on certain criteria, do something with it via another. Things like “Text me with the daily weather report at 5AM” are easy and, well, kind of cheesy. If you become a power user of [IFT.TT](http://IFT.TT) or already are, you’ll know that there’s so much more you can do with the service like auto-tweet breaking news stories from news sources or trigger your Philips Hue home lighting to change color when a storm warning comes into effect. In my case, I want to sync IFTTT with my WordPress install. To start, I’ll need to create a new recipe and click on the blue _this_ link (A) and choose the WordPress trigger channel (B). This will be the source for the data that IFTT uses.
 
-<!--kg-card-begin: html-->[![ifttt_step1](/assets/images/2015/01/ifttt_step1.jpg?resize=525%2C328&ssl=1)](/assets/images/2015/01/ifttt_step1.jpg?ssl=1)<!--kg-card-end: html-->
+
 
 Once I have that set, I can choose whether I want this action to be triggered by any new post from WordPress, or just when the post has a particular tag or category. In my case, I choose the former, because I want to share all posts.
 
-<!--kg-card-begin: html-->[![Screenshot 2015-01-24 20.48.33](/assets/images/2015/01/Screenshot-2015-01-24-20.48.33.png?resize=525%2C203&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-24-20.48.33.png?ssl=1)<!--kg-card-end: html-->
+
 
 We can skip Step 3 as there’s nothing else to set for these triggers and move on to step four. Click Create Trigger. So at this point we’ve established that if there’s any new post on WordPress Blog then we’ll do something. Now we establish what that something is. Click the blue _that_ link. In my case, I want to share to Buffer.
 
-<!--kg-card-begin: html-->[![Screenshot 2015-01-24 20.51.29](/assets/images/2015/01/Screenshot-2015-01-24-20.51.29.png?resize=525%2C167&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-24-20.51.36.png?ssl=1)<!--kg-card-end: html--><!--kg-card-begin: html-->[![Screenshot 2015-01-24 20.51.36](/assets/images/2015/01/Screenshot-2015-01-24-20.51.36.png?resize=525%2C219&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-24-20.51.36.png?ssl=1)<!--kg-card-end: html-->
+
 
 I will want to choose the “Add to Buffer” option since I won’t be pushing photos from my source. My final step is to set up how I want my shares to look and then I create my action. _Note: If this is your first time, you’ll have to set up what account you want Buffer to schedule this IFTTT-pushed content on._
 
-<!--kg-card-begin: html-->[![Screenshot 2015-01-24 20.53.36](/assets/images/2015/01/Screenshot-2015-01-24-20.53.36.png?resize=525%2C258&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-24-20.53.36.png?ssl=1)<!--kg-card-end: html-->
+
 
 There are a couple things to keep in mind when setting this up. Anything pushed from IFTTT to Buffer: 1) will be set to whatever schedules you have created and 2), will only be pushed to whatever social media account you have set up for this channel. You can only have one social media account chosen for this type of setup. If you want to use more than just one social media account to share you content, I recommend creating separate recipes for each. Granted, only one of them will be scheduled via Buffer, so keep that in mind. In my situation, I don’t really mind, and I use Buffer so much already that I like having the ability to manually schedule for other social media accounts that don’t get as much regular pushing of content.
 

@@ -17,7 +17,7 @@ date: 2015-06-30 14:57:47.000000000 -07:00
 
 The interface window features the basic text editor and styling controls like text format, linking, inserting code and images, and creating lists. In fact, it’s so easy to pick up, you really don’t need any instructions.
 
-<!--kg-card-begin: html-->[![Screenshot 2015-06-30 15.57.20](/assets/images/2015/06/Screenshot-2015-06-30-15.57.20.png?resize=525%2C333&ssl=1)](/assets/images/2015/06/Screenshot-2015-06-30-15.57.20.png?ssl=1)<!--kg-card-end: html-->
+
 
 The dual pane editor/preview layout is like that of the NodeJS-powered Ghost blog platform. Everything you type shows up in real time on the right-hand side of the screen in proper format. When you’re done, you can sync your texts to Dropbox or Google Drive, save them in the editor, and even push them to various end points including Blogger, WordPress, GitHub, Tumblr, and an SSH server if you have your own static site platform you wish to use.
 

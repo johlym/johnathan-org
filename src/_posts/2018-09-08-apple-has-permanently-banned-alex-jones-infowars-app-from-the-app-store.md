@@ -16,10 +16,8 @@ date: 2018-09-08 18:25:14.000000000 -07:00
 
 Around this time yesterday, John Paczowkski and Charlie Warzel posted this on BuzzFeed News:
 
-> A day after being banned from Twitter, Alex Jones and Infowars have been booted from yet another platform: Apple’s popular App Store. As of Friday evening, searches on the App Store for Infowars return no results.
-
+>  A day after being banned from Twitter, Alex Jones and Infowars have been booted from yet another platform: Apple’s popular App Store. As of Friday evening, searches on the App Store for Infowars return no results.
 > Apple confirmed the app’s removal to BuzzFeed News, but declined to comment, pointing to its App Store Review Guidelines. The company said Infowars would not be permitted to return to the App Store.
-
 > The first clause of those guidelines explicitly rejects “defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups, particularly if the app is likely to humiliate, intimidate, or place a targeted individual or group in harm’s way.”
 
 Interestingly enough, nothing about the guidelines or the InfoWars app has changed recently, yet they’re just now taking action. I suspect they saw Twitter do it and being the racist-haven they’ve become, if Twitter can do it, Apple probably should, too.

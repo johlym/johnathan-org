@@ -27,7 +27,7 @@ I ponder all of these things, and more on a regular basis. Personally, I’ve ne
 
 Nowadays, it’s not even remotely interesting. Perhaps it has something to do with the idea that I grew up and care about more substantial things in life. If I wanted to pay $20 to drink, listen to overly loud music, and look stupid, I could do that at home, for free. Just saying.
 
-<!--kg-card-begin: html-->[![hAAAB5DC6](/assets/images/2015/02/hAAAB5DC6.gif?resize=500%2C323&ssl=1)](/assets/images/2015/02/hAAAB5DC6.gif?ssl=1)<!--kg-card-end: html-->
+
 
 The night also harbors the second and third shift folks who keep the world running while we all sleep. I know this because I used to be one. Working 4PM to 1AM was awesome when I was 21, single, and caring little about getting up at noon every day. It was great. Leaving work at 1AM led to the most delicious Jack in the Box burgers anyone has ever tasted. They do something differently in the middle of the night because they tasted so much better. Maybe it was just my desire for greasiness in the middle of the night that made me feel that way.
 

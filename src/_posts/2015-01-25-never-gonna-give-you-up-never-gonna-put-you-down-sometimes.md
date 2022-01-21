@@ -21,7 +21,7 @@ Don’t get me wrong, I love having my phone around with me all the time, but it
 
 The world used to be a simpler place. Cats used to sit inside cannons like it’s no big deal. You can tell a lot about a time period by whether you have a cat that’s willing to loiter around artillery. Those days were nice.
 
-<!--kg-card-begin: html-->[![tumblr_neyf5bef5V1sfie3io1_1280.jpg](/assets/images/2015/01/tumblr_neyf5bef5V1sfie3io1_1280.jpg?resize=525%2C329&ssl=1)](/assets/images/2015/01/tumblr_neyf5bef5V1sfie3io1_1280.jpg?ssl=1)<!--kg-card-end: html-->
+
 
 For all I don’t use my iPhone for, though, if I didn’t have it with me, I’d feel disconnected, I’ll admit. It’s become more of a security blanket when I’m moving between point A and point B. I, and likely society as a whole, have been trained to think that if I leave my house without my phone, something bad might happen and I won’t be able to call for help! I wonder how people in the 90s even survived.
 

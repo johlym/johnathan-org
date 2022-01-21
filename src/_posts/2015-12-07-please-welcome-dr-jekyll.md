@@ -21,7 +21,7 @@ There were a few reasons why I finally bit the bullet and I wanted to share them
 
 1. **WordPress is getting kinda fat**. I’ve seen fatter CMSes (anyone remember PostNuke– the year 2002 was fun.) As someone who’s getting more and more into software development and tinkering with code in general, WordPress is a beast I don’t want to tackle, to be honest.
 2. **I really only need a couple features**. And one of those is a blog. It’s pretty easy to do that with just about anything and with the level of potential complexity
-<!--kg-card-begin: html-->2<!--kg-card-begin: html-->Not always a bad thing, mind you.<!--kg-card-end: html--><!--kg-card-end: html-->
+
 
 that WordPress can introduce.
 

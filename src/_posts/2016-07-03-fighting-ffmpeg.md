@@ -353,7 +353,7 @@ The buffer might be large, so there could be a significant time shift. In my tes
 
 Bandwidth was a huge issue for me in the early days (read: a few days ago) so this was something I wanted to definitely pay attention to, now. I tested a few different combinations of sizes and frames/second. A few examples I saw in terms of bandwidth needed:
 
-<!--kg-card-begin: html-->
+
 
 | Dimensions | Frames/second | Quality | Bitrate Observed | `buffer underflow` |
 | --- | --- | --- | --- | --- |
@@ -361,7 +361,7 @@ Bandwidth was a huge issue for me in the early days (read: a few days ago) so th
 | 1280×720 | 15 | min: 1/max: 20 | NaN | yes |
 | 720×405 | 30 | min: 1/max: 20 | ~2100kbps | no |
 
-<!--kg-card-end: html-->
+
 
 In the beginning, there’ll be a spool up as `ffmpeg` tries to get the feed to `ffserver` and get it caught up to live.
 

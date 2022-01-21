@@ -17,8 +17,7 @@ If only there was something like this when I was getting out of high school.
 
 Introducing [Make School](https://www.makeschool.com):
 
-> Imagine going to a school where everyone is trying to change the world with technology. Welcome to Make School. Your education will be focused on building apps and websites that improve the lives of those around you. You’ll learn the underlying computer science theory, development best practices and design principles that enable you to ship polished products.
-
+>  Imagine going to a school where everyone is trying to change the world with technology. Welcome to Make School. Your education will be focused on building apps and websites that improve the lives of those around you. You’ll learn the underlying computer science theory, development best practices and design principles that enable you to ship polished products.
 > You’ll start a company, work on teams, contribute to open source software and intern at a tech startup, all in 2 years. You’ll improve your storytelling, writing, pitching, and learn the social engineering needed to excel as a founder or climb a corporate ladder. You’ll culminate your experience with a 2 month capstone project where you can build a startup or dive deep into computer science topics like artificial intelligence and machine learning.
 
 [Make School](https://www.makeschool.com) was featured in Fast Company when they featured a kid fresh out of high school who could have gone to MIT. Even before finishing, he was already jumping into the real world:

@@ -25,10 +25,8 @@ The mass email was a “forward” of the “email” that Scott Walker “sent�
 
 The second line was amusing, too, and made me chuckle:
 
-> Colleen, I’ve been reviewing grassroots leaders in the 98036 zip code and I don’t have Johnathan’s contact info. Will you please send them a message asking for an urgent contribution before the end of the month? We really need them on our team.
-
+>  Colleen, I’ve been reviewing grassroots leaders in the 98036 zip code and I don’t have Johnathan’s contact info. Will you please send them a message asking for an urgent contribution before the end of the month? We really need them on our team.
 > Let me know as soon as you hear from Johnathan.
-
 > Thanks!
 
 So you’re trying to get money from me by making me believe that Governor Scott Walker of Wisconsin actually emailed you, citing me, and a zip code I don’t live in, on purpose? Because I’ve given zero dollars, I’m somehow probably good for donating a bunch of cash on short notice?

@@ -30,10 +30,8 @@ With the third product on the way, I can also see the three titles being release
 
 Ashley Hewson is the Managing Director at Serif and when asked about the overall goal Serif had for their product line, she said:
 
-> From the earliest days of visualising the Affinity range, we planned an unrivalled trio of sleek, super-modern apps created to work with the latest technology – ultra-fast, with stunning power and completely stripped of bloat.
-
+>  From the earliest days of visualising the Affinity range, we planned an unrivalled trio of sleek, super-modern apps created to work with the latest technology – ultra-fast, with stunning power and completely stripped of bloat.
 > The final step towards realising that initial ambition will come with the launch of Affinity Publisher.
-
 > It’s an all-new app which we believe will revolutionise desktop publishing in the same way Affinity Photo and Affinity Designer have shaken up professional photo editing and vector graphic design.
 
 I absolutely believe her. Affinity Publisher brings with it tier 1 publishing features like master pages, page spreads, linked resources, full CMYK support, and advanced typography management.

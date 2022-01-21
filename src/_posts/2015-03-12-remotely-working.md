@@ -17,8 +17,7 @@ With all the impressive technology we have today, one thing I’m surprised is s
 
 According to one guy, it’s not. In fact, he’s quite adamant that working remotely is detrimental to a company’s success. Someone should show him how well [Automattic](http://automattic.com) and [Buffer](http://bufferapp.com) are doing.
 
-> And my COO felt performance was slipping. Revenues were dipping by about $100,000 per month. While some people on our team do a great job no matter what, he felt others would benefit from closer supervision. At home, it’s easy to get distracted by tasks like feeding the dog or surfing the Web. Some team members’ performance evaluations were declining. Their follow-up on projects was sometimes slower than we wanted.
-
+>  And my COO felt performance was slipping. Revenues were dipping by about $100,000 per month. While some people on our team do a great job no matter what, he felt others would benefit from closer supervision. At home, it’s easy to get distracted by tasks like feeding the dog or surfing the Web. Some team members’ performance evaluations were declining. Their follow-up on projects was sometimes slower than we wanted.
 > [[s]](http://www.cnbc.com/id/102460256)
 
 Is that even a thing? Hiring quality people should include screening for poor work-from-home performance. The cool thing about working from home is that you can break up tasks throughout the the day and be able to do stuff like feeding the dog, something that takes a whole three minutes. Also… employees surf the web at work. People don’t need to wait until the get home to do that. Sorry, bud.

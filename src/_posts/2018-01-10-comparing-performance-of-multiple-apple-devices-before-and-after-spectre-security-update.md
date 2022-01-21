@@ -31,7 +31,7 @@ Based on the data I was able to collect, I was not able to reproduce the dramati
 Another possibility is simply that I did not have an iPhone 6 to test. it is possible that a well-performing iPhone 6 is subject to greater performance woes than my newer iPhone X and iPad Pro 10.5”, though that doesn’t explain the inconsequential difference in performance from my iPad Mini 2, a device that uses a much older chipset than an iPhone 6.
 
 ### Single Core
-<!--kg-card-begin: html-->
+
 
 | Device | Difference % After Updating from X to 11.2.2 |
 | --- | --- |
@@ -39,9 +39,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | iPad Pro 10.5” (11.2.1) | 3.56% |
 | iPad Mini 2 (11.1.2) | 1.20% |
 
-<!--kg-card-end: html-->
+
 ### Multi Core
-<!--kg-card-begin: html-->
+
 
 | Device | Difference % After Updating from X to 11.2.2 |
 | --- | --- |
@@ -49,9 +49,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | iPad Pro 10.5” (11.2.1) | -0.39% |
 | iPad Mini 2 (11.1.2) | -0.64% |
 
-<!--kg-card-end: html-->
+
 ### Compute
-<!--kg-card-begin: html-->
+
 
 | Device | Difference % After Updating from X to 11.2.2 |
 | --- | --- |
@@ -59,13 +59,13 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | iPad Pro 10.5” (11.2.1) | 1.94% |
 | iPad Mini 2 (11.1.2) | -0.51% |
 
-<!--kg-card-end: html-->
+
 ## Data Dump
 
 ### iPhone X
 
 #### Single Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -100,9 +100,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 3899 | 3909 | 0.26% |
 | Memory Bandwidth | 3225 | 3248 | 0.71% |
 
-<!--kg-card-end: html-->
+
 #### Multi Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -137,9 +137,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 3563 | 3560 | -0.08% |
 | Memory Bandwidth | 3217 | 3259 | 1.31% |
 
-<!--kg-card-end: html-->
+
 #### Compute
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1 | 11.2.2 | % Difference |
 | --- | --- | --- | --- |
@@ -153,11 +153,11 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Depth of Field | 26303 | 26654 | 1.33% |
 | Particle Physics | 21566 | 21437 | -0.60% |
 
-<!--kg-card-end: html-->
+
 ### iPad Pro 10.5”
 
 #### Single Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.2.1 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -192,9 +192,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 3659 | 3693 | 0.93% |
 | Memory Bandwidth | 4047 | 4389 | 8.45% |
 
-<!--kg-card-end: html-->
+
 #### Multi Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.2.1 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -229,9 +229,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 3694 | 3744 | 1.35% |
 | Memory Bandwidth | 4585 | 4798 | 4.65% |
 
-<!--kg-card-end: html-->
+
 #### Compute
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.2.1 | 11.2.2 | % Difference |
 | --- | --- | --- | --- |
@@ -245,11 +245,11 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Depth of Field | 71228 | 68612 | -3.67% |
 | Particle Physics | 34041 | 28111 | -17.42% |
 
-<!--kg-card-end: html-->
+
 ### iPad Mini 2
 
 #### Single Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1.2 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -284,9 +284,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 2215 | 2218 | 0.14% |
 | Memory Bandwidth | 935 | 940 | 0.53% |
 
-<!--kg-card-end: html-->
+
 #### Multi Core
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1.2 | 11.2.2 | Difference % |
 | --- | --- | --- | --- |
@@ -321,9 +321,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Memory Latency | 2244 | 2242 | -0.09% |
 | Memory Bandwidth | 1124 | 1119 | -0.44% |
 
-<!--kg-card-end: html-->
+
 #### Compute
-<!--kg-card-begin: html-->
+
 
 | Benchmark | 11.1.2 | 11.2.2 | % Difference |
 | --- | --- | --- | --- |
@@ -337,9 +337,9 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 | Depth of Field | 2171 | 2170 | -0.05% |
 | Particle Physics | 3421 | 3423 | 0.06% |
 
-<!--kg-card-end: html-->
+
 ## Sources
-<!--kg-card-begin: html-->
+
 - iPhone X
   - Single Core/Multi Core: [11.1](https://browser.geekbench.com/v4/cpu/6341169), [11.2.2](https://browser.geekbench.com/v4/cpu/6341173)
   - Compute: [11.1](https://browser.geekbench.com/v4/compute/1813909), [11.2.2](https://browser.geekbench.com/v4/compute/1813904)
@@ -349,4 +349,3 @@ Another possibility is simply that I did not have an iPhone 6 to test. it is pos
 - iPad Mini 2
   - Single Core/Multi Core: [11.1.2](https://browser.geekbench.com/v4/cpu/6341266), [11.2.2](https://browser.geekbench.com/v4/cpu/6341280)
   - Compute: [11.1.2](https://browser.geekbench.com/v4/compute/1813952), [11.2.2](https://browser.geekbench.com/v4/compute/1813956)
-<!--kg-card-end: html-->

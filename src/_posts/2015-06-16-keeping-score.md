@@ -21,12 +21,9 @@ Turns out, the measurement for success in this project was grossly incorrect, an
 
 I came across this passage and it really hit home surrounding this project:
 
-> The real utility of money is its convenience as a medium of exchange. If you and I have a goat in Smyrna, we don’t have to carry the poor beast in our arms all the way to Aleppo to trade it for a carpet. We can sell the goat in Smyrna, stash a silver dairy in our pocket, then take the dairy to Aleppo to buy the carpet.
-
+>  The real utility of money is its convenience as a medium of exchange. If you and I have a goat in Smyrna, we don’t have to carry the poor beast in our arms all the way to Aleppo to trade it for a carpet. We can sell the goat in Smyrna, stash a silver dairy in our pocket, then take the dairy to Aleppo to buy the carpet.
 > But when we’re addicted to money, we become hooked on the metaphor.
-
-> Is money how we keep score? Is it magic? Is wealth a currency that opens doors, realizes possibilities, produces transcendence?
-
+>  Is money how we keep score? Is it magic? Is wealth a currency that opens doors, realizes possibilities, produces transcendence?
 > – Turning Pro
 
 In my case… it was.

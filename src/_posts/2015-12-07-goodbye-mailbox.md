@@ -13,8 +13,7 @@ categories: posts
 date: 2015-12-07 09:46:17.000000000 -08:00
 ---
 
-> When the Mailbox team joined Dropbox in 2013, we shared a passion for simplifying the way people work together. And solving the email problem seemed like a strong complement to the challenges Dropbox was already tackling.
-
+>  When the Mailbox team joined Dropbox in 2013, we shared a passion for simplifying the way people work together. And solving the email problem seemed like a strong complement to the challenges Dropbox was already tackling.
 > But as we deepened our focus on collaboration, we realized there’s only so much an email app can do to fundamentally fix email. We’ve come to believe that the best way for us to improve people’s productivity going forward is to streamline the workflows that generate so much email in the first place.
 
 In other words, it was only a matter of time. I enjoyed Mailbox. When I first discovered it and received my beta invite way back when, I was instantly hooked. The concept of being able to swipe emails around and either put them off until later or never have to deal with them at all was amazing. In my opinion, the best feature about the app was probably the reminder/scheduling swipe.
@@ -23,7 +22,7 @@ Deferring an email until “the evening” or at some point in the future when I
 
 Now, I guess I’m going back to the native Mail app, an app I never left on the Mac
 
-<!--kg-card-begin: html-->1<!--kg-card-begin: html-->Mailbox for Mac never was very good.<!--kg-card-end: html--><!--kg-card-end: html-->
+
 
 . I could use something like Spark or Inbox. I’m not _that_ resistant to change.
 

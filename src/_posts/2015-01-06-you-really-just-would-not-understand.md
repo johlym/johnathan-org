@@ -13,7 +13,7 @@ categories: posts
 date: 2015-01-06 19:16:16.000000000 -08:00
 ---
 
-[![Screenshot 2015-01-06 20.14.21](/assets/images/2015/01/Screenshot-2015-01-06-20.14.21.png?resize=453%2C550&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-06-20.14.21.png?ssl=1)<!--kg-card-end: html-->
+[![Screenshot 2015-01-06 20.14.21](/assets/images/2015/01/Screenshot-2015-01-06-20.14.21.png?resize=453%2C550&ssl=1)](/assets/images/2015/01/Screenshot-2015-01-06-20.14.21.png?ssl=1)
 
 I’m hoping that someone can explain to me why in the literal hell I would think this is something I would wear.
 

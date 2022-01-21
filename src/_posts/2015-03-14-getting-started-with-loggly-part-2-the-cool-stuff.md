@@ -17,11 +17,12 @@ This is a continuation of part 1: Getting Started with Loggly.
 
 Note: Apparently waiting hours for account generation isn’t a thing according to the fine folks on twitter @loggly.
 
-> @theeJL Creation takes a few sec so likely something happened during form validation. Perhaps try again or DM us the subdomain you typed in
-> 
-> — Loggly (@loggly) [March 15, 2015](https://twitter.com/loggly/status/576938047004024832?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+@theeJL Creation takes a few sec so likely something happened during form validation. Perhaps try again or DM us the subdomain you typed in
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— Loggly (@loggly) [March 15, 2015](https://twitter.com/loggly/status/576938047004024832?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Now that we’re signed up, let’s get down to the good stuff!
 

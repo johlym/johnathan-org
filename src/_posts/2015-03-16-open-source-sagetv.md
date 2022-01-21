@@ -15,8 +15,7 @@ date: 2015-03-16 06:49:30.000000000 -07:00
 
 Comcast, I hope you’re reading this.
 
-> SageTV founder (and current Google employee) Jeffrey Kardatzke says that Google “has agreed to open-source the SageTV platform.”
-
+>  SageTV founder (and current Google employee) Jeffrey Kardatzke says that Google “has agreed to open-source the SageTV platform.”
 > [[s](http://www.engadget.com/2015/03/16/google-open-sourcing-sage-tv/?ncid=rss_truncated)]
 
 If you’re unfamiliar, SageTV has been off the market for a few years now after being one of the first to release a DVR box and home theater PC software title. Google bought it up and pulled it away, only to end up using it in their Google Fiber TV box.

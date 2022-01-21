@@ -17,13 +17,14 @@ For 2019, one of my “goals” if you will is to spend more time noting more of
 
 In that time, I’ve used a lot of themes from big names like Elegant Themes and Genesis, and they’re fantastic products. This tweet from Tom McFarlin got me thinking about the smaller shops and independent developers:
 
-<!--kg-card-begin: embed-->
-> with all of the theme shops being acquired by hosts, what are some of your favorite niché shops? (i’m still a fan of [@thethemefoundry](https://twitter.com/thethemefoundry?ref_src=twsrc%5Etfw))
-> 
-> — Tom McFarlin (@tommcfarlin) [December 6, 2018](https://twitter.com/tommcfarlin/status/1070728704131768320?ref_src=twsrc%5Etfw)
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<!--kg-card-end: embed--><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet">
+with all of the theme shops being acquired by hosts, what are some of your favorite niché shops? (i’m still a fan of [@thethemefoundry](https://twitter.com/thethemefoundry?ref_src=twsrc%5Etfw))
+
+— Tom McFarlin (@tommcfarlin) [December 6, 2018](https://twitter.com/tommcfarlin/status/1070728704131768320?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Here’s my list of some of my favorite smaller/indie (or niché as Tom put it ?) WordPress theme developers/shops.
 

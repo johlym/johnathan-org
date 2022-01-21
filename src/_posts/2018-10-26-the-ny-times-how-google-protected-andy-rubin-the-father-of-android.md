@@ -26,12 +26,9 @@ The article goes into detail about a host of other accounts too:
 
 Um, creepy?
 
-> At Mr. DeVaul’s encampment, Ms. Simpson said, he asked her to remove her shirt and offered a back rub. She said she refused. When he insisted, she said she relented to a neck rub.
-
+>  At Mr. DeVaul’s encampment, Ms. Simpson said, he asked her to remove her shirt and offered a back rub. She said she refused. When he insisted, she said she relented to a neck rub.
 > “I didn’t have enough spine or backbone to shut that down as a 24-year-old,” said Ms. Simpson, now 30.
-
-> A few weeks later, Google told her she did not get the job, without explaining why.
-
+>  A few weeks later, Google told her she did not get the job, without explaining why.
 > …She said the official asked her to stay quiet about what had happened, which she did — until Mr. DeVaul’s public profile began rising in articles in The New York Times and The Atlantic.
 
 I don’t want to spoil too much of this. Just read it. It’s really good.

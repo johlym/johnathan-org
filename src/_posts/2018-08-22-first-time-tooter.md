@@ -15,11 +15,12 @@ date: 2018-08-22 09:20:17.000000000 -07:00
 
 Coming right out and saying it, Mastodon is no replacement for Twitter. I make sure to share this twitter thread with anyone that is even remotely considering the platform.
 
-> THREAD: In light of so many folks moving to Mastodon/the Fediverse, i want to re-up a couple of threads i did last year about safety and other issues. None of these have gone away, and the increased volume is gonna make them worse, not better.
-> 
-> — ???????? (@adrienneleigh) [August 16, 2018](https://twitter.com/adrienneleigh/status/1030213888850030592?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+THREAD: In light of so many folks moving to Mastodon/the Fediverse, i want to re-up a couple of threads i did last year about safety and other issues. None of these have gone away, and the increased volume is gonna make them worse, not better.
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— (@adrienneleigh) [August 16, 2018](https://twitter.com/adrienneleigh/status/1030213888850030592?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Joe Steel’s [longer take](http://joe-steel.com/2018-08-20-First-Time-Tooter-Long-Time-Tweeter.html) on it is pretty dang good and he’s much more open-minded about the entire concept, so his post is definitely worth a read. His opening take sums it up pretty well:
 

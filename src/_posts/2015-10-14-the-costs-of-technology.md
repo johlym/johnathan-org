@@ -15,7 +15,7 @@ date: 2015-10-14 22:38:02.000000000 -07:00
 
 It’s pretty common knowledge that the cost of technology goes down over time, but there’s one category, as [highlighted](http://www.businessinsider.com/historical-price-trends-for-tech-products-2015-10) by [Buisness Insider](http://www.businessinsider.com/historical-price-trends-for-tech-products-2015-10) in this rather impressive graphic, that’s actually become more expensive.
 
-<!--kg-card-begin: html-->[![](/assets/images/2015/10/20151014_prices_bi.png?resize=525%2C394&ssl=1)](http://www.businessinsider.com/historical-price-trends-for-tech-products-2015-10)<!--kg-card-end: html-->
+
 
 The top line (green if you’re color blind) is the cable/satellite/radio category. What I’m not sure of is if this category covers Internet as well.
 

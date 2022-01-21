@@ -35,7 +35,7 @@ I don’t feel I’ve given California enough credit. The ocean is damn awesome 
 
 Maybe this guy:
 
-<!--kg-card-begin: html-->[![boring](/assets/images/2015/04/boring.gif?resize=500%2C281&ssl=1)](/assets/images/2015/04/boring.gif?ssl=1)<!--kg-card-end: html-->
+
 
 Oh well.
 

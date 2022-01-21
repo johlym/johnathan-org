@@ -19,10 +19,8 @@ Think about that for a moment.
 
 From [Pressfield](http://www.amazon.com/gp/product/B0087TUM54/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0087TUM54&linkCode=as2&tag=jlymannet-20&linkId=YQM2YDP3UUCJ7UF6) (emphasis added):
 
-> When we hate our lives and ourselves, two models present themselves as modes of salvation.
-
+>  When we hate our lives and ourselves, two models present themselves as modes of salvation.
 > The first is the therapeutic model. In the therapeutic model, we are told (or we tell ourselves ) that we are “sick.” What ails us is a “ **condition** ” or a “ **disease**.”
-
 > The second way is the moralistic model. The moralistic model is about good and evil. The reason we are unhappy, we are told (or tell ourselves) is that we have done something “ **wrong**.” We have committed a “crime” or a “sin.”
 
 We’ve established two potential outcomes for how we’ll treat ourselves if we’re not where we want to be in life or aren’t good at something we wish we were good at. That sound like a pretty noob way of thinking. The ultimate goal should be not to knock down but to hack and slash the crap away. In turn:

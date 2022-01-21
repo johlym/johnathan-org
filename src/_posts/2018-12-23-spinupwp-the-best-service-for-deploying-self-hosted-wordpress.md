@@ -19,7 +19,7 @@ Over the last 10-ish years, I’ve deployed more WordPress sites than I can coun
 
 That’s not to say that easy solutions don’t exist. If you’re a Digital Ocean user, you know WordPress-specific images are already a thing and only require a few clicks. The problem there is WordPress isn’t configured with anything useful
 
-<!--kg-card-begin: html-->1<!--kg-card-begin: html-->Digital Ocean’s WordPress image does come with fail2ban pre-configured, though, which is nice.<!--kg-card-end: html--><!--kg-card-end: html-->
+
 
 like caching, and passwords are up to RNG.
 

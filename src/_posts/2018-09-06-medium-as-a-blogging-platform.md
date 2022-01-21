@@ -24,11 +24,12 @@ There is tremendous strength in independence and decentralization.
 
 and Rafat Ali takes Medium to task (and rightfully so):
 
-> This needs to be said, without any personal malice: Medium has been an utter failure on all fronts, including behaving as an ethical, reliable player in the larger media ecosystem. I can’t wait for it to go away and more responsible alternatives to emerge. [https://t.co/XcGFdYAWfY](https://t.co/XcGFdYAWfY)
-> 
-> — Rafat Ali رفعت (@rafat) [September 5, 2018](https://twitter.com/rafat/status/1037371592496570372?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet">
+This needs to be said, without any personal malice: Medium has been an utter failure on all fronts, including behaving as an ethical, reliable player in the larger media ecosystem. I can’t wait for it to go away and more responsible alternatives to emerge. [https://t.co/XcGFdYAWfY](https://t.co/XcGFdYAWfY)
 
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+— Rafat Ali رفعت (@rafat) [September 5, 2018](https://twitter.com/rafat/status/1037371592496570372?ref_src=twsrc%5Etfw)
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Seeing Medium take this course–into blanket depersonalization of authors and content–makes me a bit sad. I have always loved their editor and I knew they were doing something right when WordPress introduced a similarly-behaving editorial experience.
 
