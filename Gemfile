@@ -29,3 +29,5 @@ gem "bridgetown", "~> 1.0.0.beta1"
 gem "puma", "~> 5.5"
 
 gem "reverse_markdown", "~> 2.1"
+
+gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
