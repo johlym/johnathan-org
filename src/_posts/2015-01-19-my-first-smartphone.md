@@ -1,0 +1,41 @@
+---
+title: My First Smartphone
+slug: my-first-smartphone
+featured: false
+og_title: My First Smartphone – Johnathan.org
+og_description: We all remember our first smartphones, for the most part. I know I
+  remember my transition from the small brick phones that weighed as much as small
+  bricks. They
+meta_title: My First Smartphone – Johnathan.org
+meta_description: A hand-crafted technology product by Johnathan Lyman
+layout: post
+categories: posts
+date: 2015-01-19 04:30:44.000000000 -08:00
+---
+
+We all remember our first smartphones, for the most part. I know I remember my transition from the small brick phones that weighed as much as small bricks. They did the job back then. In 2003, texting was a limited thing still in my world and around all of my friends. We mostly emailed and instant-messaged each other. I think I did that pretty much all through high school. When I started using MySpace regularly, I communicated a lot through that service with my friends. Facebook, same story. It wasn’t until I bought my first smart phone in 2010 that my communication world really changed.
+
+When I got my first flip phone, it was in 2007. I signed up with Verizon Wireless and felt super accomplished. I also had just turned 18 so I was allowed to sign up for stuff all by myself! I felt so accomplished. I even still remember my phone number from that time! I thoguht my phone was the coolest thing in the world. It had music playback capability, a front screen with music controls on it, I could browse the Internet with the built-in WAP browser… that was the life, for sure. Back then, battery life was awesome, too. I could go a couple days without charge while still using it regularly. I made a habit of plugging in nightly, though, as charging cables were still proprietary and good quality connectors were hard to come by.
+
+My first flip phone was the LG Chocolate III. It was bigger than most flip phones of the time, and I loved that. It was shiny, had a great looking screen( for a flip phone) and the interface made it feel expensive. Since this was my first phone that had more than one color on the screen, I didn’t care about things like interface speed, lag, ux, or anything of the sort. It’s likely that a lot of people felt the same way. I rocked this phone for until my next upgrade date, which came 20 months later.
+
+After I got my first taste of what adulthood brought in terms of mobile telephony, I wanted to kick it up a notch. The iPhone was still a really new thing and the iPhone 3G was out, but was an AT&T exclusive. I didn’t want to switch nor did I have the money to shell out for a true smartphone (yet). I bought the LG Dare. With its 240x400px screen, I felt like I was living the high life. Bluetooth, HTML Web browsing, MP3 and AAC support… ahh the features! The Dare (VX9700) was my first entry into touch-screen space and I loved it.
+
+Comparing the size to my current iPhone 5, the Dare was shorter (4.87 vs 4.1 inches), slightly narrower (2.31 vs 2.2 inches), and thicker (0.3 vs 0.5 inches). It’s amazing to think about how far display technology has come where you have a deivce like the Dare with 0.08mp of screen resolution at 152ppi over a three inch screen versus the iPhone 5’s 0.72mp screen at 326ppi over four inches. Talk about a jump in resolution!
+
+When 2010 came, I finally landed my first real smart phone. By this time, the iPhone was still an AT&T exclusive and I didn’t want to pay more money for the same measured service. I didn’t care about what one carrier had over the other. All I cared about was the fact that I would have to shell out more dollars for the same offering; that didn’t sound like a good investment, to me.
+
+Instead of landing the iPhone, which wasn’t all bad as I wasn’t a fan of Apple products beyond the black iPod Nano I had at the time, I picked up the Motorola Droid X. When it arrived via FedEx, I was beyond excited. This was my first phone I could do complicated stuff with. It had a _real_ browser, not some wimpy WAP-based turd. It had apps, too! The concept of Apps blew my mind and my views on my mobile device would never be the same. It had a huge—for its time—4.3” touch screen. With a 480×854 resolution, it was at the top of the smart phone display game, second to the iPhone, of course, which still had a higher density resolution screen.
+
+At the time, though, I had no idea what that meant or why that would be significant to anybody. I was glad I had a device that was fast and had a big, beautiful display.
+
+After about a year, though, I grew tired of this device. It made me feel that way, though, because at the time, Android aged quickly and updates to the software didn’t happen quick enough, if at all. The highest version one could install via traditional means was Gingerbread (2.3). It became clunky and slow and reminded me daily that it enjoyed gulping up battery juice. Even with larger capacity batteries, it didn’t take long before I got rid of it and switch to an iPhone.
+
+After my battle with Android, I promised myself I wouldn’t buy another Android device, again. For the most part, I held fast to that promise. After I gave up my Droid X, my first _real_ smart phone, I bought an iPhone 4S. I was thrilled to give it a shot after I heard so many good things about it from co-workers. I’ll admit it was a bit of a shock when I changed ecosystems. The whole premise was much different and I would grow to learn that was a good thing. This was my first realization that there are some devices I just want to work, no matter what. I don’t want to have to or even think about tinkering with some things, and my phone was the first on that list. It’s this idea that would eventually push me to replace my Windows PC that I hand built with a Mac.
+
+Aside: to this day, I still get comments like “I’d never spend 2x on a closed platform” or “way to spend much more than any of that hardware is worth!” I like to casually remind people that unlike their Windows desktop or laptop, you’ll never hear me complaining about my mac being slow or crashing. To this day I’ve only hard rebooted my mac a couple times. As of this writing, I’ve never re-installed the OS, nor have I had to have it serviced for failing parts that don’t have a definite lifespan.
+
+In 2013, I thought I’d give the Galaxy S4 a try, as I liked the idea of the large, bright, and colorful screen. Maybe that was my downfall, just as certain insects attract their prey with bright and beautfiful colors and or the allure of something great (read: black widow) only to kill them in the end because they made a stupid decision. The Galaxy S4 started killing me shortly after I got it. I was reminded of all the reasons why I disliked android: battery life, poor resource management, too many things that need tinkering to work right. I dumped it after just a few months and went back to an iPhone, where I sit to this day.
+
+My next phone certainly won’t be an Android device. Fool me once, shame on you. Fool me twice? Nah. Perhaps I’ll pick up an iPhone 6 or iPhone 6S (or whatever the next version is that comes out this fall). All I know is that I bought android as my first smart phone because that was what I had available to me at the time. If I had been an AT&T customer from the start, I may have never purchased an Android smartphone and had an iPhone from the beginning. If that was the case, I might have bought an Android device later on down the road anyway, and fought through the same battles, just in a different time frame. I can’t say for sure what would have happened, but I know that my first smart phone purchase helped shape my technology toolset as it stands now and my continued purchases will help mold my future decisions. Apple has done a good job of building up an ecosystem people don’t want to leave, and I’ll admit I am one of them. It’s comforting to know, however, that there are a lot of people like me who just want their stuff to work. If that means paying more, then so be it. Consider it a no-hassle tax.
+

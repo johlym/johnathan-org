@@ -1,0 +1,21 @@
+---
+title: Facebook Despression
+slug: facebook-despression
+featured: false
+og_title: Facebook Despression – Johnathan.org
+og_description: Based on a survey of 700 students, the study found that users who
+  engage in “surveillance use”–“brows[ing] the website to see how their friends are
+  doing compar
+meta_title: Facebook Despression – Johnathan.org
+meta_description: A hand-crafted technology product by Johnathan Lyman
+layout: post
+categories: posts
+date: 2015-02-04 04:31:47.000000000 -08:00
+---
+
+> Based on a survey of 700 students, the study found that users who engage in “surveillance use”–“brows[ing] the website to see how their friends are doing compared with their own lives”–versus simply using the site to contact friends and family can experience symptoms of depression.
+
+> —TechCrunch
+
+Well duh. One doesn’t need Facebook to get into the mindset of seeing another’s happiness and wish it was their own. This is why I advocate finding other sources of stimulation, like writing! Starting a [blog](http://wordpress.com) is [free](http://tumblr.com) in [many](http://blogger.com) [places](http://medium.com).
+
