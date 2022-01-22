@@ -2,12 +2,8 @@
 title: Let me Introduce You to XP1K
 slug: let-me-introduce-you-to-xp1k
 featured: false
-og_title: Let me Introduce You to XP1K – Johnathan.org
-og_description: If the little kid in you wishes he or she could take a tricked-out
-  ATV and wreck apocolyptic-style wastelands of awesome, take the next 25 minutes
-  and enjoy the
-meta_title: Let me Introduce You to XP1K – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2015-11-04 08:53:09.000000000 -08:00

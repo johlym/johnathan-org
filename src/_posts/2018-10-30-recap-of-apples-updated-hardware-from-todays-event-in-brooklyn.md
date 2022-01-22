@@ -1,21 +1,17 @@
 ---
-title: Recap of Apple’s Updated Hardware from Today’s Event in Brooklyn
+title: Recap of Apple's Updated Hardware from Today's Event in Brooklyn
 slug: recap-of-apples-updated-hardware-from-todays-event-in-brooklyn
 feature_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"
-og_title: Recap of Apple’s Updated Hardware from Today’s Event in Brooklyn – Johnathan.org
-og_description: Apple announced a host of updated bits of hardware at today's event
-  in Brooklyn. Here's my recap on the important bits (and tech specs).
-twitter_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"
-meta_title: Recap of Apple’s Updated Hardware from Today’s Event in Brooklyn – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-10-30 12:32:06.000000000 -07:00
 ---
 
-Apple announced a host of updated bits of hardware at today’s event in Brooklyn. Here’s my recap on the important bits. Let’s dive right in, or jump to:
+Apple announced a host of updated bits of hardware at today's event in Brooklyn. Here's my recap on the important bits. Let's dive right in, or jump to:
 
 - [Mac Mini](#macmini)
 - [MacBook Air](#macbookair)
@@ -26,7 +22,7 @@ Apple announced a host of updated bits of hardware at today’s event in Brookly
 
 ![Mac Mini Desktop setup display 10302018](/content/images/wp-content/uploads/2018/10/mac_mini_desktop_display.jpg "mac\_mini\_desktop\_display.jpg")
 
-The last update to the Mac Mini was in 2014, and it was underwhelming to say the least. Today’s announcement is a welcome refresh to those who still enjoy the small-form-factor Apple desktop computer.
+The last update to the Mac Mini was in 2014, and it was underwhelming to say the least. Today's announcement is a welcome refresh to those who still enjoy the small-form-factor Apple desktop computer.
 
 ## Tech Specs
 
@@ -51,7 +47,7 @@ The last update to the Mac Mini was in 2014, and it was underwhelming to say the
 
 ## Pricing
 
-The Mac Mini starts at $799 and can climb to $4199, depending on configuration. It’s available to [pre-order now](https://www.apple.com/shop/buy-mac/mac-mini).
+The Mac Mini starts at $799 and can climb to $4199, depending on configuration. It's available to [pre-order now](https://www.apple.com/shop/buy-mac/mac-mini).
 
 * * *
 
@@ -59,9 +55,9 @@ The Mac Mini starts at $799 and can climb to $4199, depending on configuration. 
 
 ![MacBook Air family 10302018](/content/images/wp-content/uploads/2018/10/macbook_air_family.jpg "macbook\_air\_family.jpg")
 
-We haven’t seen the MacBook Air receive a meaningful update in even more years than the Mac Mini. Until today, it rocked a 1280×800 non-retina display (and if you really want to punish yourself, you can still buy it). This version keeps the hard function keys but brings over Touch ID (and the T2) chip from the MacBook Pro line.
+We haven't seen the MacBook Air receive a meaningful update in even more years than the Mac Mini. Until today, it rocked a 1280×800 non-retina display (and if you really want to punish yourself, you can still buy it). This version keeps the hard function keys but brings over Touch ID (and the T2) chip from the MacBook Pro line.
 
-Here’s what’s up with the new model:
+Here's what's up with the new model:
 
 ## Tech Specs
 
@@ -72,7 +68,7 @@ Here’s what’s up with the new model:
 
   - 2x Thunderbolt 3 40Gbps (USB-C 3.1 Gen 2, unto 10Gbps) ports.
     - Both support charging.
-  - There’s also a headphone jack.
+  - There's also a headphone jack.
 
 - **Wireless:** 802.11ac WiFi and Bluetooth 4.2.
 - **Display** : 13.3″ 2560×1600 Retina display without TrueTone. This is the same size and resolution as the 13″ MacBook Pro.
@@ -83,7 +79,7 @@ Here’s what’s up with the new model:
 
 ## Pricing
 
-The MacBook Air starts at $1199 and can climb to $2,599, depending on configuration. It’s available to [pre-order now](https://www.apple.com/shop/buy-mac/macbook-air).
+The MacBook Air starts at $1199 and can climb to $2,599, depending on configuration. It's available to [pre-order now](https://www.apple.com/shop/buy-mac/macbook-air).
 
 * * *
 
@@ -91,7 +87,7 @@ The MacBook Air starts at $1199 and can climb to $2,599, depending on configurat
 
 ![iPad Pro with attached Apple Pencil 2nd-generation](/content/images/wp-content/uploads/2018/10/ipad_pro_2nd_gen.jpg "ipad\_pro\_2nd\_gen.jpg")
 
-The 3rd-generation iPad Pro comes with a host of design changes that weren’t a surprise to anyone following the rumors. The home button is gone and in its place is an edge-to-edge display (with no notch!) and Face ID support.
+The 3rd-generation iPad Pro comes with a host of design changes that weren't a surprise to anyone following the rumors. The home button is gone and in its place is an edge-to-edge display (with no notch!) and Face ID support.
 
 
 - **Sizes:** 11″ and 12.9″
@@ -151,7 +147,7 @@ and is available to [pre-order now](https://www.apple.com/shop/buy-ipad/ipad-pro
 
 # Apple Pencil (2nd Generation)
 
-It’s cool to see the Apple Pencil get some love. As a first-generation Pencil owner, the changes they’ve made are quite welcome, but some of them aren’t noticeable unless you’re also using it with the 3rd-generation 11″ or 12.9″ iPad Pro.
+It's cool to see the Apple Pencil get some love. As a first-generation Pencil owner, the changes they've made are quite welcome, but some of them aren't noticeable unless you're also using it with the 3rd-generation 11″ or 12.9″ iPad Pro.
 
 - Touch surface that supports double-tapping.
 - Magnetic attachment, charging, and pairing to 3rd-generation iPad Pro.

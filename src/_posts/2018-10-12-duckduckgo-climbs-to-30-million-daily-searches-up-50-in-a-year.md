@@ -2,11 +2,7 @@
 title: DuckDuckGo climbs to 30 million daily searches, up 50% in a year
 slug: duckduckgo-climbs-to-30-million-daily-searches-up-50-in-a-year
 featured: false
-og_title: DuckDuckGo climbs to 30 million daily searches, up 50% in a year – Johnathan.org
-og_description: Privacy-focused @DuckDuckGo climbed 50% in daily searches over the
-  last year, to 30 million, and that's awesome!
-meta_title: DuckDuckGo climbs to 30 million daily searches, up 50% in a year – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-10-12 08:22:25.000000000 -07:00
@@ -21,5 +17,5 @@ DuckDuckGo fun fact: it took us seven years to reach 10 million private searches
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This is fantastic news! I love that a true alternative to the mammoth that is Google (and distant second mammoth Bing). Before the end of the year, I’d like to seriously consider converting to DuckDuckGo and Proton Mail for email. We’ll see.
+This is fantastic news! I love that a true alternative to the mammoth that is Google (and distant second mammoth Bing). Before the end of the year, I'd like to seriously consider converting to DuckDuckGo and Proton Mail for email. We'll see.
 

@@ -2,11 +2,7 @@
 title: All the iPhone XS and XS Max Reviews in One Place
 slug: all-the-iphone-xs-and-xs-max-reviews-in-one-place
 featured: false
-og_title: All the iPhone XS and XS Max Reviews in One Place – Johnathan.org
-og_description: All the reviews for the iPhones XS that are worth reading.
-meta_title: All the iPhone XS and XS Max Reviews in One Place – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
-layout: post
+
 categories: posts
 date: 2018-09-20 08:41:52.000000000 -07:00
 ---
@@ -21,7 +17,7 @@ Launch day for the iPhone XS is tomorrow. While we wait, it seems only pertinent
 - [Brian Chen, New York Times](https://www.nytimes.com/2018/09/18/technology/personaltech/iphone-xs-max-review.html)
 - [Gareth Beavis, Tech Radar](https://www.techradar.com/uk/reviews/iphone-xs-review)
 - [James Titcomb, The Telegraph](https://www.telegraph.co.uk/technology/2018/09/18/iphone-xs-max-review-jumbotron-phone-want/)
-- [Mark Spoonauer, Tom’s Guide](https://www.tomsguide.com/us/iphone-xs-max,review-5747.html)
+- [Mark Spoonauer, Tom's Guide](https://www.tomsguide.com/us/iphone-xs-max,review-5747.html)
 - [Joanna Stern, The Wall Street Journal](https://www.wsj.com/articles/iphone-xs-and-xs-max-review-sit-tight-for-the-xr-1537264800)
 - [Todd Haselton, CNBC](https://www.cnbc.com/2018/09/18/iphone-xs-and-iphone-xs-max-review.html)
 - [Stefan Vazharov, Best Products](https://www.bestproducts.com/tech/gadgets/a23069402/apple-iphone-xs-and-xs-max-review/)
@@ -31,5 +27,5 @@ Launch day for the iPhone XS is tomorrow. While we wait, it seems only pertinent
 - [James Lu and Alvin Soon, Singapore Hardware Zone](https://www.hardwarezone.com.sg/review-apple-iphone-xs-and-xs-max-review-x-evolved)
 - [Tim Biggs, The Sydney Morning Telegraph](https://www.smh.com.au/technology/iphone-xs-max-a-photo-editor-s-take-on-apple-s-latest-and-greatest-20180918-p504i4.html)
 
-**Note:** I didn’t bother splitting them out by XS and XS Max. There is no need. Both phones are the same except for their size. It doesn’t make sense to differentiate them just as little as it makes sense to review two different sizes of the same model television.
+**Note:** I didn't bother splitting them out by XS and XS Max. There is no need. Both phones are the same except for their size. It doesn't make sense to differentiate them just as little as it makes sense to review two different sizes of the same model television.
 

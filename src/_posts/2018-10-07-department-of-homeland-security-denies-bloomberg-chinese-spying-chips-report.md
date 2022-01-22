@@ -2,13 +2,10 @@
 title: Department of Homeland Security Denies Bloomberg Chinese Spying Chips Report
 slug: department-of-homeland-security-denies-bloomberg-chinese-spying-chips-report
 featured: false
-og_title: Department of Homeland Security Denies Bloomberg Chinese Spying Chips Report
-  – Johnathan.org
-og_description: Bloomberg reported that China manufacturing facilities had implanted
-  spying chips in Supermicro computers. DHS disagrees.
-meta_title: Department of Homeland Security Denies Bloomberg Chinese Spying Chips
-  Report – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
+
+
 layout: post
 categories: posts
 date: 2018-10-07 11:25:31.000000000 -07:00

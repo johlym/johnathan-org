@@ -2,12 +2,8 @@
 title: Mac vs PC Ads
 slug: mac-vs-pc-ads
 featured: false
-og_title: Mac vs PC Ads – Johnathan.org
-og_description: Dave Winer re-surfaced a classic Mac vs. PC ad from 2009 . Those were
-  the days. Admittedly, I thought they were dumb–being a die-hard PC user and whatnot.
-  Every
-meta_title: Mac vs PC Ads – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-08-15 20:06:19.000000000 -07:00

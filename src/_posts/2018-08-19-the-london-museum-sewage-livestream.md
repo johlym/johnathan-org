@@ -2,12 +2,8 @@
 title: The London Museum Sewage Livestream
 slug: the-london-museum-sewage-livestream
 featured: false
-og_title: The London Museum Sewage Livestream – Johnathan.org
-og_description: 'Beth Mole writing for  Ars Technica : The rancid refuse was chipped
-  off an infamous sewer clog discovered in London late last year called the Whitechapel
-  “Fatbe'
-meta_title: The London Museum Sewage Livestream – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-08-19 16:45:58.000000000 -07:00

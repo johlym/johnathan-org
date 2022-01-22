@@ -2,22 +2,18 @@
 title: 'The Difference Four Years Makes: Part 2: Disk IO'
 slug: the-difference-four-years-makes-part-2-disk-io
 featured: false
-og_title: 'The Difference Four Years Makes: Part 2: Disk IO – Johnathan.org'
-og_description: This is something I’ve been waiting to see for a long time. As you’re
-  aware, I’ve been using a four year old Macbook Pro for quite some time (placed the
-  order i
-meta_title: 'The Difference Four Years Makes: Part 2: Disk IO – Johnathan.org'
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2015-10-02 15:52:14.000000000 -07:00
 ---
 
-This is something I’ve been waiting to see for a long time. As you’re aware, I’ve been using a four year old Macbook Pro for quite some time (placed the order in June 2011) and today I’ve finally made the upgrade to a 2015 of the same make and model.
+This is something I've been waiting to see for a long time. As you're aware, I've been using a four year old Macbook Pro for quite some time (placed the order in June 2011) and today I've finally made the upgrade to a 2015 of the same make and model.
 
 The one thing I was excited to see the most above all else is the disk I/O speeds.
 
-Let’s compare…
+Let's compare…
 
 Before:
 

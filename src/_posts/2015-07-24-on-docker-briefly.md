@@ -2,18 +2,14 @@
 title: On Docker (Briefly)
 slug: on-docker-briefly
 featured: false
-og_title: On Docker (Briefly) – Johnathan.org
-og_description: 'Ever since I discovered Docker, I’ve been a fan. Trying to explain
-  Docker to the un-initiated is also fun. I describe it like so: Docker is like a
-  Lunchable (or'
-meta_title: On Docker (Briefly) – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2015-07-24 06:27:51.000000000 -07:00
 ---
 
-Ever since I discovered Docker, I’ve been a fan. Trying to explain Docker to the un-initiated is also fun. I describe it like so:
+Ever since I discovered Docker, I've been a fan. Trying to explain Docker to the un-initiated is also fun. I describe it like so:
 
 > Docker is like a Lunchable (or bento box). The container of said Lunchable is Docker and the VM it controls. Every section inside the container is each of the apps it runs.
 

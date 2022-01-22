@@ -2,9 +2,7 @@
 title: Happy Holidays
 slug: happy-holidays
 featured: false
-og_title: Happy Holidays – Johnathan.org
-meta_title: Happy Holidays – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2017-12-14 18:06:28.000000000 -08:00

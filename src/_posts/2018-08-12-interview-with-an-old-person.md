@@ -2,12 +2,8 @@
 title: Interview With an Old Person
 slug: interview-with-an-old-person
 featured: false
-og_title: Interview With an Old Person – Johnathan.org
-og_description: By way of One Foot Tsunami , I came across this Slate article . Slate
-  sits down with 91-year-old Eleanor Tom Jaynes. When we realized what was happening,
-  we put
-meta_title: Interview With an Old Person – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-08-12 17:00:00.000000000 -07:00

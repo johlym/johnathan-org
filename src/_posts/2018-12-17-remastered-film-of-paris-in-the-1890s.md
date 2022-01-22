@@ -2,11 +2,7 @@
 title: Remastered film of Paris in the 1890s
 slug: remastered-film-of-paris-in-the-1890s
 featured: false
-og_title: Remastered film of Paris in the 1890s – Johnathan.org
-og_description: This re-mastered video of clips shot by The Lumière brothers in the
-  1890s is utterly fascinating.
-meta_title: Remastered film of Paris in the 1890s – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-12-17 16:57:44.000000000 -08:00

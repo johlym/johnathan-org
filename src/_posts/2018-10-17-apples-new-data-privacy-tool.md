@@ -1,12 +1,8 @@
 ---
-title: Apple’s New Data Privacy Tool
+title: Apple's New Data Privacy Tool
 slug: apples-new-data-privacy-tool
 featured: false
-og_title: Apple’s New Data Privacy Tool – Johnathan.org
-og_description: Apple's new data privacy tool is top-tier. Every other tech company
-  should take note.
-meta_title: Apple’s New Data Privacy Tool – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-10-17 20:30:13.000000000 -07:00

@@ -1,12 +1,7 @@
 ---
-title: 'Stratechery: IBM’s Old Playbook'
+title: "Stratechery: IBM's Old Playbook"
 slug: stratechery-ibms-old-playbook
 featured: false
-og_title: 'Stratechery: IBM’s Old Playbook – Johnathan.org'
-og_description: Ben Thompson at Stratchery has a great take on IBM acquiring RedHat
-  and thoughts on their goals for staying relevant in 2018.
-meta_title: 'Stratechery: IBM’s Old Playbook – Johnathan.org'
-meta_description: A hand-crafted technology product by Johnathan Lyman
 layout: post
 categories: posts
 date: 2018-10-29 10:50:26.000000000 -07:00
@@ -16,7 +11,7 @@ Ben Thompson, writing at Stratchery:
 
 > This is the bet: while in the 1990s the complexity of the Internet made it difficult for businesses to go online, providing an opening for IBM to sell solutions, today IBM argues the reduction of cloud computing to three centralized providers makes businesses reluctant to commit to any one of them. IBM is betting it can again provide the solution, combining with Red Hat to build products that will seamlessly bridge private data centers and all of the public clouds.
 
-IBM believes their play to staying relevant in the “cloud” era, if you’ll call it that, is to acquire RedHat. Good luck to them. The tweets about the acquisition are fantastic:
+IBM believes their play to staying relevant in the “cloud” era, if you'll call it that, is to acquire RedHat. Good luck to them. The tweets about the acquisition are fantastic:
 
 <blockquote class="twitter-tweet">
 "Bureaucratic, old-school legacy software vendor which survives on services revenues in massive acquisition shock as it is purchased by IBM" – [@lproven](https://twitter.com/lproven?ref_src=twsrc%5Etfw)

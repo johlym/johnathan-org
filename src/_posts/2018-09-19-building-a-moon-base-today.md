@@ -2,11 +2,7 @@
 title: Building a Moon Base Today
 slug: building-a-moon-base-today
 featured: false
-og_title: Building a Moon Base Today – Johnathan.org
-og_description: This video from Kursgesagt about how plausible a moon base would be
-  is great.
-meta_title: Building a Moon Base Today – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-09-19 11:12:23.000000000 -07:00

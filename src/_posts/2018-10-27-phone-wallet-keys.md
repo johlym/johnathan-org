@@ -2,11 +2,7 @@
 title: Phone, Wallet, Keys
 slug: phone-wallet-keys
 featured: false
-og_title: Phone, Wallet, Keys – Johnathan.org
-og_description: 'As a part of his latest special, 100% Fresh, out now on @netflix,
-  Adam Sandler pokes fun at what most of us carry always: a phone, wallet, and keys.'
-meta_title: Phone, Wallet, Keys – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-10-27 07:14:09.000000000 -07:00

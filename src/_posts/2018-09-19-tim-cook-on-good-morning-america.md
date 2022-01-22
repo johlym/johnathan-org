@@ -2,11 +2,7 @@
 title: Tim Cook on Good Morning America
 slug: tim-cook-on-good-morning-america
 featured: false
-og_title: Tim Cook on Good Morning America – Johnathan.org
-og_description: Tim Cook sat down with Robin Roberts in an exclusive on Good Morning
-  America
-meta_title: Tim Cook on Good Morning America – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-09-19 14:39:26.000000000 -07:00

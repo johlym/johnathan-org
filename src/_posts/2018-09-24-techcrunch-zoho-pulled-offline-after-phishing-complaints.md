@@ -2,11 +2,7 @@
 title: 'TechCrunch: Zoho Pulled Offline After Phishing Complaints'
 slug: techcrunch-zoho-pulled-offline-after-phishing-complaints
 featured: false
-og_title: 'TechCrunch: Zoho Pulled Offline After Phishing Complaints – Johnathan.org'
-og_description: Registrar TierraNet just lost a big customer because of automated
-  checks.
-meta_title: 'TechCrunch: Zoho Pulled Offline After Phishing Complaints – Johnathan.org'
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-09-24 17:19:54.000000000 -07:00
@@ -17,7 +13,7 @@ From TechCrunch:
 >  The web-based office suite company, which also provides customer relationship and invoicing services to small businesses, tweeted that the site was “blocked” earlier in the day by TierraNet, which administers its domain name.
 > In an email to TechCrunch, Zoho boss Sridhar Vembu said that TierraNet “took our domain down without any notice to us” after receiving complaints about phishing emails from Zoho-hosted email accounts.
 
-It’s a smart move that Zoho is moving registrars. Might I suggest one that people have actually heard of?
+It's a smart move that Zoho is moving registrars. Might I suggest one that people have actually heard of?
 
 Adding fuel to the un-professional fire, TierraNet openly shared details of the cancellation with a random user:
 
@@ -28,7 +24,7 @@ Adding fuel to the un-professional fire, TierraNet openly shared details of the 
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-One Twitter user mentioned that by doing this, Tierra violated an ICANN policy (I’m assuming [this one](https://www.icann.org/resources/pages/expected-standards-2008-01-10-en) in eliminating access to 40 million email addresses.
+One Twitter user mentioned that by doing this, Tierra violated an ICANN policy (I'm assuming [this one](https://www.icann.org/resources/pages/expected-standards-2008-01-10-en) in eliminating access to 40 million email addresses.
 
-Another Twitter user (see a trend, here?) mentioned something about Google’s domain being suspended for phishing. The difference here is `google.com` is registered with MarkMonitor, a brand reputation company, not just any registrar with a generic site.
+Another Twitter user (see a trend, here?) mentioned something about Google's domain being suspended for phishing. The difference here is `google.com` is registered with MarkMonitor, a brand reputation company, not just any registrar with a generic site.
 

@@ -2,12 +2,8 @@
 title: Wearing your Apple Watch 24/7
 slug: wearing-your-apple-watch-24-7
 featured: false
-og_title: Wearing your Apple Watch 24/7 – Johnathan.org
-og_description: David Smith (also known as “Underscore”) dropped Sleep++, an Apple
-  Watch app that allows you to track your sleep a la Fitbit and others. The key here
-  is needing
-meta_title: Wearing your Apple Watch 24/7 – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2015-09-21 13:23:47.000000000 -07:00

@@ -2,30 +2,26 @@
 title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown'
 slug: linode-vs-digital-ocean-a-three-round-vps-benchmark-showdown
 featured: false
-og_title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown – Johnathan.org'
-og_description: A few days ago, Digital Ocean announced new pricing tiers for their
-  VPSes (affectionately called Droplets). I’ve been a fan of Digital Ocean’s offerings
-  for a l
-meta_title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown – Johnathan.org'
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-01-18 10:05:48.000000000 -08:00
 ---
 
-A few days ago, [Digital Ocean](https://digitalocean.com) announced new pricing tiers for their VPSes (affectionately called Droplets). I’ve been a fan of Digital Ocean’s offerings for a long time. Compared to other popular VPS provider [Linode](https://linode.com), there seemed like there was only one choice as Digital Ocean’s pricing ran 2x for almost everything.
+A few days ago, [Digital Ocean](https://digitalocean.com) announced new pricing tiers for their VPSes (affectionately called Droplets). I've been a fan of Digital Ocean's offerings for a long time. Compared to other popular VPS provider [Linode](https://linode.com), there seemed like there was only one choice as Digital Ocean's pricing ran 2x for almost everything.
 
-Now that they’re the same price, I think it’s about time they faceoff in a set of sysbench benchmark tests.
+Now that they're the same price, I think it's about time they faceoff in a set of sysbench benchmark tests.
 
-Both providers offer the standard set of plans, though each has unique offerings as well. Linode provides “high memory” options ranging from 16GB to 200GB of RAM, whereas Digital Ocean offers “high CPU” choices, advertising similar vCPU quantites but backed by compute-oriented hardware. We’ll leave those specific offerings off the table for now and just point a few standard VPSes from each provider at each other and see who comes out on top.
+Both providers offer the standard set of plans, though each has unique offerings as well. Linode provides “high memory” options ranging from 16GB to 200GB of RAM, whereas Digital Ocean offers “high CPU” choices, advertising similar vCPU quantites but backed by compute-oriented hardware. We'll leave those specific offerings off the table for now and just point a few standard VPSes from each provider at each other and see who comes out on top.
 
-The results are broken down into each RAM category: 1GB, 4GB, and 8GB, comparing each provider’s offerings for each tier individually. The best scores for each cateogry and test are in **bold**.
+The results are broken down into each RAM category: 1GB, 4GB, and 8GB, comparing each provider's offerings for each tier individually. The best scores for each cateogry and test are in **bold**.
 
 _Before I begin, I want to give special thanks to [Josh Sherman](https://twitter.com/joshtronic). He came up with a great [$5 comparison](https://joshtronic.com/2017/02/14/five-dollar-showdown-linode-vs-digitalocean-vs-lightsaild-vs-vultr/) list back in February 2017 that served as inspiration for this post._
 
 ## The Loadouts
 
-We’ll be testing the following configurations from each provider:
+We'll be testing the following configurations from each provider:
 
 ### Digital Ocean
 
@@ -525,17 +521,17 @@ speedtest-cli --server=5479
 
 ## Conclusion
 
-Comparing both sets of VPSes against each other yielded mixed results. The Linoe VPSes ran away with the win in most categories, with Digital Ocean ending up the underdog winner. For CPU performance, both providers were pretty well in line. I wouldn’t consider at 1.08x difference enough to warrant a migration or decision based on that stat alone. If Digital Ocean’s High CPU offerings were in play, I would be surprised if they didn’t take the cake.
+Comparing both sets of VPSes against each other yielded mixed results. The Linoe VPSes ran away with the win in most categories, with Digital Ocean ending up the underdog winner. For CPU performance, both providers were pretty well in line. I wouldn't consider at 1.08x difference enough to warrant a migration or decision based on that stat alone. If Digital Ocean's High CPU offerings were in play, I would be surprised if they didn't take the cake.
 
-Moving into the Memory tests, though, we see much larger gaps between the two. Linode was frequently ahead by as much at 4.5x, though the gap started to close as the VPSes increased in size. Raw bits/sec as well as time to execute were several times better. There’s not much else to say here.
+Moving into the Memory tests, though, we see much larger gaps between the two. Linode was frequently ahead by as much at 4.5x, though the gap started to close as the VPSes increased in size. Raw bits/sec as well as time to execute were several times better. There's not much else to say here.
 
 File IO was where we started seeing some mixed results, with Digital Ocean coming out as the leader. For the 1GB and 8GB VPSes, Digital Ocean ran away with the win in bytes/second, while Linode barely squeaked through.
 
 Looking at application benchmarks, the MySQL tests were surprising, given the file I/O results. Apache seemed to line up with what we saw in terms of CPU performance and both providers had sexy-fast networks though Linode came out on top two out of three times.
 
-At the end of the day, unless you’re running highend workloads, these general purpose VPSes are likely to perform just about the same. Compute tasks are better served by offerings that are designed to be utilized for that purpose. If you need every bit of RAW in-memory power you can muster, Linode will likely offer better results overall.
+At the end of the day, unless you're running highend workloads, these general purpose VPSes are likely to perform just about the same. Compute tasks are better served by offerings that are designed to be utilized for that purpose. If you need every bit of RAW in-memory power you can muster, Linode will likely offer better results overall.
 
-The race to the bottom continues with Digital Ocean halfing their prices and I’m glad to see it happen. Given that there’s still on-paper desparities between each provider, it made sense and I’m surprised they didn’t do it sooner.
+The race to the bottom continues with Digital Ocean halfing their prices and I'm glad to see it happen. Given that there's still on-paper desparities between each provider, it made sense and I'm surprised they didn't do it sooner.
 
 I look forward to testing these again in the future in hopes that backed by new/better hardware, [Digital Ocean](https://johnathan.org/goto/digitalocean) can surpass [Linode](https://www.linode.com/?r=2527e12c0aed087cbe51d3862f0a6bb6c5ab8f9a) and further boost the VPS wars that end up benefiting the consumer even more.
 
@@ -544,4 +540,4 @@ Expect more tests that include other providers like Vultur, Media Temple, Dreamh
 **Disclaimer** : The FTC requires I state that links in this article may be monetized.
 
 1. A possible statistical outlier that would need to be reviewed and possibly re-tested. [↩](#fnref-1) [↩<sup>2</sup>](#fnref-1:1) [↩<sup>3</sup>](#fnref-1:2) [↩<sup>4</sup>](#fnref-1:3)
-2. The geographic location doesn’t match up with the ping and the location Digital Ocean says the server was located. My guess is based on Geo IP lookup, the IP is registered in Canada and threw this number off. [↩](#fnref-2) [↩<sup>2</sup>](#fnref-2:1) [↩<sup>3</sup>](#fnref-2:2)
+2. The geographic location doesn't match up with the ping and the location Digital Ocean says the server was located. My guess is based on Geo IP lookup, the IP is registered in Canada and threw this number off. [↩](#fnref-2) [↩<sup>2</sup>](#fnref-2:1) [↩<sup>3</sup>](#fnref-2:2)

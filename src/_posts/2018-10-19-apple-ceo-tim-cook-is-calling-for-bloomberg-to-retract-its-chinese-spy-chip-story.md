@@ -3,13 +3,10 @@ title: Apple CEO Tim Cook is Calling for Bloomberg to Retract Its Chinese Spy Ch
   Story
 slug: apple-ceo-tim-cook-is-calling-for-bloomberg-to-retract-its-chinese-spy-chip-story
 featured: false
-og_title: Apple CEO Tim Cook is Calling for Bloomberg to Retract Its Chinese Spy Chip
-  Story – Johnathan.org
-og_description: Apple is double, nay tripling, down on the idea that the story about
-  the Chinese spy chips embedded in Apple servers is utter garbage.
-meta_title: Apple CEO Tim Cook is Calling for Bloomberg to Retract Its Chinese Spy
-  Chip Story – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
+
+
 layout: post
 categories: posts
 date: 2018-10-19 13:50:05.000000000 -07:00
@@ -27,7 +24,7 @@ This story is getting so damn strange. Listening to the most recent episode of [
 
 **This** quote at the end made me chuckle:
 
-> Meanwhile, companies that might possibly be among the 30 alleged to have been compromised are doing all they can to steer clear of the story. “We investigated and we found nothing,” an executive at one Fortune 50 company told BuzzFeed News. “ **Please leave us out of this. We weren’t mentioned and I don’t want us to be. I don’t know what the fuck is going on here.** ”
+> Meanwhile, companies that might possibly be among the 30 alleged to have been compromised are doing all they can to steer clear of the story. “We investigated and we found nothing,” an executive at one Fortune 50 company told BuzzFeed News. “ **Please leave us out of this. We weren't mentioned and I don't want us to be. I don't know what the fuck is going on here.** ”
 
 Happy Friday!
 

@@ -2,11 +2,7 @@
 title: 'Stratechery: The Battle for the Home'
 slug: stratechery-the-battle-for-the-home
 featured: false
-og_title: 'Stratechery: The Battle for the Home – Johnathan.org'
-og_description: "@benthompson has a great breakdown on @stratechery on the current
-  state of the smarthome war fought between Amazon, Google, Apple, and Facebook."
-meta_title: 'Stratechery: The Battle for the Home – Johnathan.org'
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-10-12 08:01:52.000000000 -07:00

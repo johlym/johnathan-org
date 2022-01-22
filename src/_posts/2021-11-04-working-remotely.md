@@ -1,7 +1,7 @@
 ---
 title: On Working Remotely
 slug: working-remotely
-feature_image: https://johnathan.org/content/images/2021/11/sigmund-eTgMFFzroGc-unsplash.jpg
+feature_image: "/content/images/2021/11/sigmund-eTgMFFzroGc-unsplash.jpg"
 featured: false
 excerpt: This post on remote work sat as a vague outline in my drafts folder for literally
   five and a half years. I first plopped this outline into Ulysses in February 2016
@@ -12,6 +12,8 @@ categories: posts
 date: 2021-11-04 16:51:23.000000000 -07:00
 ---
 
+This post on remote work sat as a vague outline in my drafts folder for literally five and a half years. I first plopped this outline into Ulysses in February 2016 and added some things to it in May of that same year. From then on, it sat. This is my attempt at finally tying it off.
+
 Fast forward to the last quarter of 2021, and as I'm cleaning things up after my move to the 2021 14" M1 Pro MacBook Pro (a great name), this rather in-depth coverage of my transition to remote work and reflections therein comes back to the surface.
 
 I had a few thoughts. Do I delete it? Finish it? Put any time into it whatsoever and maybe get around to tying it off one day? Pretend I never saw it and let it language for another five years in my iCloud drive?
@@ -19,6 +21,9 @@ I had a few thoughts. Do I delete it? Finish it? Put any time into it whatsoever
 All are valid.
 
 You're seeing this post, though, so only one of those outcomes came to fruition. Guess which one.
+
+* toc
+{:toc}
 
 ## Prologue
 

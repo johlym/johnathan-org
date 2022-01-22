@@ -2,24 +2,20 @@
 title: On Developing a WordPress Theme
 slug: on-developing-a-wordpress-theme
 featured: false
-og_title: On Developing a WordPress Theme – Johnathan.org
-og_description: A few weeks ago I started the process of moving this blog over to
-  WordPress from Ghost—and I talked about why I did that in a previous post—so now
-  that I’ve mad
-meta_title: On Developing a WordPress Theme – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-01-07 21:07:19.000000000 -08:00
 ---
 
-A few weeks ago I started the process of moving this blog over to WordPress from Ghost—and I talked about why I did that in a previous post—so now that I’ve made the change, the next natural step felt like talking about how I developed a theme for the first time.
+A few weeks ago I started the process of moving this blog over to WordPress from Ghost—and I talked about why I did that in a previous post—so now that I've made the change, the next natural step felt like talking about how I developed a theme for the first time.
 
-Yep, I’ve never done this before, and it turned out pretty well… I think.
+Yep, I've never done this before, and it turned out pretty well… I think.
 
 ## Local Environment
 
-In my opinion, maintaining a proper working development environment is one of the hardest things to do. Over time it can experience something I like to call “dev rot.” To make this as easy as possible, I invoked the assistance from a tool by the great folks over at Flywheel called Local. Local does one thing: let you build, maintain, and tear down WordPress development environments on a whim. It runs a Virtualbox-powered VM under the hood and if you use the Flywheel managed WordPress hosting service, allows you to push your development environment straight up to them for one-click production pushes. It’s a fantastic tool and keeps things super clean.
+In my opinion, maintaining a proper working development environment is one of the hardest things to do. Over time it can experience something I like to call “dev rot.” To make this as easy as possible, I invoked the assistance from a tool by the great folks over at Flywheel called Local. Local does one thing: let you build, maintain, and tear down WordPress development environments on a whim. It runs a Virtualbox-powered VM under the hood and if you use the Flywheel managed WordPress hosting service, allows you to push your development environment straight up to them for one-click production pushes. It's a fantastic tool and keeps things super clean.
 
 ![](/content/images/wp-content/uploads/2018/01/flywheel_local-squashed.png)
 
@@ -57,11 +53,11 @@ theme
 └── svg
 ```
 
-within the `theme` directory, `app` houses the code, `gulp` are where my automation tasks reside, and `johnathan-org` is my distribution directory. This would be unique to the theme name. The `app` name is a carryover from when I developed the theme for Ghost. In fact, a lot of this code was carried over and reused at least partially if not completely as is. The `css` directory is generated when `gulp watch` is run, something I’ll cover in a bit.
+within the `theme` directory, `app` houses the code, `gulp` are where my automation tasks reside, and `johnathan-org` is my distribution directory. This would be unique to the theme name. The `app` name is a carryover from when I developed the theme for Ghost. In fact, a lot of this code was carried over and reused at least partially if not completely as is. The `css` directory is generated when `gulp watch` is run, something I'll cover in a bit.
 
 ## Automation Tasks
 
-This was the hardest part of developing because I had never used any kind of serious development tools for assembling a front-end design of any kind. I discovered Gulp and all the things it can do and was instantly hooked. Here’s the part where I talk about all of my gulp files.
+This was the hardest part of developing because I had never used any kind of serious development tools for assembling a front-end design of any kind. I discovered Gulp and all the things it can do and was instantly hooked. Here's the part where I talk about all of my gulp files.
 
 ### Gulp
 
@@ -137,7 +133,7 @@ callback
 });
 ```
 
-It probably goes without saying that these tasks aren’t probably the most efficient or there’s a better way to do all that I’m doing, but the fun thing about developing anything: there’s more than way to do everything.
+It probably goes without saying that these tasks aren't probably the most efficient or there's a better way to do all that I'm doing, but the fun thing about developing anything: there's more than way to do everything.
 
 Here are those individual task files:
 
@@ -272,7 +268,7 @@ return gulp
 });
 ```
 
-I created `vrev` to be able to use `wp_enqueue_*` and be able to cite version numbers. To prevent any kind of caching locally, the implementations use PHP’s `rand()` function. In production, I need to set it to the version within my root `package.json`, which is where this task comes into play.
+I created `vrev` to be able to use `wp_enqueue_*` and be able to cite version numbers. To prevent any kind of caching locally, the implementations use PHP's `rand()` function. In production, I need to set it to the version within my root `package.json`, which is where this task comes into play.
 
 ```
 // version-rev.js
@@ -306,7 +302,7 @@ return gulp
 });
 ```
 
-And that’s about it!
+And that's about it!
 
 The biggest thing I took away from this whole process was how quickly I can make changes now and be able to iterate on previous work without a huge amount of burden or overhead.
 

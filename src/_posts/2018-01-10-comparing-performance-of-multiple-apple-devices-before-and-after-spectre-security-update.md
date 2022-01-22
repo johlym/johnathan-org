@@ -3,32 +3,29 @@ title: Comparing Performance of Multiple Apple Devices Before and After Spectre 
   Update
 slug: comparing-performance-of-multiple-apple-devices-before-and-after-spectre-security-update
 featured: false
-og_title: Comparing Performance of Multiple Apple Devices Before and After Spectre
-  Security Update – Johnathan.org
-og_description: I spent some time this evening putting together some fun tables and
-  graphs after seeing a post by Melvin Mughal on his blog that the iOS 11.2.2 update
+
+
   slows dow
-meta_title: Comparing Performance of Multiple Apple Devices Before and After Spectre
-  Security Update – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-01-10 18:20:49.000000000 -08:00
 ---
 
-I spent some time this evening putting together some fun tables and graphs after seeing a post by [Melvin Mughal on his blog](https://melv1n.com/iphone-performance-benchmarks-after-spectre-update/) that the iOS 11.2.2 update slows down devices by something like 40%. I didn’t believe it, so I fired up all the iDevices I own and benchmarked them before and after the Spectre-fixing update.
+I spent some time this evening putting together some fun tables and graphs after seeing a post by [Melvin Mughal on his blog](https://melv1n.com/iphone-performance-benchmarks-after-spectre-update/) that the iOS 11.2.2 update slows down devices by something like 40%. I didn't believe it, so I fired up all the iDevices I own and benchmarked them before and after the Spectre-fixing update.
 
-**January 11 Update** : I’ve added links to the Geekbench results at the end of the post for those needing verification of these numbers.
+**January 11 Update** : I've added links to the Geekbench results at the end of the post for those needing verification of these numbers.
 
-TL;DR: For my three devices, there was no difference in synthetic performance. This isn’t to say that real-world won’t be affected, but since those on the Internet were using synthetic benchmarks to prove their point, I opted to do the same to disprove.
+TL;DR: For my three devices, there was no difference in synthetic performance. This isn't to say that real-world won't be affected, but since those on the Internet were using synthetic benchmarks to prove their point, I opted to do the same to disprove.
 
 **Statistical Note:** These measurements were taken using the latest-at-the-time for when the measurements were taken. The measurement of the iPhone X on iOS version 11.1 was taken on November 3, 2017 using Geekbench version 4.2.0. For all other measurements of all other pre-11.2.2 versions, they were taken with Geekbench version 4.2.1.
 
 ## Summary
 
-Based on the data I was able to collect, I was not able to reproduce the dramatic drop in performance that some are reporting. A couple reasons for this could be that Melvin’s test was performed using an iPhone 6 which may be subject to an elder battery and thus throttling brought about in iOS 11.2. This throttling is in place to prevent the hardware from pulling a higher voltage than the battery can offer. This is a natural cycle of evolution of batteries of this type.
+Based on the data I was able to collect, I was not able to reproduce the dramatic drop in performance that some are reporting. A couple reasons for this could be that Melvin's test was performed using an iPhone 6 which may be subject to an elder battery and thus throttling brought about in iOS 11.2. This throttling is in place to prevent the hardware from pulling a higher voltage than the battery can offer. This is a natural cycle of evolution of batteries of this type.
 
-Another possibility is simply that I did not have an iPhone 6 to test. it is possible that a well-performing iPhone 6 is subject to greater performance woes than my newer iPhone X and iPad Pro 10.5”, though that doesn’t explain the inconsequential difference in performance from my iPad Mini 2, a device that uses a much older chipset than an iPhone 6.
+Another possibility is simply that I did not have an iPhone 6 to test. it is possible that a well-performing iPhone 6 is subject to greater performance woes than my newer iPhone X and iPad Pro 10.5”, though that doesn't explain the inconsequential difference in performance from my iPad Mini 2, a device that uses a much older chipset than an iPhone 6.
 
 ### Single Core
 

@@ -2,7 +2,7 @@
 title: The Canonical Spicy Chicken Sandwich
 slug: the-canonical-spicy-chicken-sandwich
 featured: false
-excerpt: Based on components found in the PNW.
+excerpt: 
 layout: post
 categories: posts
 date: 2022-01-10 12:20:13.000000000 -08:00

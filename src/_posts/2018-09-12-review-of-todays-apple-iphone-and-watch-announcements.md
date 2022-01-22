@@ -1,28 +1,24 @@
 ---
-title: Review of Today’s Apple iPhone and Watch Announcements
+title: Review of Today's Apple iPhone and Watch Announcements
 slug: review-of-todays-apple-iphone-and-watch-announcements
 feature_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
-og_title: Review of Today’s Apple iPhone and Watch Announcements – Johnathan.org
-og_description: Apple's two-hour event didn't disappoint, though there was little
-  surprise when it came to the design. Here's some of the most important points to
-  take away fro
+
 twitter_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
-meta_title: Review of Today’s Apple iPhone and Watch Announcements – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
 layout: post
 categories: posts
 date: 2018-09-12 13:59:13.000000000 -07:00
 ---
 
-Apple’s two-hour event didn’t disappoint, though there was little surprise when it came to the design. Here’s some of the most important points to take away from today’s event.
+Apple's two-hour event didn't disappoint, though there was little surprise when it came to the design. Here's some of the most important points to take away from today's event.
 
 ![](/content/images/wp-content/uploads/2018/09/Apple-Watch-Series4_watch-front-training_09122018.jpg)
 
 ## **Apple Watch**
 
-- The Series 4 will come in two sizes: 40mm and 44mm. This measures the case size, which lines up with Apple’s explanation that the screen is 32% and 35% larger, respectively, while also being a bit thinner.
+- The Series 4 will come in two sizes: 40mm and 44mm. This measures the case size, which lines up with Apple's explanation that the screen is 32% and 35% larger, respectively, while also being a bit thinner.
 - Battery life appears to be roughly the same as the previous generation.
 - Series 3 will fall into the slot of the low-end Watch offering.
 - All existing watch bands will fit the Series 4.
@@ -35,13 +31,13 @@ Apple’s two-hour event didn’t disappoint, though there was little surprise w
 
 ## **Apple iPhone**
 
-Three iPhones were discussed during today’s Apple event: the iPhone Xs, iPhone Xs Max, and the iPhone Xr.
+Three iPhones were discussed during today's Apple event: the iPhone Xs, iPhone Xs Max, and the iPhone Xr.
 
 ![](/content/images/wp-content/uploads/2018/09/Apple-iPhone-Xs-line-up-09122018.jpg)
 
 ### iPhone Xs
 
-The replacement for Apple’s prior flagship phone, the iPhone Xs will ship with the same dimensions and a whole host of improvements:
+The replacement for Apple's prior flagship phone, the iPhone Xs will ship with the same dimensions and a whole host of improvements:
 
 
 - Face ID will be quicker to respond and unlock, though they did not explain how much faster.
@@ -53,7 +49,7 @@ The replacement for Apple’s prior flagship phone, the iPhone Xs will ship with
   - 6-core processor with
     - 4 high-efficiency cores that are up to 50% more energy efficient
     - 2 high-performance cores that are up to 15% faster than the A11 Bionic)
-  - 4-core GPU that’s up to 50% faster than the A11 Bionic
+  - 4-core GPU that's up to 50% faster than the A11 Bionic
   - 8-core 5 Trillion ops/second Neural Engine that performs up to 9x faster than the A11 Bionic
 
 - Updated camera with better edge detection and image capture for Smart HDR and after-the-fact adjustable depth-of-field, as well as stereo audio capture for video recordings.
@@ -81,7 +77,7 @@ The replacement for Apple’s prior flagship phone, the iPhone Xs will ship with
 
 ### iPhone Xs Max
 
-A new, larger variant of the iPhone Xs, it’ll ship with everything the iPhone Xs does along with:
+A new, larger variant of the iPhone Xs, it'll ship with everything the iPhone Xs does along with:
 
 
 - 6.5″ Super Retina Screen at 2688×1242 pixels and the same 458 pixels-per-inch (ppt) depth.
@@ -102,7 +98,7 @@ A new, larger variant of the iPhone Xs, it’ll ship with everything the iPhone 
 
 ### iPhone Xr
 
-The new entry in the iPhone X lineup. Some features will be the same as the iPhone Xs/Xs Max. Here’s what’s different or new:
+The new entry in the iPhone X lineup. Some features will be the same as the iPhone Xs/Xs Max. Here's what's different or new:
 
 
 - 6.1″ Liquid Retina display with a wide color gamut (P3) and true-tone support, 1792×828 pixel resolution at 326 pixels-per-inch (ppi; Retina)

@@ -3,13 +3,10 @@ title: In a Major Course Correction, The PlayStation 4 Will Finally See Cross-Pl
   Play
 slug: in-a-major-course-correction-the-playstation-4-will-finally-see-cross-platform-play
 featured: false
-og_title: In a Major Course Correction, The PlayStation 4 Will Finally See Cross-Platform
-  Play – Johnathan.org
-og_description: Sony has historically held fast to the idea that cross-platform play
-  is not necessary; turns out they changed their mind.
-meta_title: In a Major Course Correction, The PlayStation 4 Will Finally See Cross-Platform
-  Play – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
+
+
 layout: post
 categories: posts
 date: 2018-09-29 08:11:10.000000000 -07:00
@@ -23,7 +20,7 @@ Ben Kuchera at Polygon:
 
 For a long time, Sony was entirely willing to die on this hill. It sounds like the right people put on the right level of pressure. I welcome this, absolutely. I would love to see more PS4-XBOX cross-play functionality, especially in games like Destiny 2 (where I spend most of my console time, these days).
 
-I also don’t believe they did held out for _any_ other reason but to try to convince people to “play with their friends on PlayStation only.”
+I also don't believe they did held out for _any_ other reason but to try to convince people to “play with their friends on PlayStation only.”
 
 Better late than never.
 

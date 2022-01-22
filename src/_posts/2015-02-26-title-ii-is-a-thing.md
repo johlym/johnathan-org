@@ -2,12 +2,8 @@
 title: Title II is a Thing
 slug: title-ii-is-a-thing
 featured: false
-og_title: Title II is a Thing – Johnathan.org
-og_description: 'And ISPs are crapping their pants. from  Ars Technica : The Federal
-  Communications Commission today voted to enforce net neutrality rules that prevent
-  Internet'
-meta_title: Title II is a Thing – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2015-02-26 09:24:18.000000000 -08:00

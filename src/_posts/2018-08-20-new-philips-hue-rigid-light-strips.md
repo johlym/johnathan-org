@@ -2,12 +2,8 @@
 title: New Philips Hue Rigid Light Strips
 slug: new-philips-hue-rigid-light-strips
 featured: false
-og_title: New Philips Hue Rigid Light Strips – Johnathan.org
-og_description: 'via Pete Lovejoy on  9to5Mac : The Philips Play is a short, rigid
-  lightstrip primarily designed for entertainment consoles. It will be available in
-  single units'
-meta_title: New Philips Hue Rigid Light Strips – Johnathan.org
-meta_description: A hand-crafted technology product by Johnathan Lyman
+
+
 layout: post
 categories: posts
 date: 2018-08-20 09:12:07.000000000 -07:00
