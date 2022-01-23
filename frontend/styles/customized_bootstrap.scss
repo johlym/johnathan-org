@@ -260,7 +260,12 @@ body {
 
 $container-max-widths: (
   sm: 540px,
-  md: 720px,
-  lg: 960px,
+  md: 740px,
+  lg: 900px,
   xl: 1080px
 );
+
+.post-list {
+  list-style: none;
+  padding-left: 0;
+}

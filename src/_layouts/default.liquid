@@ -1,19 +1,27 @@
 <!doctype html>
 <html lang="{{ site.locale }}">
-  <head>
-    {% render "head", metadata: site.metadata, title: page.title %}
-  </head>
-  <body class="site {{ resource.data.layout }} {{ resource.data.page_class }}">
-    {% render "navbar", metadata: site.metadata, 
+
+<head>
+  {% render "head", metadata: site.metadata, title: page.title %}
+</head>
+
+<body class="site {{ resource.data.layout }} {{ resource.data.page_class }}">
+  {% render "navbar", metadata: site.metadata, 
                         resource: resource, 
                         nav: site.data.nav %}
 
-    <div class="main">
-      <div class="container">
-        {{ content }}
+  <div class="main">
+    <div class="container flex-center">
+      <div class="row py-5">
+        <div class="col col-lg-8 mx-auto">
+          {{ content }}
+        </div>
       </div>
-    </div class="main">
 
-    {% render "footer", metadata: site.metadata %}
-  </body>
+    </div>
+  </div class="main">
+
+  {% render "footer", metadata: site.metadata %}
+</body>
+
 </html>

@@ -1,2 +1,7 @@
 @import './customized_bootstrap.scss';
 @import "node_modules/bootstrap/scss/bootstrap";
+
+$fa-font-path:        "../../node_modules/@fortawesome/fontawesome-pro/webfonts";
+@import "node_modules/@fortawesome/fontawesome-pro/scss/fontawesome";
+@import "node_modules/@fortawesome/fontawesome-pro/scss/solid";
+@import "node_modules/@fortawesome/fontawesome-pro/scss/brands";
