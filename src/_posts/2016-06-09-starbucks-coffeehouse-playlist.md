@@ -4,7 +4,7 @@ slug: starbucks-coffeehouse-playlist
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-06-09 05:37:43.000000000 -07:00
 ---

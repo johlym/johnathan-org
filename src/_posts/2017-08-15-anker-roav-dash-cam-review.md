@@ -4,7 +4,7 @@ slug: anker-roav-dash-cam-review
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-08-15 03:23:20.000000000 -07:00
 ---

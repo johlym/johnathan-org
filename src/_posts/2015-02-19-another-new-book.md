@@ -4,7 +4,7 @@ slug: another-new-book
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-19 04:23:41.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: plain-text-lists
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-25 11:40:07.000000000 -07:00
 ---

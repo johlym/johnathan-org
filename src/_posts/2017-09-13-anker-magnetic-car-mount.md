@@ -4,7 +4,7 @@ slug: anker-magnetic-car-mount
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-09-13 03:32:37.000000000 -07:00
 ---

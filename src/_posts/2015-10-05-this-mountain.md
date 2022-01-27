@@ -4,7 +4,7 @@ slug: this-mountain
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-05 09:05:44.000000000 -07:00
 ---

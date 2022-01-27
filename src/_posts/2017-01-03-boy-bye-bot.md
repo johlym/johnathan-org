@@ -4,7 +4,7 @@ slug: boy-bye-bot
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-01-03 18:22:00.000000000 -08:00
 ---

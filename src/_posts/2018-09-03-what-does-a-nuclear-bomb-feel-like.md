@@ -3,7 +3,7 @@ title: What Does a Nuclear Bomb Feel Like?
 slug: what-does-a-nuclear-bomb-feel-like
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-03 12:24:08.000000000 -07:00
 ---

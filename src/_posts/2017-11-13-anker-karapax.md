@@ -4,7 +4,7 @@ slug: anker-karapax
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-11-13 20:30:44.000000000 -08:00
 ---

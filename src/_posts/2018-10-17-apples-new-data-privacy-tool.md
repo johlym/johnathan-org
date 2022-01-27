@@ -3,7 +3,7 @@ title: Apple's New Data Privacy Tool
 slug: apples-new-data-privacy-tool
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-17 20:30:13.000000000 -07:00
 ---

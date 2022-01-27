@@ -4,7 +4,7 @@ slug: an-analysis-on-the-low-cost-apple-laptop-rumors
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-24 20:52:17.000000000 -07:00
 ---

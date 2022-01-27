@@ -4,7 +4,7 @@ slug: time-to-stop-hounding-mcdonalds
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-14 09:49:08.000000000 -08:00
 ---

@@ -3,7 +3,7 @@ title: Remastered film of Paris in the 1890s
 slug: remastered-film-of-paris-in-the-1890s
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-12-17 16:57:44.000000000 -08:00
 ---

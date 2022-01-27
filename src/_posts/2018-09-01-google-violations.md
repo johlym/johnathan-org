@@ -4,7 +4,7 @@ slug: google-violations
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-01 10:58:38.000000000 -07:00
 ---

@@ -3,7 +3,7 @@ title: AirPower's Continued Development Hinted in iOS 12.1 Beta
 slug: airpowers-continued-development-hinted-in-ios-12-1-beta
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-20 20:37:47.000000000 -07:00
 ---

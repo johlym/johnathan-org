@@ -4,7 +4,7 @@ slug: failure-part-3
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-07 20:27:54.000000000 -08:00
 ---

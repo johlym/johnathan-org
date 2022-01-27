@@ -4,7 +4,7 @@ slug: yet-another-re-design
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-04-25 17:00:00.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: forty-years
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-15 09:02:24.000000000 -07:00
 ---

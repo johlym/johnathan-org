@@ -4,7 +4,7 @@ slug: linode-vs-digital-ocean-a-three-round-vps-benchmark-showdown
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-01-18 10:05:48.000000000 -08:00
 ---

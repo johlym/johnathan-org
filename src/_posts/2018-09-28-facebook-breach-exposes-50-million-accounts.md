@@ -3,7 +3,7 @@ title: Facebook Breach Exposes 50 Million Accounts
 slug: facebook-breach-exposes-50-million-accounts
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-28 13:59:26.000000000 -07:00
 ---

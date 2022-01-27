@@ -4,7 +4,7 @@ slug: the-difference-four-years-makes-part-2-disk-io
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-02 15:52:14.000000000 -07:00
 ---

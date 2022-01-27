@@ -4,7 +4,7 @@ slug: beginners-mind
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-05-22 09:03:43.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: interview-with-an-old-person
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-12 17:00:00.000000000 -07:00
 ---

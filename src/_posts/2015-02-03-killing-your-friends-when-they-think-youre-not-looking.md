@@ -4,7 +4,7 @@ slug: killing-your-friends-when-they-think-youre-not-looking
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-03 04:29:01.000000000 -08:00
 ---

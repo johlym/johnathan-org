@@ -4,7 +4,7 @@ slug: on-moving-to-johnathan-org
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-12-12 18:42:09.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: busting-cloudflare-cache-when-posting-to-wordpress-via-xml-rpc
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-12 08:51:29.000000000 -07:00
 ---

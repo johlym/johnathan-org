@@ -4,7 +4,7 @@ slug: codeacademy-the-basics-of-code-in-one-hour
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-09 04:17:48.000000000 -08:00
 ---

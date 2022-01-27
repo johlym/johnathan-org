@@ -4,7 +4,7 @@ slug: the-taste-of-reckoning
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-07-08 16:05:08.000000000 -07:00
 ---

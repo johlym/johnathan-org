@@ -4,7 +4,7 @@ slug: three-hobbies
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-23 17:19:12.000000000 -08:00
 ---

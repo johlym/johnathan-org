@@ -4,7 +4,7 @@ slug: the-space-in-which-i-craft
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-08 04:15:40.000000000 -08:00
 ---

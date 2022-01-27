@@ -4,7 +4,7 @@ slug: le-gouffre
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-11 04:05:00.000000000 -08:00
 ---

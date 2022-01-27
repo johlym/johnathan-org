@@ -3,7 +3,7 @@ title: Elon Musk is Being Sued by the SEC
 slug: elon-musk-is-being-sued-by-the-sec
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-28 14:03:33.000000000 -07:00
 ---

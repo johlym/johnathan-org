@@ -1,0 +1,11 @@
+<article class="mb-5">
+  <header class="mb-2">
+    <h1><a class="text-dark text-decoration-none fw-800" href="{{ post.relative_url }}">{{ post.title }}</a></h1>
+  </header>
+  <div class="content">
+    {{ post.excerpt }}
+  </div>
+  <div class="meta small mt-3 text-muted fw-700">
+    {{ post.date | date: "%B %d, %Y"}} • {{ post.content | number_of_words }} words • {{ post.content | reading_time }} minute(s)
+  </div>
+</article>

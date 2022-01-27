@@ -4,7 +4,7 @@ slug: amateur-colorist
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-12-04 16:11:39.000000000 -08:00
 ---

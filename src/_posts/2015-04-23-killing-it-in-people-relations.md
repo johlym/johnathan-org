@@ -4,7 +4,7 @@ slug: killing-it-in-people-relations
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-04-23 07:37:49.000000000 -07:00
 ---

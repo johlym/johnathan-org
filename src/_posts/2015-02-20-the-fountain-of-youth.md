@@ -4,7 +4,7 @@ slug: the-fountain-of-youth
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-20 05:00:39.000000000 -08:00
 ---

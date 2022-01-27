@@ -3,7 +3,7 @@ title: Tom Cotter's Best Barn-Find Collector Car Tales
 slug: tom-cotters-best-barn-find-collector-car-tales
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-11 09:47:18.000000000 -07:00
 ---

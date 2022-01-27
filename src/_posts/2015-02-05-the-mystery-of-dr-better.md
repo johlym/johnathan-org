@@ -4,7 +4,7 @@ slug: the-mystery-of-dr-better
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-05 16:00:21.000000000 -08:00
 ---

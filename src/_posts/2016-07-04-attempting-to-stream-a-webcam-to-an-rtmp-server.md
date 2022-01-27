@@ -4,7 +4,7 @@ slug: attempting-to-stream-a-webcam-to-an-rtmp-server
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-07-04 22:16:00.000000000 -07:00
 ---

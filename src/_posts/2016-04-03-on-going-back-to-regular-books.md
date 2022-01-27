@@ -4,7 +4,7 @@ slug: on-going-back-to-regular-books
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-04-03 21:07:45.000000000 -07:00
 ---

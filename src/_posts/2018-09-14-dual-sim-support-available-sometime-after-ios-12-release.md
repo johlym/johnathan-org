@@ -3,7 +3,7 @@ title: Dual-SIM Support Available Sometime After iOS 12 Release
 slug: dual-sim-support-available-sometime-after-ios-12-release
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-14 15:49:11.000000000 -07:00
 ---

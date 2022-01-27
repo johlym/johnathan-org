@@ -3,7 +3,7 @@ title: Some thoughts on the 2018 Macbook Pro
 slug: some-thoughts-on-the-2018-macbook-pro
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-12-15 22:55:29.000000000 -08:00
 ---

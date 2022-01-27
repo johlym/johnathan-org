@@ -4,7 +4,7 @@ slug: a-post-i-wrote-with-writed
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-07-09 21:15:24.000000000 -07:00
 ---

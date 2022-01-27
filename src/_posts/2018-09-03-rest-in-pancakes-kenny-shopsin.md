@@ -4,7 +4,7 @@ slug: rest-in-pancakes-kenny-shopsin
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-03 11:55:21.000000000 -07:00
 ---

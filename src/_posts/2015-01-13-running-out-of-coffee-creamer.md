@@ -4,7 +4,7 @@ slug: running-out-of-coffee-creamer
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-13 04:46:12.000000000 -08:00
 ---

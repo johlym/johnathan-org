@@ -2,7 +2,7 @@
 title: "Stratechery: IBM's Old Playbook"
 slug: stratechery-ibms-old-playbook
 featured: false
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-29 10:50:26.000000000 -07:00
 ---

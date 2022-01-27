@@ -7,7 +7,7 @@ featured: false
 
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-19 13:50:05.000000000 -07:00
 ---

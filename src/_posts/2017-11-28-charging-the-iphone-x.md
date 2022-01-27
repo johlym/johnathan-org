@@ -4,7 +4,7 @@ slug: charging-the-iphone-x
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-11-28 23:41:27.000000000 -08:00
 ---

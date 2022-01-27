@@ -4,7 +4,7 @@ slug: triple-digits-on-earth
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-16 06:48:22.000000000 -07:00
 ---

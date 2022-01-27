@@ -4,7 +4,7 @@ slug: pro-gamer-might-never-play-games-again
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-28 16:31:46.000000000 -07:00
 ---

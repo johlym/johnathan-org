@@ -4,7 +4,7 @@ slug: on-web-comics
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-08-06 05:25:08.000000000 -07:00
 ---

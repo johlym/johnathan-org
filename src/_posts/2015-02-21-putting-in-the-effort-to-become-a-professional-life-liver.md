@@ -4,7 +4,7 @@ slug: putting-in-the-effort-to-become-a-professional-life-liver
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-21 13:27:00.000000000 -08:00
 ---

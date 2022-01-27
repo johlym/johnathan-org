@@ -4,7 +4,7 @@ slug: write-what-you-know
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-12 06:12:38.000000000 -07:00
 ---

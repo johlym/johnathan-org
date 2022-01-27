@@ -4,7 +4,7 @@ slug: forget-your-goals
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-05-07 20:46:03.000000000 -07:00
 ---

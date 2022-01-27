@@ -4,7 +4,7 @@ slug: extending-my-writing-goals-to-photography
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-20 04:02:57.000000000 -08:00
 ---

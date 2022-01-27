@@ -4,7 +4,7 @@ slug: new-workspace-a-story
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-04-19 21:03:00.000000000 -07:00
 ---

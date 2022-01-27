@@ -4,7 +4,7 @@ slug: computer-on-the-bus
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-14 09:55:53.000000000 -08:00
 ---

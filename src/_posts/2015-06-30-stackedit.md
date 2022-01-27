@@ -4,7 +4,7 @@ slug: stackedit
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-06-30 14:57:47.000000000 -07:00
 ---

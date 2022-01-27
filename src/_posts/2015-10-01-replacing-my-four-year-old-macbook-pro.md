@@ -4,7 +4,7 @@ slug: replacing-my-four-year-old-macbook-pro
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-01 09:48:37.000000000 -07:00
 ---

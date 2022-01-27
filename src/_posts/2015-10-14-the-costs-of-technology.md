@@ -4,7 +4,7 @@ slug: the-costs-of-technology
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-14 22:38:02.000000000 -07:00
 ---

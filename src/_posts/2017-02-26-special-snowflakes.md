@@ -4,7 +4,7 @@ slug: special-snowflakes
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-02-26 11:49:00.000000000 -08:00
 ---

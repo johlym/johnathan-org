@@ -3,7 +3,7 @@ title: 'TechCrunch: Zoho Pulled Offline After Phishing Complaints'
 slug: techcrunch-zoho-pulled-offline-after-phishing-complaints
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-24 17:19:54.000000000 -07:00
 ---

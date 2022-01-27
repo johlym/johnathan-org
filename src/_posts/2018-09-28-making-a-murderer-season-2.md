@@ -3,7 +3,7 @@ title: Making A Murderer, Season 2
 slug: making-a-murderer-season-2
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-28 07:33:35.000000000 -07:00
 ---

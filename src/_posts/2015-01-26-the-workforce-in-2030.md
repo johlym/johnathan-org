@@ -4,7 +4,7 @@ slug: the-workforce-in-2030
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-26 17:26:17.000000000 -08:00
 ---

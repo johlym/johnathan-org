@@ -3,7 +3,7 @@ title: College and the Fear of Change
 slug: college-and-the-fear-of-change
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-21 14:44:20.000000000 -07:00
 ---

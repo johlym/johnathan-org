@@ -4,7 +4,7 @@ slug: incapacity
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-06-16 18:34:00.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: upgrading-to-ssl
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-08-16 11:43:17.000000000 -07:00
 ---

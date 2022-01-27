@@ -4,7 +4,7 @@ slug: and-so-the-lols-continue
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-04 03:22:04.000000000 -08:00
 ---

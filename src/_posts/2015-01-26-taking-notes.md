@@ -4,7 +4,7 @@ slug: taking-notes
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-26 04:19:14.000000000 -08:00
 ---

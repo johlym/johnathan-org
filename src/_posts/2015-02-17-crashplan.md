@@ -4,7 +4,7 @@ slug: crashplan
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-17 03:59:25.000000000 -08:00
 ---

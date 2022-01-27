@@ -3,7 +3,7 @@ title: Express Yourself
 slug: express-yourself
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-19 04:10:30.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: financial-planning-and-investment-apps-that-dont-suck
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-07 11:57:39.000000000 -08:00
 ---

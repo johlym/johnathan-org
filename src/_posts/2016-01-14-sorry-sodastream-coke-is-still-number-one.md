@@ -4,7 +4,7 @@ slug: sorry-sodastream-coke-is-still-number-one
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-01-14 19:08:15.000000000 -08:00
 ---

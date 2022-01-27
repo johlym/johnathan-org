@@ -4,7 +4,7 @@ slug: thats-not-how-this-works
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-06-05 17:20:57.000000000 -07:00
 ---

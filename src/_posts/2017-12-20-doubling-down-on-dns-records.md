@@ -4,7 +4,7 @@ slug: doubling-down-on-dns-records
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-12-20 00:31:16.000000000 -08:00
 ---

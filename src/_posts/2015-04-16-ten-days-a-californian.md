@@ -4,7 +4,7 @@ slug: ten-days-a-californian
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-04-16 19:11:02.000000000 -07:00
 ---

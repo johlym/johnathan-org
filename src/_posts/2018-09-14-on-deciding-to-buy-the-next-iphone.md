@@ -3,7 +3,7 @@ title: On Deciding to Buy the Next iPhone
 slug: on-deciding-to-buy-the-next-iphone
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-14 09:46:51.000000000 -07:00
 ---

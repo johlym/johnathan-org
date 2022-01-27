@@ -4,7 +4,7 @@ slug: formula-e-all-the-speed-without-the-noise
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-19 10:52:08.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: my-learn-ruby-on-rails-list
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-07-29 16:18:59.000000000 -07:00
 ---

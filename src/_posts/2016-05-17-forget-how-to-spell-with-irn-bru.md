@@ -4,7 +4,7 @@ slug: forget-how-to-spell-with-irn-bru
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-05-17 16:41:00.000000000 -07:00
 ---

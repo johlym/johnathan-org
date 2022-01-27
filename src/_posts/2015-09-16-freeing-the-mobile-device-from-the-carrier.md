@@ -4,7 +4,7 @@ slug: freeing-the-mobile-device-from-the-carrier
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-09-16 07:47:06.000000000 -07:00
 ---

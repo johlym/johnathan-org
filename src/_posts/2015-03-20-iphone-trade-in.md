@@ -4,7 +4,7 @@ slug: iphone-trade-in
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-20 21:37:08.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: la-vie-on-the-wharf
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-29 13:35:57.000000000 -07:00
 ---

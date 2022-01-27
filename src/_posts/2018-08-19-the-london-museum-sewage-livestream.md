@@ -4,7 +4,7 @@ slug: the-london-museum-sewage-livestream
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-19 16:45:58.000000000 -07:00
 ---

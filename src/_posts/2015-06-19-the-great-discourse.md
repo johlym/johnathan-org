@@ -4,7 +4,7 @@ slug: the-great-discourse
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-06-19 19:52:17.000000000 -07:00
 ---

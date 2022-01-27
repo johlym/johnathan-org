@@ -4,7 +4,7 @@ slug: eleven-million
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-08-06 05:31:08.000000000 -07:00
 ---

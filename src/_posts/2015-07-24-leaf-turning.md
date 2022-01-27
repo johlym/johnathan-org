@@ -4,7 +4,7 @@ slug: leaf-turning
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-07-24 06:34:41.000000000 -07:00
 ---

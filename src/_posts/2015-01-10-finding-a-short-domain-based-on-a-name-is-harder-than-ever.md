@@ -4,7 +4,7 @@ slug: finding-a-short-domain-based-on-a-name-is-harder-than-ever
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-10 13:30:54.000000000 -08:00
 ---

@@ -8,7 +8,7 @@ featured: false
   space ship
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-21 04:05:43.000000000 -08:00
 ---

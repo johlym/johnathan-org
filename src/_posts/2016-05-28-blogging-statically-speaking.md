@@ -4,7 +4,7 @@ slug: blogging-statically-speaking
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-05-28 19:43:55.000000000 -07:00
 ---

@@ -8,7 +8,7 @@ featured: false
   slows dow
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-01-10 18:20:49.000000000 -08:00
 ---

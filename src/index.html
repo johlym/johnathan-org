@@ -2,27 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
+paginate:
+  collection: posts
 ---
 
-Welcome to my site! I'm a PNW-native Customer Support veteran-turned full-stack Rails developer. 
-
-<h2>Latest Posts</h2>
-<div class="row">
-  {% for post in collections.posts.resources limit:2 %}
-  <div class="col">
-    <div class="header">
-      <h3>{{ post.title }}</h3>
-      <div class="meta small">
-        Posted: {{ post.date | date: "%B %d, %Y"}} | Word Count: {{ post.content | number_of_words }} | Reading Time: {{ post.content | reading_time }} minutes
-      </div>
-    </div>
-    <div class="content">
-      {% if post.excerpt %}
-      {{ post.excerpt }}
-      {% else %}
-      {{ post.content }}
-      {% endif %}
-    </div>
-  </div>
-  {% endfor %}
+<div class="small fw-700">LATEST POST</div>
+{% for post in paginator.resources limit:1 %}
+{% render "post_loop" post: post %}
+{% endfor %}
+<div class="text-center mx-auto">
+  <a class="btn btn-dark text-white" href="/posts" role="button">See all posts</a>
 </div>

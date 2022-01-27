@@ -4,7 +4,7 @@ slug: buzz-killers
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-27 04:18:55.000000000 -08:00
 ---

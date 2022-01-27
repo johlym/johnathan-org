@@ -1,11 +1,11 @@
 - name: Home
-  path: 
+  path: /
 
 - name: About
-  path: about
+  path: /about
 
-- name: Archive
-  path: archive
+- name: Posts
+  path: /posts
 
 - name: Elsewhere
-  path: elsewhere
+  path: /elsewhere

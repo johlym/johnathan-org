@@ -4,7 +4,7 @@ slug: googles-2017-year-in-search
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-12-13 19:23:33.000000000 -08:00
 ---

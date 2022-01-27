@@ -3,7 +3,7 @@ title: "Hodinkee: 'How Apple's Awesome Motion Watch Faces Are Made'"
 slug: hodinkee-how-apples-awesome-motion-watch-faces-are-made
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-20 11:22:00.000000000 -07:00
 ---

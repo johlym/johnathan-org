@@ -3,7 +3,7 @@ title: MacStories' iOS 12 Review
 slug: macstories-ios-12-review
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-17 14:20:12.000000000 -07:00
 ---

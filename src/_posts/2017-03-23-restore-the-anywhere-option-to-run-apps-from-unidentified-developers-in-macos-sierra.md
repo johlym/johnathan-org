@@ -8,7 +8,7 @@ featured: false
   to bring
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-03-23 15:41:36.000000000 -07:00
 ---

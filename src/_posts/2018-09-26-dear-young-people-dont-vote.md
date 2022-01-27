@@ -3,7 +3,7 @@ title: "Dear Young People: Don't Vote"
 slug: dear-young-people-dont-vote
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-26 16:39:16.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: power-rangers
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-25 04:09:56.000000000 -08:00
 ---

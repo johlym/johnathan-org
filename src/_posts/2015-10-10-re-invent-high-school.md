@@ -4,7 +4,7 @@ slug: re-invent-high-school
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-10 11:13:08.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: after-three-weeks
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-11-28 13:57:36.000000000 -08:00
 ---

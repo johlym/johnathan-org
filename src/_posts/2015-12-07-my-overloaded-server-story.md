@@ -4,7 +4,7 @@ slug: my-overloaded-server-story
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-12-07 09:47:35.000000000 -08:00
 ---

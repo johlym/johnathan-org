@@ -4,7 +4,7 @@ slug: getting-started-with-loggly
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-14 17:12:11.000000000 -07:00
 ---

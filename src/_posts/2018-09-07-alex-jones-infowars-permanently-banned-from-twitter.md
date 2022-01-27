@@ -3,7 +3,7 @@ title: Alex Jones, Infowars Permanently Banned from Twitter
 slug: alex-jones-infowars-permanently-banned-from-twitter
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-07 09:15:16.000000000 -07:00
 ---

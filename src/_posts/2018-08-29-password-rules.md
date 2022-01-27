@@ -4,7 +4,7 @@ slug: password-rules
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-29 17:46:34.000000000 -07:00
 ---

@@ -3,7 +3,7 @@ title: Elon Musk Settles with the SEC
 slug: elon-musk-settles-with-the-sec
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-01 15:52:43.000000000 -07:00
 ---

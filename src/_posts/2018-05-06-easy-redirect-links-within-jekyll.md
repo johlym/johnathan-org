@@ -4,7 +4,7 @@ slug: easy-redirect-links-within-jekyll
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-05-06 17:00:00.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: title-ii-is-a-thing
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-26 09:24:18.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: going-back-to-your-mac-no-more
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-21 14:45:35.000000000 -07:00
 ---

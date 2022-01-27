@@ -4,7 +4,7 @@ slug: how-facebook-ads-find-you
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-03-13 13:45:05.000000000 -07:00
 ---

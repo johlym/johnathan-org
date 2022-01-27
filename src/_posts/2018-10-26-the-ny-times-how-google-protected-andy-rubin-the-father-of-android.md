@@ -2,7 +2,7 @@
 title: "The NY Times: How Google Protected Andy Rubin, the 'Father of Android'"
 slug: the-ny-times-how-google-protected-andy-rubin-the-father-of-android
 featured: false
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-26 11:07:01.000000000 -07:00
 ---

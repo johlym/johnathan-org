@@ -1,22 +1,21 @@
-<header class="container">
-  <div class="container-fluid">
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
-      <a class="navbar-brand me-3 my-3 fw-700" href="/"> <i class="fas fa-keyboard fa-lg me-2"></i> Johnathan Lyman </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-        data-bs-target="#actualNavbar" aria-controls="actualNavbar"
-        aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="actualNavbar">
-        <ul class="navbar-nav me-auto mb-2 mb-md-0">
-          {% for item in nav %}
-          <li class="nav-item">
-            <a class="nav-link fw-500" aria-current="page"
-              href="/{{ item.path }}">{{ item.name }}</a>
-          </li>
-           {% endfor %}
-        </ul>
-    </nav>
-  </div>
+<header class="container border-bottom mb-5 mt-2 py-2 px-0">
+  <div class="row justify-content-center py-2">
+    <div class="col-sm-auto d-flex justify-content-center">
+      <a class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none fw-800 fs-4"
+        href="/"> <i class="fas fa-keyboard fa-lg me-2"></i> Johnathan.org </a>
+    </div>
 
+  </div>
+  <div class="row py-2 justify-content-center">
+    <div class="d-flex col-sm-auto justify-content-center">
+      <ul class="nav">
+        {% for item in nav %}
+        <li class="nav-item">
+          <a class="nav-link fw-500 link-dark" aria-current="page"
+            href="{{ item.path }}">{{ item.name }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 </header>

@@ -4,7 +4,7 @@ slug: from-ghost-to-wordpress
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-01-04 10:31:38.000000000 -08:00
 ---

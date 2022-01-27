@@ -1,0 +1,7 @@
+<div class="border-bottom mb-1 pb-1">
+  <strong>Menu</strong>
+</div>
+{% for item in menu %}
+<p class="mb-1"><a class="link-dark fw-normal" aria-current="page"
+    href="/{{ item.path }}">{{ item.name }}</a></p>
+{% endfor %}

@@ -4,7 +4,7 @@ slug: how-long-has-it-been
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-12-09 12:37:19.000000000 -08:00
 ---

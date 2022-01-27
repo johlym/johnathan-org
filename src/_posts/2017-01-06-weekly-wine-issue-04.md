@@ -4,7 +4,7 @@ slug: weekly-wine-issue-04
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-01-06 04:00:30.000000000 -08:00
 ---

@@ -5,7 +5,7 @@ featured: false
 
   Johnathan.org
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-13 09:36:57.000000000 -07:00
 ---

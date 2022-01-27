@@ -3,7 +3,7 @@ title: Medium as a Blogging Platform
 slug: medium-as-a-blogging-platform
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-06 08:43:28.000000000 -07:00
 ---

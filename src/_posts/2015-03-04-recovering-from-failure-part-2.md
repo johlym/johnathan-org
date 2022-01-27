@@ -4,7 +4,7 @@ slug: recovering-from-failure-part-2
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-04 04:20:45.000000000 -08:00
 ---

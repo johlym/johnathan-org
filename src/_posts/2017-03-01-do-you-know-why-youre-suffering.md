@@ -4,7 +4,7 @@ slug: do-you-know-why-youre-suffering
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-03-01 17:01:00.000000000 -08:00
 ---

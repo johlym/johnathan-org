@@ -4,7 +4,7 @@ slug: using-words
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-06 06:30:55.000000000 -08:00
 ---

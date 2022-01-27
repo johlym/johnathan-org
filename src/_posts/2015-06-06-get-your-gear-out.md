@@ -4,7 +4,7 @@ slug: get-your-gear-out
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-06-06 10:23:04.000000000 -07:00
 ---

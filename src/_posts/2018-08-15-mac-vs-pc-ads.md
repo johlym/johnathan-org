@@ -4,7 +4,7 @@ slug: mac-vs-pc-ads
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-15 20:06:19.000000000 -07:00
 ---

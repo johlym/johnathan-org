@@ -4,7 +4,7 @@ slug: strange-things-around-these-parts
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-06-13 05:18:40.000000000 -07:00
 ---

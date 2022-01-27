@@ -4,7 +4,7 @@ slug: seeing-the-forest-for-the-trees
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-11-10 18:28:43.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: wearing-your-apple-watch-24-7
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-09-21 13:23:47.000000000 -07:00
 ---

@@ -1,0 +1,19 @@
+- name: Github (@johlym)
+  path: https://github.com/johlym
+  icon: fab fa-github
+
+- name: LinkedIn
+  path: https://linkedin.com/in/johnathanlyman
+  icon: fab fa-linkedin
+
+- name: Weather Station
+  path: https://leahillwx.org
+  icon: fad fa-sun-cloud
+
+- name: Kenmore Coffee Company
+  path: https://kenmorecoffee.com
+  icon: fas fa-coffee
+
+- name: Cascade Handcrafts
+  path: https://cascadehandcrafts.com
+  icon: fas fa-candle-holder

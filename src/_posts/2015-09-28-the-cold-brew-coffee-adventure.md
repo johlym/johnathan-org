@@ -4,7 +4,7 @@ slug: the-cold-brew-coffee-adventure
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-09-28 07:55:59.000000000 -07:00
 ---

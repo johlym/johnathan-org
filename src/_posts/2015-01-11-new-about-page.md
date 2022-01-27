@@ -4,7 +4,7 @@ slug: new-about-page
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-11 06:38:35.000000000 -08:00
 ---

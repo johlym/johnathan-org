@@ -2,7 +2,7 @@
 title: 'Gizmodo: “Facebook Is Giving Advertisers Access to Your Shadow Contact Information”'
 slug: gizmodo-facebook-is-giving-advertisers-access-to-your-shadow-contact-information
 featured: false
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-27 06:49:55.000000000 -07:00
 ---

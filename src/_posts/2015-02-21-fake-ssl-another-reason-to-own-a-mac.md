@@ -4,7 +4,7 @@ slug: fake-ssl-another-reason-to-own-a-mac
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-21 09:09:39.000000000 -08:00
 ---

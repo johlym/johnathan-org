@@ -4,7 +4,7 @@ slug: elder-scrolls-online-tamirel-unlimited
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-07-08 16:54:04.000000000 -07:00
 ---

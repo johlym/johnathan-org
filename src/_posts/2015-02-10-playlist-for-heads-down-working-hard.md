@@ -4,7 +4,7 @@ slug: playlist-for-heads-down-working-hard
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-10 04:21:03.000000000 -08:00
 ---

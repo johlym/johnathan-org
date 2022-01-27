@@ -4,7 +4,7 @@ slug: manafort-convicted-on-8-counts-mistrial-declared-on-10-others
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-08-21 14:14:11.000000000 -07:00
 ---

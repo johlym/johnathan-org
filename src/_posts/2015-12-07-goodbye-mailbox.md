@@ -4,7 +4,7 @@ slug: goodbye-mailbox
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-12-07 09:46:17.000000000 -08:00
 ---

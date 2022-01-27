@@ -4,7 +4,7 @@ slug: no-fly-zone
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-12 04:01:28.000000000 -08:00
 ---

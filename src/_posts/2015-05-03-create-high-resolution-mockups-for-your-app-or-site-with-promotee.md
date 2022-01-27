@@ -4,7 +4,7 @@ slug: create-high-resolution-mockups-for-your-app-or-site-with-promotee
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-05-03 15:05:59.000000000 -07:00
 ---

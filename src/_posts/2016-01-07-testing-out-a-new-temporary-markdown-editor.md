@@ -4,7 +4,7 @@ slug: testing-out-a-new-temporary-markdown-editor
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-01-07 14:43:35.000000000 -08:00
 ---

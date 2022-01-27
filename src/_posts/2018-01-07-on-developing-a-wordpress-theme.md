@@ -4,7 +4,7 @@ slug: on-developing-a-wordpress-theme
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-01-07 21:07:19.000000000 -08:00
 ---

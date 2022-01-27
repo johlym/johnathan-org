@@ -4,7 +4,7 @@ slug: 48-hours-of-slack
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-06-25 17:35:19.000000000 -07:00
 ---

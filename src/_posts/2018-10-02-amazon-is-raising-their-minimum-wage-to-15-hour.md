@@ -3,7 +3,7 @@ title: Amazon is Raising Their Minimum Wage to $15/hour
 slug: amazon-is-raising-their-minimum-wage-to-15-hour
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-02 14:42:48.000000000 -07:00
 ---

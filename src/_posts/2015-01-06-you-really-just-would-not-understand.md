@@ -4,7 +4,7 @@ slug: you-really-just-would-not-understand
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-06 19:16:16.000000000 -08:00
 ---

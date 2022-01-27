@@ -4,7 +4,7 @@ slug: a-week-of-cloudflare-argo
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-05-21 17:00:00.000000000 -07:00
 ---

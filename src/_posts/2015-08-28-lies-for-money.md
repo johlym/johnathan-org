@@ -4,7 +4,7 @@ slug: lies-for-money
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-08-28 10:10:27.000000000 -07:00
 ---

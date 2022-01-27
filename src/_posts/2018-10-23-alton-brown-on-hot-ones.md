@@ -3,7 +3,7 @@ title: Alton Brown on Hot Ones
 slug: alton-brown-on-hot-ones
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-10-23 12:38:50.000000000 -07:00
 ---

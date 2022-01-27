@@ -4,7 +4,7 @@ slug: how-hard-are-you-trying
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2016-12-30 09:05:00.000000000 -08:00
 ---

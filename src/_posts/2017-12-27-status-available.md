@@ -4,7 +4,7 @@ slug: status-available
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2017-12-27 19:19:18.000000000 -08:00
 ---

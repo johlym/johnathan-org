@@ -3,7 +3,7 @@ title: Apple Event Rumors Piling Up
 slug: apple-event-rumors-piling-up
 featured: false
 
-layout: post
+layout: single_post
 categories: posts
 date: 2018-09-10 09:46:34.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: psychological-life-hacks
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-10-11 15:14:09.000000000 -07:00
 ---

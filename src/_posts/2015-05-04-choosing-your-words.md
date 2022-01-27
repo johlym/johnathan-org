@@ -4,7 +4,7 @@ slug: choosing-your-words
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-05-04 08:23:01.000000000 -07:00
 ---

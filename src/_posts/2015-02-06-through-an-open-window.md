@@ -4,7 +4,7 @@ slug: through-an-open-window
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-02-06 04:54:20.000000000 -08:00
 ---

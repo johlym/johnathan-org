@@ -4,7 +4,7 @@ slug: getting-started-with-loggly-part-2-the-cool-stuff
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-03-14 19:30:16.000000000 -07:00
 ---

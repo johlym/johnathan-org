@@ -4,7 +4,7 @@ slug: favorite-thing-to-this-day
 featured: false
 
 
-layout: post
+layout: single_post
 categories: posts
 date: 2015-01-27 16:54:59.000000000 -08:00
 ---
