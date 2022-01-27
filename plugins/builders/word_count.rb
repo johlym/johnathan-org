@@ -12,15 +12,15 @@ class Builders::WordCount < SiteBuilder
     end
 
     liquid_tag :post_count do
-      "#{@total_post_count} t"
+      "#{@total_post_count} posts"
     end
 
     liquid_tag "word_count" do
-      "#{@total_word_count} a"
+      "#{@total_word_count} words"
     end
 
     liquid_tag "average_word_count" do
-      "#{@average_words_per_post} b"
+      "#{@average_words_per_post} words per post (average)"
     end
 
     def generate_total_posts
