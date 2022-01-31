@@ -1,21 +1,15 @@
-<header class="container border-bottom mb-5 mt-2 py-2 px-0">
-  <div class="row justify-content-center py-2">
-    <div class="col-sm-auto d-flex justify-content-center">
-      <a class="d-flex align-items-center mb-3 mb-lg-0 me-lg-auto text-dark text-decoration-none fw-800 fs-4"
-        href="/"> <i class="fas fa-keyboard fa-lg me-2"></i> Johnathan.org </a>
-    </div>
-
-  </div>
-  <div class="row py-2 justify-content-center">
-    <div class="d-flex col-sm-auto justify-content-center">
-      <ul class="nav">
+<header class="container-fluid border-bottom py-3 px-0">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col d-flex justify-content-start">
+        <a class="text-dark text-decoration-none fw-700 me-3" href="/"> <i
+            class="fas fa-keyboard fa-lg me-2"></i> Johnathan.org
+        </a>
         {% for item in nav %}
-        <li class="nav-item">
-          <a class="nav-link fw-500 link-dark" aria-current="page"
-            href="{{ item.path }}">{{ item.name }}</a>
-        </li>
+        <a class="fw-500 link-dark me-3" aria-current="page"
+          href="{{ item.path }}">{{ item.name }}</a>
         {% endfor %}
-      </ul>
+      </div>
     </div>
   </div>
 </header>
