@@ -1,49 +1,54 @@
-<footer class="container small border-top pt-5 mt-5">
-  <div class="row">
-    <div class="col d-flex flex-column mb-5 col-lg-4">
-      <p class="mb-2 fw-bold">Johnathan.org</p>
-      <p class="text-muted">Writing, projects, and other things created by Johnathan Lyman</p>
-    </div>
-    <div class="col d-flex flex-column mb-5 col-lg">
-      <p class="mb-2 fw-bold">Site Statistics</p>
-      <p class="text-muted">coming soon.</p>
-    </div>
-    <div class="col d-flex flex-column mb-5 col-lg">
-      <p class="mb-2 fw-bold">Site Links</p>
-      <ul class="px-0 list-unstyled">
-        {% for item in nav %}
-        <li><a class="text-muted fw-normal mb-2" rel="noopener"
-        href="{{ item.path }}">{{ item.name }}</a></li>
-        {% endfor %}
-        <li><a class="text-muted fw-normal mb-2" rel="noopener" href="/sitemap.xml">Sitemap</a></li>
-      </ul>
-      
-      
-    </div>
-    <div class="col d-flex flex-column mb-5 col-lg">
-      <p class="mb-2 fw-bold">Elsewhere</p>
-      <ul class="px-0 list-unstyled">
-        {% for item in nav2 %}
-        <li><a class="text-muted fw-normal mb-2 d-inline" rel="noopener"
-        href="{{ item.path }}" target="_blank">{{ item.name }}</a></li>
-        {% endfor %}
-      </ul>
-      
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-12 d-flex flex-column mb-1 col-md-6">
-      <div class="d-flex flex-column justify-content-start align-items-start">
-        <p class="m-0 text-muted mb-3">&copy; 2014-{{ "now" | date: "%Y" }} Johnathan Lyman.</p>
-        <div class="m-0">
+<footer class="container-fluid small border-top pt-5 mt-auto">
+  <div class="container">
+    <div class="row">
+      <div class="col d-flex flex-column mb-5 col-lg-4">
+        <p class="mb-2 fw-bold">Johnathan.org</p>
+        <p class="text-muted">Writing, projects, and other things created by
+          Johnathan Lyman</p>
+      </div>
+      <div class="col d-flex flex-column mb-5 col-lg">
+        <p class="mb-2 fw-bold">Site Statistics</p>
+        <p class="text-muted">coming soon.</p>
+      </div>
+      <div class="col d-flex flex-column mb-5 col-lg">
+        <p class="mb-2 fw-bold">Site Links</p>
+        <ul class="px-0 list-unstyled">
+          {% for item in nav %}
+          <li><a class="text-muted fw-normal mb-2" rel="noopener"
+              href="{{ item.path }}">{{ item.name }}</a></li>
+          {% endfor %}
+          <li><a class="text-muted fw-normal mb-2" rel="noopener"
+              href="/sitemap.xml">Sitemap</a></li>
+        </ul>
 
-        </div>
+
+      </div>
+      <div class="col d-flex flex-column mb-5 col-lg">
+        <p class="mb-2 fw-bold">Elsewhere</p>
+        <ul class="px-0 list-unstyled">
+          {% for item in nav2 %}
+          <li><a class="text-muted fw-normal mb-2 d-inline" rel="noopener"
+              href="{{ item.path }}" target="_blank">{{ item.name }}</a></li>
+          {% endfor %}
+        </ul>
+
       </div>
     </div>
-    <div
-      class="col-12 d-flex flex-column mb-1 col-md-6 justify-content-end align-items-start align-items-md-end">
-      <p class="text-muted">Built with <a
-      href="https://bridgetownrb.com" target="_blank">Bridgetown</a></p>
+    <div class="row">
+      <div class="col flex-column mb-1 col-md-6">
+        <div class="d-flex flex-column justify-content-start align-items-start">
+          <p class="m-0 text-muted mb-3">&copy; 2014-{{ "now" | date: "%Y" }}
+            Johnathan Lyman. All Rights Reserved. Content on this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 4.0 License</a>. Code samples and snippets are licensed under the <a rel="license">MIT License</a></p>
+          <div class="m-0">
+
+          </div>
+        </div>
+      </div>
+      <div
+        class="col flex-row mb-1 col-md-6">
+        <p class="text-muted text-end">Built with <a href="https://bridgetownrb.com"
+            target="_blank">Bridgetown</a></p>
+      </div>
     </div>
   </div>
 </footer>
