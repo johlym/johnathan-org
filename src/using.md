@@ -3,6 +3,11 @@ layout: page
 title: Tools I Use
 ---
 
+<p class="text-center">
+{% for category in site.data.using.categories %}
+<a href="#{{ category.name | slugify }}">{{ category.name }}</a>{% unless forloop.last %} • {% endunless %}
+{% endfor %}
+</p>
 {% for category in site.data.using.categories %}
 <h2>{{ category.name }}</h2>
 {% if category.categories %}
