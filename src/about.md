@@ -34,8 +34,6 @@ Johnathan.org is operated, maintained, and written by myself, Johnathan Lyman. I
 
 Since 2014, I’ve created almost over 400 posts. About 350 of them (as of mid-September 2018) have made it through the various transitions this site has seen. A few of them were so highly irrelevant or didn’t make sense. In hindsight, keeping them around seems like the right thing to do, but I’ve opted to move forward.
 
-Johnathan.org is not a full-time project for me right now, though I would not turn down the opportunity to make one someday.
-
 ### Hosting, Toolchain, Standards
 
 Johnathan.org is a statically generated site, built using [Bridgetown](https://github.com/bridgetownrb/bridgetown). For more on the tools I use on regular basis, check out [this page](/using). 
