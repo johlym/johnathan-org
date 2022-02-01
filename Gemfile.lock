@@ -79,7 +79,7 @@ GEM
     ffi (1.15.5)
     hash_with_dot_access (1.2.0)
       activesupport (>= 5.0.0, < 8.0)
-    i18n (1.9.0)
+    i18n (1.9.1)
       concurrent-ruby (~> 1.0)
     kramdown (2.3.1)
       rexml
@@ -124,7 +124,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     webrick (1.7.0)
-    zeitwerk (2.5.3)
+    zeitwerk (2.5.4)
 
 PLATFORMS
   arm64-darwin-21
