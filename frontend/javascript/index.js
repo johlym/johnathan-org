@@ -1,4 +1,4 @@
-import "index.scss"
+import "index.css"
 
 // Import all JavaScript & CSS files from src/_components
 const componentsContext = require.context("bridgetownComponents", true, /\.(js|css)$/)
