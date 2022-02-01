@@ -7,7 +7,7 @@ This Privacy Policy describes the way data is handled on this site and the parti
 
 ## Data & Cookies
 
-There are no known cookies tracked for this site. Analytics are done through [Fathom Analytics](https://usefathom.com) which prides itself on being truly GDPR, CCPA, and cookie-law compliant. Nothing identifiable about you is recorded. See [Fathom Analytics' Privacy Policy])(https://usefathom.com/privacy) for more info on how they operate.
+There are no known cookies tracked for this site. Analytics are done through [Fathom Analytics](https://usefathom.com) which prides itself on being truly GDPR, CCPA, and cookie-law compliant. Nothing identifiable about you is recorded. See [Fathom Analytics' Privacy Policy](https://usefathom.com/privacy) for more info on how they operate.
 
 ## Third Party Services
 
