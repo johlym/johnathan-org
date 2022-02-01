@@ -6,13 +6,13 @@
 </head>
 
 <body class="site {{ resource.data.layout }} {{ resource.data.page_class }}">
-<div class="d-flex min-vh-100 flex-column align-items-end">
+<div>
   {% render "navbar", metadata: site.metadata, 
                         resource: resource, 
                         nav: site.data.nav %}
 
-  <div class="main container-fluid my-4 my-md-5">
-    <article class="content-width mx-auto">
+  <div class="container mx-auto">
+    <article>
       {{ content }}
     </article>
   </div>

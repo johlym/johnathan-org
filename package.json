@@ -27,6 +27,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "@themesberg/flowbite": "^1.3.0",
     "purgecss": "^4.1.3"
   }
 }
