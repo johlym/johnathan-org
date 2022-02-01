@@ -14,4 +14,4 @@ There are no known cookies tracked for this site. Analytics are done through [Fa
 Icons on this site are provided by Font Awesome ([Privacy Policy](https://fontawesome.com/privacy). 
 
 
-<p class="small text-muted">Inspuration for this simplistic Privacy Policy comes from <a href="https://andrewm.codes" rel="noopener" target="_blank">Andrew Mason</a>.</p>
+<p class="small text-muted">Inspiration for this simplistic Privacy Policy comes from <a href="https://andrewm.codes" rel="noopener" target="_blank">Andrew Mason</a>.</p>
