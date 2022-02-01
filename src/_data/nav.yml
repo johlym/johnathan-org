@@ -10,8 +10,5 @@
 - name: Links
   path: /links/
 
-- name: Work
-  path: /work/
-
 - name: Follow
   path: /follow/
