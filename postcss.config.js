@@ -1,5 +1,6 @@
 module.exports = {
   plugins: {
+    'tailwindcss': {},
     'postcss-easy-import': {},
     'postcss-mixins': {},
     'postcss-color-function': {},
