@@ -19,9 +19,6 @@ url: "https://johnathan.org" # the base hostname & protocol for your site, e.g. 
 permalink: simple
 template_engine: liquid
 
-pagination:
-  enabled: true
-
 # Other options you might want to investigate:
 # 
 # base_path: "/" # the subpath of your site, e.g. /blog
