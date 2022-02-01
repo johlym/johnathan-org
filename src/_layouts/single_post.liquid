@@ -5,9 +5,7 @@ layout: default
 <header class="my-5">
   <h1>{{ page.title }}</h1>
   <div class="meta small">
-    Last Updated: {{ page.date | date: "%B %d, %Y"}} | Word Count:
-    {{ page.content | number_of_words }} | Reading Time:
-    {{ page.content | reading_time }} minutes
+    {% render "post_meta", post: page %}
   </div>
 </header>
 <div class="content">
