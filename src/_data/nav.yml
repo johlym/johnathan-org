@@ -2,16 +2,16 @@
   path: /
 
 - name: About
-  path: /about
+  path: /about/
 
 - name: Posts
-  path: /posts
+  path: /posts/
 
 - name: Links
-  path: /links
+  path: /links/
 
 - name: Work
-  path: /work
+  path: /work/
 
 - name: Follow
-  path: /follow
+  path: /follow/
