@@ -1,17 +1,19 @@
 <header class="container-fluid border-bottom py-3 px-0">
   <div class="container">
-    <div class="d-flex flex-column flex-sm-row justify-content-center justify-content-sm-between align-items-center">
-    <a class="text-dark text-decoration-none fw-700" href="/">Johnathan.org
-        </a>
-      <nav>
+    <div class="d-flex flex-column flex-sm-row align-items-center">
+      <a class="text-dark text-decoration-none fw-700 me-sm-3" href="/">Johnathan.org
+      </a>
+      <nav class="flex-fill text-sm-start text-center">
         {% for item in nav %}
-        <a class="fw-500 link-dark me-3" aria-current="page"
+        <a class="fw-500 link-dark{% unless forloop.last %} me-3{% endunless %}" aria-current="page"
           href="{{ item.path }}">{{ item.name }}</a>
         {% endfor %}
       </nav>
       <div>
-        <a class="me-3" href="https://twitter.com" target="_blank"><i class="fab fa-twitter"></i></a>
-        <a href="https://github.com/johlym" target="_blank"><i class="fab fa-github"></i></a>
+        <a class="me-3" href="https://twitter.com" target="_blank"><i
+            class="fab fa-twitter"></i></a>
+        <a href="https://github.com/johlym" target="_blank"><i
+            class="fab fa-github"></i></a>
       </div>
     </div>
   </div>
