@@ -42,6 +42,8 @@ GEM
       tilt (~> 2.0)
       webrick (~> 1.7)
       zeitwerk (~> 2.5)
+    bridgetown-feed (2.1.0)
+      bridgetown (>= 1.0.0.alpha5, < 2.0)
     bridgetown-paginate (1.0.0.beta2)
       bridgetown-core (= 1.0.0.beta2)
     bridgetown-sitemap (1.1.1)
@@ -129,6 +131,7 @@ PLATFORMS
 
 DEPENDENCIES
   bridgetown (~> 1.0.0.beta2)
+  bridgetown-feed (~> 2.1)
   bridgetown-sitemap (~> 1.1)
   puma (~> 5.5)
   reverse_markdown (~> 2.1)
