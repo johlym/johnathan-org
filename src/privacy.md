@@ -11,7 +11,9 @@ There are no known cookies tracked for this site. Analytics are done through [Fa
 
 ## Third Party Services
 
-Icons on this site are provided by Font Awesome ([Privacy Policy](https://fontawesome.com/privacy). 
+Icons on this site are provided by Font Awesome ([Privacy Policy](https://fontawesome.com/privacy)).
+
+Advertising is provided through Carbon Ads. ([Privacy Policy](https://www.buysellads.com/about/privacy)).
 
 ## Data Requests
 
