@@ -42,6 +42,11 @@ categories:
           - title: Homebrew
             class: System Package Manager
             url: https://brew.sh
+      - name: Website & Content Management
+        items:
+          - title: Bridgetown
+            class: Static Site Generator
+            url: https://bridgetownrb.com
       
   - name: Office
     items: 
