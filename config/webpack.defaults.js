@@ -6,7 +6,7 @@
 // when an update is applied hence we strongly recommend adding overrides to
 // `webpack.config.js` instead of editing this file.
 //
-// Shipped with Bridgetown v1.0.0.beta1
+// Shipped with Bridgetown v1.0.0.beta2
 
 const path = require("path");
 const rootDir = path.resolve(__dirname, "..")
@@ -46,7 +46,7 @@ const cssRules = {
       }
     }
   ],
-  mode: 'sass',
+  mode: 'postcss',
 
   postcss: () => {
     cssRules.use.push("postcss-loader")
