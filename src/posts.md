@@ -7,8 +7,8 @@ This is a reverse-chronological list of every post on the site. There are over 4
 
 <ul class="list-unstyled pl-0">
   {% for post in collections.posts.resources %}
-    <li class="pb-4 my-4 border-bottom">
-      {% render "post_loop" post: post %}
+    <li class="border-top">
+      {% render "post_loop" post: post, excerpt: "true" %}
     </li>
   {% endfor %}
 </ul>
