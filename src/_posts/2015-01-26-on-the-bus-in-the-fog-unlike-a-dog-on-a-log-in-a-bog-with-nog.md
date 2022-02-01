@@ -4,7 +4,7 @@ slug: on-the-bus-in-the-fog-unlike-a-dog-on-a-log-in-a-bog-with-nog
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-26 05:06:43.000000000 -08:00
 ---

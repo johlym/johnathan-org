@@ -3,7 +3,7 @@ title: Time for a Reset
 slug: time-for-a-reset
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-06-05 17:09:45.000000000 -07:00
 ---

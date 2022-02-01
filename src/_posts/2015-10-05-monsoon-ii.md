@@ -3,7 +3,7 @@ title: Monsoon II
 slug: monsoon-ii
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-05 08:51:21.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: conquering-the-dev-career
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-08-27 15:59:43.000000000 -07:00
 ---

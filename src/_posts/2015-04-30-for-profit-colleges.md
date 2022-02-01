@@ -4,7 +4,7 @@ slug: for-profit-colleges
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-30 13:21:53.000000000 -07:00
 ---

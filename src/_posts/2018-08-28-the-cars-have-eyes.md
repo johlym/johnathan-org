@@ -4,7 +4,7 @@ slug: the-cars-have-eyes
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-28 15:04:46.000000000 -07:00
 ---

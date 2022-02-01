@@ -4,7 +4,7 @@ slug: ryan-gibley-on-the-martian
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-01 10:19:36.000000000 -07:00
 ---

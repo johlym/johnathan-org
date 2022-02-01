@@ -4,7 +4,7 @@ slug: morning-musicals
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-09 04:03:04.000000000 -08:00
 ---

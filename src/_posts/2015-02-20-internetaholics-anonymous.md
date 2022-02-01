@@ -4,7 +4,7 @@ slug: internetaholics-anonymous
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-20 19:12:17.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: slack-raises-427-million-7-1-billion-valuation
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-21 14:33:22.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: emotional-decisions
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-01-04 10:50:00.000000000 -08:00
 ---

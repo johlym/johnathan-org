@@ -4,7 +4,7 @@ slug: how-to-fix-misspelled-column-names-in-a-ruby-on-rails-database
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-25 16:35:59.000000000 -07:00
 ---

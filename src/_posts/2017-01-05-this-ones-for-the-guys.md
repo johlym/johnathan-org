@@ -4,7 +4,7 @@ slug: this-ones-for-the-guys
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-01-05 16:57:46.000000000 -08:00
 ---

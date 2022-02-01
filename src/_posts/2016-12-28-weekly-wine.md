@@ -4,7 +4,7 @@ slug: weekly-wine
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-12-28 04:00:42.000000000 -08:00
 ---

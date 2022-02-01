@@ -4,7 +4,7 @@ slug: like-that-zappos-guy
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-26 20:38:28.000000000 -07:00
 ---

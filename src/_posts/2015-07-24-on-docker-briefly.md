@@ -4,7 +4,7 @@ slug: on-docker-briefly
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-24 06:27:51.000000000 -07:00
 ---

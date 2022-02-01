@@ -4,7 +4,7 @@ slug: new-google-hq
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-26 04:13:42.000000000 -08:00
 ---

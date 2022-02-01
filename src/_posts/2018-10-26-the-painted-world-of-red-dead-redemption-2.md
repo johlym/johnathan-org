@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/aegies_RedDeadRedemption2_20181022_18_39_47.png.jpeg"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-26 10:58:37.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: become-a-genius
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-12 21:30:18.000000000 -07:00
 ---

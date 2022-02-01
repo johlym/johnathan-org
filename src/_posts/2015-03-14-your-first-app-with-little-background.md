@@ -4,7 +4,7 @@ slug: your-first-app-with-little-background
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-14 16:12:30.000000000 -07:00
 ---

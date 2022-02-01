@@ -4,7 +4,7 @@ slug: where-work-happens
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-02-20 09:53:31.000000000 -08:00
 ---

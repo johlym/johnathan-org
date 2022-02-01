@@ -4,7 +4,7 @@ slug: add-rtmp-support-to-nginx-installed-from-apt
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-07-08 17:14:00.000000000 -07:00
 ---

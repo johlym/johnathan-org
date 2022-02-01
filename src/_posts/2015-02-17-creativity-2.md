@@ -4,7 +4,7 @@ slug: creativity-2
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-17 04:04:07.000000000 -08:00
 ---

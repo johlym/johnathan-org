@@ -4,7 +4,7 @@ slug: sunday-fun-day
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-26 06:39:46.000000000 -07:00
 ---

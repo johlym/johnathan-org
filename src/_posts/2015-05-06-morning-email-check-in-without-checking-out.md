@@ -4,7 +4,7 @@ slug: morning-email-check-in-without-checking-out
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-05-06 16:03:58.000000000 -07:00
 ---

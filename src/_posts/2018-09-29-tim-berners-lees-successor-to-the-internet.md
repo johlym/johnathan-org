@@ -3,7 +3,7 @@ title: Tim Berners-Lee's Successor to The Internet
 slug: tim-berners-lees-successor-to-the-internet
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-29 09:56:27.000000000 -07:00
 ---

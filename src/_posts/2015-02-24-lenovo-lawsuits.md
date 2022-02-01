@@ -4,7 +4,7 @@ slug: lenovo-lawsuits
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-24 04:13:14.000000000 -08:00
 ---

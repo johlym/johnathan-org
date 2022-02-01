@@ -4,7 +4,7 @@ slug: dropping-the-low-cost-mac-mini-would-be-a-mistake
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-21 10:47:08.000000000 -07:00
 ---

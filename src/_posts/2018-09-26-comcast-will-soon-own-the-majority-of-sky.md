@@ -3,7 +3,7 @@ title: Comcast Will Soon Own the Majority of Sky
 slug: comcast-will-soon-own-the-majority-of-sky
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-26 09:49:07.000000000 -07:00
 ---

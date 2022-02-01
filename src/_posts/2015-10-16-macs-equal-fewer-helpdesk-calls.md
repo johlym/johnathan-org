@@ -4,7 +4,7 @@ slug: macs-equal-fewer-helpdesk-calls
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-16 15:19:52.000000000 -07:00
 ---

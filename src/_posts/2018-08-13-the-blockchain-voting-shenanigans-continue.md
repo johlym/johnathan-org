@@ -4,7 +4,7 @@ slug: the-blockchain-voting-shenanigans-continue
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-13 10:00:00.000000000 -07:00
 ---

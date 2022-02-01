@@ -7,7 +7,7 @@ og_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPho
 
 twitter_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-12 13:59:13.000000000 -07:00
 ---

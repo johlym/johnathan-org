@@ -4,7 +4,7 @@ slug: half-way-there
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-10 12:10:28.000000000 -08:00
 ---

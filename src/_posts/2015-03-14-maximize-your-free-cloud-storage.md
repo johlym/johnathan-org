@@ -4,7 +4,7 @@ slug: maximize-your-free-cloud-storage
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-14 16:02:49.000000000 -07:00
 ---

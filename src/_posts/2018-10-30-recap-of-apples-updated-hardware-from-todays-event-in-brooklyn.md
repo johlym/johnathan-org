@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-30 12:32:06.000000000 -07:00
 ---

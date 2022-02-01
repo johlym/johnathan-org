@@ -4,7 +4,7 @@ slug: on-never-quitting
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-14 22:55:02.000000000 -07:00
 ---

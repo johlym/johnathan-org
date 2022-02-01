@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/09/cmmx_system.jpeg"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-04 08:19:35.000000000 -07:00
 ---

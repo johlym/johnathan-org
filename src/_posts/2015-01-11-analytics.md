@@ -4,7 +4,7 @@ slug: analytics
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-11 10:49:20.000000000 -08:00
 ---

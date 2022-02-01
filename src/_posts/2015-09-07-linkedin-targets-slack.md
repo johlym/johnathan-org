@@ -4,7 +4,7 @@ slug: linkedin-targets-slack
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-09-07 10:22:25.000000000 -07:00
 ---

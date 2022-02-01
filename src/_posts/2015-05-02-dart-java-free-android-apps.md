@@ -4,7 +4,7 @@ slug: dart-java-free-android-apps
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-05-02 19:22:26.000000000 -07:00
 ---

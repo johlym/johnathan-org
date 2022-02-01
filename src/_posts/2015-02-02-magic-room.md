@@ -4,7 +4,7 @@ slug: magic-room
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-02 04:11:11.000000000 -08:00
 ---

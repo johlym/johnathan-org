@@ -4,7 +4,7 @@ slug: the-cost-of-cutting-the-cord
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-06-07 14:16:34.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: starting-ruby-on-rails
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-04 22:28:43.000000000 -07:00
 ---

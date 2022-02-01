@@ -4,7 +4,7 @@ slug: the-apple-class-action-lawsuit
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-05-15 12:06:00.000000000 -07:00
 ---

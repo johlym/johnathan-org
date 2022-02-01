@@ -4,7 +4,7 @@ slug: john-ly-version-2
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-08-28 03:43:52.000000000 -07:00
 ---

@@ -3,7 +3,7 @@ title: Vivaldi – A New Browser for our Friends
 slug: vivaldi-a-new-browser-for-our-friends
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-27 17:23:36.000000000 -08:00
 ---

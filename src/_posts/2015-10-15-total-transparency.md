@@ -4,7 +4,7 @@ slug: total-transparency
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-15 08:21:06.000000000 -07:00
 ---

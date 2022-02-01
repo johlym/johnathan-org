@@ -4,7 +4,7 @@ slug: future-ruby-on-rails-developer
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-23 17:55:12.000000000 -07:00
 ---

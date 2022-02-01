@@ -4,7 +4,7 @@ slug: my-first-smartphone
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-19 04:30:44.000000000 -08:00
 ---

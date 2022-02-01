@@ -4,7 +4,7 @@ slug: the-dolby-atmosphere
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-04-08 20:52:00.000000000 -07:00
 ---

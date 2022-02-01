@@ -4,7 +4,7 @@ slug: keeping-score
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-06-16 18:08:00.000000000 -07:00
 ---

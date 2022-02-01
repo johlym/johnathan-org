@@ -4,7 +4,7 @@ slug: the-mac-mini-a-versatile-hub-forgotten-by-its-maker
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-08-23 14:20:58.000000000 -07:00
 ---

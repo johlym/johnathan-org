@@ -7,7 +7,7 @@ featured: false
   locatio'
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-23 08:50:04.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: fixing-browsersync-not-reloading
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-12-08 02:52:00.000000000 -08:00
 ---

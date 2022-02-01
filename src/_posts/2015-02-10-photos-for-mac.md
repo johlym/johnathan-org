@@ -4,7 +4,7 @@ slug: photos-for-mac
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-10 03:58:07.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: whered-the-wine-go
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-02-25 17:26:53.000000000 -08:00
 ---

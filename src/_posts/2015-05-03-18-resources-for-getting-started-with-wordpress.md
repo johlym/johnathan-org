@@ -4,7 +4,7 @@ slug: 18-resources-for-getting-started-with-wordpress
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-05-03 11:22:10.000000000 -07:00
 ---

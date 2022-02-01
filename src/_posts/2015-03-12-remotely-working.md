@@ -4,7 +4,7 @@ slug: remotely-working
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-12 06:19:12.000000000 -07:00
 ---

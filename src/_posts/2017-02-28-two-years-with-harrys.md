@@ -4,7 +4,7 @@ slug: two-years-with-harrys
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-02-28 02:16:32.000000000 -08:00
 ---

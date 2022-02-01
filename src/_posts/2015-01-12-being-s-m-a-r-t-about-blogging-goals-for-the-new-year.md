@@ -2,7 +2,7 @@
 title: Being S.M.A.R.T about Blogging Goals for the New Year
 slug: being-s-m-a-r-t-about-blogging-goals-for-the-new-year
 featured: false
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-12 16:40:42.000000000 -08:00
 ---

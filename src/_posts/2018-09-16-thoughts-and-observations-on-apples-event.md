@@ -3,7 +3,7 @@ title: Thoughts and Observations on Apple's Event
 slug: thoughts-and-observations-on-apples-event
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-16 19:57:33.000000000 -07:00
 ---

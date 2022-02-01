@@ -4,7 +4,7 @@ slug: make-school
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-14 16:32:23.000000000 -07:00
 ---

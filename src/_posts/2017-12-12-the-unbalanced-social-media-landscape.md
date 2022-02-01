@@ -4,7 +4,7 @@ slug: the-unbalanced-social-media-landscape
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-12-12 23:40:57.000000000 -08:00
 ---

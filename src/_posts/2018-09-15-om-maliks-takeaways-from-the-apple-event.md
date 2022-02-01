@@ -3,7 +3,7 @@ title: Om Malik's Takeaways from the Apple Event
 slug: om-maliks-takeaways-from-the-apple-event
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-15 11:06:29.000000000 -07:00
 ---

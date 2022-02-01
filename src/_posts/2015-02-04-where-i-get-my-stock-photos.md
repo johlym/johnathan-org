@@ -4,7 +4,7 @@ slug: where-i-get-my-stock-photos
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-04 04:47:20.000000000 -08:00
 ---

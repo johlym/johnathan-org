@@ -4,7 +4,7 @@ slug: wireless-streaming-of-spotify-sort-of
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-02 09:25:58.000000000 -07:00
 ---

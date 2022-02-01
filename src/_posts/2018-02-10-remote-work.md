@@ -4,7 +4,7 @@ slug: remote-work
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-02-10 20:27:35.000000000 -08:00
 ---

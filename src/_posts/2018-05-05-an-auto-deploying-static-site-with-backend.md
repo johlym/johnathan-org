@@ -4,7 +4,7 @@ slug: an-auto-deploying-static-site-with-backend
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-05-05 17:00:00.000000000 -07:00
 ---

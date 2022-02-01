@@ -3,7 +3,7 @@ title: Tim Cook on Good Morning America
 slug: tim-cook-on-good-morning-america
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-19 14:39:26.000000000 -07:00
 ---

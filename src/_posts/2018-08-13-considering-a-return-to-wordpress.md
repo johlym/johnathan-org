@@ -4,7 +4,7 @@ slug: considering-a-return-to-wordpress
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-13 17:00:00.000000000 -07:00
 ---

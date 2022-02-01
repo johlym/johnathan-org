@@ -4,7 +4,7 @@ slug: my-favorite-super-bowl-commercials
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-04 19:42:26.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: create-a-photograph
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2014-09-09 12:01:48.000000000 -07:00
 ---

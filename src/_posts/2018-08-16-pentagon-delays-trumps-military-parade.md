@@ -4,7 +4,7 @@ slug: pentagon-delays-trumps-military-parade
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-16 20:07:11.000000000 -07:00
 ---

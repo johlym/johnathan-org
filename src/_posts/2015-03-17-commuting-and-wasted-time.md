@@ -4,7 +4,7 @@ slug: commuting-and-wasted-time
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-17 07:13:35.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: let-me-introduce-you-to-xp1k
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-11-04 08:53:09.000000000 -08:00
 ---

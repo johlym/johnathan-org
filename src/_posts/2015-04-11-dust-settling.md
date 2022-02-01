@@ -4,7 +4,7 @@ slug: dust-settling
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-11 08:06:49.000000000 -07:00
 ---

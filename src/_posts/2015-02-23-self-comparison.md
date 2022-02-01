@@ -4,7 +4,7 @@ slug: self-comparison
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-23 04:00:00.000000000 -08:00
 ---

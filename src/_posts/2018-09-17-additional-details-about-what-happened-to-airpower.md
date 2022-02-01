@@ -3,7 +3,7 @@ title: Additional Details About What Happened to AirPower
 slug: additional-details-about-what-happened-to-airpower
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-17 16:33:02.000000000 -07:00
 ---

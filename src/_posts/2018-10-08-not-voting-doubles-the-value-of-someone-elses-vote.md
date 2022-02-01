@@ -3,7 +3,7 @@ title: Not Voting Doubles the Value of Someone Else's Vote
 slug: not-voting-doubles-the-value-of-someone-elses-vote
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-08 10:34:40.000000000 -07:00
 ---

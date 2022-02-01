@@ -4,7 +4,7 @@ slug: fighting-ffmpeg
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-07-03 23:32:00.000000000 -07:00
 ---

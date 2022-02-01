@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-Watch-the-Apple-Special-Event.png"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-12 09:43:36.000000000 -07:00
 ---

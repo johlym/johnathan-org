@@ -7,7 +7,7 @@ og_image: "/content/images/wp-content/uploads/2018/08/Publisher-publication.jpeg
 
 twitter_image: "/content/images/wp-content/uploads/2018/08/Publisher-publication.jpeg"
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-30 16:57:36.000000000 -07:00
 ---

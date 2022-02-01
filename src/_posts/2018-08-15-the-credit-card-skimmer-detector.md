@@ -4,7 +4,7 @@ slug: the-credit-card-skimmer-detector
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-15 20:04:34.000000000 -07:00
 ---

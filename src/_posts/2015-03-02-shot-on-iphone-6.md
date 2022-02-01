@@ -4,7 +4,7 @@ slug: shot-on-iphone-6
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-02 04:05:50.000000000 -08:00
 ---

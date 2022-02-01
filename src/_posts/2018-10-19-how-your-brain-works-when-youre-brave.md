@@ -3,7 +3,7 @@ title: How Your Brain Works When You're Brave
 slug: how-your-brain-works-when-youre-brave
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-19 13:42:29.000000000 -07:00
 ---

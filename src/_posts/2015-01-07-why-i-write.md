@@ -4,7 +4,7 @@ slug: why-i-write
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-07 16:51:56.000000000 -08:00
 ---

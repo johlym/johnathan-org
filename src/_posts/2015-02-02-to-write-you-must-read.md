@@ -4,7 +4,7 @@ slug: to-write-you-must-read
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-02 04:01:47.000000000 -08:00
 ---

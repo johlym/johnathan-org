@@ -4,7 +4,7 @@ slug: snap-stock-price-sinks-to-an-all-time-low
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-06 08:26:02.000000000 -07:00
 ---

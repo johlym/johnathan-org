@@ -4,7 +4,7 @@ slug: cbc-uncover-escaping-nxivm
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-29 10:37:24.000000000 -07:00
 ---

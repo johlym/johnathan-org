@@ -4,7 +4,7 @@ slug: ad-doesnt-block-plus-premium-elite-edition
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-03 04:46:03.000000000 -08:00
 ---

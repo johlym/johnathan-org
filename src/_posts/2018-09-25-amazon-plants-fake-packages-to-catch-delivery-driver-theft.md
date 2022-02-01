@@ -3,7 +3,7 @@ title: Amazon Plants Fake Packages to Catch Delivery Driver Theft
 slug: amazon-plants-fake-packages-to-catch-delivery-driver-theft
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-25 10:36:17.000000000 -07:00
 ---

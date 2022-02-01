@@ -4,7 +4,7 @@ slug: point-of-no-return
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-27 21:47:18.000000000 -07:00
 ---

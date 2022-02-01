@@ -4,7 +4,7 @@ slug: the-static-site-book
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-05-29 17:00:00.000000000 -07:00
 ---

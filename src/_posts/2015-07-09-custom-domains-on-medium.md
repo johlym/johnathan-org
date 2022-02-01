@@ -4,7 +4,7 @@ slug: custom-domains-on-medium
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-09 22:10:22.000000000 -07:00
 ---

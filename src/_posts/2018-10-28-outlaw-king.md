@@ -4,7 +4,7 @@ slug: outlaw-king
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-28 07:19:33.000000000 -07:00
 ---

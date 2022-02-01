@@ -3,7 +3,7 @@ title: Twitter CEO Allegedly Vetoing Bad Actor Removals
 slug: twitter-ceo-allegedly-vetoing-bad-actor-removals
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-03 18:37:38.000000000 -07:00
 ---

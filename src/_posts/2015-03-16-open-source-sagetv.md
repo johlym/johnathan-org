@@ -4,7 +4,7 @@ slug: open-source-sagetv
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-16 06:49:30.000000000 -07:00
 ---

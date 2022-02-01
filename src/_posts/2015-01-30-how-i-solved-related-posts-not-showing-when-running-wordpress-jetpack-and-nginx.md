@@ -8,7 +8,7 @@ featured: false
   and I figu
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-30 20:05:27.000000000 -08:00
 ---

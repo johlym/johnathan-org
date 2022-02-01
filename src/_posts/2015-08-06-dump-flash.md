@@ -4,7 +4,7 @@ slug: dump-flash
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-08-06 05:37:36.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: my-postmates-experience-live-blog
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-01-19 19:02:26.000000000 -08:00
 ---

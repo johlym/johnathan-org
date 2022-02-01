@@ -8,7 +8,7 @@ featured: false
   manage
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-01 18:33:21.000000000 -08:00
 ---

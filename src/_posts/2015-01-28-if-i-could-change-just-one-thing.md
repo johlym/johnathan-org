@@ -4,7 +4,7 @@ slug: if-i-could-change-just-one-thing
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-28 04:13:53.000000000 -08:00
 ---

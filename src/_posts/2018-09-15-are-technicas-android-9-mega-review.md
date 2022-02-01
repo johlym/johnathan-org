@@ -3,7 +3,7 @@ title: Are Technica's Android 9 Mega Review
 slug: are-technicas-android-9-mega-review
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-15 11:10:57.000000000 -07:00
 ---

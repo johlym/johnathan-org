@@ -4,7 +4,7 @@ slug: kill-switch-engage
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-12 04:09:43.000000000 -08:00
 ---

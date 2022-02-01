@@ -4,7 +4,7 @@ slug: focusing-on-the-future-part-1
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-21 22:04:33.000000000 -07:00
 ---

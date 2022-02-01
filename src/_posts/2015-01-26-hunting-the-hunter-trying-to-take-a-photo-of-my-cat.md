@@ -4,7 +4,7 @@ slug: hunting-the-hunter-trying-to-take-a-photo-of-my-cat
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-26 03:55:53.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: new-philips-hue-rigid-light-strips
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-20 09:12:07.000000000 -07:00
 ---

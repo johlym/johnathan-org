@@ -4,7 +4,7 @@ slug: the-international-beverage-bonanza
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-05-17 09:33:00.000000000 -07:00
 ---

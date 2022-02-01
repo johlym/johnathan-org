@@ -3,7 +3,7 @@ title: 'Stratechery: The Battle for the Home'
 slug: stratechery-the-battle-for-the-home
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-12 08:01:52.000000000 -07:00
 ---

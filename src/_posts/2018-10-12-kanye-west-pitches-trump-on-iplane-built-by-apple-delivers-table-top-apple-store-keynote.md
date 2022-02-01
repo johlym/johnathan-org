@@ -7,7 +7,7 @@ featured: false
 
   Apple store 'keynote' – Johnathan.org
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-12 07:52:43.000000000 -07:00
 ---

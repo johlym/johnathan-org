@@ -3,7 +3,7 @@ title: Mathematician Claims to have Proof of the Riemann Hypothesis
 slug: mathematician-claims-to-have-proof-of-the-riemann-hypothesis
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-24 10:10:38.000000000 -07:00
 ---

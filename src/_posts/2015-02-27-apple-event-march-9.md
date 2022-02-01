@@ -4,7 +4,7 @@ slug: apple-event-march-9
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-27 04:09:06.000000000 -08:00
 ---

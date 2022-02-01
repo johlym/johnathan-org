@@ -4,7 +4,7 @@ slug: starting-soon-bloc-io
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-31 10:58:33.000000000 -07:00
 ---

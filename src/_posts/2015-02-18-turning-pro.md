@@ -4,7 +4,7 @@ slug: turning-pro
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-18 04:01:00.000000000 -08:00
 ---

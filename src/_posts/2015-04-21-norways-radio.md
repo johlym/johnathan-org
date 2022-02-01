@@ -4,7 +4,7 @@ slug: norways-radio
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-21 07:39:12.000000000 -07:00
 ---

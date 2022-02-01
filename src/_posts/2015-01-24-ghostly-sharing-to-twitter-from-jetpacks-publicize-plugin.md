@@ -4,7 +4,7 @@ slug: ghostly-sharing-to-twitter-from-jetpacks-publicize-plugin
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-24 19:29:21.000000000 -08:00
 ---

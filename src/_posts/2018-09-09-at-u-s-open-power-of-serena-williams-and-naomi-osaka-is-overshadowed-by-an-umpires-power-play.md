@@ -8,7 +8,7 @@ featured: false
   he cou
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-09 16:23:28.000000000 -07:00
 ---

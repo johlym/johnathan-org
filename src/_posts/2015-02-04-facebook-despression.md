@@ -4,7 +4,7 @@ slug: facebook-despression
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-04 04:31:47.000000000 -08:00
 ---

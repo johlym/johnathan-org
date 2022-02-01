@@ -4,7 +4,7 @@ slug: goodbye-dev-blog
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-11 04:07:29.000000000 -07:00
 ---

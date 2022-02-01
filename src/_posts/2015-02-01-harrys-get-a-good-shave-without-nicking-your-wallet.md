@@ -2,7 +2,7 @@
 title: "Harry's: Get a Good Shave Without Nicking Your Wallet"
 slug: harrys-get-a-good-shave-without-nicking-your-wallet
 featured: false
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-01 13:48:22.000000000 -08:00
 ---

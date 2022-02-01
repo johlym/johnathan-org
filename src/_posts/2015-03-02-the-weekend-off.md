@@ -4,7 +4,7 @@ slug: the-weekend-off
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-02 04:00:43.000000000 -08:00
 ---

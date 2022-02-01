@@ -4,7 +4,7 @@ slug: useful-mac
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-25 03:53:47.000000000 -08:00
 ---

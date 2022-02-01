@@ -4,7 +4,7 @@ slug: enemies-considered
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-11 15:24:32.000000000 -07:00
 ---

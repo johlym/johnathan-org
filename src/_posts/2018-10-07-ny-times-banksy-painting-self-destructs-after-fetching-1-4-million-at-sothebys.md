@@ -6,7 +6,7 @@ featured: false
 
   at Sotheby's – Johnathan.org"
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-07 11:33:26.000000000 -07:00
 ---

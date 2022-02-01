@@ -5,7 +5,7 @@ slug: disabling-comments-on-existing-posts-after-disabling-comments-site-wide-wi
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-01 11:03:53.000000000 -08:00
 ---

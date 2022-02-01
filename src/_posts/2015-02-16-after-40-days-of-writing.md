@@ -4,7 +4,7 @@ slug: after-40-days-of-writing
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-16 04:12:08.000000000 -08:00
 ---

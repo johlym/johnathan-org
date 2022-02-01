@@ -4,7 +4,7 @@ slug: the-imac-as-told-from-the-inside
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-10-20 15:03:17.000000000 -07:00
 ---

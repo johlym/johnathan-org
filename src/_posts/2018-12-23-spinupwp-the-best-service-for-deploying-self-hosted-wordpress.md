@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-12-23 14:35:41.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: my-2017-year-in-review
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-12-28 11:56:09.000000000 -08:00
 ---

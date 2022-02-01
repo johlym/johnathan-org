@@ -4,7 +4,7 @@ slug: a-simple-coffee-shop-musing
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2017-01-02 17:44:09.000000000 -08:00
 ---

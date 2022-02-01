@@ -4,7 +4,7 @@ slug: some-of-the-best-independent-wordpress-theme-shops
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2019-01-07 10:29:30.000000000 -08:00
 ---

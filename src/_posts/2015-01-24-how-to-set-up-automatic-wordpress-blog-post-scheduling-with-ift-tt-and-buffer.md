@@ -7,7 +7,7 @@ featured: false
   hell out of
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-24 20:05:17.000000000 -08:00
 ---

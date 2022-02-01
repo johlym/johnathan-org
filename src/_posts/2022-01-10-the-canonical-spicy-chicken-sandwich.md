@@ -5,7 +5,7 @@ featured: false
 excerpt: Summarizing my experiences and notes from sampling all the local-area 
   spicy chicken sandwich options in the hopes that I can define what I think
   would make a great reference sandwich.
-layout: single_post
+layout: post
 categories: posts
 date: 2022-01-10 12:20:13.000000000 -08:00
 image: /images/chicken-sandwich.jpg

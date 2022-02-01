@@ -6,7 +6,7 @@ featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/Screen-Shot-2018-10-23-at-12.26.32-PM.jpg"
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-23 12:26:53.000000000 -07:00
 ---

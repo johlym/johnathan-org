@@ -3,7 +3,7 @@ title: ArsTechnica's Least Favorite Subjects to Cover
 slug: arstechnicas-least-favorite-subjects-to-cover
 featured: false
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-16 19:30:58.000000000 -07:00
 ---

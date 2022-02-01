@@ -4,7 +4,7 @@ slug: fitbit-you-frustrate-me
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-03-12 12:36:27.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: positioning-for-the-journey-to-dreamland
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-26 04:11:17.000000000 -08:00
 ---

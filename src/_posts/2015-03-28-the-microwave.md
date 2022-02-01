@@ -4,7 +4,7 @@ slug: the-microwave
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-28 11:13:09.000000000 -07:00
 ---

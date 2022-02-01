@@ -4,7 +4,7 @@ slug: apple-event-and-leaked-product-shots
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-30 12:26:41.000000000 -07:00
 ---

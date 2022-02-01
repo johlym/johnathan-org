@@ -4,7 +4,7 @@ slug: hands-on-with-gaget
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-03-21 08:18:19.000000000 -07:00
 ---

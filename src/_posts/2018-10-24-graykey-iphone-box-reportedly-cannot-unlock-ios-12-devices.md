@@ -4,7 +4,7 @@ slug: graykey-iphone-box-reportedly-cannot-unlock-ios-12-devices
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-24 15:51:15.000000000 -07:00
 ---

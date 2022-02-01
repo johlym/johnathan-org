@@ -4,7 +4,7 @@ slug: bulk-updating-any-meta-values-in-wordpress-posts-automatically
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-05-02 17:33:18.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: the-vox-media-open-source-meme-generator
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-30 11:20:16.000000000 -07:00
 ---

@@ -7,7 +7,7 @@ featured: false
   or slowin
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-23 11:06:05.000000000 -07:00
 ---

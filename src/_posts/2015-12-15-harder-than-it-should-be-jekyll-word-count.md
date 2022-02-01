@@ -4,7 +4,7 @@ slug: harder-than-it-should-be-jekyll-word-count
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-12-15 09:51:22.000000000 -08:00
 ---

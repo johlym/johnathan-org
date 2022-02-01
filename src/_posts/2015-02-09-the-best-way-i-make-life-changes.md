@@ -4,7 +4,7 @@ slug: the-best-way-i-make-life-changes
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-09 03:51:54.000000000 -08:00
 ---

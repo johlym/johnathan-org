@@ -4,7 +4,7 @@ slug: my-first-legitimate-vagrantfile
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-07-28 18:41:23.000000000 -07:00
 ---

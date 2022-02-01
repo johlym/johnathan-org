@@ -4,7 +4,7 @@ slug: constantly-improving
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-05-29 17:29:36.000000000 -07:00
 ---

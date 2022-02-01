@@ -4,7 +4,7 @@ slug: the-sad-lonely-world-of-yik-yak
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-04-30 12:02:21.000000000 -07:00
 ---

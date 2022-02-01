@@ -4,7 +4,7 @@ slug: waymo-cars-have-a-hard-time-making-left-turns
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-28 15:07:23.000000000 -07:00
 ---

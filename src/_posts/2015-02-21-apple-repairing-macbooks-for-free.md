@@ -4,7 +4,7 @@ slug: apple-repairing-macbooks-for-free
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-21 09:38:30.000000000 -08:00
 ---

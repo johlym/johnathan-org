@@ -4,7 +4,7 @@ slug: brilliant
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-31 11:02:49.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: empathy-sebatical
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-10-10 13:57:03.000000000 -07:00
 ---

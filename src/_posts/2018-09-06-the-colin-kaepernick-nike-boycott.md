@@ -4,7 +4,7 @@ slug: the-colin-kaepernick-nike-boycott
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-06 08:18:35.000000000 -07:00
 ---

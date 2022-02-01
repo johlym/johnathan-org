@@ -4,7 +4,7 @@ slug: office-online-update-bring-better-pdf-stuff-and-other-stuff
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-12 04:17:34.000000000 -08:00
 ---

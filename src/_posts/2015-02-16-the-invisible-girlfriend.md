@@ -4,7 +4,7 @@ slug: the-invisible-girlfriend
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-16 03:56:59.000000000 -08:00
 ---

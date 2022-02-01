@@ -4,7 +4,7 @@ slug: learn-to-code-as-early-as-you-can
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-30 04:57:40.000000000 -08:00
 ---

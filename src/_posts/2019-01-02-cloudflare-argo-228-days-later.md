@@ -4,7 +4,7 @@ slug: cloudflare-argo-228-days-later
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2019-01-02 12:32:10.000000000 -08:00
 ---

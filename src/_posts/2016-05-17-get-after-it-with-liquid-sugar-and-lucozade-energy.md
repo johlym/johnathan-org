@@ -4,7 +4,7 @@ slug: get-after-it-with-liquid-sugar-and-lucozade-energy
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-05-17 16:01:59.000000000 -07:00
 ---

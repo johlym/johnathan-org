@@ -4,7 +4,7 @@ slug: forcing-https-is-good-or-is-it-bad
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-03-08 13:03:16.000000000 -08:00
 ---

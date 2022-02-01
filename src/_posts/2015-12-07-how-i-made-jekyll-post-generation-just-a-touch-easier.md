@@ -4,7 +4,7 @@ slug: how-i-made-jekyll-post-generation-just-a-touch-easier
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-12-07 09:44:26.000000000 -08:00
 ---

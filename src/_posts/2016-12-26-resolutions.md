@@ -4,7 +4,7 @@ slug: resolutions
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-12-26 09:40:53.000000000 -08:00
 ---

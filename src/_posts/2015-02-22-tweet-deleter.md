@@ -4,7 +4,7 @@ slug: tweet-deleter
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-02-22 17:51:22.000000000 -08:00
 ---

@@ -4,7 +4,7 @@ slug: never-gonna-give-you-up-never-gonna-put-you-down-sometimes
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2015-01-25 09:08:12.000000000 -08:00
 ---

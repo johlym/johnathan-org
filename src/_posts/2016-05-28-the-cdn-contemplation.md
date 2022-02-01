@@ -4,7 +4,7 @@ slug: the-cdn-contemplation
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-05-28 17:24:20.000000000 -07:00
 ---

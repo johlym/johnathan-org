@@ -4,7 +4,7 @@ slug: apples-self-driving-car-rear-ended
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-09-01 10:43:48.000000000 -07:00
 ---

@@ -4,7 +4,7 @@ slug: internet-arguments-even-garbage-fires-can-be-extinguished
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2016-04-04 23:18:09.000000000 -07:00
 ---

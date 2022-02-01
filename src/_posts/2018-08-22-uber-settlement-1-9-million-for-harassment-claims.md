@@ -4,7 +4,7 @@ slug: uber-settlement-1-9-million-for-harassment-claims
 featured: false
 
 
-layout: single_post
+layout: post
 categories: posts
 date: 2018-08-22 13:18:25.000000000 -07:00
 ---
