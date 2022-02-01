@@ -7,5 +7,8 @@
 - name: Posts
   path: /posts
 
-- name: Elsewhere
-  path: /elsewhere
+- name: Work
+  path: /work
+
+- name: Follow
+  path: /follow
