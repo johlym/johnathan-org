@@ -2,14 +2,33 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
-paginate:
-  collection: posts
 ---
 
-<div class="small fw-700">LATEST POST</div>
-{% for post in paginator.resources limit:1 %}
-{% render "post_loop" post: post %}
-{% endfor %}
-<div class="text-center mx-auto">
-  <a class="btn btn-dark text-white" href="/posts" role="button">See all posts</a>
-</div>
+<h2>Johnathan Lyman</h2>
+<p>I am a veteran Developer/Application Support Engineer turned Full Stack Developer. My background is Ruby and Ruby on Rails. This site is my digital landing zone where I opine on topics I find interesting, collect links to sites, books, and resources I find helpful, and highlight my professional experience.</p>
+<p>This site is entirely open-source. If anything is out of sorts, the repo is <a href="https://github.com/johlym/johnathan-org" target="_blank">here</a>.
+
+<h2>My Favorite Posts</h2>
+<p>The content on this site that I've created that I'm most proud of.</p>
+<p>(coming soon)</p>
+
+<h2>Resume</h2>
+<p>My recent work history, most recent positions first.</p>
+<p>(coming soon)</p>
+<p>
+  <a href="#">Full Resume</a>
+</p>
+
+<h2>Latest Posts</h2>
+<p>A list of the most recent three posts I've created.</p>
+<ul class="list-unstyled pl-0">
+  {% for post in collections.posts.resources limit:3 %}
+    <li class="border-top">
+      {% render "post_loop" post: post, preview: "false" %}
+    </li>
+  {% endfor %}
+</ul>
+
+<p>
+  <a href="/posts">All Posts</a>
+</p>
