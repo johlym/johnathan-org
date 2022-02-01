@@ -1,0 +1,136 @@
+categories:
+  - name: Computing
+    items: 
+      - title: Apple Macbook Pro 14" M1 Pro
+        url: https://apple.com
+      - title: Logitech MX Master 3
+        url: https://logitech.com
+      - title: Logitech K860 Keyboard
+        url: https://logitech.com
+      - title: LG 27" 4K Montior (x2)
+        url: https://lg.com
+      - title: CalDigit TB3+ Thunderbolt Dock
+        url: https://caldigit.com
+      - title: TwelveSouth Laptop Stand
+        url: https://twelvesouth.com
+      - title: Logitech Brio webcam
+        url: https://logitech.com
+
+  - name: Programming & Development Environment
+    categories:
+      - name: Editor & IDE
+        items:
+          - title: Visual Studio Code
+            url: https://code.visualstudio.com
+          - title: One Dark Darker
+            class: Theme
+            url: https://marketplace.visualstudio.com/items?itemName=JoelCrosby.one-dark-darker
+          - title: Fira Code
+            class: Font
+            url:  https://github.com/tonsky/FiraCode
+          - title: Material Theme Icons
+            class: Icons
+            url: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons
+      - name: Environment
+        items:
+          - title: Oh My Zsh
+            class: Shell
+            url: https://ohmyz.sh
+          - title: RVM
+            class: Ruby Package Manager
+            url: https://rvm.io
+          - title: Homebrew
+            class: System Package Manager
+            url: https://brew.sh
+      
+  - name: Office
+    items: 
+    - title: IKEA Karlby 74" x 25 5/8" Countertop
+      url: https://www.ikea.com/us/en/p/karlby-countertop-oak-veneer-70335207/
+      class: Desk top
+    - title: Autonomous Dual Motor Standing Desk Legs
+      url: https://amzn.to/3AMq0py
+      class: Desk legs
+    - title: Ergodriven Topo Comfort Mat 
+      url: https://amzn.to/3uctv7p
+      class: Ergo mat
+    - title: Uplift Desk Pursuit Ergonomic Chair
+      url: https://www.upliftdesk.com/pursuit-ergonomic-chair-by-uplift-desk/
+      class: Chair
+    - title: HP OfficeJet Pro 9015
+      url: https://amzn.to/3GbwCPj
+      class: Inkjet Printer
+    - title: HP Color LaserJet Pro M255dw
+      url: https://amzn.to/3s4w48T
+      class: Laser Printer
+    
+  - name: Audio Visual
+    items: 
+    - title: Shure SM7B
+      url: https://amzn.to/3g9nDUq
+      class: Microphone
+    - title: Focusrite Scarlett 2i2
+      url: https://amzn.to/3gg74pT
+      class: XLR-USB Interface
+    - title: Rode PSA1
+      url: https://amzn.to/3IQBjQh
+      class: Microphone Arm
+    - title: Audio-Technica ATH-M40x
+      url: https://amzn.to/3unDIxQ
+      class: Desk Headphones
+
+  - name: IOT, Automation, and Networking
+    categories:
+      - name: Internet of Things
+        items:
+          - title: Placeholder
+            url:
+            class: 
+      - name: Home Automation
+        items:
+          - title: Placeholder
+            url:
+            class: 
+      - name: Home Networking
+        items:
+          - title: Ubiquiti Unifi Dream Machine Pro
+            url:
+            class: Router
+          - title: Ubiquiti USW-24-POE
+            url:
+            class: Switch
+          - title: Ubiquiti UNVR
+            url:
+            class: Camera NVR
+          - title: Ubiquiti G4 Bullet
+            url:
+            class: Cameras
+          - title: Synology DS920+
+            url:
+            class: NAS
+          
+    items:
+    - title: Lutron Caseta
+      url:
+      class: Lighting
+
+  - name: Gaming
+    items: 
+    - title: PlayStation 5
+      url: https://playstation.com
+      class: Console
+
+  - name: Mobile
+    items: 
+    - title: Apple iPhone 13 Pro
+      url: 
+      class: Phone
+    - title: Apple iPods (1st Generation)
+      url: 
+      class: Headphones
+    - title: Apple iPods Pro
+      url: 
+      class: Headphones
+    - title: Sony WH900N
+      url: 
+      class: Headphones
