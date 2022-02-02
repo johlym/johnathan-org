@@ -37,6 +37,10 @@ namespace :frontend do
   end
 end
 
+task "assets:precompile" do
+  exec("bin/bridgetown deploy")
+end
+
 #
 # Add your own Rake tasks here! You can use `environment` as a prerequisite
 # in order to write automations or other commands requiring a loaded site.
