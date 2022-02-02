@@ -46,3 +46,5 @@ group :test, optional: true do
   gem "shoulda"
   gem "rails-dom-testing"
 end
+
+gem "rack-rewrite", "~> 1.5"
