@@ -3,8 +3,10 @@
 require "bridgetown-core/rack/boot"
 require 'rack/rewrite'
 
-use Rack::Rewrite do
-  r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
+if ENV['BRIDGETOWN_ENV'] == "production" && ENV['HOST_ENV'] == "heroku"
+  use Rack::Rewrite do
+    r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
+  end
 end
 
 Bridgetown::Rack.boot
