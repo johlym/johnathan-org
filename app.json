@@ -9,8 +9,7 @@
   "website": "https://johnathan.org/",
   "repository": "https://github.com/johlym/johnathan.org",
   "scripts": {
-    "build": "bin/bridgetown deploy",
-    "postdeploy": "bundle exec rake bootstrap"
+    "postbuild": "bin/bridgetown deploy"
   },
   "formation": {
     "web": {
