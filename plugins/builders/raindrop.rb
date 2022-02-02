@@ -3,6 +3,10 @@ class Builders::Raindrop < SiteBuilder
   HEADERS = {"Authorization" => "Bearer #{ENV['RAINDROP_KEY']}"}
 
   def build
+    unless ENV['RAINDROP_KEY']
+      Bridgetown.logger.warn "No RAINDROP_KEY set. Skipping."
+      return
+    end
     hook :site, :post_read do
       Bridgetown.logger.info "Starting Raindrip Collector"
       link_structure = {
