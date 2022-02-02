@@ -5,7 +5,11 @@ class Builders::Raindrop < SiteBuilder
   def build
     hook :site, :post_read do
       Bridgetown.logger.info "Starting Raindrip Collector"
-      link_structure = []
+      link_structure = {
+        categories: [],
+        total: 0
+      }
+      count = 0
 
       Bridgetown.logger.info "Querying Raindrop.io for collections"
       collections = collect_collections
@@ -18,16 +22,20 @@ class Builders::Raindrop < SiteBuilder
         links.each do |link|
           link_output << {
             title: link.title,
-            excerpt: link.excerpt,
-            url: link.link
+            from: link.domain,
+            url: link.link,
+            tags: link.tags
           }
+          count += 1
         end
-        
-        link_structure << {
-          category: collection.title,
+
+        link_structure[:categories] << {
+          name: collection.title,
           id: collection._id,
           links: link_output
         }
+
+        link_structure[:total] = count
 
       end
       site.data[:links] = link_structure
