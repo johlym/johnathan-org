@@ -15,33 +15,57 @@ class Builders::Raindrop < SiteBuilder
       }
       count = 0
 
-      Bridgetown.logger.info "Querying Raindrop.io for collections"
-      begin
-        collections = collect_collections
-        collections.each do |collection|
-          Bridgetown.logger.info "Querying Raindrop.io for collection ID #{collection._id}: #{collection.title}"
-          links = collect_links(collection._id)
-          link_output = []
-          links.each do |link|
-            link_output << {
-              title: link.title,
-              from: link.domain,
-              url: link.link,
-              tags: link.tags
+      if Bridgetown.environment == "development"
+        Bridgetown.logger.info "Development environment detected, faking it."
+        site.data[:links] = {
+          categories: [
+            {
+              name: "Test category",
+              id: 123456789,
+              links: [
+                {
+                  title: "Test link",
+                  from: "example.com",
+                  url: "https://example.com",
+                  tags: [
+                    "tag1",
+                    "tag2"
+                  ]
+                }
+              ]
             }
-            count += 1
+          ],
+          total: 999
+        }
+      else
+        Bridgetown.logger.info "Querying Raindrop.io for collections"
+        begin
+          collections = collect_collections
+          collections.each do |collection|
+            Bridgetown.logger.info "Querying Raindrop.io for collection ID #{collection._id}: #{collection.title}"
+            links = collect_links(collection._id)
+            link_output = []
+            links.each do |link|
+              link_output << {
+                title: link.title,
+                from: link.domain,
+                url: link.link,
+                tags: link.tags
+              }
+              count += 1
+            end
+            link_structure[:categories] << {
+              name: collection.title,
+              id: collection._id,
+              links: link_output
+            }
+            link_structure[:total] = count
           end
-          link_structure[:categories] << {
-            name: collection.title,
-            id: collection._id,
-            links: link_output
-          }
-          link_structure[:total] = count
+          site.data[:links] = link_structure
+          Bridgetown.logger.info "Raindrop Collector finished"
+        rescue => exception
+          Bridgetown.logger.warn "There was a problem connecting to Raindrop or building the list. Error: #{exception}"
         end
-        site.data[:links] = link_structure
-        Bridgetown.logger.info "Raindrop Collector finished"
-      rescue => exception
-        Bridgetown.logger.warn "There was a problem connecting to Raindrop or building the list. Error: #{exception}"
       end
     end
   end
