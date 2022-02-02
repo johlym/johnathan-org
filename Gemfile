@@ -34,3 +34,13 @@ gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
 gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
 
 gem "dotenv", "~> 2.7"
+
+
+group :test, optional: true do
+  gem "nokogiri"
+  gem "minitest"
+  gem "minitest-profile"
+  gem "minitest-reporters"
+  gem "shoulda"
+  gem "rails-dom-testing"
+end
