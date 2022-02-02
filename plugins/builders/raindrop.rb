@@ -1,6 +1,6 @@
 class Builders::Raindrop < SiteBuilder
   RAINDROP_API_ROOT = "https://api.raindrop.io/rest/v1"
-  HEADERS = {"Authorization" => "Bearer 6bd36be9-c55e-4cb9-ba0e-a4b9699fb8af"}
+  HEADERS = {"Authorization" => "Bearer #{ENV['RAINDROP_KEY']}"}
 
   def build
     hook :site, :post_read do
@@ -12,34 +12,33 @@ class Builders::Raindrop < SiteBuilder
       count = 0
 
       Bridgetown.logger.info "Querying Raindrop.io for collections"
-      collections = collect_collections
-
-      collections.each do |collection|
-        Bridgetown.logger.info "Querying Raindrop.io for collection ID #{collection._id}: #{collection.title}"
-        links = collect_links(collection._id)
-
-        link_output = []
-        links.each do |link|
-          link_output << {
-            title: link.title,
-            from: link.domain,
-            url: link.link,
-            tags: link.tags
+      begin
+        collections = collect_collections
+        collections.each do |collection|
+          Bridgetown.logger.info "Querying Raindrop.io for collection ID #{collection._id}: #{collection.title}"
+          links = collect_links(collection._id)
+          link_output = []
+          links.each do |link|
+            link_output << {
+              title: link.title,
+              from: link.domain,
+              url: link.link,
+              tags: link.tags
+            }
+            count += 1
+          end
+          link_structure[:categories] << {
+            name: collection.title,
+            id: collection._id,
+            links: link_output
           }
-          count += 1
+          link_structure[:total] = count
         end
-
-        link_structure[:categories] << {
-          name: collection.title,
-          id: collection._id,
-          links: link_output
-        }
-
-        link_structure[:total] = count
-
+        site.data[:links] = link_structure
+        Bridgetown.logger.info "Raindrop Collector finished"
+      rescue => exception
+        Bridgetown.logger.warn "There was a problem connecting to Raindrop or building the list. Error: #{exception}"
       end
-      site.data[:links] = link_structure
-      Bridgetown.logger.info "Raindrop Collector finished"
     end
   end
 
