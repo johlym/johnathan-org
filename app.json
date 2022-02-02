@@ -1,0 +1,30 @@
+{
+  "name": "Johnathan.org",
+  "description": "Johnathan.org, powered by Bridgetown",
+  "keywords": [
+    "blog",
+    "site",
+    "ruby"
+  ],
+  "website": "https://johnathan.org/",
+  "repository": "https://github.com/johlym/johnathan.org",
+  "scripts": {
+    "build": "bin/bridgetown deploy",
+    "postdeploy": "bundle exec rake bootstrap"
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "hobby"
+    }
+  },
+  "image": "heroku/ruby",
+  "environments": {
+    "test": {
+      "scripts": {
+        "test-setup": "bundle install --with test",
+        "test": "bundle exec rake test"
+      }
+    }
+  }
+}
