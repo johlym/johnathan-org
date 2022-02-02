@@ -4,4 +4,6 @@ import "index.scss"
 const componentsContext = require.context("bridgetownComponents", true, /\.(js|css)$/)
 componentsContext.keys().forEach(componentsContext)
 
+import "custom.scss"
+
 console.info("Bridgetown is loaded!")
