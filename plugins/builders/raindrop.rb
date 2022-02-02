@@ -15,7 +15,7 @@ class Builders::Raindrop < SiteBuilder
       }
       count = 0
 
-      if Bridgetown.environment == "development"
+      unless Bridgetown.environment == "production"
         Bridgetown.logger.info "Development environment detected, faking it."
         site.data[:links] = {
           categories: [
