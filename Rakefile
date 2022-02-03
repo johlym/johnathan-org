@@ -38,7 +38,7 @@ namespace :frontend do
 end
 
 task "assets:precompile" do
-  exec("bin/bridgetown deploy")
+  sh "bridgetown deploy"
 end
 
 #
