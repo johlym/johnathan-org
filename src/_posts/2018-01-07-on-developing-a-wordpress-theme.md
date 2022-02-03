@@ -17,7 +17,7 @@ Yep, I've never done this before, and it turned out pretty well… I think.
 
 In my opinion, maintaining a proper working development environment is one of the hardest things to do. Over time it can experience something I like to call “dev rot.” To make this as easy as possible, I invoked the assistance from a tool by the great folks over at Flywheel called Local. Local does one thing: let you build, maintain, and tear down WordPress development environments on a whim. It runs a Virtualbox-powered VM under the hood and if you use the Flywheel managed WordPress hosting service, allows you to push your development environment straight up to them for one-click production pushes. It's a fantastic tool and keeps things super clean.
 
-{% cloudinary_img "Alt text goes here", "flywheel_local-squashed.png", "large" %}
+{% cloudinary_img "Alt text goes here", "flywheel_local-squashed", "large" %}
 
 ## Structure
 

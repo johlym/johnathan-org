@@ -16,13 +16,13 @@ I have been a fan of the Affinity product line from Serif since they first relea
 
 Right away it's clear that Affinity Publisher carries the same design language and ease of use that Affinity Photo and Affinity Designer present to users immediately upon opening the app for the first time. I would expect this app to go head-to-head with Adobe InDesign and QuarkXPress and handily beat them out in the most common use cases.
 
-{% cloudinary_img "Alt text goes here", "Publisher-advanced-typography-1024x576.jpeg", "large" %}
+{% cloudinary_img "Alt text goes here", "Publisher-advanced-typography-1024x576", "large" %}
 
 If you're not a fan of Adobe's monthly, never-own-your-license methodology, that alone might be enough to switch. Adobe InDesign requires at least $30/month to access and QXP is $849 (or $399 if coming from InDesign). I'd imagine Affinity Publisher debuts at $49.99 given that both Affinity Photo and Affinity Designer are $49.99 each.
 
 With the third product on the way, I can also see the three titles being released as a bundle for something like $129. At either price point, it's a killer deal.
 
-{% cloudinary_img "Alt text goes here", "Publisher-tables-1024x576.jpeg", "large" %}
+{% cloudinary_img "Alt text goes here", "Publisher-tables-1024x576", "large" %}
 
 Ashley Hewson is the Managing Director at Serif and when asked about the overall goal Serif had for their product line, she said:
 
@@ -32,7 +32,7 @@ Ashley Hewson is the Managing Director at Serif and when asked about the overall
 
 I absolutely believe her. Affinity Publisher brings with it tier 1 publishing features like master pages, page spreads, linked resources, full CMYK support, and advanced typography management.
 
-{% cloudinary_img "Alt text goes here", "Publisher-cmyk-1024x576.jpeg", "large" %}
+{% cloudinary_img "Alt text goes here", "Publisher-cmyk-1024x576", "large" %}
 
 While in beta, there's bound to be some rough edges. Serif set up [a specific forum](https://forum.affinity.serif.com/index.php?/forum/62-affinity-publisher-beta-forums/) to discuss beta issues, so if you run into any, head there first.
 

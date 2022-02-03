@@ -29,7 +29,7 @@ For the sake of my review, we'll be focusing on Digital Ocean deployments, but m
 
 Creating a server starts simply: tell SpinupWP how large and where:
 
-{% cloudinary_img "SpinupWP New Server page", "spinupwp_deployment_start-1024x626.jpg", "large" %}
+{% cloudinary_img "SpinupWP New Server page", "spinupwp_deployment_start-1024x626", "large" %}
 _The server setup page. This is where you'll feed things like passwords and database names._
 
 At this stage, you'll provide things like the database name and it's password, as well as any SSH keys for access to the server from a Terminal. Make note of the password before continuing.
@@ -39,7 +39,7 @@ _The setup live feed._
 
 Once all the details are plugged in, SpinupWP will take care of the rest. It starts by using the Digital Ocean API to create a server in the region you selected earlier and with the correct size. Once the server is up, SWP will update and patch the server, then deploy the version of PHP and MySQL you chose. This can take some time, so feel free to come back in a few minutes. They say it can take up to 10 minutes, and I found that often to be the case.
 
-{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_complete-1-1024x626.jpg", "large" %}
+{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_complete-1-1024x626", "large" %}
 _The SpinupWP dashboard with a server ready to accept new WordPress sites._
 
 Just the fact that you can go from zero to a fully-functioning and ready-to-go WordPress server without any sites is awesome. It gets even better when we get to the next half: creating WordPress sites in a few clicks.
@@ -50,22 +50,22 @@ Creating the WordPresss site is also just as easy as the server itself and only 
 
 Choose the PHP version and site type (single- or multisite):
 
-{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_1-4-1024x473.jpg", "large" %}
+{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_1-4-1024x473", "large" %}
 _Setting the PHP version and WordPress site type._
 
 Name the database and its user and password:
 
-{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_2-2-1024x611.jpg", "large" %}
+{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_2-2-1024x611", "large" %}
 _Naming the database, setting the WordPress' database access username, and the user's password._
 
 Name the site and create the admin user and its username and password:
 
-{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_3-2-1024x711.jpg", "large" %}
+{% cloudinary_img "Alt text goes here", "spinupwp_site_deployment_configuration_3-2-1024x711", "large" %}
 _Give the site a name, set the admin username, the admin email, and password._
 
 And that's it! After a few minutes it'll appear on your dashboard:
 
-{% cloudinary_img "Alt text goes here", "spinupwp_site_dashboard-2-1024x626.jpg", "large" %}
+{% cloudinary_img "Alt text goes here", "spinupwp_site_dashboard-2-1024x626", "large" %}
 _A complete, ready-to-go WordPress site._
 
 Once the site is live, you'll be able to control certain aspects about it like SSL and caching settings. If the site ever needs to disappear, this is also where you'd delete it.
