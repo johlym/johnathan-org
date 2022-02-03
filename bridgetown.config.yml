@@ -27,3 +27,6 @@ timezone: America/Los_Angeles
 collections:
   posts:
     permalink: /:title/
+
+cloudinary:
+  cloud_name: hckaguqju
