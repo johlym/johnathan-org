@@ -1,7 +1,7 @@
 import "index.scss"
 
-// Import all JavaScript & CSS files from src/_components
-const componentsContext = require.context("bridgetownComponents", true, /\.(js|css)$/)
+// Import all JavaScript files from src/_components
+const componentsContext = require.context("bridgetownComponents", true, /\.(js)$/)
 componentsContext.keys().forEach(componentsContext)
 
 
