@@ -13,7 +13,7 @@ I'm always looking for a new tool, app or service that can give me a leg up when
 
 ## Acorns
 
-![](/assets/images/2015/02/5up_appstore_screenshots.png?w=525&ssl=1)
+{% cloudinary_img "Alt text goes here", "5up_appstore_screenshots.png", "large" %}
 
 They get their name from the same idea that squirrels have: when you find an acorn, you bury it in the ground and save it for winter. In this case, however, we're not burying our money when we have extra change, we're investing it. [Acorns](https://www.acorns.com) is an iOS and Android app that allows you to take the spare change from each of your regular purchases you make on a debit or credit card and invest it.
 
@@ -25,7 +25,7 @@ Acorns is free on both [iPhone](https://itunes.apple.com/us/app/acorns-invest-sp
 
 ## Betterment
 
-![](/assets/images/2015/02/5up_betterment_screenshots.png?w=525&ssl=1)
+{% cloudinary_img "Alt text goes here", "5up_betterment_screenshots.png", "large" %}
 
 If you're looking for a long-term play and want a platform that can help you do some serious investing, Betterment is the game you want to play. ﻿Signing up is dead simple and their plans help you find a good place to start putting your money. On their homepage, all you need to do is punch in your age, if you're retired, and how much you make, and they'll cook up three awesome plans for you to choose from, starting with saving to create an emergency fund/nest egg. Having one of these is important as sometimes life happens and one should never rely on credit cards.
 
@@ -43,7 +43,7 @@ The Betterment app is available for free on the [Apple App Store](https://itunes
 
 ## RobinHood
 
-![](/assets/images/2015/02/5up_robinhood_screenshots.png?resize=525%2C187&ssl=1)
+{% cloudinary_img "Alt text goes here", "5up_robinhood_screenshots.png", "large" %}
 
 RobinHood is probably the slickest of the three app-services I describe here, today. One thing that's plagued investors for a long time is that every time you make a trade, you have to pay a fee. That's all fine and dandy if you have tens or hundreds of thousands of dollars you're moving around at any one time. A $250,000 trade minus $10 is nothing (0.004%, to be exact). For those who have smaller portfolios, say around the $1k to $10k range, those $10 fees add up ($10 from $1000 is 1%, a 250x increase). RobinHood's goal is to stop making that a problem. They make their money off of you being their customer, so they don't really need to charge you _any_ per trade. Like Acorns, RobinHood is an app-only service so you can't trade on your computer (yet). It's technically not open to the public yet but they have been ramping up their beta enrollment quite a bit as of late. It's definitely work looking into as it gives anyone with any amount of money access to buy stock without having to worry about losing a large fraction of their money every time they buy and sell.
 

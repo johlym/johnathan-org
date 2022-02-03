@@ -41,7 +41,7 @@ This configuration only lasted a couple months as we approach present day. I had
 
 When I got to a point where I'd be comfortable sharing it with the world, [I posted a picture](https://www.instagram.com/p/BTFw4hNlhlz/?taken-by=_lyman) (the same one you see in the header of this post) [on Instagram](https://www.instagram.com/p/BTFw4hNlhlz/?taken-by=_lyman). Turns out Instagram loves this stuff and ate it up. If I ever seriously wanted to increase my _Brand_, this would be how I'd do it. (lol)
 
-![IMG_3632_jofipc](/content/images/wp-content/uploads/2017/06/IMG_3632_jofipc.jpg)
+{% cloudinary_img "IMG_3632_jofipc", "IMG_3632_jofipc.jpg", "large" %}
 
 ### The Pieces
 

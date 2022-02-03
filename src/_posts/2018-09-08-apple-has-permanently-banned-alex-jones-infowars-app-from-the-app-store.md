@@ -25,4 +25,4 @@ Interestingly enough, nothing about the guidelines or the InfoWars app has chang
 
 It's essentially the word version of:
 
-![this_is_fine](/content/images/wp-content/uploads/2018/09/NewImage.png "NewImage.png")
+{% cloudinary_img "this_is_fine", "NewImage.png "NewImage.png"", "large" %}

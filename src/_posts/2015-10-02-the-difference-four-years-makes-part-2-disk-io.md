@@ -17,11 +17,11 @@ Let's compare…
 
 Before:
 
-![Screenshot 2015-10-02 16.42.35](/assets/images/2015/10/Screenshot-2015-10-02-16.42.35.png?resize=525%2C565&ssl=1)
+{% cloudinary_img "Alt text goes here", "Screenshot-2015-10-02-16.42.35.png", "large" %}
 
 After:
 
-![Screen Shot 2015-10-02 at 4.40.41 PM](/assets/images/2015/10/Screen-Shot-2015-10-02-at-4.40.41-PM.png?resize=525%2C565&ssl=1)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2015-10-02-at-4.40.41-PM.png", "large" %}
 
 Big difference, eh? The former is a SATA 6Gb SSD (Toshiba 128GB) and the latter is a PCI-e SSD (256GB). My how times change.
 

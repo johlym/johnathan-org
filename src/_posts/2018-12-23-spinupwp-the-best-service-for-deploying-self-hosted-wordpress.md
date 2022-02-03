@@ -29,12 +29,12 @@ For the sake of my review, we'll be focusing on Digital Ocean deployments, but m
 
 Creating a server starts simply: tell SpinupWP how large and where:
 
-![SpinupWP New Server page](/content/images/wp-content/uploads/2018/12/spinupwp_deployment_start-1024x626.jpg)
+{% cloudinary_img "SpinupWP New Server page", "spinupwp_deployment_start-1024x626.jpg", "large" %}
 _The server setup page. This is where you'll feed things like passwords and database names._
 
 At this stage, you'll provide things like the database name and it's password, as well as any SSH keys for access to the server from a Terminal. Make note of the password before continuing.
 
-![SpinupWP New Server feed](/content/images/wp-content/uploads/2018/12/spinupwp_deployment_status_clip.gif)
+{% cloudinary_img "SpinupWP New Server feed", "spinupwp_deployment_status_clip.gif", "large" %}
 _The setup live feed._
 
 Once all the details are plugged in, SpinupWP will take care of the rest. It starts by using the Digital Ocean API to create a server in the region you selected earlier and with the correct size. Once the server is up, SWP will update and patch the server, then deploy the version of PHP and MySQL you chose. This can take some time, so feel free to come back in a few minutes. They say it can take up to 10 minutes, and I found that often to be the case.

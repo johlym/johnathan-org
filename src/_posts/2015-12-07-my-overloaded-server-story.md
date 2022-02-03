@@ -21,19 +21,19 @@ My baby of a server has, for the last five or so months, been filling [Newrelic]
 
 **CPU**
 
-![loaded_server_before_cpu](/assets/images/2015/12/loaded_server_before_cpu.png?resize=525%2C153)
+{% cloudinary_img "Alt text goes here", "loaded_server_before_cpu.png", "large" %}
 
 **Memory**
 
-![loaded_server_before_mem](/assets/images/2015/12/loaded_server_before_mem.png?resize=525%2C152)
+{% cloudinary_img "Alt text goes here", "loaded_server_before_mem.png", "large" %}
 
 **Disk**
 
-![loaded_server_before_disk](/assets/images/2015/12/loaded_server_before_disk.png?resize=525%2C125)
+{% cloudinary_img "Alt text goes here", "loaded_server_before_disk.png", "large" %}
 
 **Load**
 
-![loaded_server_before_load](/assets/images/2015/12/loaded_server_before_load.png?resize=525%2C189)
+{% cloudinary_img "Alt text goes here", "loaded_server_before_load.png", "large" %}
 
 So I'm just going to go ahead and say that's not good. The only graph above that's even remote decent is the Disk graph, but it's washed over by the CPU \> 80% indication so it's also pretty much hosed.
 
@@ -53,19 +53,19 @@ I still couldn't figure out why my disk usage was so high, though. Leave it to m
 
 **CPU**
 
-![loaded_server_after_cpu](/assets/images/2015/12/loaded_server_after_cpu.png?resize=525%2C151)
+{% cloudinary_img "Alt text goes here", "loaded_server_after_cpu.png", "large" %}
 
 **Memory**
 
-![loaded_server_after_mem](/assets/images/2015/12/loaded_server_after_mem.png?resize=525%2C151)
+{% cloudinary_img "Alt text goes here", "loaded_server_after_mem.png", "large" %}
 
 **Disk**
 
-![loaded_server_after_disk](/assets/images/2015/12/loaded_server_after_disk.png?resize=525%2C125)
+{% cloudinary_img "Alt text goes here", "loaded_server_after_disk.png", "large" %}
 
 **Load**
 
-![loaded_server_after_load](/assets/images/2015/12/loaded_server_after_load.png?resize=525%2C189)
+{% cloudinary_img "Alt text goes here", "loaded_server_after_load.png", "large" %}
 
 Sorry this story wasn't more interesting. If you're curious, my Jekyll build time was cut in half.
 

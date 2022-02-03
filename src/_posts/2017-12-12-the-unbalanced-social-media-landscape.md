@@ -13,7 +13,7 @@ I discovered some stats from [a 2016 Harvard study](https://cyber.harvard.edu/pu
 
 Take a look at this graph<sup><a href="#fn-1">1</a></sup>:
 
-![Fig06](/content/images/wp-content/uploads/2017/12/Fig06.png)
+{% cloudinary_img "Fig06", "Fig06.png", "large" %}
 
 That's an insane distribution. I believe political discourse belongs on Facebook, but there's a largely over-represented group and just as well an under-represented group… both on the same side.
 
