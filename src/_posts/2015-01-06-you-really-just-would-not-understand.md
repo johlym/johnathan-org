@@ -9,7 +9,7 @@ categories: posts
 date: 2015-01-06 19:16:16.000000000 -08:00
 ---
 
-[{% cloudinary_img "Alt text goes here", "Screenshot-2015-01-06-20.14.21", "large" %}
+[{% cloudinary_img "Alt text goes here", "Screenshot-2015-01-06-20.14.21", "standard" %}
 
 I'm hoping that someone can explain to me why in the literal hell I would think this is something I would wear.
 

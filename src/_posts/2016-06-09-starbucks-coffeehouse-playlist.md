@@ -9,7 +9,7 @@ categories: posts
 date: 2016-06-09 05:37:43.000000000 -07:00
 ---
 
-[{% cloudinary_img "Alt text goes here", "13413604_10206144656807181_2769894144566463025_n", "large" %}
+[{% cloudinary_img "Alt text goes here", "13413604_10206144656807181_2769894144566463025_n", "standard" %}
 
 You have to kind of care about Starbucks and coffee shop-type music but this morning I strolled into Starbucks and when I went to pay with my Starbucks card via the app, I was able to get [the playlist for the music being played](https://open.spotify.com/user/starbucks/playlist/0LPsYH4hIRjLUKXuZd2vAt) at that location.
 

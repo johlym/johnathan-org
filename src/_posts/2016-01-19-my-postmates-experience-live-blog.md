@@ -15,7 +15,7 @@ This is my pseudo-live blog on my first Postmates experience.
 
 Stay tuned to the end to see if the food was any good!
 
-{% cloudinary_img "Alt text goes here", "1453262546_1", "large" %}
+{% cloudinary_img "Alt text goes here", "1453262546_1", "standard" %}
 
 7:10pm – I found my tasty greek food just a few miles away, and with a wait time of roughly 40ish minutes. For $24 with all extras and fees, I'm super excited to get my gyro fix, thanks to Athena Grill.
 

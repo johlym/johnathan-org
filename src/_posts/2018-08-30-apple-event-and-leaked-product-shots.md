@@ -15,15 +15,15 @@ The second bit of news is a bit more interesting and comes in two parts (by way 
 
 > Apple is suffering from a major leak that has allowed _[9to5Mac](https://9to5mac.com/2018/08/30/exclusive-apple-watch-series-4/)_ to discover images of the [upcoming “iPhone XS” models](https://www.macrumors.com/2018/08/30/apple-leaks-2018-iphone-models/) and the Apple Watch Series 4, giving us an idea of what to expect when the new devices are announced on September 12.
 
-{% cloudinary_img "Alt text goes here", "applewatchseries4", "large" %}
+{% cloudinary_img "Alt text goes here", "applewatchseries4", "standard" %}
 
 The leaked images come 9to5Mac that claims to have the exclusive on this. The new Apple Watch Series 4 looks to have a larger screen while still keeping the same size and holy cow look at that watch face. If that's legit, I look forward to rocking that face on the daily.
 
-{% cloudinary_img "Alt text goes here", "iphonexs", "large" %}
+{% cloudinary_img "Alt text goes here", "iphonexs", "standard" %}
 
 The iPhone Xs–the presumed successor to the home-button-less iPhone X looks to be largely the same save for the new color. It's impossible to tell in this image if the notch is still a thing (I suspect it is). The gold color is pretty damn nice. This makes me ponder if there'll be other colors as well (in addition to the space gray, white, and now gold).
 
-{% cloudinary_img "Alt text goes here", "apple-event-6c-1024x989", "large" %}
+{% cloudinary_img "Alt text goes here", "apple-event-6c-1024x989", "standard" %}
 
 We'll find out on September 12th.
 

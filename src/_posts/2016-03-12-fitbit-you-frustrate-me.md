@@ -15,7 +15,7 @@ My problem, nay my supreme life struggle lies with getting my Fitbit to sync. It
 
 Let me explain.
 
-{% cloudinary_img "Alt text goes here", "fitbit_sync_loop.gif", "large" %}
+{% cloudinary_img "Alt text goes here", "fitbit_sync_loop.gif", "standard" %}
 
 I've been told that more times than I'm willing to admit.
 

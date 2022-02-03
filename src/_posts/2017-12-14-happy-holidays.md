@@ -8,4 +8,4 @@ categories: posts
 date: 2017-12-14 18:06:28.000000000 -08:00
 ---
 
-[{% cloudinary_img "Happy Holidays", "happy_holidays_1", "large" %}
+[{% cloudinary_img "Happy Holidays", "happy_holidays_1", "standard" %}

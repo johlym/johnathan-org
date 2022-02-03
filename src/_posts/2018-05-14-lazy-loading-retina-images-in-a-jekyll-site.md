@@ -39,7 +39,7 @@ Now that our JavaScript is in play, the only other step is to update the image t
 This creates four fields, the paths to the 1x small image 2x small image, the full-size image loaded and the tag needed by [lightbox.js](http://lokeshdhakar.com/projects/lightbox2/). The finished markdown product looks like this (taken from a previous post):
 
 ```
-[{% cloudinary_img "](){: data-src="/assets/images/2018/05/07/gtmetrix-0512-sm.jpg" data-srcset="/assets/images/2018/05/07/gtmetrix-0512-sm@2x.jpg 2x"}", "gtmetrix-0512", "large" %}{: data-lightbox="image-3"}
+[{% cloudinary_img "](){: data-src="/assets/images/2018/05/07/gtmetrix-0512-sm.jpg" data-srcset="/assets/images/2018/05/07/gtmetrix-0512-sm@2x.jpg 2x"}", "gtmetrix-0512", "standard" %}{: data-lightbox="image-3"}
 ```
 
 Pretty slick, eh? With this in place, some bytes will be saved every day.
