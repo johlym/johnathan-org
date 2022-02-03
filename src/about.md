@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Johnathan Lyman
+title: About Me
 ---
 
 <p class="text-center">

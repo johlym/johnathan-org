@@ -5,7 +5,7 @@
 # in the templates via {{ site.metadata.myvariable }}.
 
 title: Johnathan Lyman
-tagline: Occasionally interesting.
+tagline: Developer Support & Ruby on Rails Developer
 email: email@johnathan.org
 description: >-
   The personal site of Developer Support veteran-turned Rails developer Johnathan Lyman.
