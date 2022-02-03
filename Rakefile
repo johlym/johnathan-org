@@ -38,7 +38,7 @@ namespace :frontend do
 end
 
 task "assets:precompile" do
-  Bridgetown::Commands::Build.start
+  Rake::Task[:deploy].invoke
 end
 
 #
