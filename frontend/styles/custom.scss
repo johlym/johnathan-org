@@ -7,6 +7,14 @@
   max-width: 65ch;
 }
 
+.content {
+  p {
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
 /*! purgecss start ignore */
 #carbonads {
   * {
