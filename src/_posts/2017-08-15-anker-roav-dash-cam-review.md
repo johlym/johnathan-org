@@ -118,4 +118,4 @@ Overall, I like The Anker Roav. It'll probably stay in my car for some time as i
 5. The second was underneath the camera in the black tray. [↩](#fnref-5)
 6. I wouldn't normally go to a retail store for something like this but I didn't want to wait and the difference was just a few dollars– a deal's a deal! [↩](#fnref-6)
 7. My car provides two cigarette lighters: one underneath the center stack and one in the center console underneath the arm rest. [↩](#fnref-7)
-8. You might notice your phone not show a Wi-Fi symbol. I deduced this is probably because the phone can't actually get to the Internet via Wi-Fi so it'll prefer LTE. [Here's a screenshot of my Wi-Fi settings](/wp-content/uploads/2017/08/anker-roav-dash-cam/dash_cam_connecting_to_wifi.jpg) to show it still connected, regardless. [↩](#fnref-8)
+8. You might notice your phone not show a Wi-Fi symbol. I deduced this is probably because the phone can't actually get to the Internet via Wi-Fi so it'll prefer LTE. [↩](#fnref-8)
