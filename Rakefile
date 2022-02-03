@@ -38,7 +38,8 @@ namespace :frontend do
 end
 
 task "assets:precompile" do
-  sh "bridgetown deploy"
+  p ENV['BRIDGETOWN_ENV']
+  Bridgetown::Commands::Build.start
 end
 
 #
