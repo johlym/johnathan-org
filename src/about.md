@@ -28,6 +28,13 @@ This is year six (2016-2022) of working 100% remote and I've been able to use th
 
 ## Certifications
 
+{% for cert in site.data.certifications %}
+<p class="py-3 my-0 border-bottom">
+  <strong>{{ cert.title }}</strong> <span class="text-small text-muted">{{ cert.date }}</span><br />
+  <span class="badge rounded-pill bg-dark text-light">{{ cert.body }}</span> <span class="badge rounded-pill bg-light text-dark">{{ cert.specific_to }}</span>
+</p>
+{% endfor %}
+
 ## Colophon
 
 Johnathan.org is operated, maintained, and written by myself, Johnathan Lyman. I’ve maintained this blog to varying degrees since 2014 and have been on the web in about two dozen different formats since 2001-ish. Johnathan.org is my personal blog, first and foremost, where I write about topics that interest me. In particular, technology, some current events, videos, and other bits I discover are what you’re most likely to see here.

@@ -1,6 +1,60 @@
-- title:
-  category:
-  body:
-  specific_to:
-  date:
+- title: Certified Heroku Architect
+  body: Salesforce
+  specific_to: Heroku
+  date: July 2021
+  expires: July 2022 (renews yearly)
+- title: LPIC-1
+  body: Linux Professional Institute (LPI)
+  specific_to: Linux
+  date: July 2018
+  expires:
+- title: Linux+
+  body: CompTIA
+  specific_to: Linux
+  date: June 2018
+  expires:
+- title: User Interface Designer
+  body: Certification Partners (CIW)
+  specific_to: Web Design
+  date: April 2018
+  expires: 
+- title: Advanced HTML5 & CSS3 Specialist
+  body: Certification Partners (CIW)
+  specific_to: Web Design
+  date: September 2017
+  expires:
+- title: Project+
+  body: CompTIA
+  specific_to: Project Management
+  date: January 2015
+  expires:
+- title: Security+
+  body: CompTIA
+  specific_to: Computer Security
+  date: December 2014
+  expires:
+- title: Network+
+  body: CompTIA
+  specific_to: Network Management and Design
+  date: October 2014
+  expires:
+- title: Microsoft Certified Professional
+  body: Microsoft
+  specific_to: Microsoft Ecosystem
+  date: July 2014
+  expires:
+- title: A+
+  body: CompTIA
+  specific_to: Computer Repair and Troubleshooting
+  date: April 2014
+  expires:
+- title: Web Foundations Associate
+  body: Certification Partners (CIW)
+  specific_to: Web Design
+  date: December 2013
+  expires:
+- title: Web Design Specialist
+  body: Certification Partners (CIW)
+  specific_to: Web Design
+  date: September 2013
   expires:
