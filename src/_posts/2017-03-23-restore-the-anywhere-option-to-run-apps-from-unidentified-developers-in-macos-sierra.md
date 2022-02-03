@@ -19,11 +19,11 @@ From the Terminal, run:
 
 `sudo spctl --master-disable`
 
-![](/content/images/wp-content/uploads/2017/03/Screen-Shot-2017-03-23-at-4.41.02-PM.png)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2017-03-23-at-4.41.02-PM.png", "large" %}
 
 It'll ask for your password. Plug it in and hit enter.
 
-![](/content/images/wp-content/uploads/2017/03/Screen-Shot-2017-03-23-at-4.36.15-PM.png)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2017-03-23-at-4.36.15-PM.png", "large" %}
 
 Head back to **System Preferences** \> **Security and Privacy** and you should see the “Anywhere” option once more. If it used to be ticked before your upgrade to Sierra, it should be ticked again, now.
 

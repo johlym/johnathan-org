@@ -138,29 +138,29 @@ https://localhost:631/admin
 
 Your browser will probably complain about the SSL certificate. Skip through that, if necessary. You'll land on a page that looks something like this:
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.44.20-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.44.20-PM-1024x715.jpg", "large" %}
 
 1. Click the **Add Printer** button under the _Printers_ section. Select the Dymo printer and click **Continue**.
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.45.34-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.45.34-PM-1024x715.jpg", "large" %}
 
 2. Fill in the fields as you see fit and make sure to check **Share This Printer** before clicking **Continue** :
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.48.03-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.48.03-PM-1024x715.jpg", "large" %}
 
 If everything went according to plan in Part 2, the relevant drivers should appear, with the specific printer at the top of the list.
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.49.05-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.49.05-PM-1024x715.jpg", "large" %}
 
 If that's the case, leave everything as is and click **Add Printer**.
 
 Lastly, and optionally, set some default print settings and wrap up the setup by clicking **Set Default Options** :
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.50.12-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.50.12-PM-1024x715.jpg", "large" %}
 
 The printer should be set and ready to go, and visible from the CUPS admin page:
 
-![](/content/images/wp-content/uploads/2019/11/Screen-Shot-2019-11-08-at-4.51.09-PM-1024x715.jpg)
+{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.51.09-PM-1024x715.jpg", "large" %}
 
 ### Conclusion
 
