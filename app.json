@@ -8,6 +8,9 @@
   ],
   "website": "https://johnathan.org/",
   "repository": "https://github.com/johlym/johnathan.org",
+  "scripts": {
+    "heroku-postbuild": "bridgetown deploy"
+  },
   "formation": {
     "web": {
       "quantity": 1,
