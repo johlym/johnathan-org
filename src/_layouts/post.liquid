@@ -12,3 +12,7 @@ layout: default
 <div class="content">
   {{ content }}
 </div>
+<div class="border-top my-4 my-md-5">
+  <h2>Most Recent Posts</h2>
+  {% render "post_loop", posts: collections.posts.resources, limit: 3 %}
+</div>

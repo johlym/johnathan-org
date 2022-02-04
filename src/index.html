@@ -12,14 +12,8 @@ layout: default
 {% render "carbon" %}
 <hr>
 <h2>Latest Posts</h2>
-<p>A list of the most recent three posts I've created.</p>
-<ul class="list-unstyled pl-0">
-  {% for post in collections.posts.resources limit:3 %}
-    <li class="border-top">
-      {% render "post_loop" post: post, preview: "false" %}
-    </li>
-  {% endfor %}
-</ul>
+<p>A list of the most recent five posts I've created.</p>
+{% render "post_loop", posts: collections.posts.resources, limit: 5 %}
 
 <p>
   <a href="/posts/">All Posts <i class="far fa-long-arrow-alt-right"></i></a>
