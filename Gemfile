@@ -30,20 +30,20 @@ gem "bridgetown", "~> 1.0.0.beta2"
 # (you can optionally limit this to the "development" group)
 gem "puma", "~> 5.5"
 
-gem "reverse_markdown", "~> 2.1"
+# gem "reverse_markdown", "~> 2.1"
 
-gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
-gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
+# gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
+# gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
 
-group :test, optional: true do
-  gem "nokogiri"
-  gem "minitest"
-  gem "minitest-profile"
-  gem "minitest-reporters"
-  gem "shoulda"
-  gem "rails-dom-testing"
-end
+# group :test, optional: true do
+#   gem "nokogiri"
+#   gem "minitest"
+#   gem "minitest-profile"
+#   gem "minitest-reporters"
+#   gem "shoulda"
+#   gem "rails-dom-testing"
+# end
 
-gem "rack-rewrite", "~> 1.5"
+# gem "rack-rewrite", "~> 1.5"
 
-gem "bridgetown-cloudinary", "~> 1.2", :group => :bridgetown_plugins
+# gem "bridgetown-cloudinary", "~> 1.2", :group => :bridgetown_plugins
