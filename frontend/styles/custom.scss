@@ -15,6 +15,12 @@
   }
 }
 
+.link-card-image {
+  width: 100px;
+  height: 50px;
+  object-fit: cover;
+}
+
 /*! purgecss start ignore */
 #carbonads {
   * {
