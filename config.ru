@@ -1,13 +1,13 @@
 # This file is used by Rack-based servers during the Bridgetown boot process.
 
 require "bridgetown-core/rack/boot"
-require 'rack/rewrite'
+# require 'rack/rewrite'
 
-if ENV['BRIDGETOWN_ENV'] == "production" && ENV['HOST_ENV'] == "heroku"
-  use Rack::Rewrite do
-    r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
-  end
-end
+# if ENV['BRIDGETOWN_ENV'] == "production" && ENV['HOST_ENV'] == "heroku"
+#   use Rack::Rewrite do
+#     r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
+#   end
+# end
 
 Bridgetown::Rack.boot
 
