@@ -15,10 +15,10 @@
   }
 }
 
-.link-card-image {
-  width: 100px;
-  height: 50px;
-  object-fit: cover;
+.card-img-bg {
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
 }
 
 /*! purgecss start ignore */
