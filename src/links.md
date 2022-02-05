@@ -3,9 +3,7 @@ layout: page
 title: Links
 ---
 
-A collection of links for things I find interesting on the Internet. Links are
-saved to my Randrop.io account. The data source is queried at 0:00 UTC every
-day.
+A collection of links for things I find interesting on the Internet.
 
 <p class="text-center">
   Total links: {{ site.data.raindrop.reading_list.count }}
@@ -15,7 +13,7 @@ day.
 <div class="card mb-3" data-raindrop-item-id="{{ item.id }}" id="{{ item.id }}">
   <div class="row g-0">
     <div class="col-sm-2 card-img-bg"
-      style="background-image: url('{{ item.cover }}')">
+      style="{% if item.cover %}background-image: url('{{ item.cover }}'){% else %}background-color: #eee;{% endif %}">
       <!-- <img src="{{ item.cover }}" class="img-fluid rounded-start link-card-image"> -->
     </div>
     <div class="col-sm-10">
