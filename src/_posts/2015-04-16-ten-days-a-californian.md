@@ -17,7 +17,7 @@ I'll just come right out and say it: this place is dry. Not dry like “my cloth
 
 See exhibit A.
 
-{% cloudinary_img "Alt text goes here", "361745-5", "standard" %}
+<!--missing_image-->
 
 That about sums it up.
 

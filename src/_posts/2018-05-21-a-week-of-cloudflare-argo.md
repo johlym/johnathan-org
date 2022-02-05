@@ -17,7 +17,7 @@ It's $5 a month plus $.10 per GB. Since most of the content on this site is text
 
 Looking at some of the stats, now…
 
-{% cloudinary_img "", "updown_io_response_times_05242018", "standard" %}
+<!--missing_image-->
 
 As reported by [Updown.io](https://johnathan.org/goto/updown) (the service that powers [status.johnathan.org](https://status.johnathan.org) and the uptime percentage at the bottom of the page), the majority of my requests come in in no time at all, with the obvious winner being Los Angeles (closest to San Francisco, my [DigitalOcean](https://johnathan.org/goto/digitalocean) location). The outlier is France, though I'm not too concerned with it. It seems to be fluctuating.
 
@@ -25,13 +25,13 @@ As reported by [Updown.io](https://johnathan.org/goto/updown) (the service that 
 
 Moving over to [Pingdom](https://pingdom.com)…
 
-{% cloudinary_img "", "pingdom_response_times", "standard" %}
+<!--missing_image-->
 
 It's pretty obvious when Argo was enabled. I'm not sure what happened with the spike half-way between the 16th and 17th, but a response time being cut in half is amazing, even after doing **zero** work on the server, itself.
 
 Lastly, the Cloudflare stats…
 
-{% cloudinary_img "", "cloudflare_argo_response_times", "standard" %}
+<!--missing_image-->
 
 We see a clear difference in their metrics of response time improvements. Including the entire TLS handshake process, these sub 200ms response times in most cases is wonderful. At scale, Argo would have the potential to be mind-numbingly fast.
 

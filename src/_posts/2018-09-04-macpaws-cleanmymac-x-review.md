@@ -21,13 +21,13 @@ When I first received the email that a new version of CleanMyMac was on its way,
 
 CleanMyMac X comes with an array of options for purging the cruft that's collecting on your computer. I can hear people saying now that with disks as large as they are, there's no need for any of this! You might be right, though not everyone has massive disks and you'd be surprised how much can collect in the back corners of your operating system after several years of botched removals of apps, all those Docker containers that collect dust, etc.
 
-{% cloudinary_img "Alt text goes here", "cmmx_smart_scan", "standard" %}
+<!--missing_image-->
 
 The first stop for most folks is _Smart Scan_. This is the easy mode. If you'd rather just click a thing and be done with it, Smart Scan fits the bill perfectly. It'll work through the Cleanup, Protection, and Speed tasks automatically and behave as if you said yes to everything each task offers. For those that like a bit more control, I recommend staying away from this option and working your way down the list, instead. Hit the **Run** button and you'll be done in a few moments.
 
 ## Cleanup
 
-{% cloudinary_img "Alt text goes here", "cmmx_smart_scan_details", "standard" %}
+<!--missing_image-->
 
 Those that are curious will inevitably want to stop at each entry on the list, especially _System Junk_. This is the same task as the first 1/3 of Smart Scan. You can opt to go with the defaults or hit **Review Details** to get a clearer, more detailed picture of what's on the chopping block and exempt items as needed. On my list I have a few options unchecked because of personal preferences, but you're free to be as selective (or not) as you want. In my case, I don't want to drop the only disk image it found that I haven't touched in a long time. It's a copy of a photo CD from a waterproof camera we brought with us on vacation to the Caribbean last year. I'd be better off moving that disk image off my machine altogether to save that space.
 
@@ -47,7 +47,7 @@ While they're not as prone as Windows-based machines are, Macs can get viruses, 
 
 Best case scenario, you see something like this:
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2018-08-30-at-5.39.01-PM", "standard" %}
+<!--missing_image-->
 
 The Privacy task is pretty self-explanatory. It clears your cookies and browser caches, autofills, etc. These are things you can do from within the browser so there's nothing especially groundbreaking, here. It'll also purge your chat logs, too.
 
@@ -59,7 +59,7 @@ These tasks are all things you can do elsewhere, though it might not be clear ex
 
 The Uninstaller is a nice feature to have. Sometimes, just dragging an app to the trash doesn't clean up stuff in crazy alternative locations. CleanMyMac X touts a full purge of anything related to that app and even lets you see only the apps you've never used or are old and may soon be unsupported altogether.
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2018-08-30-at-5.50.30-PM", "standard" %}
+<!--missing_image-->
 
 From the Updater pane, you can work through applications and update them on the fly. This triggers the update process within the app. It's not immediately clear how it knows or how it triggers–I'll update this review when and if I learn. It's pretty straight forward in how it works, though I couldn't get it to update a couple apps. I suspect that's an issue on my end rather than with the app itself given its hands-off approach to facilitating these updates.
 

@@ -17,11 +17,11 @@ Let's compare…
 
 Before:
 
-{% cloudinary_img "Alt text goes here", "Screenshot-2015-10-02-16.42.35", "standard" %}
+<!--missing_image-->
 
 After:
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2015-10-02-at-4.40.41-PM", "standard" %}
+<!--missing_image-->
 
 Big difference, eh? The former is a SATA 6Gb SSD (Toshiba 128GB) and the latter is a PCI-e SSD (256GB). My how times change.
 

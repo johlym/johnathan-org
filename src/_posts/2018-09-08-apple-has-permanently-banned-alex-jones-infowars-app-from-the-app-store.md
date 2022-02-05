@@ -25,4 +25,4 @@ Interestingly enough, nothing about the guidelines or the InfoWars app has chang
 
 It's essentially the word version of:
 
-{% cloudinary_img "this_is_fine", "NewImage.png "NewImage.png"", "standard" %}
+<!--missing_image-->

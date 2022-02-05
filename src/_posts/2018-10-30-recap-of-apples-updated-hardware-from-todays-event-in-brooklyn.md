@@ -20,7 +20,7 @@ Apple announced a host of updated bits of hardware at today's event in Brooklyn.
 
 # Mac Mini
 
-{% cloudinary_img "Mac Mini Desktop setup display 10302018", "mac_mini_desktop_display.jpg "mac\_mini\_desktop\_display.jpg"", "standard" %}
+<!--missing_image-->
 
 The last update to the Mac Mini was in 2014, and it was underwhelming to say the least. Today's announcement is a welcome refresh to those who still enjoy the small-form-factor Apple desktop computer.
 
@@ -43,7 +43,7 @@ The last update to the Mac Mini was in 2014, and it was underwhelming to say the
 - **Wireless:** 802.11ac and Bluetooth 5.0.
 - **Displays** : Up to 3 4K displays using a combination of Thunderbolt 3 and HDMI or one 5K and 4K display using the same port combination.
 
-{% cloudinary_img "Mac Mini side ports 10302018", "mac_mini_with_ports.jpg "mac\_mini\_with\_ports.jpg"", "standard" %}
+<!--missing_image-->
 
 ## Pricing
 
@@ -53,7 +53,7 @@ The Mac Mini starts at $799 and can climb to $4199, depending on configuration. 
 
 # Macbook Air
 
-{% cloudinary_img "MacBook Air family 10302018", "macbook_air_family.jpg "macbook\_air\_family.jpg"", "standard" %}
+<!--missing_image-->
 
 We haven't seen the MacBook Air receive a meaningful update in even more years than the Mac Mini. Until today, it rocked a 1280×800 non-retina display (and if you really want to punish yourself, you can still buy it). This version keeps the hard function keys but brings over Touch ID (and the T2) chip from the MacBook Pro line.
 
@@ -75,7 +75,7 @@ Here's what's up with the new model:
 - **Battery:** Up to 12 hours on the Web, 13 hours of movie playback, 30 days standby thanks to a 50.3 watt-hour battery and a 30-watt USB-C power adapter
 - **Colors:** Gold, Silver, Space Gray
 
-{% cloudinary_img "MacBook Air Keyboard and Ports 10302018", "macbook_air_keyboard_ports.jpg "macbook\_air\_keyboard\_ports.jpg"", "standard" %}
+<!--missing_image-->
 
 ## Pricing
 
@@ -85,7 +85,7 @@ The MacBook Air starts at $1199 and can climb to $2,599, depending on configurat
 
 # iPad Pro
 
-{% cloudinary_img "iPad Pro with attached Apple Pencil 2nd-generation", "ipad_pro_2nd_gen.jpg "ipad\_pro\_2nd\_gen.jpg"", "standard" %}
+<!--missing_image-->
 
 The 3rd-generation iPad Pro comes with a host of design changes that weren't a surprise to anyone following the rumors. The home button is gone and in its place is an edge-to-edge display (with no notch!) and Face ID support.
 
@@ -132,7 +132,7 @@ The 3rd-generation iPad Pro comes with a host of design changes that weren't a s
   - Cellular models have a reported 9-hour run time.
 - **Colors:** Gold, Silver, Space Gray
 
-{% cloudinary_img "IPad Pro versatility monitor 10302018", "iPad-Pro_versatility-monitor_10302018.jpg "iPad-Pro\_versatility-monitor\_10302018.jpg"", "standard" %}
+<!--missing_image-->
 
 ## Pricing
 

@@ -15,7 +15,7 @@ Anyway, This article had some good points that I wanted to recap because it's so
 
 Looking back on even last night's sleep, I started out on my side, and the article puts me in the majority with 57% of sleepers starting out that way. Sometimes, if I'm already pretty relaxed, I'll start on my back, and let my eyes literally roll back into my head (weird I know). That's something only 17% of people seem to do, and for those stomach sleepers out there, you're the odder of the bunch at 11% for starting positions.
 
-{% cloudinary_img "Alt text goes here", "2680866397_f6107a9fe0_o", "standard" %}
+<!--missing_image-->
 
 What I really found interesting is just in the next paragraph, the author talks about the variance in the amount of times people toss and turn during the night: as few as three times to as many as 36. I would have no way of knowing where I fall in that category unless I videotaped myself. I'm ok not knowing that much about my sleeping habits.
 

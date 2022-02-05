@@ -15,7 +15,7 @@ Anyone that's stayed in a hotel knows the power outlet situation is varied. best
 
 Enter the [Anker PowerPort Mini](https://amzn.to/2oKPv6A). A 2-port USB 2.4A wall plug with Power IQ support that's about the size of a golf ball. The prongs fold in to make itself a bit more portable, which is nice when comparing it to the size of Apple's single port 5W brick.
 
-{% cloudinary_img "Powerport size comparison 1", "powerport_size_comparison_1.jpeg "powerport\_size\_comparison\_1.jpeg"", "standard" %}
+<!--missing_image-->
 
 While it's not the smallest charging brick in the world, the fact that it provides two ports will more than make up for it. The alternative in this comparison is to have two Apple bricks that would take up two outlets. In the image above the coin in a Canadian quarter. The height is about 75% greater, but it definitely doesn't feel big in my hand. If anything, holding the Apple brick afterward makes the Apple brick feel very small and almost inadequate.
 

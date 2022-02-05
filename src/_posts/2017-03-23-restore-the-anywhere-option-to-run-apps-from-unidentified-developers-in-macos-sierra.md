@@ -19,11 +19,11 @@ From the Terminal, run:
 
 `sudo spctl --master-disable`
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2017-03-23-at-4.41.02-PM", "standard" %}
+<!--missing_image-->
 
 It'll ask for your password. Plug it in and hit enter.
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2017-03-23-at-4.36.15-PM", "standard" %}
+<!--missing_image-->
 
 Head back to **System Preferences** \> **Security and Privacy** and you should see the “Anywhere” option once more. If it used to be ticked before your upgrade to Sierra, it should be ticked again, now.
 

@@ -21,19 +21,19 @@ My baby of a server has, for the last five or so months, been filling [Newrelic]
 
 **CPU**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_cpu", "standard" %}
+<!--missing_image-->
 
 **Memory**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_mem", "standard" %}
+<!--missing_image-->
 
 **Disk**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_disk", "standard" %}
+<!--missing_image-->
 
 **Load**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_load", "standard" %}
+<!--missing_image-->
 
 So I'm just going to go ahead and say that's not good. The only graph above that's even remote decent is the Disk graph, but it's washed over by the CPU \> 80% indication so it's also pretty much hosed.
 
@@ -53,19 +53,19 @@ I still couldn't figure out why my disk usage was so high, though. Leave it to m
 
 **CPU**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_cpu", "standard" %}
+<!--missing_image-->
 
 **Memory**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_mem", "standard" %}
+<!--missing_image-->
 
 **Disk**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_disk", "standard" %}
+<!--missing_image-->
 
 **Load**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_load", "standard" %}
+<!--missing_image-->
 
 Sorry this story wasn't more interesting. If you're curious, my Jekyll build time was cut in half.
 

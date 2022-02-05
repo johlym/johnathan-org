@@ -14,7 +14,7 @@ _Time to Master: Infinity_
 
 There's a thought in the photography community which extends to pretty much any facet of life: you only get better by doing. One does not become a pro golfer by reading a book—although reading does help—nor does merely buying a professional-grade camera make you a good photographer. How does one become a pro, though? If that's a path you want to take, awesome. If not, don't worry, as this still applies to even those who want to excel at photography as a hobby or a small side gig to pass the time and pay the photography bills. I've broken it down into four super easy steps.
 
-{% cloudinary_img "Alt text goes here", "o7zkynkq1lm", "standard" %}
+<!--missing_image-->
 
 Some horses. (unsplash)
 
@@ -31,7 +31,7 @@ At the start of this little conversation I told you a high-end camera does not a
 
 Now that you've collected your gear, it's time to get outside and make a photograph of something. (If you have the space, resources, and ability, you can make a photograph indoors, too, but it's generally cheaper to walk outside than to buy studio equipment.
 
-{% cloudinary_img "Alt text goes here", "qtr6sfco3zg", "standard" %}
+<!--missing_image-->
 
 ## Do.
 
@@ -41,7 +41,7 @@ If you haven't taken a photo of more than your cat, do take a photo of something
 
 Once you've taken your daily photo, go take a hundred more of different things. Go to a park. A zoo. A car show. Walk down the street. Walk up the street. Find a bug. Find two bugs. Find a bug killing a bug, National Geographic style! There should be zero people in your life pressuring you to perform here. If anything people around you should be supportive of your new endeavor. Maybe if you ask nicely, they'll pose for you! If you feel pressured to perform, remove that source of pressure from your life. Stop wishing. Stop comparing. Stop thinking. Now is not the time to think. Now is the time to do, to make. Getting the idea?
 
-{% cloudinary_img "Alt text goes here", "t6crnps0lm", "standard" %}
+<!--missing_image-->
 
 ## Look.
 
@@ -49,7 +49,7 @@ Time to learn. You've taken a load of photos and are starting to get a hang of y
 
 Once you've consumed more videos and articles than your brain can handle, find photographers in niches you personally enjoy. Look at their work. Read their blogs. Follow them on Facebook, Twitter, Google+, Pinterest, 500px, and any other social networking site they use. Even better, don't just follow them, chat with them. Reach out to them for tips or really anything you can think of that would possibly help you! Once you've done that, steal from them. Specifically, **steal their look**. Try to make a photo that looks like that. If it's something like a landscape or wildlife, capture that same animal or area! When you've successfully done that, do it again, with another photographer. I'd be willing to bet cold hard money bags of money that the second photographer you follow or are otherwise interested in their work shoots differently than you do, with a different style. Once you've knocked out number two, go for a third, and a fourth. After every attempt or measure of success, make it your own. This'll help you figure out what your style is. You'll find yourself going back to what you like the most and over time, tweaking it to make it your own.
 
-{% cloudinary_img "Alt text goes here", "9hwwdcczgkg", "standard" %}
+<!--missing_image-->
 
 ## Repeat.
 

@@ -13,7 +13,7 @@ It's not going to change anything. I follow McDonalds on Facebook. A lot of peop
 
 Take a look at the below series of “questions” asked by commenters of a post McDonalds made about their eggs:
 
-{% cloudinary_img "Alt text goes here", "Screenshot-2015-02-14-10.07.12", "standard" %}
+<!--missing_image-->
 
 Consume those mind-numbing questions and let's discuss.
 

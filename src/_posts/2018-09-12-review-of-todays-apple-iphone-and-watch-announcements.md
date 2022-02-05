@@ -14,7 +14,7 @@ date: 2018-09-12 13:59:13.000000000 -07:00
 
 Apple's two-hour event didn't disappoint, though there was little surprise when it came to the design. Here's some of the most important points to take away from today's event.
 
-{% cloudinary_img "Alt text goes here", "Apple-Watch-Series4_watch-front-training_09122018", "standard" %}
+<!--missing_image-->
 
 ## **Apple Watch**
 
@@ -33,7 +33,7 @@ Apple's two-hour event didn't disappoint, though there was little surprise when 
 
 Three iPhones were discussed during today's Apple event: the iPhone Xs, iPhone Xs Max, and the iPhone Xr.
 
-{% cloudinary_img "Alt text goes here", "Apple-iPhone-Xs-line-up-09122018", "standard" %}
+<!--missing_image-->
 
 ### iPhone Xs
 
@@ -73,7 +73,7 @@ The replacement for Apple's prior flagship phone, the iPhone Xs will ship with t
   - 512GB: $1,349
 - Availability: pre-order starting September 14th, available starting September 21st.
 
-{% cloudinary_img "Alt text goes here", "Apple-iPhone-Xs-combo-gold-09122018-white-bkg", "standard" %}
+<!--missing_image-->
 
 ### iPhone Xs Max
 
@@ -94,7 +94,7 @@ A new, larger variant of the iPhone Xs, it'll ship with everything the iPhone Xs
   - 512GB: $1,449
 - Availability: same as iPhone Xs
 
-{% cloudinary_img "Alt text goes here", "Screenshot_2018-09-12-iPhone-XR-Technical-Specs", "standard" %}
+<!--missing_image-->
 
 ### iPhone Xr
 
