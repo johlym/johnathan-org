@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-14 15:49:11.000000000 -07:00
+date: 2018-09-14 15:49:11 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 A newly posted Apple support document details how to set up a 2nd SIM within an iPhone Xs or Xs Max. The process seems pretty straight forward but there's one specific caveat to the current arrangement. When the iPhone Xs releases with iOS 12 next week, support won't quite yet be available. Apple says the feature will be available “with an update to iOS 12 coming later this year.”

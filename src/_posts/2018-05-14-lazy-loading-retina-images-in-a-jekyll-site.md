@@ -2,11 +2,10 @@
 title: Lazy-loading Retina Images in a Jekyll Site
 slug: lazy-loading-retina-images-in-a-jekyll-site
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-05-14 22:00:00.000000000 -07:00
+date: 2018-05-14 22:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Something I've wanted to touch on ever since a couple posts ago was lazy loading images. Now that I'm trying to consciously serve 2x images for those with such a pixel density, I'm setting myself up for increased page loads and folks may never even make it that far down the page. Since there's no need to load what one won't see, I set out to add lazy image loading support to the blog.
@@ -15,7 +14,7 @@ This really doesn't apply specifically to Jekyll, in fact there's nothing about 
 
 As far as the JavaScript goes, I'm using the vanilla-JavaScript-based [lazyload.js](https://github.com/verlok/lazyload). I just need to toss it into the footer (no point in loading it before everything else, which technically means we're lazy-loading the lazy-loader):
 
-```
+```js
 <script>
   (function(w, d){
     var b = d.getElementsByTagName('body')[0];
@@ -33,13 +32,13 @@ What we're doing here (courtesy of the [lazyload.js](https://github.com/verlok/l
 Now that our JavaScript is in play, the only other step is to update the image tags. I have a TextExpander snippet to help me out here, since I'm also inserting retina (@2x) images. It looks like this:
 
 ```
-[![](){: data-src="%filltext:name=1x image%" data-srcset="%filltext:name=2x field% 2x" data-proofer-ignore}](%filltext:name=full image%){: data-lightbox="%filltext:name=lightbox tag%"}
+![](){: data-src="%filltext:name=1x image%" data-srcset="%filltext:name=2x field% 2x" data-proofer-ignore}](%filltext:name=full image%){: data-lightbox="%filltext:name=lightbox tag%"}
 ```
 
 This creates four fields, the paths to the 1x small image 2x small image, the full-size image loaded and the tag needed by [lightbox.js](http://lokeshdhakar.com/projects/lightbox2/). The finished markdown product looks like this (taken from a previous post):
 
 ```
-[{% cloudinary_img "](){: data-src="/assets/images/2018/05/07/gtmetrix-0512-sm.jpg" data-srcset="/assets/images/2018/05/07/gtmetrix-0512-sm@2x.jpg 2x"}", "gtmetrix-0512", "standard" %}{: data-lightbox="image-3"}
+![](){: data-src="/assets/images/2018/05/07/gtmetrix-0512-sm.jpg" data-srcset="/assets/images/2018/05/07/gtmetrix-0512-sm@2x.jpg 2x"}{: data-lightbox="image-3"}
 ```
 
 Pretty slick, eh? With this in place, some bytes will be saved every day.

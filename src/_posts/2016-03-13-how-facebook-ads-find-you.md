@@ -2,11 +2,10 @@
 title: How Facebook Ads Find You
 slug: how-facebook-ads-find-you
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-03-13 13:45:05.000000000 -07:00
+date: 2016-03-13 13:45:05 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If there's one thing that people will never stop complaining about, it'll be ads on Facebook. Well, I take that back. They'll stop complaining when Facebook is out of business.

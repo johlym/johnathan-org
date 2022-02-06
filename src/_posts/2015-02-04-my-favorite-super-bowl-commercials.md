@@ -2,11 +2,10 @@
 title: My Favorite Super Bowl Commercials
 slug: my-favorite-super-bowl-commercials
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-04 19:42:26.000000000 -08:00
+date: 2015-02-04 19:42:26 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 When my favorite team (Seattle Seahawks) isn't playing in the Super Bowl, I'll still watch for the commercials. I enjoy an ad that tells a story, or makes me feel something. I won't likely buy anything that ad was selling, but I don't think it's always about that. These multi-million dollar spots aren't about selling stuff, they're about creating a memory; if executed properly, you'll remember that commercial for weeks, to come… something they can't say about tv commercials every other day of the year.
@@ -41,7 +40,7 @@ You know [Doritos](http://doritos.com) would step it up again this year. They ca
 
 ## Budweiser – Lost Dog
 
-https://youtube.com/watch?v=xAsjRRMMg\_Q
+https://youtube.com/watch?v=xAsjRRMMg_Q
 
 Leave it to Anheuser-Busch take the crown for the feels award. They know lost puppies pull heart strings. They know how to pull them good, too. No, I'm not crying… I just got some Doritos in my eye.
 
@@ -75,7 +74,7 @@ I've never been on a Carnival cruise, but I really appreciate this spot. The lac
 
 ## EAT24
 
-Are you hangry and inexplicably upset about your pants? Get [EAT24](http://eat24.com). The best motherf\*cking way to order food online, baby. This wasn't an ad that was aired in my market, but I wish it was. I love Gilbert Godfried.
+Are you hangry and inexplicably upset about your pants? Get [EAT24](http://eat24.com). The best motherf*cking way to order food online, baby. This wasn't an ad that was aired in my market, but I wish it was. I love Gilbert Godfried.
 
 ## Kia – The Perfect Getaway
 

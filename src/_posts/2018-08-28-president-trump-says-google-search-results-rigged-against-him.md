@@ -2,11 +2,10 @@
 title: President Trump says Google Search Results Rigged Against Him
 slug: president-trump-says-google-search-results-rigged-against-him
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-28 16:26:40.000000000 -07:00
+date: 2018-08-28 16:26:40 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 The Washington Post:

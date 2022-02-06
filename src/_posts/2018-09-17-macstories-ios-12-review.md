@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-17 14:20:12.000000000 -07:00
+date: 2018-09-17 14:20:12 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 iOS 12 released to the public, today. If you're like me, you downloaded and upgraded, already. If not, MacStories' [iOS 12 review](https://www.macstories.net/stories/ios-12-the-macstories-review/?utm_source=johnathan.org&utm_medium=post&utm_campaign=linked_post&utm_content=body_link1) will set you straight.

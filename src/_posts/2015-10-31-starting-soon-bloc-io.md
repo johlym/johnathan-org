@@ -2,11 +2,10 @@
 title: 'Starting Soon: Bloc.io'
 slug: starting-soon-bloc-io
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-10-31 10:58:33.000000000 -07:00
+date: 2015-10-31 10:58:33 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I officially signed up last week for [Bloc.io](http://Bloc.io)'s Full-stack developer bootcamp becuase I feel while I can learn a good deal of stuff on my own, I'm not going to make on my own to the level I need to be in order to make a fundamental career shift to software development that will actually still support my family.

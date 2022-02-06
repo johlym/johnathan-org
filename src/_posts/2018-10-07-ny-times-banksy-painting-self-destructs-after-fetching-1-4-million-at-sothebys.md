@@ -2,13 +2,12 @@
 title: "NY Times: Banksy Painting Self-Destructs After Fetching $1.4 Million at Sotheby's"
 slug: ny-times-banksy-painting-self-destructs-after-fetching-1-4-million-at-sothebys
 featured: false
-
-
   at Sotheby's – Johnathan.org"
 
 layout: post
 categories: posts
-date: 2018-10-07 11:33:26.000000000 -07:00
+date: 2018-10-07 11:33:26 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From The New York Times:

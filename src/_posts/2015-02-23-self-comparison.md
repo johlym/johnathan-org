@@ -2,11 +2,10 @@
 title: Self-Comparison
 slug: self-comparison
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-23 04:00:00.000000000 -08:00
+date: 2015-02-23 04:00:00 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 via [Pressfield](http://www.amazon.com/gp/product/1936891034/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1936891034&linkCode=as2&tag=jlymannet-20&linkId=2347L5IOPW7375IB):

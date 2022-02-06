@@ -2,11 +2,10 @@
 title: Newsletters Will Never Die
 slug: newsletters-will-never-die
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-22 12:23:25.000000000 -07:00
+date: 2018-08-22 12:23:25 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [Dave Pell](https://medium.com/@davepell/newsletters-are-immortal-9887b1a5dc6a):

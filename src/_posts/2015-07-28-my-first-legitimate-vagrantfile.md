@@ -2,11 +2,10 @@
 title: My First Legitimate Vagrantfile
 slug: my-first-legitimate-vagrantfile
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-07-28 18:41:23.000000000 -07:00
+date: 2015-07-28 18:41:23 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I feel like I've created this sort of new kind of being. Previously, I had rarely used Vagrant or Docker or anything of the sort, so the idea of being able to craft an on-demand virtual machine with whatever the hell I want inside of it was both exciting and terrifying.

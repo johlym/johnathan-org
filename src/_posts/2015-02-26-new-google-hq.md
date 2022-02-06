@@ -2,11 +2,10 @@
 title: New Google HQ
 slug: new-google-hq
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-26 04:13:42.000000000 -08:00
+date: 2015-02-26 04:13:42 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 from the [NYT](http://www.nytimes.com/2015/02/26/technology/google-plans-new-headquarters-and-a-city-fears-being-overrun.html?_r=0):
@@ -29,5 +28,5 @@ Wait… what? Owls? Voters? Do people have so much free time in Mountain View th
 
 > “This last election we had maybe 12,000 voters,” said Jac Siegel, a city councilman who left office this year and is not related to Leonard Siegel. “If you brought 5,000 people in and they all work for Google and they said, 'We want you to vote for this candidate,' they can own the town.”
 
-I like ending with a good chuckle and math fails. 17000/5000 \< 51%. In case you weren't following along. Then there's the corporate political heavy-handing…
+I like ending with a good chuckle and math fails. 17000/5000 < 51%. In case you weren't following along. Then there's the corporate political heavy-handing…
 

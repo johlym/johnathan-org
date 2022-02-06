@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-14 09:46:51.000000000 -07:00
+date: 2018-09-14 09:46:51 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 For those who aren't aware, I own an iPhone X 256GB in White (it's more like a dishwater-white, but that's another story). When the iPhone Xs was announced, at first I reacted with “I have to have this”, followed up with “I think I'll find it useful.”

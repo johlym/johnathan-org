@@ -2,11 +2,10 @@
 title: That's Not How this Works
 slug: thats-not-how-this-works
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-06-05 17:20:57.000000000 -07:00
+date: 2016-06-05 17:20:57 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 _Alternate Title: Grape Juice and Anuses_.

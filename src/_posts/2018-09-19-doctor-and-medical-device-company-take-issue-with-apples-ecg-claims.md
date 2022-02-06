@@ -7,7 +7,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-19 10:51:38.000000000 -07:00
+date: 2018-09-19 10:51:38 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Regarding Apple's claims of 98% accuracy when detecting aFib ([Atrial Fibrillation](https://en.wikipedia.org/wiki/Atrial_fibrillation)), Dr. Venkatesh Murthy, a cardiologist from the University of Michigan had this to say to [Health News Review](https://www.healthnewsreview.org/2018/09/what-did-journalists-overlook-about-the-apple-watch-heart-monitor-feature/):

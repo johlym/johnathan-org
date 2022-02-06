@@ -2,11 +2,10 @@
 title: An Analysis on the Low-Cost Apple Laptop Rumors
 slug: an-analysis-on-the-low-cost-apple-laptop-rumors
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-24 20:52:17.000000000 -07:00
+date: 2018-08-24 20:52:17 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 John Gruber has a perfect analysis on this rumor.

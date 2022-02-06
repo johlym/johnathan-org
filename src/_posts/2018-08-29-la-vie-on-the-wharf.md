@@ -2,11 +2,10 @@
 title: La Vie on the Wharf
 slug: la-vie-on-the-wharf
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-29 13:35:57.000000000 -07:00
+date: 2018-08-29 13:35:57 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 from The Washington Post:

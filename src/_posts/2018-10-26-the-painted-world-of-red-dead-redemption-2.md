@@ -8,7 +8,8 @@ og_image: "/content/images/wp-content/uploads/2018/10/aegies_RedDeadRedemption2_
 
 layout: post
 categories: posts
-date: 2018-10-26 10:58:37.000000000 -07:00
+date: 2018-10-26 10:58:37 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From Polygon:

@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2019-11-08 17:01:06.000000000 -08:00
+date: 2019-11-08 17:01:06 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 This seemed like an odd article to post after nearly 11 months of blog inactivity, but it's a problem I had to solve on my own today and felt it necessary to write this. Other Internet-based sources I consulted ended up only being partially correct so this is ultimately a combination of all the correct pieces of information that exist online.
@@ -24,7 +25,7 @@ This is relatively easy and only requires a few steps.
 
 1. Ensure your package repository information is up to date, then download and install cups:
 
-```
+```sh
 sudo apt-get update
 sudo apt-get install cups
 ```
@@ -65,7 +66,7 @@ Allow @local
 
 3. Add your Pi's user to the `lpadmin` user group:
 
-```
+```sh
 sudo usermod -a -G lpadmin pi
 ```
 
@@ -73,7 +74,7 @@ sudo usermod -a -G lpadmin pi
 
 4. Restart CUPS
 
-```
+```sh
 sudo service cups restart
 ```
 
@@ -85,7 +86,7 @@ This is the part where I got stuck. Most documentation will point you to the off
 
 1. Install the `printer-drivers-dymo` package:
 
-```
+```sh
 sudo apt-get install printer-driver-dymo
 ```
 
@@ -97,14 +98,14 @@ Alternatively, you can follow the below steps to download and compile manually, 
 
 2. Decompress them with `tar` and enter the directory:
 
-```
+```sh
 tar -zxf dymo-cups-drivers-1.4.0.tar.gz
 cd dymo-cups-drivers-1.4.0.5
 ```
 
 3. Configure and install the drivers:
 
-```
+```sh
 sudo ./configure
 sudo make
 sudo make install
@@ -118,13 +119,13 @@ configure: error: Can't find cups library
 
 …you'll need to point the configure script to the location of the CUPS server folder, as it was unable to find it on its own. If you installed CUPS via `apt`, it's probably at `/usr/lib/cups` so re-run the command like so:
 
-```
+```sh
 sudo cups_serverbindir='/usr/lib/cups' ./configure
 ```
 
 If it _still_ doesn't work, you're missing a couple fundamental libraries. Go ahead and install those:
 
-```
+```sh
 sudo apt-get install libcups2-dev libcupsimage2-dev
 ```
 
@@ -138,29 +139,29 @@ https://localhost:631/admin
 
 Your browser will probably complain about the SSL certificate. Skip through that, if necessary. You'll land on a page that looks something like this:
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.44.20-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.44.20-PM-1024x715", "standard" %}
 
 1. Click the **Add Printer** button under the _Printers_ section. Select the Dymo printer and click **Continue**.
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.45.34-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.45.34-PM-1024x715", "standard" %}
 
 2. Fill in the fields as you see fit and make sure to check **Share This Printer** before clicking **Continue** :
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.48.03-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.48.03-PM-1024x715", "standard" %}
 
 If everything went according to plan in Part 2, the relevant drivers should appear, with the specific printer at the top of the list.
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.49.05-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.49.05-PM-1024x715", "standard" %}
 
 If that's the case, leave everything as is and click **Add Printer**.
 
 Lastly, and optionally, set some default print settings and wrap up the setup by clicking **Set Default Options** :
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.50.12-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.50.12-PM-1024x715", "standard" %}
 
 The printer should be set and ready to go, and visible from the CUPS admin page:
 
-{% cloudinary_img "Alt text goes here", "Screen-Shot-2019-11-08-at-4.51.09-PM-1024x715", "standard" %}
+{% cloudinary_img, "Screen-Shot-2019-11-08-at-4.51.09-PM-1024x715", "standard" %}
 
 ### Conclusion
 

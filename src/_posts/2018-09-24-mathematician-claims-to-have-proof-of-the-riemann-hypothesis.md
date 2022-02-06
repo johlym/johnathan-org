@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-24 10:10:38.000000000 -07:00
+date: 2018-09-24 10:10:38 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From [NewScientist](https://www.newscientist.com/article/2180406-famed-mathematician-claims-proof-of-160-year-old-riemann-hypothesis/):

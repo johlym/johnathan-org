@@ -4,7 +4,8 @@ slug: galaxy-s10-will-defeat-shiny-new-iphones
 featured: false
 
 categories: posts
-date: 2018-09-04 09:35:26.000000000 -07:00
+date: 2018-09-04 09:35:26 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 At least that's what Ewan Spence, Forbes' poster child for anti-Apple reporting [would have you believe](https://www.forbes.com/sites/ewanspence/2018/09/03/apple-iphone-xs-plus-galaxy-s10-9-comparison-specs-leak-rumor/#6cf8f73f7f39):

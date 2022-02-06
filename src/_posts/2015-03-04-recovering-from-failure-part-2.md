@@ -2,11 +2,10 @@
 title: Recovering From Failure, Part 2
 slug: recovering-from-failure-part-2
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-04 04:20:45.000000000 -08:00
+date: 2015-03-04 04:20:45 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Yesterday, I spent a few minutes spilling my guts about a recent failure. It felt good to get it out there and the support and helpful words I received made it feel less painful. Failing sucks and it's hard to swallow the truth that you'll fail at something you think you're good at.

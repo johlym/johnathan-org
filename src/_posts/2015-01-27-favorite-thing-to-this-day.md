@@ -2,11 +2,10 @@
 title: Favorite Thing to This Day
 slug: favorite-thing-to-this-day
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-27 16:54:59.000000000 -08:00
+date: 2015-01-27 16:54:59 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 In school my favorite subject was “Computers.” At the time, I didn't quite know what that meant, nor did I really care. Kids thought I was nerdy because computers weren't cool. The popular kids didn't care about computers, they were athletes. That's how they made friends. That didn't deter me from keeping up with what I enjoyed the most.

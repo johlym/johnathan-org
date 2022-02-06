@@ -2,11 +2,10 @@
 title: Magic Room
 slug: magic-room
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-02 04:11:11.000000000 -08:00
+date: 2015-02-02 04:11:11 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've always pondered how much more productive I would be if I had a “dream office” to write and work in. Then I've thought about what that office would look like. In reality, I'm not exactly sure I could even come up with a solid example, just some abstract ideas. I sat down for a few minutes to ponder this.

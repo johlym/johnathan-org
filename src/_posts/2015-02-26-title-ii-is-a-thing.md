@@ -2,11 +2,10 @@
 title: Title II is a Thing
 slug: title-ii-is-a-thing
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-26 09:24:18.000000000 -08:00
+date: 2015-02-26 09:24:18 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 And ISPs are crapping their pants.

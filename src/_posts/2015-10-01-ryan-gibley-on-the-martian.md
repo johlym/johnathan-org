@@ -2,11 +2,10 @@
 title: Ryan Gibley on The Martian
 slug: ryan-gibley-on-the-martian
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-10-01 10:19:36.000000000 -07:00
+date: 2015-10-01 10:19:36 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I was combing Rotten Tomatoes' reviews of The Martian, and one popped out at me as one of those reviews that make it seem like the reviewer didn't actually watch the movie and or didn't know there was a book…

@@ -2,11 +2,10 @@
 title: As You Think
 slug: as-you-think
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-11 03:47:18.000000000 -08:00
+date: 2015-02-11 03:47:18 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I read some powerful words, yesterday, and I knew right away they were worth discussing.

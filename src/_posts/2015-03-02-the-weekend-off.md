@@ -2,11 +2,10 @@
 title: The Weekend Off
 slug: the-weekend-off
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-02 04:00:43.000000000 -08:00
+date: 2015-03-02 04:00:43 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I took the weekend off from blogging. It's the first time in a while that I haven't posted something, even just a link. I wanted to take time and focus on myself and personal enrichment. Because I'm looking for a new job since we're moving, it was fitting that I spend most of my time in that category, including education. I spent all weekend working on my CCNA and sprucing up my Linux deployment skills. It's nothing too exciting, but I did learn that NodeJS is a little memory leaker, that's for sure.

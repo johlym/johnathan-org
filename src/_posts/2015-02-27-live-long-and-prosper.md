@@ -2,11 +2,10 @@
 title: Live Long and Prosper
 slug: live-long-and-prosper
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-27 08:34:13.000000000 -08:00
+date: 2015-02-27 08:34:13 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 <blockquote class="twitter-tweet">

@@ -2,11 +2,10 @@
 title: My Overloaded Server Story
 slug: my-overloaded-server-story
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-12-07 09:47:35.000000000 -08:00
+date: 2015-12-07 09:47:35 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 So as you probably know by now, I converted my blog to [Jekyll](http://jekyllrb.org/), yesterday, and it's been a huge success, in my opinion. I'm motivated more than ever to start blogging more because I have the added tinker factor and using Git and GitHub to keep everything organized rocks.
@@ -21,21 +20,21 @@ My baby of a server has, for the last five or so months, been filling [Newrelic]
 
 **CPU**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_cpu", "standard" %}
+{% cloudinary_img, "loaded_server_before_cpu", "standard" %}
 
 **Memory**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_mem", "standard" %}
+{% cloudinary_img, "loaded_server_before_mem", "standard" %}
 
 **Disk**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_disk", "standard" %}
+{% cloudinary_img, "loaded_server_before_disk", "standard" %}
 
 **Load**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_before_load", "standard" %}
+{% cloudinary_img, "loaded_server_before_load", "standard" %}
 
-So I'm just going to go ahead and say that's not good. The only graph above that's even remote decent is the Disk graph, but it's washed over by the CPU \> 80% indication so it's also pretty much hosed.
+So I'm just going to go ahead and say that's not good. The only graph above that's even remote decent is the Disk graph, but it's washed over by the CPU > 80% indication so it's also pretty much hosed.
 
 At this point I'm honestly surprised. I'm a terrible pseudo-sysadmin and I should be fired but there's no one to fire me and I'm the boss so whatever. If I can fix all this, I'm giving myself a raise.
 
@@ -53,19 +52,19 @@ I still couldn't figure out why my disk usage was so high, though. Leave it to m
 
 **CPU**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_cpu", "standard" %}
+{% cloudinary_img, "loaded_server_after_cpu", "standard" %}
 
 **Memory**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_mem", "standard" %}
+{% cloudinary_img, "loaded_server_after_mem", "standard" %}
 
 **Disk**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_disk", "standard" %}
+{% cloudinary_img, "loaded_server_after_disk", "standard" %}
 
 **Load**
 
-{% cloudinary_img "Alt text goes here", "loaded_server_after_load", "standard" %}
+{% cloudinary_img, "loaded_server_after_load", "standard" %}
 
 Sorry this story wasn't more interesting. If you're curious, my Jekyll build time was cut in half.
 

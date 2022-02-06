@@ -2,11 +2,10 @@
 title: Brilliant
 slug: brilliant
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-31 11:02:49.000000000 -07:00
+date: 2018-08-31 11:02:49 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I am always on the hunt for new tools to aid in learning. As someone that didn't excel very well in a traditional educational environment–I repeated my last year of high school and it took me a bit over eight years to manage to get my college degree–alternative environments are especially intriguing because fulfilling the consumption of knowledge requirement I keep for myself in a way that both makes the material interesting and easy to digest has been hard.
@@ -19,19 +18,19 @@ Brilliant's missing is simple:
 
 They believe that accessibility is paramount. Those who are well off or have more access to resources generally find themselves excelling. For those who may not have access to the same resources, while they're entirely driven and have great potential, excelling in a field can be hard.
 
-{% cloudinary_img "Brilliant recommended", "brilliant_recommended-1.jpeg "brilliant\_recommended.jpeg"", "standard" %}
+{% cloudinary_img "Brilliant recommended", "brilliant_recommended-1.jpeg "brilliant_recommended.jpeg"", "standard" %}
 _The list of recommended courses by type._
 
-When you first sign up for Brilliant, you can pick any number of topics. The easiest place to start is my skimming the Recommended section and see what catches your eye. You'll find a whole host of different categories to choose from in math, science, and computer science. If your goal is to bolster your knowledge that could most likely help in your career (and that career is at least partially technology or math-based), the Recommended \> Professionals section is the place to start.
+When you first sign up for Brilliant, you can pick any number of topics. The easiest place to start is my skimming the Recommended section and see what catches your eye. You'll find a whole host of different categories to choose from in math, science, and computer science. If your goal is to bolster your knowledge that could most likely help in your career (and that career is at least partially technology or math-based), the Recommended > Professionals section is the place to start.
 
 After skimming the list I came to realize that I ultimately want to learn all of it and there's absolutely nothing wrong with that idea. But you have to start somewhere. Personally, I started with the Logic topic. It contains a few critical thinking questions that were actually exciting to solve and know the correct answer to, as well!
 
-{% cloudinary_img "Brilliant course detail", "brilliant_course_detail.jpeg "brilliant\_course\_detail.jpeg"", "standard" %}
+{% cloudinary_img "Brilliant course detail", "brilliant_course_detail.jpeg "brilliant_course_detail.jpeg"", "standard" %}
 _Each course breaks down the material is easy to digest sections._
 
 With your course selected, it makes the most sense to start at the beginning. Every course opens the intro topic to you for free so you can get a sense if the platform is going to work out for you and even if there are enough topics of interest to make the price worth it. You can skim through the list to see if it's something you'd like to give into and if so, start with the first entry always! Each topic is broken down very logically and contain easy to digest questions and solutions that do a great job of explaining.
 
-{% cloudinary_img "Brilliant question", "brilliant_question.jpeg "brilliant\_question.jpeg"", "standard" %}
+{% cloudinary_img "Brilliant question", "brilliant_question.jpeg "brilliant_question.jpeg"", "standard" %}
 _The questions are simple and clutter-free._
 
 Each question is presented on its own. Most questions are multiple choice with some requiring you to fill in the answer (though they often give you several chances in case you have a typo). If you're not sure, guess!

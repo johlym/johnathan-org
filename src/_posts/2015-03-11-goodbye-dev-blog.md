@@ -2,11 +2,10 @@
 title: Goodbye Dev Blog
 slug: goodbye-dev-blog
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-11 04:07:29.000000000 -07:00
+date: 2015-03-11 04:07:29 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I thought I would use it, I really did. I like [Ghost](http://ghost.org) as a platform but it's just not where I want it to be, right now. Perhaps in a year or so, I'll give it another shot with serious intentions.

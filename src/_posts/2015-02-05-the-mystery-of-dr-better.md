@@ -2,11 +2,10 @@
 title: The Mystery of Dr. Better
 slug: the-mystery-of-dr-better
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-05 16:00:21.000000000 -08:00
+date: 2015-02-05 16:00:21 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Let me tell you a story. A story about Dr. Better. See, Dr. Better wasn't just good, he was better. Better than you and better than me. Dr. Better had a special talent. What was that talent, you ask? Why, being better, of course.

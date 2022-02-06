@@ -2,11 +2,10 @@
 title: The Credit Card Skimmer Detector
 slug: the-credit-card-skimmer-detector
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-15 20:04:34.000000000 -07:00
+date: 2018-08-15 20:04:34 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Sean Gallagher writing for [Ars Technica](https://arstechnica.com/information-technology/2018/08/researchers-develop-device-to-aid-in-hunt-for-stealthy-atm-card-skimmers/):

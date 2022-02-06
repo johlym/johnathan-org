@@ -2,11 +2,10 @@
 title: Going Back to Your Mac No More
 slug: going-back-to-your-mac-no-more
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-21 14:45:35.000000000 -07:00
+date: 2018-08-21 14:45:35 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Looks like it's the end for Back to My Mac. The core of this product was its ability to allow you to share files and screen access between macs, regardless of where they were located.

@@ -2,18 +2,17 @@
 title: Time to Stop Hounding McDonalds
 slug: time-to-stop-hounding-mcdonalds
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-14 09:49:08.000000000 -08:00
+date: 2015-02-14 09:49:08 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It's not going to change anything. I follow McDonalds on Facebook. A lot of people do. I do it because I like McDonalds. I eat it more than I should but that's a different story altogether. I find it fascinating that people troll McDonald's Facebook page almost without reprieve.
 
 Take a look at the below series of “questions” asked by commenters of a post McDonalds made about their eggs:
 
-{% cloudinary_img "Alt text goes here", "Screenshot-2015-02-14-10.07.12", "standard" %}
+{% cloudinary_img, "Screenshot-2015-02-14-10.07.12", "standard" %}
 
 Consume those mind-numbing questions and let's discuss.
 

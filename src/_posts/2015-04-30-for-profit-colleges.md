@@ -2,11 +2,10 @@
 title: For-Profit Colleges
 slug: for-profit-colleges
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-04-30 13:21:53.000000000 -07:00
+date: 2015-04-30 13:21:53 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It's not really surprising that Corinthian Colleges shut its doors. It's also not surprising that there are students out there who are angry the schools are closing.

@@ -2,11 +2,10 @@
 title: No Fly Zone
 slug: no-fly-zone
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-12 04:01:28.000000000 -08:00
+date: 2015-02-12 04:01:28 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [This](http://noflyzone.org) is [good news](http://arstechnica.com/tech-policy/2015/02/noflyzone-database-will-tell-drones-not-to-fly-over-your-house/) for fans of privacy.

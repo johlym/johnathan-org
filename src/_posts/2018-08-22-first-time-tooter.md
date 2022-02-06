@@ -2,11 +2,10 @@
 title: First Time Tooter
 slug: first-time-tooter
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-22 09:20:17.000000000 -07:00
+date: 2018-08-22 09:20:17 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Coming right out and saying it, Mastodon is no replacement for Twitter. I make sure to share this twitter thread with anyone that is even remotely considering the platform.

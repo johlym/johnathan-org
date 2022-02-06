@@ -2,11 +2,10 @@
 title: Resolutions
 slug: resolutions
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-12-26 09:40:53.000000000 -08:00
+date: 2016-12-26 09:40:53 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've never been a fan of New Year's Resolutions. There's something about creating a todo list that for some reason can't start until January 1st nor was it even thought of until someone asked _do you have any resolutions for the new year?_

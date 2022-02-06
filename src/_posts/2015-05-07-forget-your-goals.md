@@ -2,11 +2,10 @@
 title: Forget Your Goals
 slug: forget-your-goals
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-07 20:46:03.000000000 -07:00
+date: 2015-05-07 20:46:03 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 All through life we set goals for ourselves in order to accomplish things. Sometimes we set a goal to lose 20 pounds by summer, or to finish fixing cleaning up the garage.

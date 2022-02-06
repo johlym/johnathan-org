@@ -2,11 +2,10 @@
 title: Maximize Your Free Cloud Storage
 slug: maximize-your-free-cloud-storage
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-14 16:02:49.000000000 -07:00
+date: 2015-03-14 16:02:49 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I'm a fan of getting as much as you can for free without breaking the rules.

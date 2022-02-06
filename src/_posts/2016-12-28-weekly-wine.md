@@ -2,11 +2,10 @@
 title: Weekly Wine
 slug: weekly-wine
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-12-28 04:00:42.000000000 -08:00
+date: 2016-12-28 04:00:42 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Weekly Wine was canceled so any references are made to the archived version.

@@ -4,11 +4,10 @@ slug: facebook-could-use-data-collected-from-portal-device-to-target-you-with-ad
 featured: false
 
 
-
-
 layout: post
 categories: posts
-date: 2018-10-16 21:22:15.000000000 -07:00
+date: 2018-10-16 21:22:15 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Kurt Wagner over at Recode:

@@ -2,11 +2,10 @@
 title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown'
 slug: linode-vs-digital-ocean-a-three-round-vps-benchmark-showdown
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-01-18 10:05:48.000000000 -08:00
+date: 2018-01-18 10:05:48 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 A few days ago, [Digital Ocean](https://digitalocean.com) announced new pricing tiers for their VPSes (affectionately called Droplets). I've been a fan of Digital Ocean's offerings for a long time. Compared to other popular VPS provider [Linode](https://linode.com), there seemed like there was only one choice as Digital Ocean's pricing ran 2x for almost everything.
@@ -53,7 +52,7 @@ We'll be testing the following configurations from each provider:
 
 #### Prepatory commands
 
-```
+```sh
 apt-get update
 apt-get upgrade -y
 apt-get install apache2 apache2-utils mysql-server mysql-client speedtest-cli sysbench -y
@@ -67,7 +66,7 @@ During Linode provisioning, each VPS had trouble connecting to `security.ubuntu.
 
 ## CPU Info
 
-```
+```sh
 cat /proc/cpuinfo
 ```
 
@@ -97,7 +96,7 @@ cat /proc/cpuinfo
 
 #### CPU
 
-```
+```sh
 sysbench --test=cpu run
 ```
 
@@ -117,7 +116,7 @@ sysbench --test=cpu run
 
 ##### **Read**
 
-```
+```sh
 sysbench --test=memory run
 ```
 
@@ -138,7 +137,7 @@ sysbench --test=memory run
 
 **Write**
 
-```
+```sh
 sysbench --test=memory --memory-oper=write run
 ```
 
@@ -158,7 +157,7 @@ sysbench --test=memory --memory-oper=write run
 
 #### File I/O
 
-```
+```sh
 sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
@@ -180,7 +179,7 @@ sysbench --test=fileio cleanup
 
 #### Apps: Apache
 
-```
+```sh
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
 
@@ -198,7 +197,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 
 #### Apps: MySQL
 
-```
+```sh
 mysql -uroot -e "CREATE DATABASE sbtest;"
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
@@ -222,7 +221,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 
 #### Apps: Speedtest
 
-```
+```sh
 speedtest-cli --server=5479
 ```
 
@@ -239,7 +238,7 @@ speedtest-cli --server=5479
 
 #### CPU
 
-```
+```sh
 sysbench --test=cpu run
 ```
 
@@ -259,7 +258,7 @@ sysbench --test=cpu run
 
 ##### **Read**
 
-```
+```sh
 sysbench --test=memory run
 ```
 
@@ -280,7 +279,7 @@ sysbench --test=memory run
 
 **Write**
 
-```
+```sh
 sysbench --test=memory --memory-oper=write run
 ```
 
@@ -300,7 +299,7 @@ sysbench --test=memory --memory-oper=write run
 
 #### File I/O
 
-```
+```sh
 sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
@@ -322,7 +321,7 @@ sysbench --test=fileio cleanup
 
 #### Apps: Apache
 
-```
+```sh
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
 
@@ -340,7 +339,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 
 #### Apps: MySQL
 
-```
+```sh
 mysql -uroot -e "CREATE DATABASE sbtest;"
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
@@ -364,7 +363,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 
 #### Apps: Speedtest
 
-```
+```sh
 speedtest-cli --server=5479
 ```
 
@@ -381,7 +380,7 @@ speedtest-cli --server=5479
 
 #### CPU
 
-```
+```sh
 sysbench --test=cpu run
 ```
 
@@ -401,7 +400,7 @@ sysbench --test=cpu run
 
 ##### **Read**
 
-```
+```sh
 sysbench --test=memory run
 ```
 
@@ -422,7 +421,7 @@ sysbench --test=memory run
 
 **Write**
 
-```
+```sh
 sysbench --test=memory --memory-oper=write run
 ```
 
@@ -442,7 +441,7 @@ sysbench --test=memory --memory-oper=write run
 
 #### File I/O
 
-```
+```sh
 sysbench --test=fileio prepare
 sysbench --test=fileio --file-test-mode=rndrw run
 sysbench --test=fileio cleanup
@@ -464,7 +463,7 @@ sysbench --test=fileio cleanup
 
 #### Apps: Apache
 
-```
+```sh
 ab -kc 1000 -n 10000 http://127.0.0.1/
 ```
 
@@ -482,7 +481,7 @@ ab -kc 1000 -n 10000 http://127.0.0.1/
 
 #### Apps: MySQL
 
-```
+```sh
 mysql -uroot -e "CREATE DATABASE sbtest;"
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root prepare
 sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root run
@@ -506,7 +505,7 @@ sysbench --test=oltp --oltp-table-size=1000000 --mysql-user=root cleanup
 
 #### Apps: Speedtest
 
-```
+```sh
 speedtest-cli --server=5479
 ```
 

@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-28 07:33:35.000000000 -07:00
+date: 2018-09-28 07:33:35 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 After the wild success of Season 1, Making a Murderer returns with a follow up 3 years later. See what happened in the aftermath of Stephen Avery and Brendan Dassey's convictions for the murder of Teresa Halbach in 10 new episodes on October 19, 2018.

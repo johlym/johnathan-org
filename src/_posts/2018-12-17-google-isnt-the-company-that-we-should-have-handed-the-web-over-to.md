@@ -3,11 +3,10 @@ title: Google Isn't the Company That We Should Have Handed the Web Over to
 slug: google-isnt-the-company-that-we-should-have-handed-the-web-over-to
 featured: false
 
-
-
 layout: post
 categories: posts
-date: 2018-12-17 16:50:58.000000000 -08:00
+date: 2018-12-17 16:50:58 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Put [simply](https://arstechnica.com/gadgets/2018/12/the-web-now-belongs-to-google-and-that-should-worry-us-all/):

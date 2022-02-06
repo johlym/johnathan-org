@@ -2,16 +2,16 @@
 title: Running Out of Coffee (Creamer)
 slug: running-out-of-coffee-creamer
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-13 04:46:12.000000000 -08:00
+date: 2015-01-13 04:46:12 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal
 ---
 
 This morning I ran out of coffee creamer so I hope this all makes sense, if not… meh. I'm just a week into my new weekday morning routine. If you're unfamiliar or don't remember how I described it, it's simple.
 
-- Go to bed around the same time every night, with \<=30 minutes deviation.\< li\>
+- Go to bed around the same time every night, with <=30 minutes deviation.< li>
 - Set alarm for ~4 sleep cycles (~90 minutes each) + 20 minutes ahead of when I get into bed.
 - Wake up within 30 minutes of alarm going off, allowing for a couple snoozes or time in bed with the light on to fully bring myself back to reality.
 - Morning cleaning routine.

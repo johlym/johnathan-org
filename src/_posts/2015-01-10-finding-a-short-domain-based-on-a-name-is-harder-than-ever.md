@@ -2,16 +2,16 @@
 title: Finding a Short Domain Based on a Name is Harder Than Ever
 slug: finding-a-short-domain-based-on-a-name-is-harder-than-ever
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-10 13:30:54.000000000 -08:00
+date: 2015-01-10 13:30:54 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal, johnathan.org
 ---
 
 I've always really enjoyed having a short address to rely upon when I tell people where to find my sites. I'm personally of the idea that the shorter you can get your address and have it still make sense, the better, especially on mobile devices. Not everyone is willing to type in `myreallycoolmobileapp.com` when having `appname.com` is much better, or even `app.co`, if it's available.
 
-**Update** : I wrote this post a couple years ago. Some [things have changed](https://johnathan.org/posts/2017/12/on-moving-to-johnathan-org.html) since then. A lot of the two-letter TLDs belong to countries and some have rules or restrictions on who can register with them. The ones that don't have rules or restrictions typically still charge an arm and a leg. For example, we all know the URL shortener [bit.ly](http://bit.ly). Would you believe me if I told you that the .ly TLD goes for $150 for the first year on [101domains.com](http://101domains.com)? Renewals are $230 for a single year. That's a lot. There are TLDs that are much cheaper, like .co, .io, .is, .me, and whatnot, which is great! Some however aren't…
+**Update** : I wrote this post a couple years ago. Some [things have changed](https://johnathan.org/on-moving-to-johnathan-org/) since then. A lot of the two-letter TLDs belong to countries and some have rules or restrictions on who can register with them. The ones that don't have rules or restrictions typically still charge an arm and a leg. For example, we all know the URL shortener [bit.ly](http://bit.ly). Would you believe me if I told you that the .ly TLD goes for $150 for the first year on [101domains.com](http://101domains.com)? Renewals are $230 for a single year. That's a lot. There are TLDs that are much cheaper, like .co, .io, .is, .me, and whatnot, which is great! Some however aren't…
 
 ### The Differences
 

@@ -2,11 +2,10 @@
 title: Add RTMP Support to Nginx Installed From Apt
 slug: add-rtmp-support-to-nginx-installed-from-apt
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-07-08 17:14:00.000000000 -07:00
+date: 2016-07-08 17:14:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 In the process of trying to figure out the best streaming solution for my cat cam, I had to deviate a bit. I combined my RTMP server for my cat cam and Web server for johnathanlyman.com into one and the latter didn't have the RTMP module installed. This module is required for my attempts to push H.264 video and have Nginx relay it to whomever is watching, cutting down on the bandwidth of my one-to-one reverse proxy setup I have, now.
@@ -17,25 +16,25 @@ Like my other [RTMP/Nginx-inspired post](/2016/07/stream-rtmp.html), I'm using U
 
 Before we begin, we'll want to make sure we're updated and ready to go:
 
-```
+```sh
 apt-get updateapt-get upgrade
 ```
 
 Next, install `software-properties-common` if needed then add the `nginx/stable` ppa.
 
-```
+```sh
 apt install software-properties-commonadd-apt-repository ppa:nginx/stable
 ```
 
 Now we'll be able to grab the source files from the repo.
 
-```
+```sh
 cd /usr/srcapt-get build-dep nginxapt-get source nginx
 ```
 
 Whatever directory you run that in is where the source and dependency files will appear. I chose `/usr/src` as that's where we've been working [in these](/2016/07/fighting-ffmpeg.html) [previous posts](/2016/07/stream-rtmp.html). Mine looks something like this:
 
-```
+```sh
 user@server:/usr/src# ls -altotal 1888
 drwxr-xr-x 4 root root 4096 Jul 8 17:20 .
 drwxr-xr-x 10 root root 4096 Apr 21 09:56 ..
@@ -47,7 +46,7 @@ drwxr-xr-x 10 root root 4096 Jul 8 17:20 nginx-1.10.1
 
 Let's move into the source folder and download the RTMP module:
 
-```
+```sh
 cd nginx-1.10.1/debian/modules/git clone https://github.com/arut/nginx-rtmp-module
 ```
 
@@ -65,15 +64,15 @@ Back up one directory and open `rules` in a text editor. I'm using `nano`. Add t
 
 Now that the module is in, let's re-compile!
 
-```
-cd cd /usr/src/nginx-1.10.1dpkg-buildpackage -uc -b
+```sh
+cd /usr/src/nginx-1.10.1dpkg-buildpackage -uc -b
 ```
 
 Depending on how powerful your server is will determine largely how long this takes. I say go get a beverage and come back in a few minutes.
 
 Once it's done, you'll get your set of `.deb` packages:
 
-```
+```sh
 cd /usr/srcuser@server:/usr/src# ls -al 
 total 16088
 drwxr-xr-x 4 root root 4096 Jul 8 17:52 .
@@ -96,13 +95,13 @@ drwxr-xr-x 10 root root 4096 Jul 8 17:20 nginx-1.10.1
 
 We'll need to remove Nginx. As long as we don't `purge`, the config files will stay in place. It never hurts to get a backup, anyway, though.
 
-```
+```sh
 apt-get remove nginx [nginx-core]
 ```
 
 Now let's install our newly compiled version of Nginx:
 
-```
+```sh
 dpkg --install /usr/src/nginx-[common|full]_1.10.1-0+xenial0.amd64.deb
 ```
 
@@ -116,7 +115,7 @@ If it didn't blow up, we're in decent shape. To be in even better shape, make su
 
 Since we tinkered with Nginx, mark it for version hold so `apt-get upgrade` doesn't wipe out our changes:
 
-```
+```sh
 apt-mark hold nginx-full
 ```
 

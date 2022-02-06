@@ -3,13 +3,12 @@ title: Kanye West pitches Trump on 'iPlane' built by Apple, delivers table-top A
   store 'keynote'
 slug: kanye-west-pitches-trump-on-iplane-built-by-apple-delivers-table-top-apple-store-keynote
 featured: false
-
-
   Apple store 'keynote' – Johnathan.org
 
 layout: post
 categories: posts
-date: 2018-10-12 07:52:43.000000000 -07:00
+date: 2018-10-12 07:52:43 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From 9to5Mac:

@@ -2,11 +2,10 @@
 title: 'New Workspace: a story'
 slug: new-workspace-a-story
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-04-19 21:03:00.000000000 -07:00
+date: 2017-04-19 21:03:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 The culmination of several months of tinkering and not being completely satisfied with my work area has come to a head. Here's a bit of back story on how this came to be, why I did it, some of the stuff I tried (and failed), and all the relevant links to what you see here are included at the end. Let's get this train moving.

@@ -2,11 +2,10 @@
 title: Keeping Score
 slug: keeping-score
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-06-16 18:08:00.000000000 -07:00
+date: 2015-06-16 18:08:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I decided to start a project for the wrong reason. It's because of this reason that I ended up giving up said project for the short term.

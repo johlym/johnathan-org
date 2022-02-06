@@ -2,11 +2,10 @@
 title: Beginner's Mind
 slug: beginners-mind
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-22 09:03:43.000000000 -07:00
+date: 2015-05-22 09:03:43 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It happens to all of us. We get worked up about something that we're really confident is a for sure thing. Then they call the lottery numbers and we're still broke. Being disappointed by or in something extends way beyond buying lottery tickets and hoping to strike it rich. It's easy to be disappointed in just about anything when we realize it didn't meet our original goals or expectations.

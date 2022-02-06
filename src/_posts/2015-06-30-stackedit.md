@@ -2,11 +2,10 @@
 title: StackEdit
 slug: stackedit
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-06-30 14:57:47.000000000 -07:00
+date: 2015-06-30 14:57:47 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [StackEdit](http://stackedit.io) is a in-browser markdown editor that takes on the likes of iA Writer and GitHub Pages in terms of its capability. If you're a fan of Markdown in even the least bit, it'll be easy for StackEdit to be your go to text editor.

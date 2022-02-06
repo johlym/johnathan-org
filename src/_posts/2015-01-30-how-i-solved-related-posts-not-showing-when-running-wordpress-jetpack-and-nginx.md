@@ -3,14 +3,13 @@ title: How I Solved Related Posts not Showing when Running WordPress, JetPack, a
   Nginx
 slug: how-i-solved-related-posts-not-showing-when-running-wordpress-jetpack-and-nginx
 featured: false
-
-
   and I figu
 
 
 layout: post
 categories: posts
-date: 2015-01-30 20:05:27.000000000 -08:00
+date: 2015-01-30 20:05:27 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Ever since I started this blog up again at the beginning of January, I wanted to have related posts be visible at the end of each post. I use JetPack and I figured turning Related Posts on would be easy and I would be all set.

@@ -2,13 +2,12 @@
 title: Wi-Fi Switches from Obscure Protocol Names to Simple Generation Numbers
 slug: wi-fi-switches-from-obscure-protocol-names-to-simple-generation-numbers
 featured: false
-
-
   – Johnathan.org
 
 layout: post
 categories: posts
-date: 2018-10-09 15:13:11.000000000 -07:00
+date: 2018-10-09 15:13:11 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Glenn Fleishman is great at explaining Wi-Fi things, especially why we're moving away from 802.11-prefixed indications:

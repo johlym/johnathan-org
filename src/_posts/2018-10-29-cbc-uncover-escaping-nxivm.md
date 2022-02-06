@@ -2,11 +2,10 @@
 title: 'CBC Uncover: Escaping NXIVM'
 slug: cbc-uncover-escaping-nxivm
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-10-29 10:37:24.000000000 -07:00
+date: 2018-10-29 10:37:24 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Thanks to [Jason Kottke](https://kottke.org/18/10/quick-podcast-recommendations), I came across [CBC Uncover: Escaping NXIVM](https://www.cbc.ca/radio/podcasts/current-affairs-information/uncover/):

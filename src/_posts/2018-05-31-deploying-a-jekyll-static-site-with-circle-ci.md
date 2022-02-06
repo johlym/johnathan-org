@@ -2,11 +2,10 @@
 title: Deploying A Jekyll Static Site with Circle CI
 slug: deploying-a-jekyll-static-site-with-circle-ci
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-05-31 23:41:00.000000000 -07:00
+date: 2018-05-31 23:41:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 One of the primary steps in making each iteration of this site happen is deploying its generated HTML files to my [Digital Ocean](/goto/digitalocean) server. Since these are just static files and there isn't a CMS backing them up (in a traditional sense), there needs to be an automatic process that takes care of it after I make a change. If I had to manually push or build the site every time I added something, I'd:
@@ -28,7 +27,6 @@ It used to be way more complicated before I wrote this post but as I was thinkin
 If you'd like to follow along, this entire site is available to browse through it in [GitHub repo form](https://github.com/johlym/johnathan.org) and the Circle CI config file [is here](https://github.com/johlym/johnathan.org/blob/master/.circleci/config.yml).
 
 # Table of Contents
-
 
 - [Deployment](#deployment)
   - [Pre-game Tasks](#pre-game-tasks)

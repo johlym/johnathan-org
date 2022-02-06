@@ -2,11 +2,10 @@
 title: Considering a Return to WordPress
 slug: considering-a-return-to-wordpress
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-13 17:00:00.000000000 -07:00
+date: 2018-08-13 17:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
  **Update:** I changed back over to WordPress. ?

@@ -2,11 +2,10 @@
 title: Future Ruby on Rails Developer
 slug: future-ruby-on-rails-developer
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-10-23 17:55:12.000000000 -07:00
+date: 2015-10-23 17:55:12 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 “Rails Developer” has a nice ring to it, don't you think?

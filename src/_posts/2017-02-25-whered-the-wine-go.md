@@ -2,11 +2,10 @@
 title: Where'd the Wine Go?
 slug: whered-the-wine-go
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-02-25 17:26:53.000000000 -08:00
+date: 2017-02-25 17:26:53 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 The most astute in the crowd will have noticed Weekly Wine hasn't been updated since issue five. I have a semi-decent reason for that and a peak at what I'm working on in its place.

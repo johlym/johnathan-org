@@ -2,11 +2,10 @@
 title: New Philips Hue Rigid Light Strips
 slug: new-philips-hue-rigid-light-strips
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-20 09:12:07.000000000 -07:00
+date: 2018-08-20 09:12:07 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 via Pete Lovejoy on [9to5Mac](https://9to5mac.com/2018/08/20/philips-hue-signe-play/):

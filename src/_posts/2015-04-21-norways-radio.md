@@ -2,11 +2,10 @@
 title: Norway's Radio
 slug: norways-radio
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-04-21 07:39:12.000000000 -07:00
+date: 2015-04-21 07:39:12 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 There seems to be a bit of confusion surrounding Norway's announcement they'll stop broadcasting FM radio. Someone didn't do their homework when they started writing titles for the various articles that are covering the matter, so I hope I can spend a few minutes and clarify the topic for you.

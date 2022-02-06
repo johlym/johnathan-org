@@ -2,14 +2,14 @@
 title: Extending My Writing Goals to Photography
 slug: extending-my-writing-goals-to-photography
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-20 04:02:57.000000000 -08:00
+date: 2015-01-20 04:02:57 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal, photography
 ---
 
-When I'm not working, writing, or studying, I'm (ideally) shooting. I'm a [landscape photographer](http://jlymanphotography.net) and by shooting I mean “taking photos of.” One of the things I struggled with in 2014 was my motivation to shoot more. I've always had a small inkling in the back of my mind that I'd like to live out a career at my desk writing and taking photos. With my start to writing underway (and so far going relatively smoothly), the next half of that is creating more photos.
+When I'm not working, writing, or studying, I'm (ideally) shooting. I was a landscape photographer and by shooting I mean “taking photos of.” One of the things I struggled with in 2014 was my motivation to shoot more. I've always had a small inkling in the back of my mind that I'd like to live out a career at my desk writing and taking photos. With my start to writing underway (and so far going relatively smoothly), the next half of that is creating more photos.
 
 A lot of photographers will tell you that the gear doesn't make the photographer. While I find that to be true, the gear does make the photographer more motivated if the gear they just bought is exponentially better than what they used to own. See, up until the end of last year, I owned a four year old camera body—the [Canon 60D](http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d)—and a couple of lenses. Unfortunately, the 60D wasn't the best for landscape photography for two reasons:
 

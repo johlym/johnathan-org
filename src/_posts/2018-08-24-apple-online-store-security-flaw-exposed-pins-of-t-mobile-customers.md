@@ -3,11 +3,10 @@ title: Apple Online Store Security Flaw Exposed PINs of T-Mobile Customers
 slug: apple-online-store-security-flaw-exposed-pins-of-t-mobile-customers
 featured: false
 
-
-
 layout: post
 categories: posts
-date: 2018-08-24 20:56:08.000000000 -07:00
+date: 2018-08-24 20:56:08 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 This is [a great explainer from Mac Rumors](https://www.macrumors.com/2018/08/24/apple-store-flaw-t-mobile-pins-exposed/) on what happened with T-Mobile and AT&T's data leak:

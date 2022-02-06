@@ -2,11 +2,10 @@
 title: Get After it with Liquid Sugar and Lucozade Energy
 slug: get-after-it-with-liquid-sugar-and-lucozade-energy
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-05-17 16:01:59.000000000 -07:00
+date: 2016-05-17 16:01:59 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If there's one thing I'll always try a new variant of, it's an energy drink. As the inaugural post in my International Beverage Bonanza series, I think it's incredibly appropriate (or not) to give the U.K.'s rocket-bottle-full-of-sugar the first chair. I'm cautiously optimistic.

@@ -2,11 +2,10 @@
 title: The cars have eyes
 slug: the-cars-have-eyes
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-28 15:04:46.000000000 -07:00
+date: 2018-08-28 15:04:46 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Coming our way [from Jalopnik](https://jalopnik.com/jaguars-new-autonomous-car-has-a-face-and-its-horrifyin-1828650588), Jaguar's new self-driving car thing literally has eyes on it:

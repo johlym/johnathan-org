@@ -2,11 +2,10 @@
 title: The Sad, Lonely World of Yik Yak
 slug: the-sad-lonely-world-of-yik-yak
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-04-30 12:02:21.000000000 -07:00
+date: 2015-04-30 12:02:21 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 https://youtube.com/watch?v=O825ko-BK0k

@@ -4,7 +4,8 @@ slug: fake-mcdonalds-poster-prank
 featured: false
 
 categories: posts
-date: 2018-09-07 10:20:37.000000000 -07:00
+date: 2018-09-07 10:20:37 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I saw this first posted [on Mashable](https://mashable.com/article/mcdonalds-fake-poster-prank/#pX9wee.7jaqK); these guys noticed a blank wall in their local McDonald's so they did what I'm sure _everyone_ would do: they created a fake McD poster of themselves and hung it up.

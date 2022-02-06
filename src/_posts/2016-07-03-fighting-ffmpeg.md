@@ -2,11 +2,10 @@
 title: Fighting ffmpeg
 slug: fighting-ffmpeg
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-07-03 23:32:00.000000000 -07:00
+date: 2016-07-03 23:32:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 (Last Updated April 1, 2020)
@@ -21,7 +20,7 @@ This means, after the several hours of compiling `ffmpeg`, I had to re-compile (
 
 ## Introduction
 
-Recently I added a Raspberry Pi 3 to my collection of computing tools (mainly for testing `arm` builds of [remote\_syslog2](http://github.com/papertrail/remote_syslog2)). While it serves that purpose day in and out, such a task isn't super intensive. While it's just sitting there, I'd like it to do something Internet-related, and what's better than something involving cats? If you say whiskey, I'll give you points. Life is pretty much whiskey, cats, and tacos, for me, as a single guy in his late 20s living in California.
+Recently I added a Raspberry Pi 3 to my collection of computing tools (mainly for testing `arm` builds of [remote_syslog2](http://github.com/papertrail/remote_syslog2)). While it serves that purpose day in and out, such a task isn't super intensive. While it's just sitting there, I'd like it to do something Internet-related, and what's better than something involving cats? If you say whiskey, I'll give you points. Life is pretty much whiskey, cats, and tacos, for me, as a single guy in his late 20s living in California.
 
 This is where The Cat Cam came to life. I find it oddly amusing to sit and watch my cats (mostly sleep) either from somewhere else in my home or while I'm getting tacos. I figured why not let others do the same, in _a not-at-all-creepy way?_
 
@@ -60,14 +59,14 @@ I'm using a Raspberry Pi 3 with Raspbian. I'm running all my commands as a regul
 
 Before we do anything else, we need to make sure we have the latest package info and install `git`. Nothing special about installing it.
 
-```
+```sh
 sudo apt-get update
 sudo apt-get install git
 ```
 
 Let's move into the `/usr/src` directory and pull down the latest version of `ffmpeg`. (Note: most of what we do in `/usr/src` has to be done with `sudo` rights as `/usr/src` is owned by `root`.)
 
-```
+```sh
 cd /usr/src
 sudo git clone https://git.ffmpeg.org/ffmpeg.git
 ```
@@ -76,7 +75,7 @@ I'm skipping sound, but if you need it, grab [`libasound2-dev`](http://packages.
 
 Now that we have the code pulled down, let's hop into the folder and compile it.
 
-```
+```sh
 cd ffmpegsudo 
 ./configure
 sudo make
@@ -85,7 +84,7 @@ make install
 
 If that fails, for you, you'll need to install `libav-tools`, you can pick them up using the package manager:
 
-```
+```sh
 sudo apt-get install libav-tools
 ```
 
@@ -104,13 +103,13 @@ deb http://www.deb-multimedia.org wheezy main non-free
 
 Then update, again:
 
-```
+```sh
 sudo apt-get update
 ```
 
 and install `deb-multimedia-keyring`:
 
-```
+```sh
 sudo apt-get install deb-multimedia-keyring
 ```
 
@@ -124,19 +123,19 @@ deb http://www.deb-multimedia.org wheezy main non-free
 
 then download the source for `ffmpeg-dmo`:
 
-```
+```sh
 sudo apt-get source ffmpeg-dmo
 ```
 
 This will take a few minutes, but once it's done, you'll find you now have a `usr/src/ffmpg-dmo-xxx` folder, where `xxx` is a version number. Hop into that directory
 
-```
+```sh
 cd ffmpeg-dmo-xxx
 ```
 
 and compile and install it:
 
-```
+```sh
 sudo ./configure
 sudo make
 make install
@@ -203,10 +202,8 @@ avi : AVI format (MPEG-4 video, MPEG audio sound)
 
 There are two I would stick with: `mjpeg` and `mpeg`. The latter is supported by just about every browser these days and `mpeg` is a straight up video file. Between the former is easier to embed into a website as it's just one line:
 
-![](http://example.com:1234/stream.mjpeg)
-
 ```
-
+http://example.com:1234/stream.mjpeg
 ```
 
 Your browser will likely know what to do with that. Using `mpeg` will require a video player. I'd stay away from Flash-based players, these days (unless you have `swf` as a “, which I'll cover in a minute) because Flash is garbage, ugly, and has no real purpose in today's web world.
@@ -247,7 +244,7 @@ Now it's time to get this s–t started.
 
 We've spent all this set up time, and now we're ready. You'll want to launch `ffserver` first. If you put your config file in the default location and gave it the default name (`/etc/ffserver.conf`), all you need to do is run:
 
-```
+```sh
 ffserver
 ```
 
@@ -255,7 +252,7 @@ And boom. If something's not right about your config, you'll know pretty quickly
 
 The output will look something like this if you did it right:
 
-```
+```sh
 root@ubuntu:~# ffserver
 ffserver version N-80901-gfebc862 Copyright (c) 2000-2016 the FFmpeg developersbuilt with gcc 4.8 (Ubuntu 4.8.4-2ubuntu1~14.04.3)
 configuration: --extra-libs=-ldl --prefix=/opt/ffmpeg --mandir=/usr/share/man --enable-avresample --disable-debug --enable-nonfree --enable-gpl --enable-version3 --enable-libopencore-amrnb --enable-libopencore-amrwb --disable-decoder=amrnb --disable-decoder=amrwb --enable-libpulse --enable-libfreetype --enable-gnutls --enable-libx264 --enable-libx265 --enable-libfdk-aac --enable-libvorbis --enable-libmp3lame --enable-libopus --enable-libvpx --enable-libspeex --enable-libass --enable-avisynth --enable-libsoxr --enable-libxvid --enable-libvidstab
@@ -280,19 +277,19 @@ So cool!
 
 Launching `ffmpeg` is almost as simple. We're going to pass the raw webcam feed so all we need to do is:
 
-```
+```sh
 ffmpeg -i /dev/video0 https://example.com:1234/stream.ffm
 ```
 
 This'll tell `ffmpeg` to that what's coming in from `/dev/video0` and pass it to the feed ingestion point on `ffserver`. If `/dev/video0` isn't available, check for another `video` device. If you have more than one, they'll be numbered in the order they were plugged in, in most cases. You can also ask `ffmpeg` to tell you what devices are plugged in by running:
 
-```
+```sh
 ffmpeg -devices
 ```
 
 The output from `ffmpeg` will look something like this if you did it right:
 
-```
+```sh
 pi@rpi3-01:/usr/src/ffmpeg-dmo-3.1.1 $ ffmpeg -i /dev/video0 https://example.com:1234/stream.ffm
 ffmpeg version N-80908-g293484f Copyright (c) 2000-2016 the FFmpeg developers
 built with gcc 4.9.2 (Raspbian 4.9.2-10)
@@ -375,7 +372,7 @@ I thought all I'd need to do was re-compile `ffmpeg` on my Pi and I'd be set. I 
 
 For my system, I had to install a few extra packages:
 
-```
+```sh
 apt-get install build-essential gcc yasm pkg-config
 ```
 

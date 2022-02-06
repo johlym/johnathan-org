@@ -2,11 +2,10 @@
 title: Leaf Turning
 slug: leaf-turning
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-07-24 06:34:41.000000000 -07:00
+date: 2015-07-24 06:34:41 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Ever heard the saying:

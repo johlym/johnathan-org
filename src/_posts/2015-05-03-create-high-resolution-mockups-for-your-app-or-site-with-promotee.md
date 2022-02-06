@@ -2,11 +2,10 @@
 title: Create High-Resolution Mockups for Your App or Site with Promotee
 slug: create-high-resolution-mockups-for-your-app-or-site-with-promotee
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-03 15:05:59.000000000 -07:00
+date: 2015-05-03 15:05:59 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 When it comes to promoting your site or app, it's important that your renders are high quality and accurately portray what your customers should expect.

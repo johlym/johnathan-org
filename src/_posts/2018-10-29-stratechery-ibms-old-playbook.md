@@ -4,7 +4,8 @@ slug: stratechery-ibms-old-playbook
 featured: false
 layout: post
 categories: posts
-date: 2018-10-29 10:50:26.000000000 -07:00
+date: 2018-10-29 10:50:26 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Ben Thompson, writing at Stratchery:

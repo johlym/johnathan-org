@@ -2,11 +2,10 @@
 title: Snap Stock Price Sinks to an All-time Low
 slug: snap-stock-price-sinks-to-an-all-time-low
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-09-06 08:26:02.000000000 -07:00
+date: 2018-09-06 08:26:02 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 CNBC:

@@ -2,11 +2,10 @@
 title: Eleven Million
 slug: eleven-million
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-08-06 05:31:08.000000000 -07:00
+date: 2015-08-06 05:31:08 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 The first numbers for Apple Music are in and it's an interesting amount. From Marco Cava at [USA Today](http://www.usatoday.com/story/tech/2015/08/05/apple-music-hooks-11-million-trial-members-app-store-has-record-july/31197721/):

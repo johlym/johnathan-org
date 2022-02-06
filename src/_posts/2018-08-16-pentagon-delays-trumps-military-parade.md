@@ -2,11 +2,10 @@
 title: Pentagon Delays Trump's Military Parade
 slug: pentagon-delays-trumps-military-parade
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-16 20:07:11.000000000 -07:00
+date: 2018-08-16 20:07:11 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Missy Ryan and Dan Lamothe [writing for The Washington Post](https://www.washingtonpost.com/world/national-security/trumps-military-parade-may-cost-three-times-more-than-first-estimates/2018/08/16/15159b44-a17e-11e8-93e3-24d1703d2a7a_story.html):

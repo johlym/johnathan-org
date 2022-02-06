@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-15 11:10:57.000000000 -07:00
+date: 2018-09-15 11:10:57 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Rom Amadeo writing in his 19,000(!) word [Android 9 review](https://arstechnica.com/gadgets/2018/09/android-9-pie-thoroughly-reviewed/):

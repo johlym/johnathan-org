@@ -7,7 +7,8 @@ excerpt: Summarizing my experiences and notes from sampling all the local-area
   would make a great reference sandwich.
 layout: post
 categories: posts
-date: 2022-01-10 12:20:13.000000000 -08:00
+date: 2022-01-10 12:20:13 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 image: /images/chicken-sandwich.jpg
 ---
 

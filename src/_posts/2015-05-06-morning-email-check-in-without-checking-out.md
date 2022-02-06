@@ -2,11 +2,10 @@
 title: 'Morning Email: Check In Without Checking Out'
 slug: morning-email-check-in-without-checking-out
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-06 16:03:58.000000000 -07:00
+date: 2015-05-06 16:03:58 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If you've ever worked in a position where regular communication via email is important, you know what I'm about to discuss.

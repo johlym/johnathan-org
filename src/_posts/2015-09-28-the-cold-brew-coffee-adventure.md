@@ -2,11 +2,10 @@
 title: The Cold Brew Coffee Adventure
 slug: the-cold-brew-coffee-adventure
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-09-28 07:55:59.000000000 -07:00
+date: 2015-09-28 07:55:59 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 So I've been experimenting with brewing my own coffee like the ways of the eskimos: cold.

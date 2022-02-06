@@ -2,14 +2,14 @@
 title: You Really Just Would not Understand!
 slug: you-really-just-would-not-understand
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-06 19:16:16.000000000 -08:00
+date: 2015-01-06 19:16:16 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal
 ---
 
-[{% cloudinary_img "Alt text goes here", "Screenshot-2015-01-06-20.14.21", "standard" %}
+{% cloudinary_img, "Screenshot-2015-01-06-20.14.21", "standard" %}
 
 I'm hoping that someone can explain to me why in the literal hell I would think this is something I would wear.
 

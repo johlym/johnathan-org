@@ -2,11 +2,10 @@
 title: Apple Repairing Macbooks for Free
 slug: apple-repairing-macbooks-for-free
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-21 09:38:30.000000000 -08:00
+date: 2015-02-21 09:38:30 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If you're an owner of one of the following Macbook Pros, you can send in your system for a free repair of any video issues you might be having.

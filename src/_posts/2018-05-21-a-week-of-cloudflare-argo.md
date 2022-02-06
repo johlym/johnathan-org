@@ -2,11 +2,10 @@
 title: A Week of Cloudflare Argo
 slug: a-week-of-cloudflare-argo
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-05-21 17:00:00.000000000 -07:00
+date: 2018-05-21 17:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I recently made a pretty heavy shift over to [Cloudflare](https://cloudflare.com). The majority of assets and HTML on this site load from Cloudflare's servers now, instead of my own. The only time this differs is when I push changes up to its GitHub repo. The last step in the build process after deploying to my server is hitting the API and requesting a complete cache dump. I could be more programmatic about it but updates aren't frequent enough to warrant a more careful approach.

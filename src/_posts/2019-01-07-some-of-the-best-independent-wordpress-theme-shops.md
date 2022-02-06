@@ -2,11 +2,10 @@
 title: Some of the Best Independent WordPress Theme Shops
 slug: some-of-the-best-independent-wordpress-theme-shops
 featured: false
-
-
 layout: post
 categories: posts
-date: 2019-01-07 10:29:30.000000000 -08:00
+date: 2019-01-07 10:29:30 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 For 2019, one of my “goals” if you will is to spend more time noting more of the resources and tools I find valuable. The first category I'm targeting has to do with WordPress. Over the last 10 years of using WordPress in various capacities, I've seen, tested, tinkered with, and used more than a few WordPress themes, both free and for money.

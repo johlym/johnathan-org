@@ -4,7 +4,8 @@ slug: rest-in-peace-burt-reynolds
 featured: false
 
 categories: posts
-date: 2018-09-07 09:19:37.000000000 -07:00
+date: 2018-09-07 09:19:37 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From The Hollywood Reporter:

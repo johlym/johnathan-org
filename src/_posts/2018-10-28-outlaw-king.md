@@ -2,11 +2,10 @@
 title: Outlaw King
 slug: outlaw-king
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-10-28 07:19:33.000000000 -07:00
+date: 2018-10-28 07:19:33 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Netflix comes at us with a new tale about Robert the Bruce, King of Scots. Coming November 9th to the service and select theaters, this is _Outlaw King_.

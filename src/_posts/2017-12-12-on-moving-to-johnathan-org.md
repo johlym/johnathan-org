@@ -2,11 +2,10 @@
 title: On Moving to Johnathan.org
 slug: on-moving-to-johnathan-org
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-12-12 18:42:09.000000000 -08:00
+date: 2017-12-12 18:42:09 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 The idea of moving to a first-name.tld-type domain had been on my mind for quite a while. I settled on [johnathan.org](//johnathan.org) after much internal deliberation and stomaching with the fact that it wasn't available for just a handful of dollars a year. I ended up buying the domain from a private party a few weeks ago, and now that the dust is settled, I feel comforatable explaining my reasons behind the change.

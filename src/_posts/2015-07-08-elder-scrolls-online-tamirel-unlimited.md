@@ -2,11 +2,10 @@
 title: 'Elder Scrolls Online: Tamirel Unlimited'
 slug: elder-scrolls-online-tamirel-unlimited
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-07-08 16:54:04.000000000 -07:00
+date: 2015-07-08 16:54:04 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I never thought I'd end up being a fan of the Elder Scrolls franchise. I haven't so much as played any of the past titles including the ever popular Skyrim.

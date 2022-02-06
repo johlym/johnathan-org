@@ -2,14 +2,11 @@
 title: How to Set up Automatic WordPress Blog Post Scheduling with IFT.TT, and Buffer
 slug: how-to-set-up-automatic-wordpress-blog-post-scheduling-with-ift-tt-and-buffer
 featured: false
-
-
-  hell out of
-
-
 layout: post
 categories: posts
-date: 2015-01-24 20:05:17.000000000 -08:00
+date: 2015-01-24 20:05:17 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal, automation
 ---
 
 Let's be honest. The year is 2015 and nobody wants to do things by hand or manually if they can help it. Companies are hiring people to automate the hell out of everything because like M.I.A (sort of, not really) [famously rapped][1]:

@@ -2,11 +2,10 @@
 title: Like That Zappos Guy
 slug: like-that-zappos-guy
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-04-26 20:38:28.000000000 -07:00
+date: 2015-04-26 20:38:28 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 A couple days ago I talked about killing in people relations, a.k.a kicking @$$ at customer service. I suggested a book by Dale Carnegie called How to Win Friends and Influence People. I also said there was a second book I recommend.

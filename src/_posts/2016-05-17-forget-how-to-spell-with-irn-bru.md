@@ -2,11 +2,10 @@
 title: Forget How to Spell with Irn Bru
 slug: forget-how-to-spell-with-irn-bru
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-05-17 16:41:00.000000000 -07:00
+date: 2016-05-17 16:41:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Is that jello and pasta sauce, I smell?

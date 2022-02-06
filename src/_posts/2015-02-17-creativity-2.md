@@ -2,11 +2,10 @@
 title: Creativity
 slug: creativity-2
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-17 04:04:07.000000000 -08:00
+date: 2015-02-17 04:04:07 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 > “Creativity is an act of defiance.” – Twyla Tharp

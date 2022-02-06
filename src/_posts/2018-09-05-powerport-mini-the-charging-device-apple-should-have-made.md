@@ -2,11 +2,10 @@
 title: 'PowerPort Mini: The Charging Device Apple Should Have Made'
 slug: powerport-mini-the-charging-device-apple-should-have-made
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-09-05 16:20:07.000000000 -07:00
+date: 2018-09-05 16:20:07 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 When I travel, I try to bring as few plugs, cords, and other dinguses as possible. My typical mobile device loadout consists of an iPhone, Watch, and iPad. Occasionally I'll bring my MacBook Pro but that travels with its own power cord, so I'll exempt it from this discussion. My iPad is generally only used on planes and in airports so it'll stay in a bag most of the trip. My iPhone and Watch are the only two devices I'd use on the regular and as such need to always keep charged.
@@ -15,7 +14,7 @@ Anyone that's stayed in a hotel knows the power outlet situation is varied. best
 
 Enter the [Anker PowerPort Mini](https://amzn.to/2oKPv6A). A 2-port USB 2.4A wall plug with Power IQ support that's about the size of a golf ball. The prongs fold in to make itself a bit more portable, which is nice when comparing it to the size of Apple's single port 5W brick.
 
-{% cloudinary_img "Powerport size comparison 1", "powerport_size_comparison_1.jpeg "powerport\_size\_comparison\_1.jpeg"", "standard" %}
+{% cloudinary_img "Powerport size comparison 1", "powerport_size_comparison_1.jpeg "powerport_size_comparison_1.jpeg"", "standard" %}
 
 While it's not the smallest charging brick in the world, the fact that it provides two ports will more than make up for it. The alternative in this comparison is to have two Apple bricks that would take up two outlets. In the image above the coin in a Canadian quarter. The height is about 75% greater, but it definitely doesn't feel big in my hand. If anything, holding the Apple brick afterward makes the Apple brick feel very small and almost inadequate.
 
