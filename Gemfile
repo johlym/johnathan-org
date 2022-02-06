@@ -49,3 +49,5 @@ end
 gem "rack-rewrite", "~> 1.5"
 
 gem "bridgetown-cloudinary", "~> 1.2", :group => :bridgetown_plugins
+
+gem "rack-host-redirect", "~> 1.3"

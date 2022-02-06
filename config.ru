@@ -19,6 +19,10 @@ use Rack::Rewrite do
   r301 %r{/\d{4}/\d{2}/(.*)}, '/$1/'
 end
 
+use Rack::HostRedirect, {
+  %w(www.johnathan.org) => 'johnathan.org'
+}
+
 Bridgetown::Rack.boot
 
 run RodaApp.freeze.app # see server/roda_app.rb
