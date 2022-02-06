@@ -32,7 +32,7 @@ Even if I don't accomplish _anything_ new in 2018, I'll still be glad to just ha
 
 1. [Live Streaming with Hardware Acceleration using a Raspberry Pi and RTMP/HLS](http://johnathan.org/rpi-h264-hw-acceleration/) [↩](#fnref-1)
 2. [Add RTMP Support to Nginx Installed From Apt](http://johnathan.org/rtmp-nginx-apt/) [↩](#fnref-2)
-3. [Attempting to Stream a Webcam to an RTMP Server](http://johnathan.org/2016/07/stream-rtmp.html) [↩](#fnref-3)
-4. [Fighting ffmpeg](http://johnathan.org/posts/2016/07/fighting-ffmpeg.html) [↩](#fnref-4)
+3. [Attempting to Stream a Webcam to an RTMP Server](/stream-rtmp/) [↩](#fnref-3)
+4. [Fighting ffmpeg](/fighting-ffmpeg/) [↩](#fnref-4)
 5. The one book I read, cover to cover, was called _Dark Matter_ by Blake Crouch, the guy who wrote the Wayward Pines series. It's on [Amazon](http://amzn.to/2zF9bM0). [↩](#fnref-5)
 6. Though I'd quite strongly prefer to have a net gain of some kind. [↩](#fnref-6)

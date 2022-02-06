@@ -11,7 +11,7 @@ last_modified_at: 2022-02-06 14:00:00 -07:00
 
 All I could do was shake my head when I saw [the post from John Gruber](https://daringfireball.net/linked/2018/09/04/medium-domain-name) that mentioned Medium no longer allowing folks to use custom domains for their Medium-hosted publications (read: blogs). The alternative solution is to resort to a `medium.com/publication URL`. That sounds fantastic. /s
 
-It seems like only [yesterday](https://johnathan.org/posts/2015/07/custom-domains-on-medium.html) that I posted about Medium supporting custom domains, though it was really over three years ago.
+It seems like only [yesterday](/custom-domains-on-medium/) that I posted about Medium supporting custom domains, though it was really over three years ago.
 
 While old URLs will continue to work, this flies in the face of anyone expecting any kind of long-term stability and consistency from the service and company. This change reminded me of a post from a friend of mine about how self-hosting is the most safe and sustainable option. A couple years later, that's still the case.
 

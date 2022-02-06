@@ -8,7 +8,7 @@ date: 2016-07-04 22:16:00 -07:00
 last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
-This a follow up from [this article I wrote](/2016/07/fighting-ffmpeg.html/) talking about trying to get `ffmpeg` + `ffserver` running the Cat Cam. I abandoned that project and went in search for a new solution. What I came up with was `ffmpeg` + `nginx`. Here's how that worked out.
+This a follow up from [this article I wrote](/fighting-ffmpeg/) talking about trying to get `ffmpeg` + `ffserver` running the Cat Cam. I abandoned that project and went in search for a new solution. What I came up with was `ffmpeg` + `nginx`. Here's how that worked out.
 
 After a night of streaming failure, I decided I'd give a shot at using `ffmpeg` to stream to an RTMP server via `nginx`. RTMP servers are generally pretty basic in that they just relay what they receive to whomever connects. This seems like a pretty straightforward process, from what I can tell. The hardest part would be to get the `nginx` source bits and compile it with [the `nginx-rtmp-module`](https://github.com/arut/nginx-rtmp-module). Here's how we'll do that.
 
