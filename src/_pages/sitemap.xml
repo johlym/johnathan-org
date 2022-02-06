@@ -1,0 +1,17 @@
+---
+permalink: /sitemap.xml
+layout: none
+no_index: true
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for res in site.resources %}
+  {% unless res.layout == blank and layout == blank %}
+  <url>
+    <loc>{{ res.absolute_url }}</loc>
+    <lastmod>{{ res.last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+  </url>
+  {% endunless %}
+  {% endfor %}
+</urlset>
