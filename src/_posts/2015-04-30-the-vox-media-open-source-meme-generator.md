@@ -2,11 +2,10 @@
 title: The Vox Media Open Source Meme Generator
 slug: the-vox-media-open-source-meme-generator
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-04-30 11:20:16.000000000 -07:00
+date: 2015-04-30 11:20:16 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I spent some time scouring GitHub this afternoon looking for cool projects. One I stumbled upon was a tool created by Vox Media for creating Twitter cards and Instagram images that included text, source, and site brand logo. I thought it was pretty interesting so I gave it a look-see and started it up in my own space.

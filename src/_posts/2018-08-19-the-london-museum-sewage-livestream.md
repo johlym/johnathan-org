@@ -2,11 +2,10 @@
 title: The London Museum Sewage Livestream
 slug: the-london-museum-sewage-livestream
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-19 16:45:58.000000000 -07:00
+date: 2018-08-19 16:45:58 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Beth Mole writing for [Ars Technica](https://arstechnica.com/science/2018/08/stinky-festering-sewage-now-21st-century-artifact-watch-the-livestream/):

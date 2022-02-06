@@ -1,16 +1,12 @@
 ---
-title: There Are Some Things Money Can't Buy. For Everything Else, There's a Cat in
-  a Box.
+title: There Are Some Things Money Can't Buy. For Everything Else, There's a Cat in a Box.
 slug: there-are-some-things-money-cant-buy-for-everything-else-theres-a-cat-in-a-box
 featured: false
-
-
-  space ship
-
-
 layout: post
 categories: posts
-date: 2015-01-21 04:05:43.000000000 -08:00
+date: 2015-01-21 04:05:43 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal, cats
 ---
 
 Sometimes I wonder about cats. Who invented them? Why are they here? Are those whiskers really just antennae they use to communicate with their alien space ships? All these things are valid questions if you are like me, because obviously my brain isn't stimulated enough as it is. Of all cat-related questions out there, the one that keeps me the most interested and stumped is: what's with the boxlust?

@@ -2,11 +2,10 @@
 title: Wearing your Apple Watch 24/7
 slug: wearing-your-apple-watch-24-7
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-09-21 13:23:47.000000000 -07:00
+date: 2015-09-21 13:23:47 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 David Smith (also known as “Underscore”) dropped Sleep++, an Apple Watch app that allows you to track your sleep a la Fitbit and others. The key here is needing to keep your watch on all the time. So how do you do it?

@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-19 11:12:23.000000000 -07:00
+date: 2018-09-19 11:12:23 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I came across this video by way of [Kottke.org](https://kottke.org/18/09/how-we-could-build-a-moon-base-today) and immediately recognized the design. Kurzgesagt is an amazing educational YouTube channel.

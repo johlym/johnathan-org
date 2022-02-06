@@ -4,11 +4,10 @@ slug: zuckerberg-admits-facebooks-ban-of-alex-jones-was-prompted-by-apples-decis
 featured: false
 
 
-
-
 layout: post
 categories: posts
-date: 2018-09-11 09:58:13.000000000 -07:00
+date: 2018-09-11 09:58:13 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From The New Yorker by way of 9to5Mac in the context of removing Alex Jones from the Facebook platform altogether:

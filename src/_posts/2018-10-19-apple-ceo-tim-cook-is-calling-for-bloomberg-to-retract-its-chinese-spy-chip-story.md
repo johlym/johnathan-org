@@ -5,11 +5,10 @@ slug: apple-ceo-tim-cook-is-calling-for-bloomberg-to-retract-its-chinese-spy-chi
 featured: false
 
 
-
-
 layout: post
 categories: posts
-date: 2018-10-19 13:50:05.000000000 -07:00
+date: 2018-10-19 13:50:05 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From John Paczkowski and Joseph Bernstein over at BuzzFeed News:

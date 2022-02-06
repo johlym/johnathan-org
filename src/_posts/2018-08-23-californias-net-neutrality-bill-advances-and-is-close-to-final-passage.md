@@ -2,14 +2,13 @@
 title: California's Net Neutrality Bill Advances and is Close to Final Passage
 slug: californias-net-neutrality-bill-advances-and-is-close-to-final-passage
 featured: false
-
-
   or slowin
 
 
 layout: post
 categories: posts
-date: 2018-08-23 11:06:05.000000000 -07:00
+date: 2018-08-23 11:06:05 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Yesterday, Senator Scott Wiener [announced](http://sd11.senate.ca.gov/news/20180822-senator-wiener%E2%80%99s-net-neutrality-bill-passes-out-its-final-committee-and-advances) California's Net Neutrality bills made crucial advancements.

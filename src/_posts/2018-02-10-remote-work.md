@@ -2,11 +2,10 @@
 title: Remote Work
 slug: remote-work
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-02-10 20:27:35.000000000 -08:00
+date: 2018-02-10 20:27:35 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Sometime in the next couple weeks I'll be starting the first book discussion of 2018. I've been wanting to discuss this topic for a long time. I want to talk about the topic of remote work and address some of the stigma behind it, along with some tips and stories from my own experiences working remotely 100% for the last two years.

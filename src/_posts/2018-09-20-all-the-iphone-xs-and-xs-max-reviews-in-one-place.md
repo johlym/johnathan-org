@@ -4,7 +4,8 @@ slug: all-the-iphone-xs-and-xs-max-reviews-in-one-place
 featured: false
 
 categories: posts
-date: 2018-09-20 08:41:52.000000000 -07:00
+date: 2018-09-20 08:41:52 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Launch day for the iPhone XS is tomorrow. While we wait, it seems only pertinent to round up all the reviews for the iPhone XS and share them in one page.

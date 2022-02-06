@@ -2,13 +2,12 @@
 title: Reddit Moderators are Regularly Verbally Abused, Receive Death Threats
 slug: reddit-moderators-are-regularly-verbally-abused-receive-death-threats
 featured: false
-
-
   – Johnathan.org
 
 layout: post
 categories: posts
-date: 2018-09-03 18:49:54.000000000 -07:00
+date: 2018-09-03 18:49:54 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Among other things:

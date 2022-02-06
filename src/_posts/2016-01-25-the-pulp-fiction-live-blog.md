@@ -2,11 +2,10 @@
 title: The Pulp Fiction Live Blog
 slug: the-pulp-fiction-live-blog
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-01-25 21:27:49.000000000 -08:00
+date: 2016-01-25 21:27:49 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Watch Pulp Fiction, they said. It'll be riveting, they said.

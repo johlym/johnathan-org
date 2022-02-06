@@ -2,11 +2,10 @@
 title: Anker Magnetic Car Mount
 slug: anker-magnetic-car-mount
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-09-13 03:32:37.000000000 -07:00
+date: 2017-09-13 03:32:37 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 There is a newer version of this product available [here](https://amzn.to/2NPT09L) that uses the air vent, instead. The reviewed version has been discontinued.

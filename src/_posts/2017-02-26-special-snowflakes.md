@@ -2,16 +2,15 @@
 title: Special Snowflakes
 slug: special-snowflakes
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-02-26 11:49:00.000000000 -08:00
+date: 2017-02-26 11:49:00 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 This is a topic I never thought I'd actually touch. We hear about how people think they're so special, typically using the words _special snowflake_ and typically from the older generations (read: 50+). Typically these low slung insults have the right idea, though the angle at which these statements are being lobbed is all wrong.
 
-I'm talking about Chapter 3 in Mark Manson's _T[he Subtle Art of not Giving a F\*ck](http://amzn.to/2lZsL2N)_. In particular, there's a couple passages that I want to highlight before I take the anti-special-snowflake generation to task.
+I'm talking about Chapter 3 in Mark Manson's _T[he Subtle Art of not Giving a F*ck](http://amzn.to/2lZsL2N)_. In particular, there's a couple passages that I want to highlight before I take the anti-special-snowflake generation to task.
 
 > …beginning in…the 1970s, self-esteem practices began to be taught to parents, emphasized by therapists, politicians, and teachers… Kids were given inanne homework assignments, like writing down all the reasons why they thought they were special…seminars told us everyone can be exceptional and massively successful.
 

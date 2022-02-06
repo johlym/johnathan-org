@@ -2,11 +2,10 @@
 title: 'Dart: Java-Free Android Apps'
 slug: dart-java-free-android-apps
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-02 19:22:26.000000000 -07:00
+date: 2015-05-02 19:22:26 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Made by some folks from the Chrome V8 Javascript engine team, Dart tries to solve 20-year old frustrations of working with Java. A language created completely in house, it feels a lot like Python.

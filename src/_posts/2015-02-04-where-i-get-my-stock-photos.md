@@ -2,11 +2,10 @@
 title: Where I Get My Stock Photos
 slug: where-i-get-my-stock-photos
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-04 04:47:20.000000000 -08:00
+date: 2015-02-04 04:47:20 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 One would think that because I'm a photographer in some capacity that I would take all of my own photos. Let me tell you, that's certainly not the case. One cannot craft a particular scene in a heartbeat with just enough time to post it to a blog. Good luck with that.

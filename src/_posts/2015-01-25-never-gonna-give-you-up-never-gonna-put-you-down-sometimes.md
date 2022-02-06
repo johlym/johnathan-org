@@ -2,11 +2,11 @@
 title: Never Gonna Give You Up, Never Gonna Put You Down. Sometimes.
 slug: never-gonna-give-you-up-never-gonna-put-you-down-sometimes
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-25 09:08:12.000000000 -08:00
+date: 2015-01-25 09:08:12 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal
 ---
 
 As much as I try to stay current with technology, there's a part of me that just doesn't care if I check my phone all the time, or am constantly reading emails on the weekend. I know a lot of people keep up to date on the latest everything with every device they have and that's awesome. I just can't do that. However, there's one device that I really can't live without because it's become a gateway to the “Quick-Check-to-See-if-the-World-Has-Burned-Down” reality: my iPhone.
@@ -16,8 +16,6 @@ I'm quite sure the list of people that say they couldn't live without their phon
 Don't get me wrong, I love having my phone around with me all the time, but it's more of a just-in-case-something-happens kind of need. I might be listening to podcasts while I travel to and from work every day, but we've been able to do that for quite some time, before smartphones were a thing (remember the iPod?) so that doesn't count as a dire need. I listen to music, too, but that also falls under what I just described. I might check twitter every now and then or watch Facebook all morning but that just drains me. Have you ever sat on twitter reading people's 140-character-or-less thoughts and NOT felt drained or depressed afterwards? The world sucks nuts and I can only read about it for a little bit.
 
 The world used to be a simpler place. Cats used to sit inside cannons like it's no big deal. You can tell a lot about a time period by whether you have a cat that's willing to loiter around artillery. Those days were nice.
-
-
 
 For all I don't use my iPhone for, though, if I didn't have it with me, I'd feel disconnected, I'll admit. It's become more of a security blanket when I'm moving between point A and point B. I, and likely society as a whole, have been trained to think that if I leave my house without my phone, something bad might happen and I won't be able to call for help! I wonder how people in the 90s even survived.
 

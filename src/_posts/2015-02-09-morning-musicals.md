@@ -2,11 +2,10 @@
 title: Morning Musicals
 slug: morning-musicals
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-09 04:03:04.000000000 -08:00
+date: 2015-02-09 04:03:04 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 A few people have asked what music I listen to in the morning while I'm mentally prepping for my day (by writing).

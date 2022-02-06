@@ -2,11 +2,10 @@
 title: From Ghost to WordPress
 slug: from-ghost-to-wordpress
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-01-04 10:31:38.000000000 -08:00
+date: 2018-01-04 10:31:38 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I did what I never thought I'd end up doing. Over the last month, I'd been contemplating moving away from Ghost as a blogging platform and back to WordPress. [Back in June](https://johnathan.org/posts/2017/06/strange-things-around-these-parts.html) I moved away from WordPress. My original complaints were related to complexity, bloat, and performance. I felt WordPress was becoming too slow and complicated for a simple blog like this one. I watched as Ghost became a more mature and baked tool so I dove in. Wiring up a design for it was a trivial matter, something I greatly appreciate still. The simplicity in design wasn't enough to keep me, however, along with a few other reasons.

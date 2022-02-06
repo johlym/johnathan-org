@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-16 19:57:33.000000000 -07:00
+date: 2018-09-16 19:57:33 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Yesterday, [John Gruber](https://daringfireball.net/) of Daring Fireball and [_The Talk Show_](https://daringfireball.net/thetalkshow/) fame posted [a dissemination](https://daringfireball.net/2018/09/iphone_xs_xr_series_4_apple_watch_event) of the goings on from Apple's iPhone XS/XS Max/XR and Watch Series 4 event last Tuesday. I read the whole thing and a few things absolutely jumped out at me and I wanted to cover them, here.
@@ -16,7 +17,7 @@ Last year, John talked about the new [Steve Jobs theater](https://daringfireball
 
 > [W]hat the Steve Jobs Theater provides that no venue in San Francisco ever could is seclusion. Apple Park really feels like it is its own world. Putting “Park” in the complex's name was exactly right. In terms of sight lines and feeling like you're isolated from the rest of the world, the effect is very similar to being in one of the theme parks at Walt Disney World. As you walk the pathway uphill from the Visitor Center to the theater, ambient music plays from hidden speakers. The only thing man-made you can see from the pavilion atop the Steve Jobs Theater is Apple Park's Ring building, seemingly on the horizon.
 
-One hundred percent. I can imagine the level of detail Apple went into to create a space that didn't feel like \_just an ordinary event venue\_. Anyone can hold a press conference at a hotel, expo/convention center, or stadium. Apple has to do it their own way. In these reveals, Apple strives for intimacy, to make you feel like it's just you and Tim, Phil, and the gang. There's no way they could pull off that range of emotions in a place like Moscone.
+One hundred percent. I can imagine the level of detail Apple went into to create a space that didn't feel like _just an ordinary event venue_. Anyone can hold a press conference at a hotel, expo/convention center, or stadium. Apple has to do it their own way. In these reveals, Apple strives for intimacy, to make you feel like it's just you and Tim, Phil, and the gang. There's no way they could pull off that range of emotions in a place like Moscone.
 
 John goes on to mention that they hold but a couple events there a year. From Apple's perspective, that's absolutely acceptable. This space wasn't meant to be a place where something is discussed every six weeks. I can imagine the company doesn't even hold much in the way of internal events there. The Steve Jobs Theater is an architectural expression of Steve Jobs himself.
 

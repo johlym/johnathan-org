@@ -2,11 +2,10 @@
 title: Buzz Killers
 slug: buzz-killers
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-27 04:18:55.000000000 -08:00
+date: 2015-02-27 04:18:55 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It wouldn't be a groundbreaking moment in history unless an opposing political party starting whining and groaning and stomping their feet until they get their way.

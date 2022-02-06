@@ -2,11 +2,11 @@
 title: Taking Notes
 slug: taking-notes
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-26 04:19:14.000000000 -08:00
+date: 2015-01-26 04:19:14 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal
 ---
 
 Reflecting on my journey so far, one thing I've noticed that seems to be most consistent is my desire to write has improved, ten fold. Instead of coming up with huge elaborate stories or long-winded essays about something I don't even know if I completely understand, I'm starting to keep my thoughts to under a thousand words. This keeps me from getting bored with what I write, and if I do choose to write something more long-form, I can do so without feeling like that's all I do and it's just more words on a page. I'm also finding that I'm wanting to take time out of my day, whenever it is, to “write something real quick.” Take last weekend, for example, I wrote a total of [x] posts and published them all. Were they all related? No, but they were all things I had going on in my head and I made sure to take the time to put them down and share them.

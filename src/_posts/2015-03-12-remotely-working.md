@@ -2,11 +2,10 @@
 title: Remotely Working
 slug: remotely-working
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-12 06:19:12.000000000 -07:00
+date: 2015-03-12 06:19:12 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 With all the impressive technology we have today, one thing I'm surprised is still as ancient as it is is strict requirements on committing to an office every day to do work. There are a lot of jobs that don't really require you to be in an expensive building. Off the top of my head, I can think of several jobs that would thrive remotely: software development, sales, support, devops, operations, accounting, and anything else where the majority of work is done on a computer. One can't reasonably expect manufacturing to be done from home, but isn't it all the same when you write code on your computer at work versus on your computer at home?

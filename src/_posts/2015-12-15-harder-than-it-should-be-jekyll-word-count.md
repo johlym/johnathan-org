@@ -2,11 +2,10 @@
 title: 'Harder Than it Should Be: Jekyll Word Count'
 slug: harder-than-it-should-be-jekyll-word-count
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-12-15 09:51:22.000000000 -08:00
+date: 2015-12-15 09:51:22 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 When I was running this site through WordPress, I had a plugin that would count the number of words each of my posts contained and give me some metrics. It was a pretty slick plugin and had all sorts of visuals.

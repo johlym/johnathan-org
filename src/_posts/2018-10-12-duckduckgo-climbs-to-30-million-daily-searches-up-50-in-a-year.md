@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-10-12 08:22:25.000000000 -07:00
+date: 2018-10-12 08:22:25 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I came across this tweet via [TechCrunch](https://techcrunch.com/2018/10/11/pro-privacy-search-engine-duckduckgo-hits-30m-daily-searches-up-50-in-a-year/):

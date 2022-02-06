@@ -2,11 +2,10 @@
 title: Getting Started with Loggly
 slug: getting-started-with-loggly
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-14 17:12:11.000000000 -07:00
+date: 2015-03-14 17:12:11 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I love logs. I love massive amounts of data. I have this thing where if I feel I can consume and process tons of data by doing something menial and useless, I'll do it.

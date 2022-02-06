@@ -2,11 +2,10 @@
 title: How Hard Are You Trying?
 slug: how-hard-are-you-trying
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-12-30 09:05:00.000000000 -08:00
+date: 2016-12-30 09:05:00 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It's technically not 2017, yet, but I wanted to get a jump start on the 2017 Book Club anyway with the first title, [_The Subtle Art of Not Giving a f–k_](http://amzn.to/2ixWhYP) by [Mark Manson](http://amzn.to/2ixWhYP). I'm also cheating in that it's not Monday, January 1st.
@@ -23,9 +22,9 @@ I consider myself lucky that I'm not as vanity-oriented as some folks, and I thi
 
 Another thing that really sunk in while reading this first chapter in our quest to be happier, we're actually making ourselves more miserable.
 
-\> The desire for more [a] more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience.
+> The desire for more [a] more positive experience is itself a negative experience. And, paradoxically, the acceptance of one's negative experience is itself a positive experience.
 
-This came up while talking with a friend last night, completely out of band from this book but I think is great to mention here. The fact that we so intensely seek attention and affirmation from those around us only adds weight to the fact that we're not as happy as we think we are. Any Facebook status, Twitter post, Instagram picture, Snapchat snap that essentially implies \*here is a thing I am doing/saying, tell me how cool/fun/exciting/delicious it is!\* is really just a single example of this hunt for happiness that people get caught up in.
+This came up while talking with a friend last night, completely out of band from this book but I think is great to mention here. The fact that we so intensely seek attention and affirmation from those around us only adds weight to the fact that we're not as happy as we think we are. Any Facebook status, Twitter post, Instagram picture, Snapchat snap that essentially implies *here is a thing I am doing/saying, tell me how cool/fun/exciting/delicious it is!* is really just a single example of this hunt for happiness that people get caught up in.
 
 Be real with yourself. If you're fishing for compliments, you'll find two crowds: the first will give you what you want because some people will always, no matter what. The second will just ignore you. In the long run, the latter group is probably the better kind of people to surround yourself with in life, as the former is likely just as willing to hunt for artificial interest as you.
 

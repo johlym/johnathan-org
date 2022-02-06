@@ -2,14 +2,13 @@
 title: Starbucks Coffeehouse Playlist
 slug: starbucks-coffeehouse-playlist
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-06-09 05:37:43.000000000 -07:00
+date: 2016-06-09 05:37:43 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
-[{% cloudinary_img "Alt text goes here", "13413604_10206144656807181_2769894144566463025_n", "standard" %}
+[{% cloudinary_img, "13413604_10206144656807181_2769894144566463025_n", "standard" %}
 
 You have to kind of care about Starbucks and coffee shop-type music but this morning I strolled into Starbucks and when I went to pay with my Starbucks card via the app, I was able to get [the playlist for the music being played](https://open.spotify.com/user/starbucks/playlist/0LPsYH4hIRjLUKXuZd2vAt) at that location.
 

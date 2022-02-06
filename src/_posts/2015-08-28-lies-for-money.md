@@ -2,11 +2,10 @@
 title: Lies for Money
 slug: lies-for-money
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-08-28 10:10:27.000000000 -07:00
+date: 2015-08-28 10:10:27 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I received an email just a bit ago of the political donation variety. It's worth mentioning that a few years ago I guess I ended up on a Scott Walker mailing list. I'm not entirely sure how that happened, but it did.

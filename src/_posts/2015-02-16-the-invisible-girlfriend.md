@@ -2,11 +2,10 @@
 title: The Invisible Girlfriend
 slug: the-invisible-girlfriend
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-16 03:56:59.000000000 -08:00
+date: 2015-02-16 03:56:59 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I caught an article this morning from [Esquire](http://www.esquire.com/lifestyle/sex/a32668/invisible-girlfriend-experiment/) talking about the writer's experiences with [InvisibleGirlfriend.com](http://invisiblegirlfriend.com).

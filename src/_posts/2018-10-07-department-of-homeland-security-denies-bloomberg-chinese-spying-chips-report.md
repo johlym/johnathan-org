@@ -4,11 +4,10 @@ slug: department-of-homeland-security-denies-bloomberg-chinese-spying-chips-repo
 featured: false
 
 
-
-
 layout: post
 categories: posts
-date: 2018-10-07 11:25:31.000000000 -07:00
+date: 2018-10-07 11:25:31 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Bloomberg reported that China manufacturing facilities had implanted spying chips in Supermicro computers. DHS disagrees:

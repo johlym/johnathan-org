@@ -2,11 +2,10 @@
 title: Why This Site
 slug: why-this-site
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-23 18:52:46.000000000 -07:00
+date: 2015-03-23 18:52:46 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've kept this site going with mostly daily content for the last few months now, and I'm quite impressed with how far it's come. It's no money maker, for sure. It likely never will be. At some point, this address won't even point to a blog, but a more professional presentation of me. This blog will be delegated to its own address with its own name.

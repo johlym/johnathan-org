@@ -2,11 +2,10 @@
 title: My Postmates Experience Live Blog
 slug: my-postmates-experience-live-blog
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-01-19 19:02:26.000000000 -08:00
+date: 2016-01-19 19:02:26 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I was feeling a bit lazy tonight but wanted food, so instead of going somewhere, I desired for someone to bring the food to me. Are they up to the challenge of being summoned by Postmates, picking up my Gyro and traversing Silicon Valley, to my driveway, through the first controlled access roadblock, to my building, and through the second controlled access liftway? Let's find out.
@@ -15,7 +14,7 @@ This is my pseudo-live blog on my first Postmates experience.
 
 Stay tuned to the end to see if the food was any good!
 
-{% cloudinary_img "Alt text goes here", "1453262546_1", "standard" %}
+{% cloudinary_img, "1453262546_1", "standard" %}
 
 7:10pm – I found my tasty greek food just a few miles away, and with a wait time of roughly 40ish minutes. For $24 with all extras and fees, I'm super excited to get my gyro fix, thanks to Athena Grill.
 
@@ -37,7 +36,7 @@ I can understand the double-check, but the app should have told me this was an o
 
 **7:31pm** – I think I should text Sheepdog, and say thank you.
 
-> Hey Sheepdog, thanks for picking up my food, this evening! Just to confirm the entry codes: if you can't get throug the gate, use **\*\* … the elevator is \*\***. Thanks!
+> Hey Sheepdog, thanks for picking up my food, this evening! Just to confirm the entry codes: if you can't get throug the gate, use **** … the elevator is ****. Thanks!
 
 Having a non-local number is hard for my dual-call-box system. I haven't given up my WA area code so issuing manual access codes is required. I'm trying to be a nice guy, here.
 

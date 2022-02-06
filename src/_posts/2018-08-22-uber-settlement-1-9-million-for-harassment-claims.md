@@ -2,11 +2,10 @@
 title: 'Uber Settlement: $1.9 Million for Harassment Claims'
 slug: uber-settlement-1-9-million-for-harassment-claims
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-22 13:18:25.000000000 -07:00
+date: 2018-08-22 13:18:25 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [Bloomberg](https://www.bloomberg.com/news/articles/2018-08-21/uber-harassment-settlement-56-workers-to-split-1-9-million):

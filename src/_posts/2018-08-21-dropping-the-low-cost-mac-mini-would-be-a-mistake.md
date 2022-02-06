@@ -2,11 +2,10 @@
 title: Dropping The Low-Cost Mac Mini Would be a Mistake
 slug: dropping-the-low-cost-mac-mini-would-be-a-mistake
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-21 10:47:08.000000000 -07:00
+date: 2018-08-21 10:47:08 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Ben Lovejoy for [9to5Mac](https://9to5mac.com/2018/08/21/mac-mini-opinion/):

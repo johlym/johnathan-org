@@ -3,14 +3,13 @@ title: Comparing Performance of Multiple Apple Devices Before and After Spectre 
   Update
 slug: comparing-performance-of-multiple-apple-devices-before-and-after-spectre-security-update
 featured: false
-
-
   slows dow
 
 
 layout: post
 categories: posts
-date: 2018-01-10 18:20:49.000000000 -08:00
+date: 2018-01-10 18:20:49 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I spent some time this evening putting together some fun tables and graphs after seeing a post by [Melvin Mughal on his blog](https://melv1n.com/iphone-performance-benchmarks-after-spectre-update/) that the iOS 11.2.2 update slows down devices by something like 40%. I didn't believe it, so I fired up all the iDevices I own and benchmarked them before and after the Spectre-fixing update.

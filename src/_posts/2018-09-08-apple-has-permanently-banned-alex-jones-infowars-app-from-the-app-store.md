@@ -4,11 +4,10 @@ slug: apple-has-permanently-banned-alex-jones-infowars-app-from-the-app-store
 featured: false
 
 
-
-
 layout: post
 categories: posts
-date: 2018-09-08 18:25:14.000000000 -07:00
+date: 2018-09-08 18:25:14 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Around this time yesterday, John Paczowkski and Charlie Warzel posted this on BuzzFeed News:

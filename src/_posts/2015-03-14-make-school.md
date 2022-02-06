@@ -2,11 +2,10 @@
 title: Make School
 slug: make-school
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-14 16:32:23.000000000 -07:00
+date: 2015-03-14 16:32:23 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If only there was something like this when I was getting out of high school.

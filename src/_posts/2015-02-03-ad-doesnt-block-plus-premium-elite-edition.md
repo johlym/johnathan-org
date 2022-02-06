@@ -2,11 +2,10 @@
 title: Ad-doesn't-Block Plus Premium Elite Edition
 slug: ad-doesnt-block-plus-premium-elite-edition
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-03 04:46:03.000000000 -08:00
+date: 2015-02-03 04:46:03 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 What's the point of having ad blocking software if it doesn't block any ads? Good question.

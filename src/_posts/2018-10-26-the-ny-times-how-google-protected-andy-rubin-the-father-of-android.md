@@ -4,7 +4,8 @@ slug: the-ny-times-how-google-protected-andy-rubin-the-father-of-android
 featured: false
 layout: post
 categories: posts
-date: 2018-10-26 11:07:01.000000000 -07:00
+date: 2018-10-26 11:07:01 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Killer reporting from Daisuke Wakabayashi and Katie Benner over at The New York Times:

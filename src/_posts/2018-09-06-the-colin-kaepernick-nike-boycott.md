@@ -2,11 +2,10 @@
 title: The Colin Kaepernick-Nike Boycott
 slug: the-colin-kaepernick-nike-boycott
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-09-06 08:18:35.000000000 -07:00
+date: 2018-09-06 08:18:35 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Alex Abad-Santos [writing for Vox](https://www.vox.com/2018/9/4/17818148/nike-boycott-kaepernick):

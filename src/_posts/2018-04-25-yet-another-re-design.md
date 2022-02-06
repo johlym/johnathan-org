@@ -2,11 +2,10 @@
 title: Yet Another Re-design
 slug: yet-another-re-design
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-04-25 17:00:00.000000000 -07:00
+date: 2018-04-25 17:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If you had asked me a few weeks ago if I would be re-doing my blog again, I'd think you're nuts.

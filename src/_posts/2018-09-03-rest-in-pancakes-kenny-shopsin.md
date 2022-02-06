@@ -2,11 +2,10 @@
 title: Rest in Pancakes, Kenny Shopsin
 slug: rest-in-pancakes-kenny-shopsin
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-09-03 11:55:21.000000000 -07:00
+date: 2018-09-03 11:55:21 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've never been to New York City. [Jason Kottke over on Kottke.org](https://kottke.org/18/09/rip-kenny-shopsin) posted about a small restaurant owner that recently passed and quoted a passage [from a 2002 New Yorker profile](https://www.newyorker.com/magazine/2002/04/15/dont-mention-it) that makes me sad I never saw the place back then:

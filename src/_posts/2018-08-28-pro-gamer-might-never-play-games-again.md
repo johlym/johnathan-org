@@ -2,11 +2,10 @@
 title: Pro Gamer Might Never Play Games Again
 slug: pro-gamer-might-never-play-games-again
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-28 16:31:46.000000000 -07:00
+date: 2018-08-28 16:31:46 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I haven't been feeling my best the last couple days so the level of snark is above average. Trying to keep it in line for this one from Buzzfeed:

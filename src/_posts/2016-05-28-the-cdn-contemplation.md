@@ -2,11 +2,10 @@
 title: The CDN Contemplation
 slug: the-cdn-contemplation
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-05-28 17:24:20.000000000 -07:00
+date: 2016-05-28 17:24:20 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 About four weeks ago, I bolted a CDN to my blog. The goal: what kind of benefit would I, someone who receives a small but steady stream of traffic, get from such a technological underpinning?
@@ -15,7 +14,7 @@ This CDN is nothing fancy. Powered by [MaxCDN](http://tracking.maxcdn.com/c/3557
 
 ### What is a CDN, really?
 
-> A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. CDNs serve a large fraction of the Internet content today, including web objects (text, graphics and scripts), downloadable objects (media files, software, documents), applications (e-commerce, portals), live streaming media, on-demand streaming media, and social networks. (https://en.wikipedia.org/wiki/Content\_delivery\_network)
+> A content delivery network or content distribution network (CDN) is a large distributed system of servers deployed in multiple data centers across the Internet. The goal of a CDN is to serve content to end-users with high availability and high performance. CDNs serve a large fraction of the Internet content today, including web objects (text, graphics and scripts), downloadable objects (media files, software, documents), applications (e-commerce, portals), live streaming media, on-demand streaming media, and social networks. (https://en.wikipedia.org/wiki/Content_delivery_network)
 
 The short version of that is all the files that need to load fast are put on servers as close to as many people as possible. Example: This site runs on a server in San Franciso, CA. That's great for people like me who live nearby. Also great for those who live within roughly the same country. This isn't so great for a person in South Africa, Ireland, or Russia. The amount of time it takes to load all the fun bits is greatly increased as physical distance also increases.
 

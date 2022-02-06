@@ -2,11 +2,10 @@
 title: The Dolby Atmos(phere)
 slug: the-dolby-atmosphere
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-04-08 20:52:00.000000000 -07:00
+date: 2016-04-08 20:52:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I watched my first Dolby Atmos movie, tonight, and had to come home and write about it. This isn't a long post, as I don't have a ton to say and I don't want to get into the super technical details.

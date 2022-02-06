@@ -2,11 +2,10 @@
 title: CodeAcademy – The Basics of Code in One Hour
 slug: codeacademy-the-basics-of-code-in-one-hour
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-09 04:17:48.000000000 -08:00
+date: 2015-02-09 04:17:48 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
  **Update May 12, 2018** : This app is no longer available. I've removed links to it but kept the post for posterity.

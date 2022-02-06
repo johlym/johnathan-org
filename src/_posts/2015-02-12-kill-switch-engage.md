@@ -2,11 +2,10 @@
 title: 'Kill Switch: Engage'
 slug: kill-switch-engage
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-12 04:09:43.000000000 -08:00
+date: 2015-02-12 04:09:43 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 One of the biggest “duh” technologies that we got in the last year or two was the phone kill switch. Lose your phone? Nuke it from orbit. Phone stolen? Nuke it from orbit. Jealous ex texting you at 3am? If you know their Apple ID password, nuke it from orbit.

@@ -2,11 +2,10 @@
 title: Your First App with Little Background
 slug: your-first-app-with-little-background
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-14 16:12:30.000000000 -07:00
+date: 2015-03-14 16:12:30 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Everyone has to start somewhere and there are great resources to help you do so. David Gewirtz writes on ZDNet on where to start and how much it might cost you. (Spoiler: not much).

@@ -2,11 +2,10 @@
 title: Telling People's Stories
 slug: telling-peoples-stories
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-04 04:14:59.000000000 -08:00
+date: 2015-02-04 04:14:59 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 > The great advantage of being a writer is that you can spy on people. You're there, listening to every word, but part of you is observing. Everything is useful to a writer, you see—every scrap, even the longest and most boring of luncheon parties. ~ Graham Greene

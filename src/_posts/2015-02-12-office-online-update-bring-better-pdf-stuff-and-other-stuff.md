@@ -2,11 +2,10 @@
 title: Office Online Update Bring Better PDF Stuff and Other Stuff
 slug: office-online-update-bring-better-pdf-stuff-and-other-stuff
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-12 04:17:34.000000000 -08:00
+date: 2015-02-12 04:17:34 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 From [ZDNet](http://www.zdnet.com/article/microsofts-office-online-update-improves-onedrive-saving-pdf-printing/):

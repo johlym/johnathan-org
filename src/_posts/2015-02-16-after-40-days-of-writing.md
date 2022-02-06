@@ -2,11 +2,10 @@
 title: After 40 Days of Writing
 slug: after-40-days-of-writing
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-16 04:12:08.000000000 -08:00
+date: 2015-02-16 04:12:08 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It's been roughly 40 days since I started writing on a continual basis. Some days have been more productive than others. There are days when all I manage to come up with are posts about other things going on in the world. I have enjoyed being able to just sit down and discuss what's on my mind. When I sit down and talk about something that's on my mind I end up writing a boat load of words. These two posts are good examples. The first covered project management buzzwords and the second covers a god-awful movie.

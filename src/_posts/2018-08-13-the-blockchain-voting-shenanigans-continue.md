@@ -2,11 +2,10 @@
 title: The Blockchain Voting Shenanigans Continue
 slug: the-blockchain-voting-shenanigans-continue
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-13 10:00:00.000000000 -07:00
+date: 2018-08-13 10:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Terry Nguyen writing for [The Washington Post](https://www.washingtonpost.com/technology/2018/08/10/west-virginia-pilots-mobile-blockchain-voting-app-overseas-voters-november-election/):

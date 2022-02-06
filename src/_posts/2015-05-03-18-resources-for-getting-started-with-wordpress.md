@@ -2,11 +2,10 @@
 title: 18 Resources for Getting Started with WordPress
 slug: 18-resources-for-getting-started-with-wordpress
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-03 11:22:10.000000000 -07:00
+date: 2015-05-03 11:22:10 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [WordPress](http://wordpress.org) is one of the most popular blogging platforms and content management systems on the planet. Created by [Matt Mullenweg](http://ma.tt) and the team at [Automattic](http://automattic.com), it's an open source and free tool using [PHP](http://php.net) and [MySQL](http://mysql.com) for creating just about any kind of site you can imagine.
@@ -47,7 +46,7 @@ Plugin development is only a small part of a successful and well-oiled WordPress
 
 #### WordPress Codex
 
-\*\*If you want to make your own theme, you can, should you have the proper front-end development skills. The Codex has a rather extensive [list of lessons](https://codex.wordpress.org/WordPress_Lessons) on various elements of theme developments.
+**If you want to make your own theme, you can, should you have the proper front-end development skills. The Codex has a rather extensive [list of lessons](https://codex.wordpress.org/WordPress_Lessons) on various elements of theme developments.
 
 #### Tuts+ – Sam Parkinson
 

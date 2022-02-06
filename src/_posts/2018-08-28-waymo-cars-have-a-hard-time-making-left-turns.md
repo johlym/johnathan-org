@@ -2,11 +2,10 @@
 title: Waymo Cars Have a Hard Time Making Left Turns
 slug: waymo-cars-have-a-hard-time-making-left-turns
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-28 15:07:23.000000000 -07:00
+date: 2018-08-28 15:07:23 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [The Information reports](https://www.theinformation.com/articles/waymos-big-ambitions-slowed-by-tech-trouble?shared=4596b7125469ea51) (paywall) by way of [Jalopnik](https://jalopnik.com/googles-self-driving-cars-have-trouble-with-basic-drivi-1828653280) (no paywall) that Waymo cars are having a hard time with even the basic tasks:

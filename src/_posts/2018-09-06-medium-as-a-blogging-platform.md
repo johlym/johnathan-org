@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-06 08:43:28.000000000 -07:00
+date: 2018-09-06 08:43:28 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 All I could do was shake my head when I saw [the post from John Gruber](https://daringfireball.net/linked/2018/09/04/medium-domain-name) that mentioned Medium no longer allowing folks to use custom domains for their Medium-hosted publications (read: blogs). The alternative solution is to resort to a `medium.com/publication URL`. That sounds fantastic. /s

@@ -9,7 +9,8 @@ excerpt: This post on remote work sat as a vague outline in my drafts folder for
   is my attempt at finally tying it off.
 layout: post
 categories: posts
-date: 2021-11-04 16:51:23.000000000 -07:00
+date: 2021-11-04 16:51:23 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 This post on remote work sat as a vague outline in my drafts folder for literally five and a half years. I first plopped this outline into Ulysses in February 2016 and added some things to it in May of that same year. From then on, it sat. This is my attempt at finally tying it off.

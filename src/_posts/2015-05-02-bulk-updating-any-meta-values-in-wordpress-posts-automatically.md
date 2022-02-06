@@ -2,18 +2,17 @@
 title: Bulk Updating Any Meta Values in WordPress Posts Automatically
 slug: bulk-updating-any-meta-values-in-wordpress-posts-automatically
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-05-02 17:33:18.000000000 -07:00
+date: 2015-05-02 17:33:18 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I updated the look of my site, today, and with that came a non-standard setup for featured images and the realization I'd have to manually update a lot of posts.
 
-The theme requires custom meta be used for the featured image setting to determine how to display an image. As of this post, I have roughly 170 blog posts in the database that would need updating from the beginning of January until now. I definitely didn't want to spend the next 60 minutes (170 posts \* time to click) updating each post, so I did a bit of quick and dirty PHP coding.
+The theme requires custom meta be used for the featured image setting to determine how to display an image. As of this post, I have roughly 170 blog posts in the database that would need updating from the beginning of January until now. I definitely didn't want to spend the next 60 minutes (170 posts * time to click) updating each post, so I did a bit of quick and dirty PHP coding.
 
-Placing the code within the\_loop() allowed it to run automatically for each post that was presented. Setting the per-page post count to 200, I effectively had all 170 posts pushed on screen at the same time. This subsequently updated all 170 posts at the same time. This of course put a little bit of a hit on my SQL database, but not so much that it bogged it down. I'm sure having 170 \* 2 reads then writes all at once blew out a few of the cobwebs. Most of this site is cached pretty effectively so the database doesn't do much.
+Placing the code within the_loop() allowed it to run automatically for each post that was presented. Setting the per-page post count to 200, I effectively had all 170 posts pushed on screen at the same time. This subsequently updated all 170 posts at the same time. This of course put a little bit of a hit on my SQL database, but not so much that it bogged it down. I'm sure having 170 * 2 reads then writes all at once blew out a few of the cobwebs. Most of this site is cached pretty effectively so the database doesn't do much.
 
 
 

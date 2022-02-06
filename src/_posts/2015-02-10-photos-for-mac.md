@@ -2,11 +2,10 @@
 title: Photos for Mac
 slug: photos-for-mac
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-10 03:58:07.000000000 -08:00
+date: 2015-02-10 03:58:07 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I'm skeptical about [Photos for Mac](http://www.apple.com/macos/photos). The last time Apple made a photo editing product, no one used it (Aperture). I'm sure it'll look best and work best on the highest end Macs with the best screens (Retina iMac).

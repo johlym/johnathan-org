@@ -2,11 +2,10 @@
 title: Commuting and Wasted Time
 slug: commuting-and-wasted-time
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-17 07:13:35.000000000 -07:00
+date: 2015-03-17 07:13:35 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 It's no secret that I commute a rather long ways (measured by time, not distance) to work every morning. By way of bus it's 80 minutes. By way of car, it's 45. The distance is only 20 miles. To some, that's a lot. I know people that have never commuted more than 20 minutes in any one direction in their life. I envy them.

@@ -2,11 +2,10 @@
 title: Slack Raises $427 Million; $7.1 Billion Valuation
 slug: slack-raises-427-million-7-1-billion-valuation
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-08-21 14:33:22.000000000 -07:00
+date: 2018-08-21 14:33:22 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 [NY Times](https://www.nytimes.com/2018/08/21/business/dealbook/slack-fund-raising-round.html?rref=collection%2Fsectioncollection%2Ftechnology&action=click&contentCollection=technology&region=rank&module=package&version=highlights&contentPlacement=2&pgtype=sectionfront):

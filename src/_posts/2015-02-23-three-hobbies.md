@@ -2,19 +2,18 @@
 title: Three Hobbies
 slug: three-hobbies
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-23 17:19:12.000000000 -08:00
+date: 2015-02-23 17:19:12 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
-from [American Nomad (@coffee\_n\_mtns)](https://twitter.com/coffee_n_mtns/status/495936712292708352):
+from [American Nomad (@coffee_n_mtns)](https://twitter.com/coffee_n_mtns/status/495936712292708352):
 
 <blockquote class="twitter-tweet">
 <p>Find three hobbies you love: one to make you money, one to keep you in shape, and one to be creative.</p>
 
-— American Nomad (@coffee\_n\_mtns) <a href="https://twitter.com/coffee_n_mtns/status/495936712292708352?ref_src=twsrc%5Etfw">August 3, 2014</a>
+— American Nomad (@coffee_n_mtns) <a href="https://twitter.com/coffee_n_mtns/status/495936712292708352?ref_src=twsrc%5Etfw">August 3, 2014</a>
 
 </blockquote>
 

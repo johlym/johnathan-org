@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-20 20:37:47.000000000 -07:00
+date: 2018-09-20 20:37:47 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 If you recall, I [mentioned](/additional-details-about-what-happened-to-airpower/) AirPower's [almost-dead state](/additional-details-about-what-happened-to-airpower/) based on anonymous communications from within Apple. Guilherme Rambo at 9to5Mac has some [new information](https://9to5mac.com/2018/09/20/airpower-referenced-in-iphone-xs-packaging-ios-12-1-code-shows-continuing-development/):

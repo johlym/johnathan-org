@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-10-27 07:14:09.000000000 -07:00
+date: 2018-10-27 07:14:09 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 As a part of his latest special, 100% Fresh, out now on Netflix, Adam Sandler drops a beat on about what most of us carry always: a phone, wallet, and keys.

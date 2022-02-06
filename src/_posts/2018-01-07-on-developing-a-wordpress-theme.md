@@ -2,11 +2,10 @@
 title: On Developing a WordPress Theme
 slug: on-developing-a-wordpress-theme
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-01-07 21:07:19.000000000 -08:00
+date: 2018-01-07 21:07:19 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 A few weeks ago I started the process of moving this blog over to WordPress from Ghost—and I talked about why I did that in a previous post—so now that I've made the change, the next natural step felt like talking about how I developed a theme for the first time.
@@ -17,7 +16,7 @@ Yep, I've never done this before, and it turned out pretty well… I think.
 
 In my opinion, maintaining a proper working development environment is one of the hardest things to do. Over time it can experience something I like to call “dev rot.” To make this as easy as possible, I invoked the assistance from a tool by the great folks over at Flywheel called Local. Local does one thing: let you build, maintain, and tear down WordPress development environments on a whim. It runs a Virtualbox-powered VM under the hood and if you use the Flywheel managed WordPress hosting service, allows you to push your development environment straight up to them for one-click production pushes. It's a fantastic tool and keeps things super clean.
 
-{% cloudinary_img "Alt text goes here", "flywheel_local-squashed", "standard" %}
+{% cloudinary_img, "flywheel_local-squashed", "standard" %}
 
 ## Structure
 
@@ -63,7 +62,7 @@ This was the hardest part of developing because I had never used any kind of ser
 
 My base `gulpfile.js` only contains a couple lines of code:
 
-```
+```js
 // /gulpfile.js
 var requireDir = require('require-dir');
 
@@ -73,7 +72,7 @@ requireDir('./gulp/tasks', {recurse: true});
 
 The first being bringing in `require-dir` in order to do the second thing, suck in all the tasks in the `gulp/tasks` directory. Within this directory, I have two main tasks: `gulp watch` and `gulp dist`. `gulp watch` triggers a few different sub tasks:
 
-```
+```js
 // gulp/tasks/watch.js
 
 var gulp = require('gulp');
@@ -110,7 +109,7 @@ return callback;
 });
 ```
 
-```
+```js
 // gulp/tasks/dist.js
 
 var gulp = require('gulp');
@@ -137,7 +136,7 @@ It probably goes without saying that these tasks aren't probably the most effici
 
 Here are those individual task files:
 
-```
+```js
 // browsersync.js
 
 var gulp = require('gulp');
@@ -158,7 +157,7 @@ callback();
 });
 ```
 
-```
+```js
 // copy.js
 var gulp = require('gulp');
 var files = ['app/**/*.php',
@@ -173,7 +172,7 @@ var files = ['app/**/*.php',
 'app/assets/svg/*'];
 var base = './app';
 var prodDest = './johnathan-org';
-var devDest = '/Users/jlyman/Local\ Sites/johnathanorg-staging/app/public/wp-content/themes/johnathan-org';
+var devDest = '/Users/jlyman/Local Sites/johnathanorg-staging/app/public/wp-content/themes/johnathan-org';
 
 gulp.task('copy', () => {
 return gulp
@@ -188,7 +187,7 @@ return gulp
 });
 ```
 
-```
+```js
 // delete.js
 var gulp = require('gulp');
 var del = require('del');
@@ -198,7 +197,7 @@ del.sync('johnathan-org');
 });
 ```
 
-```
+```js
 // gzip.js
 var gulp = require('gulp');
 var gzip = require('gulp-gzip');
@@ -211,7 +210,7 @@ return gulp
 });
 ```
 
-```
+```js
 // optimize.js
 var gulp = require('gulp');
 var cssnano = require('gulp-cssnano');
@@ -250,7 +249,7 @@ showFiles: true
 });
 ```
 
-```
+```js
 // sass.js
 var gulp = require('gulp');
 var sass = require('gulp-sass');
@@ -270,7 +269,7 @@ return gulp
 
 I created `vrev` to be able to use `wp_enqueue_*` and be able to cite version numbers. To prevent any kind of caching locally, the implementations use PHP's `rand()` function. In production, I need to set it to the version within my root `package.json`, which is where this task comes into play.
 
-```
+```js
 // version-rev.js
 var gulp = require('gulp');
 var replace = require('gulp-replace');
@@ -287,7 +286,7 @@ return gulp
 });
 ```
 
-```
+```js
 // zip.js
 var gulp = require('gulp');
 var zip = require('gulp-zip');

@@ -2,11 +2,10 @@
 title: Google Violations
 slug: google-violations
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-09-01 10:58:38.000000000 -07:00
+date: 2018-09-01 10:58:38 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Dave Winer [reminded me](http://scripting.com/2018/09/01.html#a165335) why I opted to never use AdSense again:

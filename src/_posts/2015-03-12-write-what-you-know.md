@@ -2,11 +2,10 @@
 title: Write What You Know
 slug: write-what-you-know
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-12 06:12:38.000000000 -07:00
+date: 2015-03-12 06:12:38 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 And write what you don't know in hopes that one day you'll learn.

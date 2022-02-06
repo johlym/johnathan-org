@@ -4,7 +4,8 @@ slug: co-founder-of-salesforce-buys-time-magazine
 featured: false
 
 categories: posts
-date: 2018-09-18 10:01:40.000000000 -07:00
+date: 2018-09-18 10:01:40 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Martin Crutsinger, AP:

@@ -2,11 +2,10 @@
 title: Computer on the Bus
 slug: computer-on-the-bus
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-14 09:55:53.000000000 -08:00
+date: 2015-02-14 09:55:53 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I brought my computer with me on the bus this morning to see if I could write while riding and came to one horrible conclusion. It's impossible. One thing bus manufacturers haven't thought about it making enough space for people to do work comfortably. What's up with that? Then there's those crazy side-facing seats. I unfortunately was limited to one of those for a place to sit, if I didn't want to share with someone and have them look over my shoulder. Aside: don't think the person next to you isn't glancing down at your screen. I'm talking to you, co-workers who work for one of the biggest software companies in the world.

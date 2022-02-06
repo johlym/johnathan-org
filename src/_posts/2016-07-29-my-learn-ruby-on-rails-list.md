@@ -2,11 +2,10 @@
 title: My Learn Ruby on Rails List
 slug: my-learn-ruby-on-rails-list
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-07-29 16:18:59.000000000 -07:00
+date: 2016-07-29 16:18:59 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've been meaning to write this post for a while and kept getting distracted. This evening I sat down and finally hammered it out. The goal is to share some of my favorite Ruby on Rails learning resources with the community. Let's get started!

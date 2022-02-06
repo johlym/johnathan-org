@@ -5,7 +5,8 @@ featured: false
 
 layout: post
 categories: posts
-date: 2018-09-29 09:56:27.000000000 -07:00
+date: 2018-09-29 09:56:27 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I hadn't planned on posting anything of substance, today, but I came across this fresh post from Tim Berners-Lee, the founder of the modern Internet as we know it, and director of the W3C (World Wide Web Consortium) and knew immediately I had to share it. He's sharing news about his latest project, a successor to the Internet as it stands in its current form. I'll let him [explain it](https://medium.com/@timberners_lee/one-small-step-for-the-web-87f92217d085):

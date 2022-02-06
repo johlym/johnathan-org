@@ -2,11 +2,11 @@
 title: Positioning for the Journey to Dreamland
 slug: positioning-for-the-journey-to-dreamland
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-01-26 04:11:17.000000000 -08:00
+date: 2015-01-26 04:11:17 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
+tags: journal
 ---
 
 I saw a rather interesting article this morning via the Wall Street Journal that talks about finding the perfect sleep position. I couldn't help but think: “is there some mad science in here that will give me the answer to all things sleeping so I can sleep mad sleeps and wake up feeling like a million dollars?” Well, no. The only way to wake up feeling like a stack of cash is either a) have a million dollars or b) eat some of those crazy mushrooms the kids like.
@@ -15,7 +15,7 @@ Anyway, This article had some good points that I wanted to recap because it's so
 
 Looking back on even last night's sleep, I started out on my side, and the article puts me in the majority with 57% of sleepers starting out that way. Sometimes, if I'm already pretty relaxed, I'll start on my back, and let my eyes literally roll back into my head (weird I know). That's something only 17% of people seem to do, and for those stomach sleepers out there, you're the odder of the bunch at 11% for starting positions.
 
-{% cloudinary_img "Alt text goes here", "2680866397_f6107a9fe0_o", "standard" %}
+{% cloudinary_img, "2680866397_f6107a9fe0_o", "standard" %}
 
 What I really found interesting is just in the next paragraph, the author talks about the variance in the amount of times people toss and turn during the night: as few as three times to as many as 36. I would have no way of knowing where I fall in that category unless I videotaped myself. I'm ok not knowing that much about my sleeping habits.
 

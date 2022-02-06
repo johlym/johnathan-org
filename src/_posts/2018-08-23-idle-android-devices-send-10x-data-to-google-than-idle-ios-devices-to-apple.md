@@ -2,14 +2,13 @@
 title: Idle Android Devices Send 10x Data to Google Than Idle iOS Devices to Apple
 slug: idle-android-devices-send-10x-data-to-google-than-idle-ios-devices-to-apple
 featured: false
-
-
   locatio'
 
 
 layout: post
 categories: posts
-date: 2018-08-23 08:50:04.000000000 -07:00
+date: 2018-08-23 08:50:04 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 _[MacRumors](https://www.macrumors.com/2018/08/22/android-sends-data-google-10-times-ios-to-apple/)_:

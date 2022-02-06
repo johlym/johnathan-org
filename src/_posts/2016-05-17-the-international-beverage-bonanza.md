@@ -2,11 +2,10 @@
 title: The International Beverage Bonanza
 slug: the-international-beverage-bonanza
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-05-17 09:33:00.000000000 -07:00
+date: 2016-05-17 09:33:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Some say Americans get all the good stuff. I don't know who those people are, but they're probably crazy. The real winners are the non-American countries. Just about every other country in the world gets awesome flavors of Coca-Cola–without HFCS no less–and America is left with garbage. I suppose a few locations source the good stuff like Club Cool at Epcot.
@@ -17,7 +16,7 @@ Beyond the major brands everyone knows, there are lesser known ones. It's those 
 
 - Taste
 - Presentation
-- Desire\*
+- Desire*
 
 The last one comes with an asterisk as just saying “desire” is pretty subjective. In this case, we're talking about _how badly, as an American, do I want to see this on U.S. store shelves?_ Naturally, a ten is the best possible score in all categories and a score out of 30 sums it up.
 

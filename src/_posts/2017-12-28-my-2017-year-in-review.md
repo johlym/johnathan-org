@@ -2,11 +2,10 @@
 title: My 2017 Year in Review
 slug: my-2017-year-in-review
 featured: false
-
-
 layout: post
 categories: posts
-date: 2017-12-28 11:56:09.000000000 -08:00
+date: 2017-12-28 11:56:09 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 While working on my goals for 2018, I realized I missed out on a lot of things I didn't do that didn't come with good reasons. A lot's changed over the last year and and I'm glad all of it's happened, but I definitely neglected certain aspects of my life. Some of these neglects made their way into my 2018 goals list (coming in the next post) and some of them landed here for brief discussion.

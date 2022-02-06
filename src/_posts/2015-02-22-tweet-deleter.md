@@ -2,11 +2,10 @@
 title: Tweet Deleter
 slug: tweet-deleter
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-22 17:51:22.000000000 -08:00
+date: 2015-02-22 17:51:22 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Are you a tweet [deleter](http://fusion.net/story/50322/meet-the-tweet-deleters-people-who-are-making-their-twitter-histories-self-destruct/)?

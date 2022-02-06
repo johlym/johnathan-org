@@ -2,11 +2,10 @@
 title: CrashPlan
 slug: crashplan
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-02-17 03:59:25.000000000 -08:00
+date: 2015-02-17 03:59:25 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I want to talk for a minute about a particular service I really enjoy and have been using since 2012. I also want to be very clear that I'm not being paid to write this. I only endorse products and services I actually use. As of this writing I do not gain a percentage of any sales made in relation to this article.

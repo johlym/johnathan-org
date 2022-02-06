@@ -2,11 +2,10 @@
 title: Testing Out a New Temporary Markdown Editor
 slug: testing-out-a-new-temporary-markdown-editor
 featured: false
-
-
 layout: post
 categories: posts
-date: 2016-01-07 14:43:35.000000000 -08:00
+date: 2016-01-07 14:43:35 -08:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 I've been in search for a backup Markdown editor while my goto app is updated to fix a rather lethal crash bug. For those wondering, as of this writing, Desk PM is my goto and when attempting to work through the publish menus, the app always crashes, and always forgets my work. No good.

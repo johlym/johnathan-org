@@ -2,11 +2,10 @@
 title: The Static Site Book
 slug: the-static-site-book
 featured: false
-
-
 layout: post
 categories: posts
-date: 2018-05-29 17:00:00.000000000 -07:00
+date: 2018-05-29 17:00:00 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Over the last few weeks, I've spent a not-insignificant amount of time thinking about how I wanted to convey all the information and tips I have to share about building a static site and making it good, making it something you want to maintain, and even going so far as to sprinkle a bit of enjoyment on top.

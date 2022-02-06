@@ -2,11 +2,10 @@
 title: Hands on with GAget
 slug: hands-on-with-gaget
 featured: false
-
-
 layout: post
 categories: posts
-date: 2015-03-21 08:18:19.000000000 -07:00
+date: 2015-03-21 08:18:19 -07:00
+last_modified_at: 2022-02-06 14:00:00 -07:00
 ---
 
 Recently I wrote a [couple blurbs](https://johnathan.org/posts/2015/03/gaget.html) about an iOS app and OS X notification widget called [GAget](http://gagetapp.com/). I received the opportunity to get some hands-on time with it and now I'm ready to share with you my experiences.
