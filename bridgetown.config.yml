@@ -25,6 +25,8 @@ template_engine: liquid
 timezone: America/Los_Angeles
 
 collections:
+  pages:
+    permalink: /:slug/
   posts:
     permalink: /:title/
 
