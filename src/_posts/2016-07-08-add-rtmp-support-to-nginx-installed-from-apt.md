@@ -12,7 +12,7 @@ In the process of trying to figure out the best streaming solution for my cat ca
 
 It's a pretty straightforward process to re-compile Nginx, but there are a couple extra steps involved if you installed Nginx from a package repo. I'll be sure to cover these. What we're doing here is re-compiling a deb package. By going that route, we'll adhere to the same methods in which Nginx was installed in the first place so we don't have two competing installs.
 
-Like my other [RTMP/Nginx-inspired post](/2016/07/stream-rtmp.html), I'm using Ubuntu 16.04 (xenial), so everything will revolve around that.
+Like my other [RTMP/Nginx-inspired post](/stream-rtmp/), I'm using Ubuntu 16.04 (xenial), so everything will revolve around that.
 
 Before we begin, we'll want to make sure we're updated and ready to go:
 
@@ -32,7 +32,7 @@ Now we'll be able to grab the source files from the repo.
 cd /usr/srcapt-get build-dep nginxapt-get source nginx
 ```
 
-Whatever directory you run that in is where the source and dependency files will appear. I chose `/usr/src` as that's where we've been working [in these](/2016/07/fighting-ffmpeg.html) [previous posts](/2016/07/stream-rtmp.html). Mine looks something like this:
+Whatever directory you run that in is where the source and dependency files will appear. I chose `/usr/src` as that's where we've been working [in these](/fighting-ffmpeg) [previous posts](/stream-rtmp/). Mine looks something like this:
 
 ```sh
 user@server:/usr/src# ls -altotal 1888
