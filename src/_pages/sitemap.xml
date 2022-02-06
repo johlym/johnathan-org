@@ -10,8 +10,8 @@ no_index: true
   {% unless res.layout == blank and layout == blank %}
   <url>
     <loc>{{ res.absolute_url }}</loc>
-    <lastmod>{{ res.last_modified_at }}</lastmod>
+    <lastmod>{{ res.last_modified_at | date: "%Y-%m-%d" }}</lastmod>
   </url>
-  {% end unless %}
+  {% endunless %}
   {% endfor %}
 </urlset>
