@@ -32,7 +32,6 @@ gem "puma", "~> 5.5"
 
 gem "reverse_markdown", "~> 2.1"
 
-gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
 gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
 
 gem "dotenv", "~> 2.7"

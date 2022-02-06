@@ -51,8 +51,6 @@ GEM
       bridgetown (>= 1.0.0.alpha5, < 2.0)
     bridgetown-paginate (1.0.0.beta2)
       bridgetown-core (= 1.0.0.beta2)
-    bridgetown-sitemap (1.1.1)
-      bridgetown (>= 0.20, < 2.0)
     builder (3.2.4)
     cloudinary (1.21.0)
       aws_cf_signer
@@ -180,7 +178,6 @@ DEPENDENCIES
   bridgetown (~> 1.0.0.beta2)
   bridgetown-cloudinary (~> 1.2)
   bridgetown-feed (~> 2.1)
-  bridgetown-sitemap (~> 1.1)
   dotenv (~> 2.7)
   minitest
   minitest-profile
