@@ -2,10 +2,11 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
+    paths:
+      - .github/workflows/flat.yml
+  workflow_dispatch: null
   schedule:
-    - cron: '0 0 * * *'
-
+    - cron: 0 0 * * *
 jobs:
   scheduled:
     runs-on: ubuntu-latest
