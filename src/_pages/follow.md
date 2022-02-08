@@ -11,10 +11,10 @@ Here's everywhere you can follow me and my content.
 <p>You can find me on:</p>
 <p>
   <ul>
-    <li>Twitter</li>
-    <li>GitHub</li>
-    <li>Reddit</li>
-    <li>Discord</li>
+    <li><i class="fab fa-twitter"></i><a href="https://twitter.com/_johlym">Twitter</a></li>
+    <li><i class="fab fa-github"></i><a href="https://github.com/johlym">GitHub</li>
+    <li><i class="fab fa-reddit"></i><a href="https://reddit.com/u/salariedloaf">Reddit</li>
+    <li><i class="fab fa-discord"></i><a href="https://discords.com/bio/p/nachopasa">Discord</li>
   </ul>
 </p>
 
