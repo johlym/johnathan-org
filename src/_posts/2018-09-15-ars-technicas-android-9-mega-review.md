@@ -1,6 +1,6 @@
 ---
-title: Are Technica's Android 9 Mega Review
-slug: are-technicas-android-9-mega-review
+title: Ars Technica's Android 9 Mega Review
+slug: ars-technicas-android-9-mega-review
 featured: false
 
 layout: post
