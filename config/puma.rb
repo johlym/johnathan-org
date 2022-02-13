@@ -1,3 +1,5 @@
+require 'barnes'
+
 # Puma is a fast, concurrent web server for Ruby & Rack
 #
 # Learn more at: https://puma.io
@@ -14,6 +16,12 @@ end
 max_threads_count = ENV.fetch("BRIDGETOWN_MAX_THREADS") { 5 }
 min_threads_count = ENV.fetch("BRIDGETOWN_MIN_THREADS") { max_threads_count }
 threads min_threads_count, max_threads_count
+
+before_fork do
+  # worker specific setup
+
+  Barnes.start # Must have enabled worker mode for this to block to be called
+end
 
 # Preload the application for maximum performance
 #
