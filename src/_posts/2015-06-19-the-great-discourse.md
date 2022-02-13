@@ -1,6 +1,5 @@
 ---
 title: The Great Discourse
-slug: the-great-discourse
 featured: false
 layout: post
 categories: posts

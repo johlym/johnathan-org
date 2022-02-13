@@ -1,6 +1,5 @@
 ---
 title: Eleven Million
-slug: eleven-million
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Apple Class-Action Lawsuit
-slug: the-apple-class-action-lawsuit
 featured: false
 layout: post
 categories: posts

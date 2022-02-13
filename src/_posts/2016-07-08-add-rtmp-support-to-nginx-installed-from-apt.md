@@ -1,6 +1,5 @@
 ---
 title: Add RTMP Support to Nginx Installed From Apt
-slug: add-rtmp-support-to-nginx-installed-from-apt
 featured: false
 layout: post
 categories: posts

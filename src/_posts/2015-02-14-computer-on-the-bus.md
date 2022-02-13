@@ -1,6 +1,5 @@
 ---
 title: Computer on the Bus
-slug: computer-on-the-bus
 featured: false
 layout: post
 categories: posts

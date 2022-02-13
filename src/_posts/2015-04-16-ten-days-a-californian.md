@@ -1,6 +1,5 @@
 ---
 title: Ten Days a Californian
-slug: ten-days-a-californian
 featured: false
 layout: post
 categories: posts

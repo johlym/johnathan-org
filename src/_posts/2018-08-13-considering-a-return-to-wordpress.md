@@ -1,6 +1,5 @@
 ---
 title: Considering a Return to WordPress
-slug: considering-a-return-to-wordpress
 featured: false
 layout: post
 categories: posts

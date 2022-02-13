@@ -1,6 +1,5 @@
 ---
 title: The Invisible Girlfriend
-slug: the-invisible-girlfriend
 featured: false
 layout: post
 categories: posts

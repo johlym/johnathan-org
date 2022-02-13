@@ -1,6 +1,5 @@
 ---
 title: On Going Back to Regular Books
-slug: on-going-back-to-regular-books
 featured: false
 layout: post
 categories: posts

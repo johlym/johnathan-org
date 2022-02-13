@@ -1,6 +1,5 @@
 ---
 title: Vivaldi – A New Browser for our Friends
-slug: vivaldi-a-new-browser-for-our-friends
 featured: false
 
 layout: post

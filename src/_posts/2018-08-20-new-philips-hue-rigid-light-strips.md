@@ -1,6 +1,5 @@
 ---
 title: New Philips Hue Rigid Light Strips
-slug: new-philips-hue-rigid-light-strips
 featured: false
 layout: post
 categories: posts

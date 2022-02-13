@@ -1,6 +1,5 @@
 ---
 title: Pentagon Delays Trump's Military Parade
-slug: pentagon-delays-trumps-military-parade
 featured: false
 layout: post
 categories: posts

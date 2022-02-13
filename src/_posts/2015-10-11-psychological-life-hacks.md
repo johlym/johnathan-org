@@ -1,6 +1,5 @@
 ---
 title: Psychological Life Hacks
-slug: psychological-life-hacks
 featured: false
 layout: post
 categories: posts

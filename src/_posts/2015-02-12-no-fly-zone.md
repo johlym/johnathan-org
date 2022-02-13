@@ -1,6 +1,5 @@
 ---
 title: No Fly Zone
-slug: no-fly-zone
 featured: false
 layout: post
 categories: posts

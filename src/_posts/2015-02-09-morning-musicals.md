@@ -1,6 +1,5 @@
 ---
 title: Morning Musicals
-slug: morning-musicals
 featured: false
 layout: post
 categories: posts

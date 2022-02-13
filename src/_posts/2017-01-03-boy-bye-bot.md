@@ -1,6 +1,5 @@
 ---
 title: Boy Bye Bot
-slug: boy-bye-bot
 featured: false
 layout: post
 categories: posts

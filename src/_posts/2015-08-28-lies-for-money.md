@@ -1,6 +1,5 @@
 ---
 title: Lies for Money
-slug: lies-for-money
 featured: false
 layout: post
 categories: posts

@@ -1,7 +1,6 @@
 ---
 title: Poor Planning on Your Part Does not Necessarily Constitute an Emergency on
   Mine
-slug: poor-planning-on-your-part-does-not-necessarily-constitute-an-emergency-on-mine
 featured: false
   manage
 

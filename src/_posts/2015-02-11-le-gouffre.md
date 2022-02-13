@@ -1,6 +1,5 @@
 ---
 title: Le Gouffre
-slug: le-gouffre
 featured: false
 layout: post
 categories: posts

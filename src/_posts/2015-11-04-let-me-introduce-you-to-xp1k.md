@@ -1,6 +1,5 @@
 ---
 title: Let me Introduce You to XP1K
-slug: let-me-introduce-you-to-xp1k
 featured: false
 layout: post
 categories: posts

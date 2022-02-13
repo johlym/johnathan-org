@@ -1,6 +1,5 @@
 ---
 title: "Stratechery: IBM's Old Playbook"
-slug: stratechery-ibms-old-playbook
 featured: false
 layout: post
 categories: posts

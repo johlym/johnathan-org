@@ -1,6 +1,5 @@
 ---
 title: An Auto-deploying Static Site with Backend
-slug: an-auto-deploying-static-site-with-backend
 featured: false
 layout: post
 categories: posts

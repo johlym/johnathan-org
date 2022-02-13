@@ -1,6 +1,5 @@
 ---
 title: The Mystery of Dr. Better
-slug: the-mystery-of-dr-better
 featured: false
 layout: post
 categories: posts

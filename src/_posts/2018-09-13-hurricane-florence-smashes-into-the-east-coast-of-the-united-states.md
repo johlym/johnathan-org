@@ -1,6 +1,5 @@
 ---
 title: Hurricane Florence Smashes into the East Coast of the United States
-slug: hurricane-florence-smashes-into-the-east-coast-of-the-united-states
 featured: false
 
   Johnathan.org

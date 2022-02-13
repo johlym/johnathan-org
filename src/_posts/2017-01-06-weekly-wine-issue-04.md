@@ -1,6 +1,5 @@
 ---
 title: 'Weekly Wine Issue #04'
-slug: weekly-wine-issue-04
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 'Harder Than it Should Be: Jekyll Word Count'
-slug: harder-than-it-should-be-jekyll-word-count
 featured: false
 layout: post
 categories: posts

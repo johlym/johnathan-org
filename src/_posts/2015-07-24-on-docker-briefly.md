@@ -1,6 +1,5 @@
 ---
 title: On Docker (Briefly)
-slug: on-docker-briefly
 featured: false
 layout: post
 categories: posts

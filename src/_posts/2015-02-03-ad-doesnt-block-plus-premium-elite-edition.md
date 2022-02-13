@@ -1,6 +1,5 @@
 ---
 title: Ad-doesn't-Block Plus Premium Elite Edition
-slug: ad-doesnt-block-plus-premium-elite-edition
 featured: false
 layout: post
 categories: posts

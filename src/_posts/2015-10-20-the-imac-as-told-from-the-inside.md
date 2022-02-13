@@ -1,6 +1,5 @@
 ---
 title: The iMac as Told From the Inside
-slug: the-imac-as-told-from-the-inside
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Sorry, Sodastream, Coke is Still Number One
-slug: sorry-sodastream-coke-is-still-number-one
 featured: false
 layout: post
 categories: posts

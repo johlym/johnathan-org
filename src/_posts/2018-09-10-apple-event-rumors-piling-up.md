@@ -1,6 +1,5 @@
 ---
 title: Apple Event Rumors Piling Up
-slug: apple-event-rumors-piling-up
 featured: false
 
 layout: post

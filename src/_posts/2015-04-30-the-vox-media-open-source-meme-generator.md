@@ -1,6 +1,5 @@
 ---
 title: The Vox Media Open Source Meme Generator
-slug: the-vox-media-open-source-meme-generator
 featured: false
 layout: post
 categories: posts

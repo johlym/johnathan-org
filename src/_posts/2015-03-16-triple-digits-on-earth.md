@@ -1,6 +1,5 @@
 ---
 title: Triple Digits on Earth
-slug: triple-digits-on-earth
 featured: false
 layout: post
 categories: posts

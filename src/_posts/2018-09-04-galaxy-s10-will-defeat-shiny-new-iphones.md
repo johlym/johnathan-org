@@ -1,6 +1,5 @@
 ---
 title: Galaxy S10 Will “Defeat” Shiny New iPhones
-slug: galaxy-s10-will-defeat-shiny-new-iphones
 featured: false
 
 categories: posts

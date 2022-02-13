@@ -1,6 +1,5 @@
 ---
 title: 'Internet Arguments: Even Garbage Fires Can be Extinguished'
-slug: internet-arguments-even-garbage-fires-can-be-extinguished
 featured: false
 layout: post
 categories: posts

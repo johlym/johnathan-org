@@ -1,6 +1,5 @@
 ---
 title: How I Made Jekyll Post Generation Just a Touch Easier
-slug: how-i-made-jekyll-post-generation-just-a-touch-easier
 featured: false
 layout: post
 categories: posts

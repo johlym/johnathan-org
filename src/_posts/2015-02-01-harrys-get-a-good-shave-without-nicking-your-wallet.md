@@ -1,6 +1,5 @@
 ---
 title: "Harry's: Get a Good Shave Without Nicking Your Wallet"
-slug: harrys-get-a-good-shave-without-nicking-your-wallet
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Leaf Turning
-slug: leaf-turning
 featured: false
 layout: post
 categories: posts

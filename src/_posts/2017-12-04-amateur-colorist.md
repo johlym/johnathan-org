@@ -1,6 +1,5 @@
 ---
 title: Amateur Colorist
-slug: amateur-colorist
 featured: false
 layout: post
 categories: posts

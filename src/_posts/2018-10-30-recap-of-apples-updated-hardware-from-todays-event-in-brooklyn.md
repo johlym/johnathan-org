@@ -1,6 +1,5 @@
 ---
 title: Recap of Apple's Updated Hardware from Today's Event in Brooklyn
-slug: recap-of-apples-updated-hardware-from-todays-event-in-brooklyn
 feature_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/iPad-Pro_11-inch-12inch_10302018.jpg"

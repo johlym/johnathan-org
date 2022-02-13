@@ -1,6 +1,5 @@
 ---
 title: This Mountain
-slug: this-mountain
 featured: false
 layout: post
 categories: posts

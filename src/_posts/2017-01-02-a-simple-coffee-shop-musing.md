@@ -1,6 +1,5 @@
 ---
 title: A Simple Coffee Shop Musing
-slug: a-simple-coffee-shop-musing
 featured: false
 layout: post
 categories: posts

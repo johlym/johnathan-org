@@ -1,6 +1,5 @@
 ---
 title: The Cold Brew Coffee Adventure
-slug: the-cold-brew-coffee-adventure
 featured: false
 layout: post
 categories: posts

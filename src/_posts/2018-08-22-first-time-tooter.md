@@ -1,6 +1,5 @@
 ---
 title: First Time Tooter
-slug: first-time-tooter
 featured: false
 layout: post
 categories: posts

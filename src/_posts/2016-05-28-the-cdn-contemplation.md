@@ -1,6 +1,5 @@
 ---
 title: The CDN Contemplation
-slug: the-cdn-contemplation
 featured: false
 layout: post
 categories: posts

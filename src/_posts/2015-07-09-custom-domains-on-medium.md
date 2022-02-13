@@ -1,6 +1,5 @@
 ---
 title: Custom Domains on Medium
-slug: custom-domains-on-medium
 featured: false
 layout: post
 categories: posts

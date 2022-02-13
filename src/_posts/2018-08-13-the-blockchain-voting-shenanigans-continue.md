@@ -1,6 +1,5 @@
 ---
 title: The Blockchain Voting Shenanigans Continue
-slug: the-blockchain-voting-shenanigans-continue
 featured: false
 layout: post
 categories: posts

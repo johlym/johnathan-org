@@ -1,6 +1,5 @@
 ---
 title: Qualcomm says Apple gave its trade secrets to Intel
-slug: qualcomm-says-apple-gave-its-trade-secrets-to-intel
 featured: false
 
 layout: post

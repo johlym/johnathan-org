@@ -1,6 +1,5 @@
 ---
 title: What Does a Nuclear Bomb Feel Like?
-slug: what-does-a-nuclear-bomb-feel-like
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: The Pulp Fiction Live Blog
-slug: the-pulp-fiction-live-blog
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Difference Four Years Makes
-slug: the-difference-four-years-makes
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Weekend Off
-slug: the-weekend-off
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Playlist for Heads Down Working Hard
-slug: playlist-for-heads-down-working-hard
 featured: false
 layout: post
 categories: posts

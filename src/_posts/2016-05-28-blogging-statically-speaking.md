@@ -1,6 +1,5 @@
 ---
 title: Blogging, Statically Speaking
-slug: blogging-statically-speaking
 featured: false
 layout: post
 categories: posts

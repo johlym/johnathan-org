@@ -1,6 +1,5 @@
 ---
 title: Photos for Mac
-slug: photos-for-mac
 featured: false
 layout: post
 categories: posts

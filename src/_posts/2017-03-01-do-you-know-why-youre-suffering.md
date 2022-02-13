@@ -1,6 +1,5 @@
 ---
 title: Do You Know Why You're Suffering?
-slug: do-you-know-why-youre-suffering
 featured: false
 layout: post
 categories: posts

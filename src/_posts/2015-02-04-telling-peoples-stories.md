@@ -1,6 +1,5 @@
 ---
 title: Telling People's Stories
-slug: telling-peoples-stories
 featured: false
 layout: post
 categories: posts

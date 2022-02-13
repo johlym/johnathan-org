@@ -1,6 +1,5 @@
 ---
 title: Anker Karapax
-slug: anker-karapax
 featured: false
 layout: post
 categories: posts

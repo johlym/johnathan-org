@@ -1,6 +1,5 @@
 ---
 title: Special Snowflakes
-slug: special-snowflakes
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Workforce in 2030
-slug: the-workforce-in-2030
 featured: false
 layout: post
 categories: posts

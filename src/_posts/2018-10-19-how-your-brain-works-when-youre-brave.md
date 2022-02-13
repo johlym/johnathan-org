@@ -1,6 +1,5 @@
 ---
 title: How Your Brain Works When You're Brave
-slug: how-your-brain-works-when-youre-brave
 featured: false
 
 layout: post

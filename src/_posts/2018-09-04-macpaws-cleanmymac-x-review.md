@@ -1,6 +1,5 @@
 ---
 title: MacPaw's CleanMyMac X Review
-slug: macpaws-cleanmymac-x-review
 feature_image: "/content/images/wp-content/uploads/2018/09/cmmx_system.jpeg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/09/cmmx_system.jpeg"

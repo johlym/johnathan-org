@@ -1,6 +1,5 @@
 ---
 title: Anker Magnetic Car Mount
-slug: anker-magnetic-car-mount
 featured: false
 layout: post
 categories: posts

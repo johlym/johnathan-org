@@ -1,6 +1,5 @@
 ---
 title: Killing It In People Relations
-slug: killing-it-in-people-relations
 featured: false
 layout: post
 categories: posts

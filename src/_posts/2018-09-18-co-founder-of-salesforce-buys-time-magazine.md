@@ -1,6 +1,5 @@
 ---
 title: Co-Founder of Salesforce Buys Time Magazine
-slug: co-founder-of-salesforce-buys-time-magazine
 featured: false
 
 categories: posts

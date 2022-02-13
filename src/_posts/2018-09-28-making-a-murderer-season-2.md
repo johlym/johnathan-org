@@ -1,6 +1,5 @@
 ---
 title: Making A Murderer, Season 2
-slug: making-a-murderer-season-2
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Time to Stop Hounding McDonalds
-slug: time-to-stop-hounding-mcdonalds
 featured: false
 layout: post
 categories: posts

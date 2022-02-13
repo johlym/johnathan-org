@@ -1,6 +1,5 @@
 ---
 title: My 2017 Year in Review
-slug: my-2017-year-in-review
 featured: false
 layout: post
 categories: posts

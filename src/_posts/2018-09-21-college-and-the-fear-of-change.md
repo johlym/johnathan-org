@@ -1,6 +1,5 @@
 ---
 title: College and the Fear of Change
-slug: college-and-the-fear-of-change
 featured: false
 
 layout: post

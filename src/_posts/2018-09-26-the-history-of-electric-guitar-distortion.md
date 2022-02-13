@@ -1,6 +1,5 @@
 ---
 title: The History of Electric Guitar Distortion
-slug: the-history-of-electric-guitar-distortion
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Forget How to Spell with Irn Bru
-slug: forget-how-to-spell-with-irn-bru
 featured: false
 layout: post
 categories: posts

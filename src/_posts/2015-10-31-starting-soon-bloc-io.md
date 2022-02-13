@@ -1,6 +1,5 @@
 ---
 title: 'Starting Soon: Bloc.io'
-slug: starting-soon-bloc-io
 featured: false
 layout: post
 categories: posts

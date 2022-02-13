@@ -1,6 +1,5 @@
 ---
 title: They'll Love Me When I'm Dead
-slug: theyll-love-me-when-im-dead
 featured: false
 
 layout: post

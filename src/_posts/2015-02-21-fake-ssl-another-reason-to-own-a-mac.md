@@ -1,6 +1,5 @@
 ---
 title: 'Fake SSL: Another Reason to Own a Mac'
-slug: fake-ssl-another-reason-to-own-a-mac
 featured: false
 layout: post
 categories: posts

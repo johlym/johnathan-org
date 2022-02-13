@@ -1,6 +1,5 @@
 ---
 title: Anil Dash's reflection on the Last 17 Years since September 11, 2001
-slug: anil-dashs-reflection-on-the-last-17-years-since-september-11-2001
 featured: false
 
   Johnathan.org

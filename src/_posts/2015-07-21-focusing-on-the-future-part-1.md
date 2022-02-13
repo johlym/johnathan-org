@@ -1,6 +1,5 @@
 ---
 title: Focusing on the Future, Part 1
-slug: focusing-on-the-future-part-1
 featured: false
 layout: post
 categories: posts

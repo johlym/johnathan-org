@@ -1,6 +1,5 @@
 ---
 title: Please Welcome Dr. Jekyll
-slug: please-welcome-dr-jekyll
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Apple World.Today
-slug: apple-world-today
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Goodbye Mailbox
-slug: goodbye-mailbox
 featured: false
 layout: post
 categories: posts

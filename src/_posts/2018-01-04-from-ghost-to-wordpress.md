@@ -1,6 +1,5 @@
 ---
 title: From Ghost to WordPress
-slug: from-ghost-to-wordpress
 featured: false
 layout: post
 categories: posts

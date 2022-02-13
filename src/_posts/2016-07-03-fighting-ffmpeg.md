@@ -1,6 +1,5 @@
 ---
 title: Fighting ffmpeg
-slug: fighting-ffmpeg
 featured: false
 layout: post
 categories: posts

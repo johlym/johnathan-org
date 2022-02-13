@@ -1,6 +1,5 @@
 ---
 title: An Analysis on the Low-Cost Apple Laptop Rumors
-slug: an-analysis-on-the-low-cost-apple-laptop-rumors
 featured: false
 layout: post
 categories: posts

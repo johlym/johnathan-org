@@ -1,6 +1,5 @@
 ---
 title: Dropping The Low-Cost Mac Mini Would be a Mistake
-slug: dropping-the-low-cost-mac-mini-would-be-a-mistake
 featured: false
 layout: post
 categories: posts

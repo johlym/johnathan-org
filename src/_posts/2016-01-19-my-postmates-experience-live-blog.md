@@ -1,6 +1,5 @@
 ---
 title: My Postmates Experience Live Blog
-slug: my-postmates-experience-live-blog
 featured: false
 layout: post
 categories: posts

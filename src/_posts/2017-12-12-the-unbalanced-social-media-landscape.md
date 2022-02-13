@@ -1,6 +1,5 @@
 ---
 title: The (Un)Balanced Social Media Landscape
-slug: the-unbalanced-social-media-landscape
 featured: false
 layout: post
 categories: posts

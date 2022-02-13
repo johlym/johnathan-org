@@ -1,6 +1,5 @@
 ---
 title: 'The Difference Four Years Makes: Part 2: Disk IO'
-slug: the-difference-four-years-makes-part-2-disk-io
 featured: false
 layout: post
 categories: posts

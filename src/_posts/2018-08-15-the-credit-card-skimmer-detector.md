@@ -1,6 +1,5 @@
 ---
 title: The Credit Card Skimmer Detector
-slug: the-credit-card-skimmer-detector
 featured: false
 layout: post
 categories: posts

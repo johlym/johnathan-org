@@ -1,6 +1,5 @@
 ---
 title: The International Beverage Bonanza
-slug: the-international-beverage-bonanza
 featured: false
 layout: post
 categories: posts

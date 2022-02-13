@@ -1,6 +1,5 @@
 ---
 title: Title II is a Thing
-slug: title-ii-is-a-thing
 featured: false
 layout: post
 categories: posts

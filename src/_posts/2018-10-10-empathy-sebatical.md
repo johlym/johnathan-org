@@ -1,6 +1,5 @@
 ---
 title: Empathy Sebatical
-slug: empathy-sebatical
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Solar System
-slug: the-solar-system
 featured: false
 
 layout: post

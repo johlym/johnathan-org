@@ -1,6 +1,5 @@
 ---
 title: Alex Jones, Infowars Permanently Banned from Twitter
-slug: alex-jones-infowars-permanently-banned-from-twitter
 featured: false
 
 layout: post

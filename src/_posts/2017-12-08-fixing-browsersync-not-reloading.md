@@ -1,6 +1,5 @@
 ---
 title: Fixing Browsersync Not Reloading
-slug: fixing-browsersync-not-reloading
 featured: false
 layout: post
 categories: posts

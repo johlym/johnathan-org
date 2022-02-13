@@ -1,6 +1,5 @@
 ---
 title: Re-Invent High School
-slug: re-invent-high-school
 featured: false
 layout: post
 categories: posts

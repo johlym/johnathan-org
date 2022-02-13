@@ -1,6 +1,5 @@
 ---
 title: "Dear Young People: Don't Vote"
-slug: dear-young-people-dont-vote
 featured: false
 
 layout: post

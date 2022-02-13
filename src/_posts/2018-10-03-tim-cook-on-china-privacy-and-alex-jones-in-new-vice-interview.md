@@ -1,6 +1,5 @@
 ---
 title: Tim Cook on China, Privacy, and Alex Jones in New VICE Interview
-slug: tim-cook-on-china-privacy-and-alex-jones-in-new-vice-interview
 featured: false
 
 categories: posts

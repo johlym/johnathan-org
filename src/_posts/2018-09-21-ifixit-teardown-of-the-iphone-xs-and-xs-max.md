@@ -1,6 +1,5 @@
 ---
 title: iFixit Teardown of the iPhone XS and XS Max
-slug: ifixit-teardown-of-the-iphone-xs-and-xs-max
 featured: false
 
 layout: post

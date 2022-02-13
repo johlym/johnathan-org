@@ -1,6 +1,5 @@
 ---
 title: Magic Room
-slug: magic-room
 featured: false
 layout: post
 categories: posts

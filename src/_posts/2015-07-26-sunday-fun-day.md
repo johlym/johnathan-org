@@ -1,6 +1,5 @@
 ---
 title: Sunday Fun Day
-slug: sunday-fun-day
 featured: false
 layout: post
 categories: posts

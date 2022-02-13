@@ -1,6 +1,5 @@
 ---
 title: Putting In the Effort to Become a Professional Life Liver
-slug: putting-in-the-effort-to-become-a-professional-life-liver
 featured: false
 layout: post
 categories: posts

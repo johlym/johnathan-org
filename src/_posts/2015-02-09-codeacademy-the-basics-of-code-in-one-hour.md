@@ -1,6 +1,5 @@
 ---
 title: CodeAcademy – The Basics of Code in One Hour
-slug: codeacademy-the-basics-of-code-in-one-hour
 featured: false
 layout: post
 categories: posts

@@ -1,7 +1,6 @@
 ---
 title: In a Major Course Correction, The PlayStation 4 Will Finally See Cross-Platform
   Play
-slug: in-a-major-course-correction-the-playstation-4-will-finally-see-cross-platform-play
 featured: false
 
 

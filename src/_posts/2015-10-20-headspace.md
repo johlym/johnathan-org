@@ -1,6 +1,5 @@
 ---
 title: Headspace
-slug: headspace
 featured: false
 layout: post
 categories: posts

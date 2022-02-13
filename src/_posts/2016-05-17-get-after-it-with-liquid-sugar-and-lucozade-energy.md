@@ -1,6 +1,5 @@
 ---
 title: Get After it with Liquid Sugar and Lucozade Energy
-slug: get-after-it-with-liquid-sugar-and-lucozade-energy
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: "Hodinkee: 'How Apple's Awesome Motion Watch Faces Are Made'"
-slug: hodinkee-how-apples-awesome-motion-watch-faces-are-made
 featured: false
 
 layout: post

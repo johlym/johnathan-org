@@ -1,6 +1,5 @@
 ---
 title: Apple's Self-Driving Car Rear-Ended
-slug: apples-self-driving-car-rear-ended
 featured: false
 layout: post
 categories: posts

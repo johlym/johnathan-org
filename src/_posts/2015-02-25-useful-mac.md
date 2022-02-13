@@ -1,6 +1,5 @@
 ---
 title: Useful Mac
-slug: useful-mac
 featured: false
 layout: post
 categories: posts

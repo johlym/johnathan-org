@@ -1,6 +1,5 @@
 ---
 title: Thinking About Old Posts
-slug: thinking-about-old-posts
 featured: false
 layout: post
 categories: posts

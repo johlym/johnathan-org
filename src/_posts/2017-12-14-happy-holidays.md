@@ -1,6 +1,5 @@
 ---
 title: Happy Holidays
-slug: happy-holidays
 featured: false
 
 layout: post

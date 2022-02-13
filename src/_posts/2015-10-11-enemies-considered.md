@@ -1,6 +1,5 @@
 ---
 title: Enemies Considered
-slug: enemies-considered
 featured: false
 layout: post
 categories: posts

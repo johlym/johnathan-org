@@ -1,6 +1,5 @@
 ---
 title: Doctor and Medical Device Company Take Issue With Apple's ECG Claims
-slug: doctor-and-medical-device-company-take-issue-with-apples-ecg-claims
 featured: false
 
   Johnathan.org

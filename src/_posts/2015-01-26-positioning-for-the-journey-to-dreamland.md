@@ -1,6 +1,5 @@
 ---
 title: Positioning for the Journey to Dreamland
-slug: positioning-for-the-journey-to-dreamland
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: On Moving to Johnathan.org
-slug: on-moving-to-johnathan-org
 featured: false
 layout: post
 categories: posts

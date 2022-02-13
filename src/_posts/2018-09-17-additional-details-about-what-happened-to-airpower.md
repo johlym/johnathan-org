@@ -1,6 +1,5 @@
 ---
 title: Additional Details About What Happened to AirPower
-slug: additional-details-about-what-happened-to-airpower
 featured: false
 
 layout: post

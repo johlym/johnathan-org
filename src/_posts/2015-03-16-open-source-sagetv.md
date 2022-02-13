@@ -1,6 +1,5 @@
 ---
 title: Open-Source SageTV
-slug: open-source-sagetv
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Office Online Update Bring Better PDF Stuff and Other Stuff
-slug: office-online-update-bring-better-pdf-stuff-and-other-stuff
 featured: false
 layout: post
 categories: posts

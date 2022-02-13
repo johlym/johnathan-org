@@ -1,6 +1,5 @@
 ---
 title: There Are Some Things Money Can't Buy. For Everything Else, There's a Cat in a Box.
-slug: there-are-some-things-money-cant-buy-for-everything-else-theres-a-cat-in-a-box
 featured: false
 layout: post
 categories: posts

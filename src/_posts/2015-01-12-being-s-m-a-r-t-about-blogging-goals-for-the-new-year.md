@@ -1,6 +1,5 @@
 ---
 title: Being S.M.A.R.T about Blogging Goals for the New Year
-slug: being-s-m-a-r-t-about-blogging-goals-for-the-new-year
 featured: false
 layout: post
 categories: posts

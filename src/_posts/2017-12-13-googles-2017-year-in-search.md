@@ -1,6 +1,5 @@
 ---
 title: Google's 2017 Year in Search
-slug: googles-2017-year-in-search
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 'Uber Settlement: $1.9 Million for Harassment Claims'
-slug: uber-settlement-1-9-million-for-harassment-claims
 featured: false
 layout: post
 categories: posts

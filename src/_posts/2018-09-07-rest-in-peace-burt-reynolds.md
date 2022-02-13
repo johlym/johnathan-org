@@ -1,6 +1,5 @@
 ---
 title: Rest in Peace, Burt Reynolds
-slug: rest-in-peace-burt-reynolds
 featured: false
 
 categories: posts

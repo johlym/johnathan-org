@@ -1,6 +1,5 @@
 ---
 title: Two Years With Harry's
-slug: two-years-with-harrys
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Phone, Wallet, Keys
-slug: phone-wallet-keys
 featured: false
 
 layout: post

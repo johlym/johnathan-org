@@ -1,6 +1,5 @@
 ---
 title: The Counterfeit Apple Accessories Market
-slug: the-counterfeit-apple-accessories-market
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Shot on iPhone 6
-slug: shot-on-iphone-6
 featured: false
 layout: post
 categories: posts

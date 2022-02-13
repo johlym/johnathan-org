@@ -1,6 +1,5 @@
 ---
 title: Hands on with GAget
-slug: hands-on-with-gaget
 featured: false
 layout: post
 categories: posts

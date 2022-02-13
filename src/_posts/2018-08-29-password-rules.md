@@ -1,6 +1,5 @@
 ---
 title: Password Rules
-slug: password-rules
 featured: false
 layout: post
 categories: posts

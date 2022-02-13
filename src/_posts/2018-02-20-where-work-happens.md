@@ -1,6 +1,5 @@
 ---
 title: Where Work Happens
-slug: where-work-happens
 featured: false
 layout: post
 categories: posts

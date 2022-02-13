@@ -1,6 +1,5 @@
 ---
 title: My Favorite Super Bowl Commercials
-slug: my-favorite-super-bowl-commercials
 featured: false
 layout: post
 categories: posts

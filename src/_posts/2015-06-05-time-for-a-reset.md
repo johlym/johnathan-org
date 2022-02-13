@@ -1,6 +1,5 @@
 ---
 title: Time for a Reset
-slug: time-for-a-reset
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Waymo Cars Have a Hard Time Making Left Turns
-slug: waymo-cars-have-a-hard-time-making-left-turns
 featured: false
 layout: post
 categories: posts

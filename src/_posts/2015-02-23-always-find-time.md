@@ -1,6 +1,5 @@
 ---
 title: Always Find Time
-slug: always-find-time
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Google Isn't the Company That We Should Have Handed the Web Over to
-slug: google-isnt-the-company-that-we-should-have-handed-the-web-over-to
 featured: false
 
 layout: post

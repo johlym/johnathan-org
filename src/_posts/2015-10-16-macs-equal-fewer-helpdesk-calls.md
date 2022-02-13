@@ -1,6 +1,5 @@
 ---
 title: Macs Equal Fewer Helpdesk Calls
-slug: macs-equal-fewer-helpdesk-calls
 featured: false
 layout: post
 categories: posts

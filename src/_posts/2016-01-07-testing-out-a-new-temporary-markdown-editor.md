@@ -1,6 +1,5 @@
 ---
 title: Testing Out a New Temporary Markdown Editor
-slug: testing-out-a-new-temporary-markdown-editor
 featured: false
 layout: post
 categories: posts

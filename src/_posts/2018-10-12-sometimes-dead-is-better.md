@@ -1,6 +1,5 @@
 ---
 title: Sometimes Dead is Better
-slug: sometimes-dead-is-better
 featured: false
 
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 'Stratechery: The Battle for the Home'
-slug: stratechery-the-battle-for-the-home
 featured: false
 
 layout: post

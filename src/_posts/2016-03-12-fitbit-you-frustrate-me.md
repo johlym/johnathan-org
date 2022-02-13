@@ -1,6 +1,5 @@
 ---
 title: Fitbit, You Frustrate Me
-slug: fitbit-you-frustrate-me
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 'New Workspace: a story'
-slug: new-workspace-a-story
 featured: false
 layout: post
 categories: posts

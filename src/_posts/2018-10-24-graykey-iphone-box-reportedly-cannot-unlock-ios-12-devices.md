@@ -1,6 +1,5 @@
 ---
 title: GrayKey iPhone Box Reportedly Cannot Unlock iOS 12 Devices
-slug: graykey-iphone-box-reportedly-cannot-unlock-ios-12-devices
 featured: false
 layout: post
 categories: posts

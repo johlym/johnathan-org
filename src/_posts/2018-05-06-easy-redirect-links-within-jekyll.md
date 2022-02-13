@@ -1,6 +1,5 @@
 ---
 title: Easy Redirect Links Within Jekyll
-slug: easy-redirect-links-within-jekyll
 featured: false
 layout: post
 categories: posts

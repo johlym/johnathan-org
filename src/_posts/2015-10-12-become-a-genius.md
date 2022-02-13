@@ -1,6 +1,5 @@
 ---
 title: Become a Genius
-slug: become-a-genius
 featured: false
 layout: post
 categories: posts

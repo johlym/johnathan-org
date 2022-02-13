@@ -1,6 +1,5 @@
 ---
 title: Get Your Gear Out
-slug: get-your-gear-out
 featured: false
 layout: post
 categories: posts

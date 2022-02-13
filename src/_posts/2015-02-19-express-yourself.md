@@ -1,6 +1,5 @@
 ---
 title: Express Yourself
-slug: express-yourself
 featured: false
 
 layout: post

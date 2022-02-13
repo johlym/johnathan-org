@@ -1,6 +1,5 @@
 ---
 title: Make a Film with an iPad
-slug: make-a-film-with-an-ipad
 featured: false
 layout: post
 categories: posts

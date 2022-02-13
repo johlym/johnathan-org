@@ -1,6 +1,5 @@
 ---
 title: Review of Today's Apple iPhone and Watch Announcements
-slug: review-of-todays-apple-iphone-and-watch-announcements
 feature_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"

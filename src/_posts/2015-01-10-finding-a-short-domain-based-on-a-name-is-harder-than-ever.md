@@ -1,6 +1,5 @@
 ---
 title: Finding a Short Domain Based on a Name is Harder Than Ever
-slug: finding-a-short-domain-based-on-a-name-is-harder-than-ever
 featured: false
 layout: post
 categories: posts

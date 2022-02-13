@@ -1,6 +1,5 @@
 ---
 title: Going Back to Your Mac No More
-slug: going-back-to-your-mac-no-more
 featured: false
 layout: post
 categories: posts

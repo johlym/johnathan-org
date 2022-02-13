@@ -1,6 +1,5 @@
 ---
 title: Keeping Score
-slug: keeping-score
 featured: false
 layout: post
 categories: posts

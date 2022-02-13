@@ -1,6 +1,5 @@
 ---
 title: Half-Way There
-slug: half-way-there
 featured: false
 layout: post
 categories: posts

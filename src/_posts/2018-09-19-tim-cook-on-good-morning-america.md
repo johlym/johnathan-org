@@ -1,6 +1,5 @@
 ---
 title: Tim Cook on Good Morning America
-slug: tim-cook-on-good-morning-america
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Brilliant
-slug: brilliant
 featured: false
 layout: post
 categories: posts

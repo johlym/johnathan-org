@@ -1,6 +1,5 @@
 ---
 title: Financial Planning and Investment Apps that Don't Suck
-slug: financial-planning-and-investment-apps-that-dont-suck
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: John.ly Version 2
-slug: john-ly-version-2
 featured: false
 layout: post
 categories: posts

@@ -1,7 +1,6 @@
 ---
 title: How I Solved Related Posts not Showing when Running WordPress, JetPack, and
   Nginx
-slug: how-i-solved-related-posts-not-showing-when-running-wordpress-jetpack-and-nginx
 featured: false
   and I figu
 

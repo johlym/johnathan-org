@@ -1,6 +1,5 @@
 ---
 title: This One's For the Guys
-slug: this-ones-for-the-guys
 featured: false
 layout: post
 categories: posts

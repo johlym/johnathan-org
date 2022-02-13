@@ -1,6 +1,5 @@
 ---
 title: The London Museum Sewage Livestream
-slug: the-london-museum-sewage-livestream
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 'Dart: Java-Free Android Apps'
-slug: dart-java-free-android-apps
 featured: false
 layout: post
 categories: posts

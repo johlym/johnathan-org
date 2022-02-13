@@ -1,6 +1,5 @@
 ---
 title: Thoughts and Observations on Apple's Event
-slug: thoughts-and-observations-on-apples-event
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: 'SpinupWP: The Best Service for Deploying Self-Hosted WordPress'
-slug: spinupwp-the-best-service-for-deploying-self-hosted-wordpress
 feature_image: "/content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg"

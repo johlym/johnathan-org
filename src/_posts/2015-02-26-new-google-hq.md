@@ -1,6 +1,5 @@
 ---
 title: New Google HQ
-slug: new-google-hq
 featured: false
 layout: post
 categories: posts

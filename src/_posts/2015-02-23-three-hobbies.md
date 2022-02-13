@@ -1,6 +1,5 @@
 ---
 title: Three Hobbies
-slug: three-hobbies
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Best Way I Make Life Changes
-slug: the-best-way-i-make-life-changes
 featured: false
 layout: post
 categories: posts

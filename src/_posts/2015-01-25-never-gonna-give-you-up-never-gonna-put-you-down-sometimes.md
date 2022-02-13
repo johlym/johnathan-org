@@ -1,6 +1,5 @@
 ---
 title: Never Gonna Give You Up, Never Gonna Put You Down. Sometimes.
-slug: never-gonna-give-you-up-never-gonna-put-you-down-sometimes
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Resolutions
-slug: resolutions
 featured: false
 layout: post
 categories: posts

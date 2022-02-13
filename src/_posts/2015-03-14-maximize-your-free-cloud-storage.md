@@ -1,6 +1,5 @@
 ---
 title: Maximize Your Free Cloud Storage
-slug: maximize-your-free-cloud-storage
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Dump Flash
-slug: dump-flash
 featured: false
 layout: post
 categories: posts

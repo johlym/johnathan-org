@@ -1,6 +1,5 @@
 ---
 title: Remotely Working
-slug: remotely-working
 featured: false
 layout: post
 categories: posts

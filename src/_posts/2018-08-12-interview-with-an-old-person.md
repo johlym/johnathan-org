@@ -1,6 +1,5 @@
 ---
 title: Interview With an Old Person
-slug: interview-with-an-old-person
 featured: false
 layout: post
 categories: posts

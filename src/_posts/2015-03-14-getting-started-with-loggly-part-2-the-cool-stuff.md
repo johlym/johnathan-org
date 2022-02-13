@@ -1,6 +1,5 @@
 ---
 title: 'Getting Started with Loggly Part 2: The Cool Stuff!'
-slug: getting-started-with-loggly-part-2-the-cool-stuff
 featured: false
 layout: post
 categories: posts

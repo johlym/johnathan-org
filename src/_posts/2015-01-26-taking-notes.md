@@ -1,6 +1,5 @@
 ---
 title: Taking Notes
-slug: taking-notes
 featured: false
 layout: post
 categories: posts

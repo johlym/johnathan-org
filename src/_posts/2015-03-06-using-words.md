@@ -1,6 +1,5 @@
 ---
 title: Using Words
-slug: using-words
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: On Deciding to Buy the Next iPhone
-slug: on-deciding-to-buy-the-next-iphone
 featured: false
 
 layout: post

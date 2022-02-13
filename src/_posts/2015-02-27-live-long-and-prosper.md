@@ -1,6 +1,5 @@
 ---
 title: Live Long and Prosper
-slug: live-long-and-prosper
 featured: false
 layout: post
 categories: posts

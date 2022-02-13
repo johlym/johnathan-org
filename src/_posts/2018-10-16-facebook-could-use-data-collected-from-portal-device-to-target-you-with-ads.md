@@ -1,6 +1,5 @@
 ---
 title: Facebook Could Use Data Collected from Portal Device to Target You with Ads
-slug: facebook-could-use-data-collected-from-portal-device-to-target-you-with-ads
 featured: false
 
 

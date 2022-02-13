@@ -1,6 +1,5 @@
 ---
 title: Tom Cotter's Best Barn-Find Collector Car Tales
-slug: tom-cotters-best-barn-find-collector-car-tales
 featured: false
 
 layout: post

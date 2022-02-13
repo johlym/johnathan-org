@@ -1,6 +1,5 @@
 ---
 title: Weekly Wine
-slug: weekly-wine
 featured: false
 layout: post
 categories: posts

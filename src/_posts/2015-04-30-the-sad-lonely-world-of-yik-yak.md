@@ -1,6 +1,5 @@
 ---
 title: The Sad, Lonely World of Yik Yak
-slug: the-sad-lonely-world-of-yik-yak
 featured: false
 layout: post
 categories: posts

@@ -1,7 +1,6 @@
 ---
 title: Apple CEO Tim Cook is Calling for Bloomberg to Retract Its Chinese Spy Chip
   Story
-slug: apple-ceo-tim-cook-is-calling-for-bloomberg-to-retract-its-chinese-spy-chip-story
 featured: false
 
 

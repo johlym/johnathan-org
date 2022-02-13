@@ -1,6 +1,5 @@
 ---
 title: Constantly Improving
-slug: constantly-improving
 featured: false
 layout: post
 categories: posts

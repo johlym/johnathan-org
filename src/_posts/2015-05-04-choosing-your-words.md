@@ -1,6 +1,5 @@
 ---
 title: Choosing Your Words
-slug: choosing-your-words
 featured: false
 layout: post
 categories: posts

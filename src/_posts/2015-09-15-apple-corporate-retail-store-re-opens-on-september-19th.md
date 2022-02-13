@@ -1,6 +1,5 @@
 ---
 title: Apple Corporate Retail Store Re-Opens on September 19th
-slug: apple-corporate-retail-store-re-opens-on-september-19th
 featured: false
 
 categories: posts
