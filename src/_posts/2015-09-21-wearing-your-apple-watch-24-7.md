@@ -1,6 +1,5 @@
 ---
 title: Wearing your Apple Watch 24/7
-slug: wearing-your-apple-watch-24-7
 featured: false
 layout: post
 categories: posts

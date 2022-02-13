@@ -1,6 +1,5 @@
 ---
 title: Ghostly Sharing to Twitter from Jetpack's Publicize Plugin
-slug: ghostly-sharing-to-twitter-from-jetpacks-publicize-plugin
 featured: false
 layout: post
 categories: posts

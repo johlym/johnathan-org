@@ -1,6 +1,5 @@
 ---
 title: The Dolby Atmos(phere)
-slug: the-dolby-atmosphere
 featured: false
 layout: post
 categories: posts

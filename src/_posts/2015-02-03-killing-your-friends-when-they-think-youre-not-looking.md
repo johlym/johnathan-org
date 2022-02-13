@@ -1,6 +1,5 @@
 ---
 title: Killing Your Friends when They Think You're not Looking
-slug: killing-your-friends-when-they-think-youre-not-looking
 featured: false
 layout: post
 categories: posts

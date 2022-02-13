@@ -1,6 +1,5 @@
 ---
 title: StackEdit
-slug: stackedit
 featured: false
 layout: post
 categories: posts

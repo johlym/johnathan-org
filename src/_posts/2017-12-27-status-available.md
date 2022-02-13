@@ -1,6 +1,5 @@
 ---
 title: 'Status: Available'
-slug: status-available
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Strange Things Around These Parts
-slug: strange-things-around-these-parts
 featured: false
 layout: post
 categories: posts

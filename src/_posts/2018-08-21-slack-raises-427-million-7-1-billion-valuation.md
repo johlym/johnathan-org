@@ -1,6 +1,5 @@
 ---
 title: Slack Raises $427 Million; $7.1 Billion Valuation
-slug: slack-raises-427-million-7-1-billion-valuation
 featured: false
 layout: post
 categories: posts

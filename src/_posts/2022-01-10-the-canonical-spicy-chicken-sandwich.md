@@ -1,6 +1,5 @@
 ---
 title: The Canonical Spicy Chicken Sandwich
-slug: the-canonical-spicy-chicken-sandwich
 featured: false
 excerpt: Summarizing my experiences and notes from sampling all the local-area 
   spicy chicken sandwich options in the hopes that I can define what I think

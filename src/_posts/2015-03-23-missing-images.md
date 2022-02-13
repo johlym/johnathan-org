@@ -1,6 +1,5 @@
 ---
 title: Missing Images
-slug: missing-images
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Martian
-slug: the-martian
 featured: false
 layout: post
 categories: posts

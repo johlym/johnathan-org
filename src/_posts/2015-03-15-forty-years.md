@@ -1,6 +1,5 @@
 ---
 title: Forty Years
-slug: forty-years
 featured: false
 layout: post
 categories: posts

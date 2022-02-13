@@ -1,6 +1,5 @@
 ---
 title: To Write, You Must Read
-slug: to-write-you-must-read
 featured: false
 layout: post
 categories: posts

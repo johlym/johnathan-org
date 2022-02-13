@@ -1,6 +1,5 @@
 ---
 title: Wi-Fi Now Has Version Numbers, and Wi-Fi 6 Comes Out Next Year
-slug: wi-fi-now-has-version-numbers-and-wi-fi-6-comes-out-next-year
 featured: false
 
 layout: post

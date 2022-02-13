@@ -1,6 +1,5 @@
 ---
 title: Tim Berners-Lee's Successor to The Internet
-slug: tim-berners-lees-successor-to-the-internet
 featured: false
 
 layout: post

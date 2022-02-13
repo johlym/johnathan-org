@@ -1,6 +1,5 @@
 ---
 title: Your First App with Little Background
-slug: your-first-app-with-little-background
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: iPhone Trade In
-slug: iphone-trade-in
 featured: false
 layout: post
 categories: posts

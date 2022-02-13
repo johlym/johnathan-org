@@ -1,6 +1,5 @@
 ---
 title: How Facebook Ads Find You
-slug: how-facebook-ads-find-you
 featured: false
 layout: post
 categories: posts

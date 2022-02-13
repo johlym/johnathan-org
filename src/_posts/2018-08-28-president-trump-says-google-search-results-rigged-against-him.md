@@ -1,6 +1,5 @@
 ---
 title: President Trump says Google Search Results Rigged Against Him
-slug: president-trump-says-google-search-results-rigged-against-him
 featured: false
 layout: post
 categories: posts

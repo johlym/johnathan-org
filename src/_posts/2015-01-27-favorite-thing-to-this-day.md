@@ -1,6 +1,5 @@
 ---
 title: Favorite Thing to This Day
-slug: favorite-thing-to-this-day
 featured: false
 layout: post
 categories: posts

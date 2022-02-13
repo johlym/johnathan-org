@@ -1,6 +1,5 @@
 ---
 title: Rest in Pancakes, Kenny Shopsin
-slug: rest-in-pancakes-kenny-shopsin
 featured: false
 layout: post
 categories: posts

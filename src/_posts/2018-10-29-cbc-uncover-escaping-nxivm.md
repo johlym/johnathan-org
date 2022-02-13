@@ -1,6 +1,5 @@
 ---
 title: 'CBC Uncover: Escaping NXIVM'
-slug: cbc-uncover-escaping-nxivm
 featured: false
 layout: post
 categories: posts

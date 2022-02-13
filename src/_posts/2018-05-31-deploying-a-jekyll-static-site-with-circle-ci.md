@@ -1,6 +1,5 @@
 ---
 title: Deploying A Jekyll Static Site with Circle CI
-slug: deploying-a-jekyll-static-site-with-circle-ci
 featured: false
 layout: post
 categories: posts

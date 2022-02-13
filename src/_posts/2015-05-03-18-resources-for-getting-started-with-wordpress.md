@@ -1,6 +1,5 @@
 ---
 title: 18 Resources for Getting Started with WordPress
-slug: 18-resources-for-getting-started-with-wordpress
 featured: false
 layout: post
 categories: posts

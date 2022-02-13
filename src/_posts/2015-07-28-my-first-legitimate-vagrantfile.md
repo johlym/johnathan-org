@@ -1,6 +1,5 @@
 ---
 title: My First Legitimate Vagrantfile
-slug: my-first-legitimate-vagrantfile
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: After Three Weeks
-slug: after-three-weeks
 featured: false
 layout: post
 categories: posts

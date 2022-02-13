@@ -1,6 +1,5 @@
 ---
 title: Relay FM's New Swag
-slug: relay-fms-new-swag
 featured: false
 
 layout: post

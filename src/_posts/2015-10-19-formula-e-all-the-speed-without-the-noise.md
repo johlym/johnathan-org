@@ -1,6 +1,5 @@
 ---
 title: 'Formula E: All the Speed Without the Noise'
-slug: formula-e-all-the-speed-without-the-noise
 featured: false
 layout: post
 categories: posts

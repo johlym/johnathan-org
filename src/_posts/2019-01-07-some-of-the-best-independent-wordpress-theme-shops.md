@@ -1,6 +1,5 @@
 ---
 title: Some of the Best Independent WordPress Theme Shops
-slug: some-of-the-best-independent-wordpress-theme-shops
 featured: false
 layout: post
 categories: posts

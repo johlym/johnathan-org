@@ -1,6 +1,5 @@
 ---
 title: "The NY Times: How Google Protected Andy Rubin, the 'Father of Android'"
-slug: the-ny-times-how-google-protected-andy-rubin-the-father-of-android
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: 48 Hours of Slack
-slug: 48-hours-of-slack
 featured: false
 layout: post
 categories: posts

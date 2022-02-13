@@ -1,6 +1,5 @@
 ---
 title: Mathematician Claims to have Proof of the Riemann Hypothesis
-slug: mathematician-claims-to-have-proof-of-the-riemann-hypothesis
 featured: false
 
 layout: post

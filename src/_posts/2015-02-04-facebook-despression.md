@@ -1,6 +1,5 @@
 ---
 title: Facebook Despression
-slug: facebook-despression
 featured: false
 layout: post
 categories: posts

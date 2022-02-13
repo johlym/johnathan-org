@@ -1,6 +1,5 @@
 ---
 title: Tweet Deleter
-slug: tweet-deleter
 featured: false
 layout: post
 categories: posts

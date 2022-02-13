@@ -1,6 +1,5 @@
 ---
 title: 'Kill Switch: Engage'
-slug: kill-switch-engage
 featured: false
 layout: post
 categories: posts

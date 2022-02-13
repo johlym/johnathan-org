@@ -1,6 +1,5 @@
 ---
 title: California's Net Neutrality Bill Advances and is Close to Final Passage
-slug: californias-net-neutrality-bill-advances-and-is-close-to-final-passage
 featured: false
   or slowin
 

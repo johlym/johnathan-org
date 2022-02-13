@@ -1,6 +1,5 @@
 ---
 title: Ryan Gibley on The Martian
-slug: ryan-gibley-on-the-martian
 featured: false
 layout: post
 categories: posts

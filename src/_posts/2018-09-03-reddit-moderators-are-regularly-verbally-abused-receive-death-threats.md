@@ -1,6 +1,5 @@
 ---
 title: Reddit Moderators are Regularly Verbally Abused, Receive Death Threats
-slug: reddit-moderators-are-regularly-verbally-abused-receive-death-threats
 featured: false
   – Johnathan.org
 

@@ -1,6 +1,5 @@
 ---
 title: As You Think
-slug: as-you-think
 featured: false
 layout: post
 categories: posts

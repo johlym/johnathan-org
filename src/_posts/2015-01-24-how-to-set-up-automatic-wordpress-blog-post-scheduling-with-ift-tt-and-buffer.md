@@ -1,6 +1,5 @@
 ---
 title: How to Set up Automatic WordPress Blog Post Scheduling with IFT.TT, and Buffer
-slug: how-to-set-up-automatic-wordpress-blog-post-scheduling-with-ift-tt-and-buffer
 featured: false
 layout: post
 categories: posts

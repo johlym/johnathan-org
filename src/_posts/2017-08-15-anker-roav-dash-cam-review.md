@@ -1,6 +1,5 @@
 ---
 title: Anker Roav Dash Cam Review
-slug: anker-roav-dash-cam-review
 featured: false
 layout: post
 categories: posts

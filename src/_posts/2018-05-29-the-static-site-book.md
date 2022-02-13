@@ -1,6 +1,5 @@
 ---
 title: The Static Site Book
-slug: the-static-site-book
 featured: false
 layout: post
 categories: posts

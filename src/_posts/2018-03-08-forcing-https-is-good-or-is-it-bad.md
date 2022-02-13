@@ -1,6 +1,5 @@
 ---
 title: Forcing HTTPS is Good… or is it Bad?
-slug: forcing-https-is-good-or-is-it-bad
 featured: false
 layout: post
 categories: posts

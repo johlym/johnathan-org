@@ -1,6 +1,5 @@
 ---
 title: Starbucks Coffeehouse Playlist
-slug: starbucks-coffeehouse-playlist
 featured: false
 layout: post
 categories: posts

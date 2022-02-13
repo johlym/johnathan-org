@@ -1,6 +1,5 @@
 ---
 title: If I Could Change Just One Thing
-slug: if-i-could-change-just-one-thing
 featured: false
 layout: post
 categories: posts

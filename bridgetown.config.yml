@@ -28,7 +28,7 @@ collections:
   pages:
     permalink: /:slug/
   posts:
-    permalink: /:title/
+    permalink: /:slug/
 
 cloudinary:
   cloud_name: johnathan-org

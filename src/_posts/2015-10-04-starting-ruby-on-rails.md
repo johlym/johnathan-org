@@ -1,6 +1,5 @@
 ---
 title: Starting Ruby on Rails
-slug: starting-ruby-on-rails
 featured: false
 layout: post
 categories: posts

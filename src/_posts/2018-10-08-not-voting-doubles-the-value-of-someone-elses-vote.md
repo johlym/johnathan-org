@@ -1,6 +1,5 @@
 ---
 title: Not Voting Doubles the Value of Someone Else's Vote
-slug: not-voting-doubles-the-value-of-someone-elses-vote
 featured: false
 
 layout: post

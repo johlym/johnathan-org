@@ -1,6 +1,5 @@
 ---
 title: Freeing the Mobile Device from the Carrier
-slug: freeing-the-mobile-device-from-the-carrier
 featured: false
 layout: post
 categories: posts

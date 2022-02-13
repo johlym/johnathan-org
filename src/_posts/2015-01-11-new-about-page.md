@@ -1,6 +1,5 @@
 ---
 title: New About Page
-slug: new-about-page
 featured: false
 layout: post
 categories: posts

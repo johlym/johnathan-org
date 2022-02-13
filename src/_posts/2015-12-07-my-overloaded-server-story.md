@@ -1,6 +1,5 @@
 ---
 title: My Overloaded Server Story
-slug: my-overloaded-server-story
 featured: false
 layout: post
 categories: posts

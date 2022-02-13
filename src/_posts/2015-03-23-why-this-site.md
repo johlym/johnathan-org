@@ -1,6 +1,5 @@
 ---
 title: Why This Site
-slug: why-this-site
 featured: false
 layout: post
 categories: posts

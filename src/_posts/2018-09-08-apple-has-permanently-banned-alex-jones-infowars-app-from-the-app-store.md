@@ -1,6 +1,5 @@
 ---
 title: Apple Has Permanently Banned Alex Jones' Infowars App From The App Store
-slug: apple-has-permanently-banned-alex-jones-infowars-app-from-the-app-store
 featured: false
 
 

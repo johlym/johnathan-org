@@ -1,6 +1,5 @@
 ---
 title: Where I Get My Stock Photos
-slug: where-i-get-my-stock-photos
 featured: false
 layout: post
 categories: posts

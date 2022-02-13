@@ -1,6 +1,5 @@
 ---
 title: Elon Musk is Being Sued by the SEC
-slug: elon-musk-is-being-sued-by-the-sec
 featured: false
 
 layout: post

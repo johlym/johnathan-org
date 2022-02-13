@@ -1,6 +1,5 @@
 ---
 title: Canonical Reasons for Pineapple on Pizza
-slug: canonical-reasons-for-pineapple-on-pizza
 featured: false
 
 layout: post

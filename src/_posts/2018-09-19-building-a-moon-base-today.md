@@ -1,6 +1,5 @@
 ---
 title: Building a Moon Base Today
-slug: building-a-moon-base-today
 featured: false
 
 layout: post

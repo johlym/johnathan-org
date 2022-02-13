@@ -1,6 +1,5 @@
 ---
 title: Verizon Discovers Consumers Care About Privacy, Not Perks
-slug: verizon-discovers-consumers-care-about-privacy-not-perks
 featured: false
 
 layout: post

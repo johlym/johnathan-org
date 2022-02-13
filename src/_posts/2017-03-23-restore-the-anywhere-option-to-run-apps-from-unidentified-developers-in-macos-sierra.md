@@ -1,7 +1,6 @@
 ---
 title: Restore the Anywhere Option to Run Apps from Unidentified Developers in macOS
   Sierra
-slug: restore-the-anywhere-option-to-run-apps-from-unidentified-developers-in-macos-sierra
 featured: false
   to bring
 

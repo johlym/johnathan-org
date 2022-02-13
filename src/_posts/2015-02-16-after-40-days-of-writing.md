@@ -1,6 +1,5 @@
 ---
 title: After 40 Days of Writing
-slug: after-40-days-of-writing
 featured: false
 layout: post
 categories: posts

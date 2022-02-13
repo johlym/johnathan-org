@@ -1,6 +1,5 @@
 ---
 title: A Potential Solution to Our Social Network Problem
-slug: the-four-part-solution-to-our-social-network-problem
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Paper Prop Master
-slug: the-paper-prop-master
 featured: false
 
 categories: posts

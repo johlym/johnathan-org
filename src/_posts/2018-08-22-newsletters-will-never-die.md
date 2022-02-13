@@ -1,6 +1,5 @@
 ---
 title: Newsletters Will Never Die
-slug: newsletters-will-never-die
 featured: false
 layout: post
 categories: posts

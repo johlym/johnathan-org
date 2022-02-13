@@ -1,6 +1,5 @@
 ---
 title: Buzz Killers
-slug: buzz-killers
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Failure, Part 3
-slug: failure-part-3
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: The Painted World of Red Dead Redemption 2
-slug: the-painted-world-of-red-dead-redemption-2
 feature_image: "/content/images/wp-content/uploads/2018/10/aegies_RedDeadRedemption2_20181022_18_39_47.png.jpeg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/aegies_RedDeadRedemption2_20181022_18_39_47.png.jpeg"

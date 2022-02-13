@@ -1,6 +1,5 @@
 ---
 title: Om Malik's Takeaways from the Apple Event
-slug: om-maliks-takeaways-from-the-apple-event
 featured: false
 
 layout: post

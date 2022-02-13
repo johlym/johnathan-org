@@ -1,6 +1,5 @@
 ---
 title: Apple Event and Leaked Product Shots
-slug: apple-event-and-leaked-product-shots
 featured: false
 layout: post
 categories: posts

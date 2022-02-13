@@ -1,6 +1,5 @@
 ---
 title: CrashPlan
-slug: crashplan
 featured: false
 layout: post
 categories: posts

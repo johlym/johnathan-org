@@ -1,6 +1,5 @@
 ---
 title: Norway's Radio
-slug: norways-radio
 featured: false
 layout: post
 categories: posts

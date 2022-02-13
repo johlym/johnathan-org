@@ -1,6 +1,5 @@
 ---
 title: Create High-Resolution Mockups for Your App or Site with Promotee
-slug: create-high-resolution-mockups-for-your-app-or-site-with-promotee
 featured: false
 layout: post
 categories: posts

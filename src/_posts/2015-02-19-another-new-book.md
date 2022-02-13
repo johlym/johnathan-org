@@ -1,6 +1,5 @@
 ---
 title: Another New Book
-slug: another-new-book
 featured: false
 layout: post
 categories: posts

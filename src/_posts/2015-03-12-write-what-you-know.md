@@ -1,6 +1,5 @@
 ---
 title: Write What You Know
-slug: write-what-you-know
 featured: false
 layout: post
 categories: posts

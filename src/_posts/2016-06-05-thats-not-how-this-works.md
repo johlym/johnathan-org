@@ -1,6 +1,5 @@
 ---
 title: That's Not How this Works
-slug: thats-not-how-this-works
 featured: false
 layout: post
 categories: posts

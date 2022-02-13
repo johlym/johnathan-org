@@ -1,6 +1,5 @@
 ---
 title: Where'd the Wine Go?
-slug: whered-the-wine-go
 featured: false
 layout: post
 categories: posts

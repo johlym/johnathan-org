@@ -1,6 +1,5 @@
 ---
 title: On Never Quitting
-slug: on-never-quitting
 featured: false
 layout: post
 categories: posts

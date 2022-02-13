@@ -1,6 +1,5 @@
 ---
 title: MacStories' iOS 12 Review
-slug: macstories-ios-12-review
 featured: false
 
 layout: post

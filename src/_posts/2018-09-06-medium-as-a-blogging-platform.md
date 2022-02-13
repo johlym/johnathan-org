@@ -1,6 +1,5 @@
 ---
 title: Medium as a Blogging Platform
-slug: medium-as-a-blogging-platform
 featured: false
 
 layout: post

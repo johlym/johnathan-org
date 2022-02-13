@@ -1,6 +1,5 @@
 ---
 title: Facebook's New Ad Archive Report
-slug: facebooks-new-ad-archive-report
 feature_image: "/content/images/wp-content/uploads/2018/10/Screen-Shot-2018-10-23-at-12.26.32-PM.jpg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/10/Screen-Shot-2018-10-23-at-12.26.32-PM.jpg"

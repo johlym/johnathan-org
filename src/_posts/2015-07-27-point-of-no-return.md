@@ -1,6 +1,5 @@
 ---
 title: Point of No Return
-slug: point-of-no-return
 featured: false
 layout: post
 categories: posts

@@ -1,7 +1,6 @@
 ---
 title: At U.S. Open, Power of Serena Williams and Naomi Osaka is Overshadowed by an
   Umpire's Power Play
-slug: at-u-s-open-power-of-serena-williams-and-naomi-osaka-is-overshadowed-by-an-umpires-power-play
 featured: false
   he cou
 

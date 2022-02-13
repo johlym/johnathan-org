@@ -1,6 +1,5 @@
 ---
 title: 'Hunting the Hunter: Trying to Take a Photo of my Cat'
-slug: hunting-the-hunter-trying-to-take-a-photo-of-my-cat
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Comcast Will Soon Own the Majority of Sky
-slug: comcast-will-soon-own-the-majority-of-sky
 featured: false
 
 layout: post

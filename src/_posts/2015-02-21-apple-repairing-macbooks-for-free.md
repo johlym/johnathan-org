@@ -1,6 +1,5 @@
 ---
 title: Apple Repairing Macbooks for Free
-slug: apple-repairing-macbooks-for-free
 featured: false
 layout: post
 categories: posts

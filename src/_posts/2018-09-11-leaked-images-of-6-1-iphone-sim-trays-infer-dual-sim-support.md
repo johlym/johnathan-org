@@ -1,6 +1,5 @@
 ---
 title: Leaked Images of 6.1″ iPhone Sim Trays Infer Dual-Sim Support
-slug: leaked-images-of-6-1-iphone-sim-trays-infer-dual-sim-support
 featured: false
 
 layout: post

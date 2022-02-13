@@ -1,6 +1,5 @@
 ---
 title: And so the LOL's Continue
-slug: and-so-the-lols-continue
 featured: false
 layout: post
 categories: posts

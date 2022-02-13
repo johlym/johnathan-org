@@ -1,6 +1,5 @@
 ---
 title: For-Profit Colleges
-slug: for-profit-colleges
 featured: false
 layout: post
 categories: posts

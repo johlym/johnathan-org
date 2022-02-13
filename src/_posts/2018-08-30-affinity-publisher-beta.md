@@ -1,6 +1,5 @@
 ---
 title: Affinity Publisher Beta
-slug: affinity-publisher-beta
 feature_image: "/content/images/wp-content/uploads/2018/08/Publisher-publication.jpeg"
 featured: false
 og_image: "/content/images/wp-content/uploads/2018/08/Publisher-publication.jpeg"

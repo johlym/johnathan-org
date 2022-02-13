@@ -1,6 +1,5 @@
 ---
 title: Create A Photograph
-slug: create-a-photograph
 featured: false
 layout: post
 categories: posts

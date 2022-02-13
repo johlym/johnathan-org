@@ -1,6 +1,5 @@
 ---
 title: Remote Work
-slug: remote-work
 featured: false
 layout: post
 categories: posts

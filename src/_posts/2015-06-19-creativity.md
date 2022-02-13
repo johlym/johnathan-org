@@ -1,6 +1,5 @@
 ---
 title: Creativity
-slug: creativity
 featured: false
 layout: post
 categories: posts

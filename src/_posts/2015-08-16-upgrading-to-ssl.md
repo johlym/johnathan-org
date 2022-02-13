@@ -1,6 +1,5 @@
 ---
 title: Upgrading to SSL
-slug: upgrading-to-ssl
 featured: false
 layout: post
 categories: posts

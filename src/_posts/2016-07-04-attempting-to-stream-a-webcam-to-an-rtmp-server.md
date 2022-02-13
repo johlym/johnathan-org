@@ -1,6 +1,5 @@
 ---
 title: Attempting to Stream a Webcam to an RTMP Server
-slug: attempting-to-stream-a-webcam-to-an-rtmp-server
 featured: false
 layout: post
 categories: posts

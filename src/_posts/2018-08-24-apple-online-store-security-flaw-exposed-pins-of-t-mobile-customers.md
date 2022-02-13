@@ -1,6 +1,5 @@
 ---
 title: Apple Online Store Security Flaw Exposed PINs of T-Mobile Customers
-slug: apple-online-store-security-flaw-exposed-pins-of-t-mobile-customers
 featured: false
 
 layout: post

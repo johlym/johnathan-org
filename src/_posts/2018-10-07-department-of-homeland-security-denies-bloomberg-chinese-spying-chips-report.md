@@ -1,6 +1,5 @@
 ---
 title: Department of Homeland Security Denies Bloomberg Chinese Spying Chips Report
-slug: department-of-homeland-security-denies-bloomberg-chinese-spying-chips-report
 featured: false
 
 

@@ -1,6 +1,5 @@
 ---
 title: Some thoughts on the 2018 Macbook Pro
-slug: some-thoughts-on-the-2018-macbook-pro
 featured: false
 
 layout: post

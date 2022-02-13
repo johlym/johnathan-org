@@ -1,6 +1,5 @@
 ---
 title: Lenovo Lawsuits
-slug: lenovo-lawsuits
 featured: false
 layout: post
 categories: posts

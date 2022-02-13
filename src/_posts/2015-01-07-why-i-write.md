@@ -1,6 +1,5 @@
 ---
 title: Why I Write
-slug: why-i-write
 featured: false
 layout: post
 categories: posts

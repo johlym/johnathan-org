@@ -1,6 +1,5 @@
 ---
 title: Snap Stock Price Sinks to an All-time Low
-slug: snap-stock-price-sinks-to-an-all-time-low
 featured: false
 layout: post
 categories: posts

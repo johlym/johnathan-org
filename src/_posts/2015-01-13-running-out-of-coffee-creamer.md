@@ -1,6 +1,5 @@
 ---
 title: Running Out of Coffee (Creamer)
-slug: running-out-of-coffee-creamer
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Lazy-loading Retina Images in a Jekyll Site
-slug: lazy-loading-retina-images-in-a-jekyll-site
 featured: false
 layout: post
 categories: posts

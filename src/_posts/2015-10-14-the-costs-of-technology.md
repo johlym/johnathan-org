@@ -1,6 +1,5 @@
 ---
 title: The Costs of Technology
-slug: the-costs-of-technology
 featured: false
 layout: post
 categories: posts

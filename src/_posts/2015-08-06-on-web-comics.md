@@ -1,6 +1,5 @@
 ---
 title: On Web Comics
-slug: on-web-comics
 featured: false
 layout: post
 categories: posts

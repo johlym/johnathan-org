@@ -1,6 +1,5 @@
 ---
 title: LinkedIn Target's Slack
-slug: linkedin-targets-slack
 featured: false
 layout: post
 categories: posts

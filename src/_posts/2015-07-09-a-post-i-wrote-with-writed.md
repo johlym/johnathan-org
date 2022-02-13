@@ -1,6 +1,5 @@
 ---
 title: A Post I Wrote with Writed
-slug: a-post-i-wrote-with-writed
 featured: false
 layout: post
 categories: posts

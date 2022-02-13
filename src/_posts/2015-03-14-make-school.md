@@ -1,6 +1,5 @@
 ---
 title: Make School
-slug: make-school
 featured: false
 layout: post
 categories: posts

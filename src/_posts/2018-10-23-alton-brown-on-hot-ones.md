@@ -1,6 +1,5 @@
 ---
 title: Alton Brown on Hot Ones
-slug: alton-brown-on-hot-ones
 featured: false
 
 layout: post

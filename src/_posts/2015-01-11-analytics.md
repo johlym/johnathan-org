@@ -1,6 +1,5 @@
 ---
 title: Analytics
-slug: analytics
 featured: false
 layout: post
 categories: posts

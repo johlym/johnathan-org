@@ -1,6 +1,5 @@
 ---
 title: Live Streaming with Hardware Acceleration using a Raspberry Pi and RTMP/HLS
-slug: live-streaming-with-hardware-acceleration-using-a-raspberry-pi-and-rtmp-hls
 featured: false
 layout: post
 categories: posts

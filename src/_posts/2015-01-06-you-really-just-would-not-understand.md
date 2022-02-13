@@ -1,6 +1,5 @@
 ---
 title: You Really Just Would not Understand!
-slug: you-really-just-would-not-understand
 featured: false
 layout: post
 categories: posts

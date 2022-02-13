@@ -1,6 +1,5 @@
 ---
 title: Replacing My Four-Year-Old Macbook Pro
-slug: replacing-my-four-year-old-macbook-pro
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: My Learn Ruby on Rails List
-slug: my-learn-ruby-on-rails-list
 featured: false
 layout: post
 categories: posts

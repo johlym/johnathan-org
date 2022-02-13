@@ -1,6 +1,5 @@
 ---
 title: Conquering the Dev Career
-slug: conquering-the-dev-career
 featured: false
 layout: post
 categories: posts

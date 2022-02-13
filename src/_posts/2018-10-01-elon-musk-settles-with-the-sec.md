@@ -1,6 +1,5 @@
 ---
 title: Elon Musk Settles with the SEC
-slug: elon-musk-settles-with-the-sec
 featured: false
 
 layout: post

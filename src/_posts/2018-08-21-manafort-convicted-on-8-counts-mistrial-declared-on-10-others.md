@@ -1,6 +1,5 @@
 ---
 title: Manafort Convicted on 8 Counts; Mistrial Declared on 10 Others
-slug: manafort-convicted-on-8-counts-mistrial-declared-on-10-others
 featured: false
 layout: post
 categories: posts

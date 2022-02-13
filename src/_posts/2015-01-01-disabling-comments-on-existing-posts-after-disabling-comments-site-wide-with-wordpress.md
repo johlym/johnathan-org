@@ -1,7 +1,6 @@
 ---
 title: Disabling Comments on Existing Posts After Disabling Comments Site-Wide with
   WordPress
-slug: disabling-comments-on-existing-posts-after-disabling-comments-site-wide-with-wordpress
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Getting Started with Loggly
-slug: getting-started-with-loggly
 featured: false
 layout: post
 categories: posts

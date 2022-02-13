@@ -1,6 +1,5 @@
 ---
 title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown'
-slug: linode-vs-digital-ocean-a-three-round-vps-benchmark-showdown
 featured: false
 layout: post
 categories: posts

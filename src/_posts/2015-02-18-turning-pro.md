@@ -1,6 +1,5 @@
 ---
 title: Turning Pro
-slug: turning-pro
 featured: false
 layout: post
 categories: posts

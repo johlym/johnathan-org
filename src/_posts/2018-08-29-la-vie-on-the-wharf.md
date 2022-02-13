@@ -1,6 +1,5 @@
 ---
 title: La Vie on the Wharf
-slug: la-vie-on-the-wharf
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Total Transparency
-slug: total-transparency
 featured: false
 layout: post
 categories: posts

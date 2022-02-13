@@ -1,6 +1,5 @@
 ---
 title: Happiness Is a Problem
-slug: happiness-is-a-problem
 featured: false
 layout: post
 categories: posts

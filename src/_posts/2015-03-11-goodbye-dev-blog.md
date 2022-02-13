@@ -1,6 +1,5 @@
 ---
 title: Goodbye Dev Blog
-slug: goodbye-dev-blog
 featured: false
 layout: post
 categories: posts

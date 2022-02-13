@@ -1,6 +1,5 @@
 ---
 title: The Taste of Reckoning
-slug: the-taste-of-reckoning
 featured: false
 layout: post
 categories: posts

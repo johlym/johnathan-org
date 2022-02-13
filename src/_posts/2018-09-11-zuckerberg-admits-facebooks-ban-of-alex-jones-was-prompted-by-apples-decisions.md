@@ -1,6 +1,5 @@
 ---
 title: Zuckerberg admits Facebook's ban of Alex Jones was prompted by Apple's decisions
-slug: zuckerberg-admits-facebooks-ban-of-alex-jones-was-prompted-by-apples-decisions
 featured: false
 
 

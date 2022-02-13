@@ -1,6 +1,5 @@
 ---
 title: Through an Open Window
-slug: through-an-open-window
 featured: false
 layout: post
 categories: posts

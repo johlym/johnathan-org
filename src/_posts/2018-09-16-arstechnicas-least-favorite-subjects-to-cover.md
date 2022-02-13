@@ -1,6 +1,5 @@
 ---
 title: ArsTechnica's Least Favorite Subjects to Cover
-slug: arstechnicas-least-favorite-subjects-to-cover
 featured: false
 
 layout: post

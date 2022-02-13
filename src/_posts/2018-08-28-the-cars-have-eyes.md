@@ -1,6 +1,5 @@
 ---
 title: The cars have eyes
-slug: the-cars-have-eyes
 featured: false
 layout: post
 categories: posts

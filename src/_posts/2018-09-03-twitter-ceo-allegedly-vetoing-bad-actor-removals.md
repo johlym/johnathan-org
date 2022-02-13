@@ -1,6 +1,5 @@
 ---
 title: Twitter CEO Allegedly Vetoing Bad Actor Removals
-slug: twitter-ceo-allegedly-vetoing-bad-actor-removals
 featured: false
 
 layout: post

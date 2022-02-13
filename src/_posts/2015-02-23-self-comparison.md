@@ -1,6 +1,5 @@
 ---
 title: Self-Comparison
-slug: self-comparison
 featured: false
 layout: post
 categories: posts

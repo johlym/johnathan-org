@@ -1,6 +1,5 @@
 ---
 title: Wireless Streaming of Spotify (sort of)
-slug: wireless-streaming-of-spotify-sort-of
 featured: false
 layout: post
 categories: posts

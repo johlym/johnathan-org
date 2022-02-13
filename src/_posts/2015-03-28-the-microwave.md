@@ -1,6 +1,5 @@
 ---
 title: The Microwave
-slug: the-microwave
 featured: false
 layout: post
 categories: posts

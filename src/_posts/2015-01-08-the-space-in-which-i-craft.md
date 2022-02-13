@@ -1,6 +1,5 @@
 ---
 title: The Space in Which I Craft
-slug: the-space-in-which-i-craft
 featured: false
 layout: post
 categories: posts

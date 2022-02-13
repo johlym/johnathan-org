@@ -1,6 +1,5 @@
 ---
 title: Wi-Fi Switches from Obscure Protocol Names to Simple Generation Numbers
-slug: wi-fi-switches-from-obscure-protocol-names-to-simple-generation-numbers
 featured: false
   – Johnathan.org
 

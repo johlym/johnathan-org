@@ -1,6 +1,5 @@
 ---
 title: Seeing the Forest for the Trees
-slug: seeing-the-forest-for-the-trees
 featured: false
 layout: post
 categories: posts

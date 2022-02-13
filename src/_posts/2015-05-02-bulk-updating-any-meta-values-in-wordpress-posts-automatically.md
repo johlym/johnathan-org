@@ -1,6 +1,5 @@
 ---
 title: Bulk Updating Any Meta Values in WordPress Posts Automatically
-slug: bulk-updating-any-meta-values-in-wordpress-posts-automatically
 featured: false
 layout: post
 categories: posts

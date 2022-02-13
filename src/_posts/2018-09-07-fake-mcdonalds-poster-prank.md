@@ -1,6 +1,5 @@
 ---
 title: Fake McDonald's Poster Prank
-slug: fake-mcdonalds-poster-prank
 featured: false
 
 categories: posts

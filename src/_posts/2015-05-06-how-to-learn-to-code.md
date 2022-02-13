@@ -1,6 +1,5 @@
 ---
 title: How to Learn to Code
-slug: how-to-learn-to-code
 featured: false
 
 categories: posts

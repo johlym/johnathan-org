@@ -1,6 +1,5 @@
 ---
 title: All the iPhone XS and XS Max Reviews in One Place
-slug: all-the-iphone-xs-and-xs-max-reviews-in-one-place
 featured: false
 
 categories: posts

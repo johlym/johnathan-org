@@ -1,6 +1,5 @@
 ---
 title: Google Violations
-slug: google-violations
 featured: false
 layout: post
 categories: posts

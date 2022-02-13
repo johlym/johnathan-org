@@ -1,6 +1,5 @@
 ---
 title: RadioShanty
-slug: radioshanty
 featured: false
 layout: post
 categories: posts

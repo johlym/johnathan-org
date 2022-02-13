@@ -1,6 +1,5 @@
 ---
 title: How Long Has it Been?
-slug: how-long-has-it-been
 featured: false
 layout: post
 categories: posts

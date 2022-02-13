@@ -1,6 +1,5 @@
 ---
 title: Facebook Breach Exposes 50 Million Accounts
-slug: facebook-breach-exposes-50-million-accounts
 featured: false
 
 layout: post

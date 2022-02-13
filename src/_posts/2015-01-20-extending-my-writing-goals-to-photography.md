@@ -1,6 +1,5 @@
 ---
 title: Extending My Writing Goals to Photography
-slug: extending-my-writing-goals-to-photography
 featured: false
 layout: post
 categories: posts

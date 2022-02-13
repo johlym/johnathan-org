@@ -1,6 +1,5 @@
 ---
 title: Charging the iPhone X
-slug: charging-the-iphone-x
 featured: false
 layout: post
 categories: posts

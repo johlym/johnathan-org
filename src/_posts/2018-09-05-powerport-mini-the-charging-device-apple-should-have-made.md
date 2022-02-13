@@ -1,6 +1,5 @@
 ---
 title: 'PowerPort Mini: The Charging Device Apple Should Have Made'
-slug: powerport-mini-the-charging-device-apple-should-have-made
 featured: false
 layout: post
 categories: posts

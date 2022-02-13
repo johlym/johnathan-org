@@ -1,6 +1,5 @@
 ---
 title: You can't say anything anymore! You can't even make jokes!
-slug: you-cant-say-anything-anymore-you-cant-even-make-jokes
 featured: false
 
 categories: posts

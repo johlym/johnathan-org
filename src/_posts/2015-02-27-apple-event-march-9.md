@@ -1,6 +1,5 @@
 ---
 title: 'Apple Event: March 9'
-slug: apple-event-march-9
 featured: false
 layout: post
 categories: posts

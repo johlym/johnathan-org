@@ -1,6 +1,5 @@
 ---
 title: Dust Settling
-slug: dust-settling
 featured: false
 layout: post
 categories: posts

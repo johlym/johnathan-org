@@ -1,6 +1,5 @@
 ---
 title: How to Fix Misspelled Column Names in a Ruby on Rails Database
-slug: how-to-fix-misspelled-column-names-in-a-ruby-on-rails-database
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: My First Smartphone
-slug: my-first-smartphone
 featured: false
 layout: post
 categories: posts

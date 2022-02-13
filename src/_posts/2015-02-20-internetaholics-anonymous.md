@@ -1,6 +1,5 @@
 ---
 title: Internetaholics Anonymous
-slug: internetaholics-anonymous
 featured: false
 layout: post
 categories: posts

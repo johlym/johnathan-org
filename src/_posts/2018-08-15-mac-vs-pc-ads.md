@@ -1,6 +1,5 @@
 ---
 title: Mac vs PC Ads
-slug: mac-vs-pc-ads
 featured: false
 layout: post
 categories: posts

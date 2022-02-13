@@ -1,6 +1,5 @@
 ---
 title: 'Elder Scrolls Online: Tamirel Unlimited'
-slug: elder-scrolls-online-tamirel-unlimited
 featured: false
 layout: post
 categories: posts

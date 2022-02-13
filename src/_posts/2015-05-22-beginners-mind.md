@@ -1,6 +1,5 @@
 ---
 title: Beginner's Mind
-slug: beginners-mind
 featured: false
 layout: post
 categories: posts

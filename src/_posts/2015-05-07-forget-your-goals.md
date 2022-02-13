@@ -1,6 +1,5 @@
 ---
 title: Forget Your Goals
-slug: forget-your-goals
 featured: false
 layout: post
 categories: posts

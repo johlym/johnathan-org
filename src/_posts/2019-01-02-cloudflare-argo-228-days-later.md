@@ -1,6 +1,5 @@
 ---
 title: 'Cloudflare Argo: 228 Days Later'
-slug: cloudflare-argo-228-days-later
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Power Rangers
-slug: power-rangers
 featured: false
 layout: post
 categories: posts

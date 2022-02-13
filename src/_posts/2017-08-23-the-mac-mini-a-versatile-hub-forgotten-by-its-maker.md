@@ -1,6 +1,5 @@
 ---
 title: 'The Mac Mini: A Versatile Hub Forgotten By Its Maker'
-slug: the-mac-mini-a-versatile-hub-forgotten-by-its-maker
 featured: false
 layout: post
 categories: posts

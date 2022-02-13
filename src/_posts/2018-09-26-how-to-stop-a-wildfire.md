@@ -1,6 +1,5 @@
 ---
 title: How to Stop a Wildfire
-slug: how-to-stop-a-wildfire
 featured: false
 
 categories: posts

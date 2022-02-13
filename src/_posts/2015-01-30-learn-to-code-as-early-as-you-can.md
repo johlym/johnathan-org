@@ -1,6 +1,5 @@
 ---
 title: Learn to Code as Early as You Can!
-slug: learn-to-code-as-early-as-you-can
 featured: false
 layout: post
 categories: posts

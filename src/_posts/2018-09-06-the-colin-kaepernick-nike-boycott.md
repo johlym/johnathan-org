@@ -1,6 +1,5 @@
 ---
 title: The Colin Kaepernick-Nike Boycott
-slug: the-colin-kaepernick-nike-boycott
 featured: false
 layout: post
 categories: posts

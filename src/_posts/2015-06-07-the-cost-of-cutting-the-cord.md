@@ -1,6 +1,5 @@
 ---
 title: The Cost of Cutting the Cord
-slug: the-cost-of-cutting-the-cord
 featured: false
 layout: post
 categories: posts

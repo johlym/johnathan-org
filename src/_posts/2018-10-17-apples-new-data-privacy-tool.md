@@ -1,6 +1,5 @@
 ---
 title: Apple's New Data Privacy Tool
-slug: apples-new-data-privacy-tool
 featured: false
 
 layout: post

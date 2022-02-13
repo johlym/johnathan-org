@@ -1,6 +1,5 @@
 ---
 title: Emotional Decisions
-slug: emotional-decisions
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: Alphabet Shuts Google+ Social Site After User Data Exposed
-slug: alphabet-shuts-google-social-site-after-user-data-exposed
 featured: false
 
 layout: post

@@ -1,6 +1,5 @@
 ---
 title: Incapacity
-slug: incapacity
 featured: false
 layout: post
 categories: posts

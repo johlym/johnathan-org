@@ -1,6 +1,5 @@
 ---
 title: The Fountain of Youth
-slug: the-fountain-of-youth
 featured: false
 layout: post
 categories: posts

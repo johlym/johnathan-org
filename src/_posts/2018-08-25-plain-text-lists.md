@@ -1,6 +1,5 @@
 ---
 title: Plain Text Lists
-slug: plain-text-lists
 featured: false
 layout: post
 categories: posts

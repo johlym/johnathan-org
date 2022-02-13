@@ -1,6 +1,5 @@
 ---
 title: 'Morning Email: Check In Without Checking Out'
-slug: morning-email-check-in-without-checking-out
 featured: false
 layout: post
 categories: posts

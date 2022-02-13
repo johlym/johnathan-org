@@ -1,6 +1,5 @@
 ---
 title: Configure a Raspberry Pi as a print server for Dymo label printers
-slug: configure-a-raspberry-pi-as-a-print-server-for-dymo-label-printers
 featured: false
 
 layout: post

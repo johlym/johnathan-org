@@ -1,6 +1,5 @@
 ---
 title: Yet Another Re-design
-slug: yet-another-re-design
 featured: false
 layout: post
 categories: posts

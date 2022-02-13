@@ -1,6 +1,5 @@
 ---
 title: Commuting and Wasted Time
-slug: commuting-and-wasted-time
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: On the Bus in the Fog Unlike a Dog on a Log in a Bog with Nog
-slug: on-the-bus-in-the-fog-unlike-a-dog-on-a-log-in-a-bog-with-nog
 featured: false
 layout: post
 categories: posts

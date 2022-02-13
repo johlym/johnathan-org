@@ -1,6 +1,5 @@
 ---
 title: Busting Cloudflare Cache when Posting to WordPress via XML-RPC
-slug: busting-cloudflare-cache-when-posting-to-wordpress-via-xml-rpc
 featured: false
 layout: post
 categories: posts

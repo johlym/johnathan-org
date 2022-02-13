@@ -1,6 +1,5 @@
 ---
 title: Pro Gamer Might Never Play Games Again
-slug: pro-gamer-might-never-play-games-again
 featured: false
 layout: post
 categories: posts

@@ -1,6 +1,5 @@
 ---
 title: On Developing a WordPress Theme
-slug: on-developing-a-wordpress-theme
 featured: false
 layout: post
 categories: posts

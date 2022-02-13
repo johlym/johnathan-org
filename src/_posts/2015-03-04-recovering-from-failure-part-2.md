@@ -1,6 +1,5 @@
 ---
 title: Recovering From Failure, Part 2
-slug: recovering-from-failure-part-2
 featured: false
 layout: post
 categories: posts

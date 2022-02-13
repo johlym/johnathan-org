@@ -1,6 +1,5 @@
 ---
 title: Future Ruby on Rails Developer
-slug: future-ruby-on-rails-developer
 featured: false
 layout: post
 categories: posts

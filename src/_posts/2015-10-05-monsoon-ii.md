@@ -1,6 +1,5 @@
 ---
 title: Monsoon II
-slug: monsoon-ii
 featured: false
 
 layout: post

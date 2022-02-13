@@ -1,6 +1,5 @@
 ---
 title: DuckDuckGo climbs to 30 million daily searches, up 50% in a year
-slug: duckduckgo-climbs-to-30-million-daily-searches-up-50-in-a-year
 featured: false
 
 layout: post

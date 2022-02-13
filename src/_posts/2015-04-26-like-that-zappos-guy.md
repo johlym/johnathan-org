@@ -1,6 +1,5 @@
 ---
 title: Like That Zappos Guy
-slug: like-that-zappos-guy
 featured: false
 layout: post
 categories: posts

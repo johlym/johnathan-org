@@ -1,6 +1,5 @@
 ---
 title: On Working Remotely
-slug: working-remotely
 feature_image: "/content/images/2021/11/sigmund-eTgMFFzroGc-unsplash.jpg"
 featured: false
 excerpt: This post on remote work sat as a vague outline in my drafts folder for literally

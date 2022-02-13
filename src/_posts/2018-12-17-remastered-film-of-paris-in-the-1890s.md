@@ -1,6 +1,5 @@
 ---
 title: Remastered film of Paris in the 1890s
-slug: remastered-film-of-paris-in-the-1890s
 featured: false
 
 layout: post

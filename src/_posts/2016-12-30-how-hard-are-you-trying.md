@@ -1,6 +1,5 @@
 ---
 title: How Hard Are You Trying?
-slug: how-hard-are-you-trying
 featured: false
 layout: post
 categories: posts

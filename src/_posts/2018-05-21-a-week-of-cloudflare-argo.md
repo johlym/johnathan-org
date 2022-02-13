@@ -1,6 +1,5 @@
 ---
 title: A Week of Cloudflare Argo
-slug: a-week-of-cloudflare-argo
 featured: false
 layout: post
 categories: posts

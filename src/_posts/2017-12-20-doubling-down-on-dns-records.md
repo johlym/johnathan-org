@@ -1,6 +1,5 @@
 ---
 title: Doubling Down on DNS Records
-slug: doubling-down-on-dns-records
 featured: false
 layout: post
 categories: posts

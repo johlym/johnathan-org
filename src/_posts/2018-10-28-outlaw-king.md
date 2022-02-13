@@ -1,6 +1,5 @@
 ---
 title: Outlaw King
-slug: outlaw-king
 featured: false
 layout: post
 categories: posts

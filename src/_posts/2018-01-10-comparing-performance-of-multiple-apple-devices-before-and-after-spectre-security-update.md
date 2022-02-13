@@ -1,7 +1,6 @@
 ---
 title: Comparing Performance of Multiple Apple Devices Before and After Spectre Security
   Update
-slug: comparing-performance-of-multiple-apple-devices-before-and-after-spectre-security-update
 featured: false
   slows dow
 
