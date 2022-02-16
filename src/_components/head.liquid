@@ -11,6 +11,4 @@
 <script src="{% asset_path js %}" defer></script>
 <script src="https://kit.fontawesome.com/672afa0713.js" crossorigin="anonymous"></script>
 {% live_reload_dev_js %}
-{% if bridgetown.environment == "production" %}
 {% render "fathom" %}
-{% endif %}
