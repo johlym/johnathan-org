@@ -16,7 +16,12 @@
       </div>
       <div class="col d-flex flex-column mb-5 col-lg">
         <p class="mb-2 fw-bold">Site Statistics</p>
-        <p class="text-muted">coming soon.</p>
+          <ul class="px-0 list-unstyled">
+            <li>{% site_stats posts %} posts</li>
+            <li>{% site_stats words %} total words</li>
+            {% comment %} <li>{% site_stats average %} average words/post</li> {% endcomment %}
+            <li></li>
+          </ul>
       </div>
       <div class="col d-flex flex-column mb-5 col-lg">
         <p class="mb-2 fw-bold">Site Links</p>
