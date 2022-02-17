@@ -1,0 +1,4 @@
+{
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.framework.startCommand": "bin/bridgetown start"
+}
