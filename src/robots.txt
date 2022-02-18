@@ -1,0 +1,8 @@
+---
+layout: none
+slug: robots.txt
+---
+
+User-agent: * 
+Allow: /
+Sitemap: https://johnathan.org/sitemap.xml
