@@ -35,6 +35,7 @@ use Rack::Rewrite do
   r301 %r{/tag.*}, '/'
   r301 %r{/author.*}, '/about/'
   r301 %r{/rss.*}, '/feed/'
+  r301 %r{/feed?cat=-434}, '/feed/'
 end
 
 Bridgetown::Rack.boot
