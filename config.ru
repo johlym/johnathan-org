@@ -34,7 +34,7 @@ use Rack::Rewrite do
   r301 %r{/site-archives.*}, '/'
   r301 %r{/tag.*}, '/'
   r301 %r{/author.*}, '/about/'
-
+  r301 %r{/rss.*}, '/feed/'
 end
 
 Bridgetown::Rack.boot
