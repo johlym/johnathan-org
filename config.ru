@@ -25,6 +25,17 @@ use Rack::Rewrite do
 
   # /2020/12/file-name => /file-name/
   r301 %r{/\d{4}/\d{2}/(.*)}, '/$1/'
+
+  ## Custom redirects to clean up references in old locations on the Internet
+  r301 %r{/contact[/]?}, '/about/'
+  r301 %r{/colophon[/]?}, '/about/'
+  r301 %r{/stream-rtmp[/]?}, '/attempting-to-stream-a-webcam-to-an-rtmp-server/'
+  r301 %r{/rtmp-nginx-apt[/]?}, '/add-rtmp-support-to-nginx-installed-from-apt/'
+  r301 %r{/site-archives.*}, '/'
+  r301 %r{/tag.*}, '/'
+  r301 %r{/author.*}, '/about/'
+  r301 %r{/rss.*}, '/feed.xml'
+  r301 %r{/feed?cat=-434}, '/feed.xml'
 end
 
 Bridgetown::Rack.boot
