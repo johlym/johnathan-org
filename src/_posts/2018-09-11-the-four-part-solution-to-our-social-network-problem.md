@@ -2,9 +2,9 @@
 title: A Potential Solution to Our Social Network Problem
 featured: false
 layout: post
-
 date: 2018-09-11 10:36:45 -07:00
-last_modified_at: 2022-02-28T22:57:04.913Z
+last_modified_at: 2022-02-28T23:23:23.721Z
+tagged: journal
 ---
 
 I haven't spent much time publicly discussing the idea of alternatives to social networks. Luckily, [Manton Reece did](http://manton.org/2018/09/07/the-way-out.html) which served as a great jumping off point for this post. I won't re-hash too much of Manton's discussion because it's entirely worth reading on its own but he did mention a couple things that I feel like is worth mentioning here.

@@ -7,9 +7,9 @@ excerpt: This post on remote work sat as a vague outline in my drafts folder for
   February 2016 and added some things to it in May of that same year. From then
   on, it sat. This is my attempt at finally tying it off.
 layout: post
-
 date: 2021-11-04 16:51:23 -07:00
-last_modified_at: 2022-02-28T22:57:05.015Z
+last_modified_at: 2022-02-28T23:25:51.965Z
+tagged: productivity
 ---
 
 This post on remote work sat as a vague outline in my drafts folder for literally five and a half years. I first plopped this outline into Ulysses in February 2016 and added some things to it in May of that same year. From then on, it sat. This is my attempt at finally tying it off.

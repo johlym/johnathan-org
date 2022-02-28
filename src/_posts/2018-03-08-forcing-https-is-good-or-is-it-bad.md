@@ -2,9 +2,9 @@
 title: Forcing HTTPS is Good… or is it Bad?
 featured: false
 layout: post
-
 date: 2018-03-08 13:03:16 -08:00
-last_modified_at: 2022-02-28T22:57:04.969Z
+last_modified_at: 2022-02-28T23:21:22.218Z
+tagged: programming
 ---
 
 There's a bit of a debate in various corners of the Internet about how Google's adding of `Not Secure` to HTTP-only sites as an indicator in the address bar is somehow bad for the Internet.

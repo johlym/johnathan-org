@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2017-01-02 17:44:09 -08:00
-last_modified_at: 2022-02-28T22:57:04.905Z
+last_modified_at: 2022-02-28T23:12:35.628Z
+tagged: journal
 ---
 
 There's something to be said about sitting in a coffee shop with nothing in particular going on. It wasn't one of those days but the coffee shop and sitting parts were true.

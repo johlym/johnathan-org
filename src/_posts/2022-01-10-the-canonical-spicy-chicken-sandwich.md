@@ -5,10 +5,10 @@ excerpt: Summarizing my experiences and notes from sampling all the local-area s
   chicken sandwich options in the hopes that I can define what I think would
   make a great reference sandwich.
 layout: post
-
 date: 2022-01-10 12:20:13 -08:00
-last_modified_at: 2022-02-28T22:57:04.975Z
+last_modified_at: 2022-02-28T23:25:57.351Z
 image: /images/chicken-sandwich.jpg
+tagged: lists
 ---
 
 - Bun: Chick-Fil-A (buttered)

@@ -2,9 +2,9 @@
 title: "PowerPort Mini: The Charging Device Apple Should Have Made"
 featured: false
 layout: post
-
 date: 2018-09-05 16:20:07 -07:00
-last_modified_at: 2022-02-28T22:57:04.986Z
+last_modified_at: 2022-02-28T23:23:12.872Z
+tagged: technology
 ---
 
 When I travel, I try to bring as few plugs, cords, and other dinguses as possible. My typical mobile device loadout consists of an iPhone, Watch, and iPad. Occasionally I'll bring my MacBook Pro but that travels with its own power cord, so I'll exempt it from this discussion. My iPad is generally only used on planes and in airports so it'll stay in a bag most of the trip. My iPhone and Watch are the only two devices I'd use on the regular and as such need to always keep charged.

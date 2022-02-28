@@ -2,9 +2,9 @@
 title: On Developing a WordPress Theme
 featured: false
 layout: post
-
 date: 2018-01-07 21:07:19 -08:00
-last_modified_at: 2022-02-28T22:57:04.966Z
+last_modified_at: 2022-02-28T23:20:03.701Z
+tagged: programming
 ---
 
 A few weeks ago I started the process of moving this blog over to WordPress from Ghost—and I talked about why I did that in a previous post—so now that I've made the change, the next natural step felt like talking about how I developed a theme for the first time.
@@ -78,33 +78,33 @@ var gulp = require('gulp');
 var runSequence = require('run-sequence');
 
 gulp.task('watch', function (callback) {
-runSequence(
-'sass:compile',
-'copy:dev',
-'browsersync:production',
-() => {
-gulp.watch('app/**/*.php', () => {
-runSequence(
-'copy:dev',
-'browsersync:reload'
-);
-});
-gulp.watch('app/assets/scss/**/*.scss', () => {
-runSequence(
-'sass:compile',
-'copy:dev',
-'browsersync:reload'
-);
-});
-gulp.watch('app/assets/js/**/*.js', () => {
-runSequence(
-'copy:dev',
-'browsersync:reload'
-);
-});
-return callback;
-}
-);
+  runSequence(
+    'sass:compile',
+    'copy:dev',
+    'browsersync:production',
+    () => {
+      gulp.watch('app/**/*.php', () => {
+        runSequence(
+          'copy:dev',
+          'browsersync:reload'
+        );
+      });
+      gulp.watch('app/assets/scss/**/*.scss', () => {
+        runSequence(
+          'sass:compile',
+          'copy:dev',
+          'browsersync:reload'
+        );
+      });
+      gulp.watch('app/assets/js/**/*.js', () => {
+        runSequence(
+          'copy:dev',
+          'browsersync:reload'
+        );
+      });
+      return callback;
+    }
+  );
 });
 ```
 
@@ -115,19 +115,19 @@ var gulp = require('gulp');
 var runSequence = require('run-sequence');
 
 gulp.task('dist', function (callback) {
-runSequence(
-'delete',
-'copy',
-'sass:compile',
-[
-'optimize:css',
-'optimize:js',
-'optimize:images'
-],
-'zip',
-'vrev',
-callback
-);
+  runSequence(
+    'delete',
+    'copy',
+    'sass:compile',
+    [
+      'optimize:css',
+      'optimize:js',
+      'optimize:images'
+    ],
+    'zip',
+    'vrev',
+    callback
+  );
 });
 ```
 
@@ -143,16 +143,16 @@ var browserSync = require('browser-sync').create();
 var proxy = 'johnathan-org-staging:80';
 
 gulp.task('browsersync:production', function (callback) {
-browserSync.init({
-proxy: proxy
-});
+  browserSync.init({
+    proxy: proxy
+  });
 
-callback();
+  callback();
 });
 
 gulp.task('browsersync:reload', function (callback) {
-browserSync.reload();
-callback();
+  browserSync.reload();
+  callback();
 });
 ```
 
@@ -160,29 +160,34 @@ callback();
 // copy.js
 var gulp = require('gulp');
 var files = ['app/**/*.php',
-'app/*.txt',
-'app/screenshot.png',
-'app/browserconfig.xml',
-'app/assets/css/**/*',
-'app/assets/fonts/**/*',
-'app/style.css',
-'app/assets/js/*',
-'app/assets/images/*',
-'app/assets/svg/*'];
+  'app/*.txt',
+  'app/screenshot.png',
+  'app/browserconfig.xml',
+  'app/assets/css/**/*',
+  'app/assets/fonts/**/*',
+  'app/style.css',
+  'app/assets/js/*',
+  'app/assets/images/*',
+  'app/assets/svg/*'
+];
 var base = './app';
 var prodDest = './johnathan-org';
 var devDest = '/Users/jlyman/Local Sites/johnathanorg-staging/app/public/wp-content/themes/johnathan-org';
 
 gulp.task('copy', () => {
-return gulp
-.src(files, {base: base})
-.pipe(gulp.dest(prodDest));
+  return gulp
+    .src(files, {
+      base: base
+    })
+    .pipe(gulp.dest(prodDest));
 });
 
 gulp.task('copy:dev', () => {
-return gulp
-.src(files, {base: base})
-.pipe(gulp.dest(devDest));
+  return gulp
+    .src(files, {
+      base: base
+    })
+    .pipe(gulp.dest(devDest));
 });
 ```
 
@@ -192,7 +197,7 @@ var gulp = require('gulp');
 var del = require('del');
 
 gulp.task('delete', () => {
-del.sync('johnathan-org');
+  del.sync('johnathan-org');
 });
 ```
 
@@ -202,10 +207,10 @@ var gulp = require('gulp');
 var gzip = require('gulp-gzip');
 
 gulp.task('gzip', () => {
-return gulp
-.src('johnathan-org/assets/**/*.{css,js}')
-.pipe(gzip())
-.pipe(gulp.dest('johnathan-org/assets'));
+  return gulp
+    .src('johnathan-org/assets/**/*.{css,js}')
+    .pipe(gzip())
+    .pipe(gulp.dest('johnathan-org/assets'));
 });
 ```
 
@@ -218,33 +223,33 @@ var uglify = require('gulp-uglify');
 var size = require('gulp-size');
 
 gulp.task('optimize:css', () => {
-return gulp
-.src('dist/assets/css/**/*.css')
-.pipe(cssnano())
-.pipe(gulp.dest('johnathan-org/assets/css'))
-.pipe(size({
-showFiles: true
-}));
+  return gulp
+    .src('dist/assets/css/**/*.css')
+    .pipe(cssnano())
+    .pipe(gulp.dest('johnathan-org/assets/css'))
+    .pipe(size({
+      showFiles: true
+    }));
 });
 
 gulp.task('optimize:images', () => {
-return gulp
-.src('app/assets/images/**/*.{jpg,jpeg,png,gif,svg}')
-.pipe(imagemin())
-.pipe(gulp.dest('johnathan-org/assets/images'))
-.pipe(size({
-showFiles: true
-}));
+  return gulp
+    .src('app/assets/images/**/*.{jpg,jpeg,png,gif,svg}')
+    .pipe(imagemin())
+    .pipe(gulp.dest('johnathan-org/assets/images'))
+    .pipe(size({
+      showFiles: true
+    }));
 });
 
 gulp.task('optimize:js', () => {
-return gulp
-.src('johnathan-org/assets/js/**/*.js')
-.pipe(uglify())
-.pipe(gulp.dest('johnathan-org/assets/js'))
-.pipe(size({
-showFiles: true
-}));
+  return gulp
+    .src('johnathan-org/assets/js/**/*.js')
+    .pipe(uglify())
+    .pipe(gulp.dest('johnathan-org/assets/js'))
+    .pipe(size({
+      showFiles: true
+    }));
 });
 ```
 
@@ -257,12 +262,12 @@ var clean = require('gulp-clean');
 var runSequence = require('run-sequence');
 
 gulp.task('sass:compile', () => {
-return gulp
-.src('app/assets/scss/**/*.scss')
-.pipe(sourcemaps.init())
-.pipe(sass().on('error', sass.logError))
-.pipe(sourcemaps.write('./maps'))
-.pipe(gulp.dest('app/assets/css'));
+  return gulp
+    .src('app/assets/scss/**/*.scss')
+    .pipe(sourcemaps.init())
+    .pipe(sass().on('error', sass.logError))
+    .pipe(sourcemaps.write('./maps'))
+    .pipe(gulp.dest('app/assets/css'));
 });
 ```
 
@@ -278,10 +283,10 @@ var fnFile = 'johnathan-org/functions.php';
 var vString = "'" + pJson.version + "'";
 
 gulp.task('vrev', () => {
-return gulp
-.src(fnFile)
-.pipe(replace('rand(100000,999999)', vString))
-.pipe(gulp.dest('johnathan-org'));
+  return gulp
+    .src(fnFile)
+    .pipe(replace('rand(100000,999999)', vString))
+    .pipe(gulp.dest('johnathan-org'));
 });
 ```
 
@@ -292,11 +297,11 @@ var zip = require('gulp-zip');
 var size = require('gulp-size');
 
 gulp.task('zip', () => {
-return gulp
-.src('johnathan-org/**/*')
-.pipe(zip('johnathan-org.zip'))
-.pipe(gulp.dest('./'))
-.pipe(size());
+  return gulp
+    .src('johnathan-org/**/*')
+    .pipe(zip('johnathan-org.zip'))
+    .pipe(gulp.dest('./'))
+    .pipe(size());
 });
 ```
 

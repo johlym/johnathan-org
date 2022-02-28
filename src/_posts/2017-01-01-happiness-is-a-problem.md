@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2017-01-01 10:15:00 -08:00
-last_modified_at: 2022-02-28T22:57:04.881Z
+last_modified_at: 2022-02-28T23:12:30.391Z
+tagged: journal
 ---
 
 What do you think of when I say the words _you'll never really be happy without problems_?

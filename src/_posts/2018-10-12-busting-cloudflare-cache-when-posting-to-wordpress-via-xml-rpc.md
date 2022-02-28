@@ -2,12 +2,11 @@
 title: Busting Cloudflare Cache when Posting to WordPress via XML-RPC
 featured: false
 layout: post
-
 date: 2018-10-12 08:51:29 -07:00
-last_modified_at: 2022-02-28T22:57:04.885Z
+last_modified_at: 2022-02-28T23:24:47.489Z
 ---
 
-I love [Cloudflare](https://cloudflare.com). I'll come right out and say that now. It's a great service and makes for incredibly performant sites if used right (aggressively). I don't feel like I'm getting the most out of it until it's caching just about everything possible. Most of my content is static and never changes (save for the home page and each paginated set of posts thereafter). Even then, the homepage changes maybe a couple times a day. It makes a lot of sense for Cloudflare to cache them all. I use pretty aggressive Page Rule-based caching to accomplish that.
+Cloudflare is a great service and makes for incredibly performant sites if used right (aggressively). I don't feel like I'm getting the most out of it until it's caching just about everything possible. Most of my content is static and never changes (save for the home page and each paginated set of posts thereafter). Even then, the homepage changes maybe a couple times a day. It makes a lot of sense for Cloudflare to cache them all. I use pretty aggressive Page Rule-based caching to accomplish that.
 
 Part of my regular blogging workflow involves posting using MarsEdit. It's a great tool and uses XML-RPC to post content. One of the problems with this workflow is that most caching-management plugins for WordPress don't consider any kind of content changes via XML-RPC, only via the WordPress Admin UI. This means that there's virtually no support for engaging all the cache-cleaning activities when XML-RPC events take place and thus Cloudflare is never notified for purging.
 

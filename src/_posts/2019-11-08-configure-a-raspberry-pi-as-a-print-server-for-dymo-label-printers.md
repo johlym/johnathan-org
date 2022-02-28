@@ -1,11 +1,10 @@
 ---
 title: Configure a Raspberry Pi as a print server for Dymo label printers
 featured: false
-
 layout: post
-
 date: 2019-11-08 17:01:06 -08:00
-last_modified_at: 2022-02-28T22:57:05.021Z
+last_modified_at: 2022-02-28T23:25:41.323Z
+tagged: technology
 ---
 
 This seemed like an odd article to post after nearly 11 months of blog inactivity, but it's a problem I had to solve on my own today and felt it necessary to write this. Other Internet-based sources I consulted ended up only being partially correct so this is ultimately a combination of all the correct pieces of information that exist online.
