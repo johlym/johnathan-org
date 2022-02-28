@@ -1,3 +1,5 @@
 {
-  "$schema": "https://frontmatter.codes/frontmatter.schema.json"
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.framework.startCommand": "bin/bridgetown start",
+  "frontMatter.preview.host": "http://localhost:4000"
 }
