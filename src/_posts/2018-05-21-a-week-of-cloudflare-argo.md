@@ -3,7 +3,7 @@ title: A Week of Cloudflare Argo
 featured: false
 layout: post
 date: 2018-05-21 17:00:00 -07:00
-last_modified_at: 2022-02-28T23:28:56.257Z
+last_modified_at: 2022-02-28T23:55:28.547Z
 category: technology
 ---
 
@@ -17,7 +17,7 @@ Looking at some of the stats, now…
 
 {% cloudinary_img "", "updown_io_response_times_05242018", "standard" %}
 
-As reported by [Updown.io](https://johnathan.org/goto/updown) (the service that powers [status.johnathan.org](https://status.johnathan.org) and the uptime percentage at the bottom of the page), the majority of my requests come in in no time at all, with the obvious winner being Los Angeles (closest to San Francisco, my [DigitalOcean](https://johnathan.org/goto/digitalocean) location). The outlier is France, though I'm not too concerned with it. It seems to be fluctuating.
+As reported by Updown.io (the service that formerly powered status.johnathan.org and the uptime percentage at the bottom of the page), the majority of my requests come in in no time at all, with the obvious winner being Los Angeles (closest to San Francisco, my [DigitalOcean](https://digitalocean.com) location). The outlier is France, though I'm not too concerned with it. It seems to be fluctuating.
 
 ( **Update May 24, 2018** : I noticed response times from Updown.io had dropped to sub 100ms averages thanks to France falling in line with the rest of the countries. The only outlier at this point is Sydney's lookup taking 3-9x longer) than the other locations.)
 

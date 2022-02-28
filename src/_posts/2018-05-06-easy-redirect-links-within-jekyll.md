@@ -3,7 +3,7 @@ title: Easy Redirect Links Within Jekyll
 featured: false
 layout: post
 date: 2018-05-06 17:00:00 -07:00
-last_modified_at: 2022-02-28T23:28:56.270Z
+last_modified_at: 2022-02-28T23:54:45.853Z
 category: programming
 ---
 
@@ -85,8 +85,6 @@ location / {
 ```
 
 For those following along at home, all I added was `$uri.html`. What we're doing is instructing Nginx to take the presented URI–in the case of `/goto/something`, the URI is `something` and try it against `something` by itself, then `something.html` (this is what we've added), and finally `something/` before giving up and looking for a 404 page. If it matches something, try to render it no matter what.
-
-Now, we can push everything and give it a go. In my real-world example, I have a couple links already set up as I write this. My new favorite air purifier/filtration system is [Molekule](https://johnathan.org/goto/molekule) so clicking that link will take you straight there.
 
 Long-term, I'm uncertain about this solution's long-term scalability. This will be fine on the scale of a few hundred links as Jekyll can turn through a few hundred pages in a matter of seconds (especially when paired with Ruby `>= 2.5.x`). How well this works long term will come down to a couple things:
 
