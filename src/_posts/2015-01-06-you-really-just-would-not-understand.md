@@ -3,9 +3,9 @@ title: You Really Just Would not Understand!
 featured: false
 layout: post
 categories: posts
-date: 2015-01-06 19:16:16 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+date: 2015-01-07T03:16:16.000Z
+last_modified_at: '2022-02-28T08:05:14.385Z'
+tagged: journal
 ---
 
 {% cloudinary_img, "Screenshot-2015-01-06-20.14.21", "standard" %}

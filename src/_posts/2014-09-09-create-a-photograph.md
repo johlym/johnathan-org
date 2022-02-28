@@ -3,9 +3,9 @@ title: Create A Photograph
 featured: false
 layout: post
 categories: posts
-date: 2014-09-09 12:01:48 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: photography, journal
+date: 2014-09-09T19:01:48.000Z
+last_modified_at: '2022-02-28T08:06:11.747Z'
+tagged: photography
 ---
 
 _Level of Entry: Low_  

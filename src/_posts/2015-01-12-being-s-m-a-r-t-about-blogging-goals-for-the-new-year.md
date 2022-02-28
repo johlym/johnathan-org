@@ -3,9 +3,9 @@ title: Being S.M.A.R.T about Blogging Goals for the New Year
 featured: false
 layout: post
 categories: posts
-date: 2015-01-12 16:40:42 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+date: 2015-01-13T00:40:42.000Z
+last_modified_at: '2022-02-28T08:05:14.385Z'
+tagged: journal
 ---
 
 If you're still with me, I'm on day eight of the [#10-days-to-a-better-blog](/tag/10-days-to-a-better-blog.html) challenge/workshop/event put on by [John Saddington](http://john.do) of Desk.pm fame. He's on year 14 of blogging so chances are he knows a thing or two. Today's topic has to do with coming up with goals in relation to where I want my blogging to go using the S.M.A.R.T. principle. It is outlined like so:

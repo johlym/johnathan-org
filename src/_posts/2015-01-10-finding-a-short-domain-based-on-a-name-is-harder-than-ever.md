@@ -3,9 +3,9 @@ title: Finding a Short Domain Based on a Name is Harder Than Ever
 featured: false
 layout: post
 categories: posts
-date: 2015-01-10 13:30:54 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal, johnathan.org
+date: 2015-01-10T21:30:54.000Z
+last_modified_at: '2022-02-28T08:05:50.391Z'
+tagged: johnathan.org
 ---
 
 I've always really enjoyed having a short address to rely upon when I tell people where to find my sites. I'm personally of the idea that the shorter you can get your address and have it still make sense, the better, especially on mobile devices. Not everyone is willing to type in `myreallycoolmobileapp.com` when having `appname.com` is much better, or even `app.co`, if it's available.

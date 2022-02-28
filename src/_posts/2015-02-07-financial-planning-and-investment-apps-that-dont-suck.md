@@ -3,8 +3,9 @@ title: Financial Planning and Investment Apps that Don't Suck
 featured: false
 layout: post
 categories: posts
-date: 2015-02-07 11:57:39 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+date: 2015-02-07T19:57:39.000Z
+last_modified_at: '2022-02-28T08:10:00.794Z'
+tagged: software
 ---
 
 I'm always looking for a new tool, app or service that can give me a leg up when it comes to investing and making it as painless as possible which is why I'm covering three tools that can help you invest and save with minimal effort.

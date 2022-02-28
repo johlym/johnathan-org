@@ -3,8 +3,9 @@ title: Learn to Code as Early as You Can!
 featured: false
 layout: post
 categories: posts
-date: 2015-01-30 04:57:40 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+date: 2015-01-30T12:57:40.000Z
+last_modified_at: '2022-02-28T08:08:16.013Z'
+tagged: programming
 ---
 
 One thing I always wish I would have paid more attention to when I was younger was coding. I believe my generation is just the start of the potential batch of humans that become masters of writing code and making apps that do random things. My problem is I feel like I'm a bit behind the curve because I didn't pay as much attention to it nor did I have a solid path to learn code in the first place…

@@ -3,9 +3,9 @@ title: Why I Write
 featured: false
 layout: post
 categories: posts
-date: 2015-01-07 16:51:56 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+date: 2015-01-08T00:51:56.000Z
+last_modified_at: '2022-02-28T08:05:14.378Z'
+tagged: journal
 ---
 
 Part of this newfound journey I'm on to blog better is to look inward at myself and try to figure out why I write. It's more difficult than it sounds because I feel I have two thoughts that form some sort of answer. _I have a thought, maybe two._

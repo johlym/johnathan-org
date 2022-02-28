@@ -3,9 +3,9 @@ title: Half-Way There
 featured: false
 layout: post
 categories: posts
-date: 2015-01-10 12:10:28 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal, johnathan.org
+date: 2015-01-10T20:10:28.000Z
+last_modified_at: '2022-02-28T08:05:54.798Z'
+tagged: johnathan.org
 ---
 
 This site has served many purposes over the last couple of years, and none of them have really taken off. Looking back on how my routines have changed and what I am spending more time focusing on, I can really tell that at some point in the future that I can't determine (yet), this site will finally become a permanent and consistent place for me to write and share my voice and thoughts.

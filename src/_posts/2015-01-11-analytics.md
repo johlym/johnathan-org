@@ -3,9 +3,9 @@ title: Analytics
 featured: false
 layout: post
 categories: posts
-date: 2015-01-11 10:49:20 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+date: 2015-01-11T18:49:20.000Z
+last_modified_at: '2022-02-28T08:05:14.374Z'
+tagged: journal
 ---
 
 I'm cheating a little bit.
