@@ -3,7 +3,7 @@ title: "Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown"
 featured: false
 layout: post
 date: 2018-01-18 10:05:48 -08:00
-last_modified_at: 2022-02-28T23:28:56.281Z
+last_modified_at: 2022-02-28T23:54:27.191Z
 category: technology
 ---
 
@@ -531,7 +531,7 @@ At the end of the day, unless you're running highend workloads, these general pu
 
 The race to the bottom continues with Digital Ocean halfing their prices and I'm glad to see it happen. Given that there's still on-paper desparities between each provider, it made sense and I'm surprised they didn't do it sooner.
 
-I look forward to testing these again in the future in hopes that backed by new/better hardware, [Digital Ocean](https://johnathan.org/goto/digitalocean) can surpass [Linode](https://www.linode.com/?r=2527e12c0aed087cbe51d3862f0a6bb6c5ab8f9a) and further boost the VPS wars that end up benefiting the consumer even more.
+I look forward to testing these again in the future in hopes that backed by new/better hardware, [Digital Ocean](https://digitalocean.com) can surpass [Linode](https://www.linode.com/?r=2527e12c0aed087cbe51d3862f0a6bb6c5ab8f9a) and further boost the VPS wars that end up benefiting the consumer even more.
 
 Expect more tests that include other providers like Vultur, Media Temple, Dreamhost, Lightsail, and more, perhaps even a mega comparo!
 
