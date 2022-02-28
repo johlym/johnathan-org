@@ -8,7 +8,7 @@ excerpt: This post on remote work sat as a vague outline in my drafts folder for
   on, it sat. This is my attempt at finally tying it off.
 layout: post
 date: 2021-11-04 16:51:23 -07:00
-last_modified_at: 2022-02-28T23:29:45.994Z
+last_modified_at: 2022-02-28T23:30:17.338Z
 category: productivity
 ---
 
@@ -23,6 +23,7 @@ All are valid.
 You're seeing this post, though, so only one of those outcomes came to fruition. Guess which one.
 
 * toc
+{:toc}
 
 ## Prologue
 
