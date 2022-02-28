@@ -2,9 +2,10 @@
 title: Re-Invent High School
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-10 11:13:08 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.274Z
+category: journal
 ---
 
 Going to keep this one simple: I wish High School had prepared me for real life. High School never taught me:

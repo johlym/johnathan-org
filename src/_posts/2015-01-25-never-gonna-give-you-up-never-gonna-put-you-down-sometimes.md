@@ -2,10 +2,10 @@
 title: Never Gonna Give You Up, Never Gonna Put You Down. Sometimes.
 featured: false
 layout: post
-categories: posts
-date: 2015-01-25 09:08:12 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+
+date: 2015-01-25T17:08:12.000Z
+last_modified_at: 2022-02-28T22:57:35.594Z
+category: journal
 ---
 
 As much as I try to stay current with technology, there's a part of me that just doesn't care if I check my phone all the time, or am constantly reading emails on the weekend. I know a lot of people keep up to date on the latest everything with every device they have and that's awesome. I just can't do that. However, there's one device that I really can't live without because it's become a gateway to the “Quick-Check-to-See-if-the-World-Has-Burned-Down” reality: my iPhone.

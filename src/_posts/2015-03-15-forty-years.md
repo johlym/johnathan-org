@@ -2,9 +2,10 @@
 title: Forty Years
 featured: false
 layout: post
-categories: posts
+
 date: 2015-03-15 09:02:24 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.551Z
+category: journal
 ---
 
 Voyager 1 and 2. Covering a million miles a day, these two crafts are still humming along. After 40 years of travel, they still gather data, and some of the original crew still watch over them… even if they do so from a simple office park in Pasadena.

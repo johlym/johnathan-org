@@ -3,9 +3,10 @@ title: Time for a Reset
 featured: false
 
 layout: post
-categories: posts
+
 date: 2015-06-05 17:09:45 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.566Z
+category: journal
 ---
 
 I'm going to be honest: it's been hard to keep up with blogging regularly.

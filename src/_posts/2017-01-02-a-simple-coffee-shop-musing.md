@@ -2,9 +2,10 @@
 title: A Simple Coffee Shop Musing
 featured: false
 layout: post
-categories: posts
+
 date: 2017-01-02 17:44:09 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.259Z
+category: journal
 ---
 
 There's something to be said about sitting in a coffee shop with nothing in particular going on. It wasn't one of those days but the coffee shop and sitting parts were true.

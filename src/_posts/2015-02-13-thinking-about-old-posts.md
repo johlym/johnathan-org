@@ -2,9 +2,10 @@
 title: Thinking About Old Posts
 featured: false
 layout: post
-categories: posts
-date: 2015-02-13 04:15:17 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+
+date: 2015-02-13T12:15:17.000Z
+last_modified_at: 2022-02-28T22:57:35.583Z
+category: writing
 ---
 
 Looking back on old posts isn't really something that I do on a regular basis. Once I'm all set and posting my words, that's pretty much it. I have a good reason, though. If I started going back and reviewing my past posts, I feel like I might end up second guessing my work before I post it in the first place.

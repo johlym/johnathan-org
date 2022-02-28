@@ -1,10 +1,11 @@
 ---
-title: 'Internet Arguments: Even Garbage Fires Can be Extinguished'
+title: "Internet Arguments: Even Garbage Fires Can be Extinguished"
 featured: false
 layout: post
-categories: posts
+
 date: 2016-04-04 23:18:09 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.278Z
+category: journal
 ---
 
 It might not seem like it, but every argument on the Internet has a winner. While everyone can agree there's always going to be Internet fights, there's a little bit of secret sauce you can apply to come out on top, so long as you're ok with laying waste on a metaphysical level. I'm not talking about an actual disaster, but what I've learned over the years is actually pretty good advice.

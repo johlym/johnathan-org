@@ -2,9 +2,10 @@
 title: Creativity
 featured: false
 layout: post
-categories: posts
+
 date: 2015-06-19 16:25:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.569Z
+category: journal
 ---
 
 So I'm sitting here, pondering what to write about. I've been a terrible person, not sticking to the plan.

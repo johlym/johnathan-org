@@ -1,10 +1,10 @@
 ---
-title: 'Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown'
+title: "Linode vs Digital Ocean: A Three-Round VPS Benchmark Showdown"
 featured: false
 layout: post
-categories: posts
 date: 2018-01-18 10:05:48 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.281Z
+category: technology
 ---
 
 A few days ago, [Digital Ocean](https://digitalocean.com) announced new pricing tiers for their VPSes (affectionately called Droplets). I've been a fan of Digital Ocean's offerings for a long time. Compared to other popular VPS provider [Linode](https://linode.com), there seemed like there was only one choice as Digital Ocean's pricing ran 2x for almost everything.

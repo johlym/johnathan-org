@@ -2,9 +2,10 @@
 title: How to Fix Misspelled Column Names in a Ruby on Rails Database
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-25 16:35:59 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.285Z
+category: programming
 ---
 
 I came across a small issue this afternoon while building out one of my first Ruby on Rails apps. When I generated the database table, I misspelled a column name. Luckily for me, it's easy enough to fix and this is how I did it.

@@ -2,10 +2,10 @@
 title: Positioning for the Journey to Dreamland
 featured: false
 layout: post
-categories: posts
-date: 2015-01-26 04:11:17 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+
+date: 2015-01-26T12:11:17.000Z
+last_modified_at: 2022-02-28T22:57:35.606Z
+category: journal
 ---
 
 I saw a rather interesting article this morning via the Wall Street Journal that talks about finding the perfect sleep position. I couldn't help but think: “is there some mad science in here that will give me the answer to all things sleeping so I can sleep mad sleeps and wake up feeling like a million dollars?” Well, no. The only way to wake up feeling like a stack of cash is either a) have a million dollars or b) eat some of those crazy mushrooms the kids like.

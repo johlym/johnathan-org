@@ -2,9 +2,10 @@
 title: Focusing on the Future, Part 1
 featured: false
 layout: post
-categories: posts
+
 date: 2015-07-21 22:04:33 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.263Z
+category: journal
 ---
 
 I've been internally reflecting on the future of my career quite a bit over the last month or so. One thing I know for sure is where I want my career to head, but what I'm not 100% sure about is how to get there.

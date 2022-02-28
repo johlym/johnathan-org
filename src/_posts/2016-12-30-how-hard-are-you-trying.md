@@ -2,9 +2,10 @@
 title: How Hard Are You Trying?
 featured: false
 layout: post
-categories: posts
+
 date: 2016-12-30 09:05:00 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.263Z
+category: books
 ---
 
 It's technically not 2017, yet, but I wanted to get a jump start on the 2017 Book Club anyway with the first title, [_The Subtle Art of Not Giving a f–k_](http://amzn.to/2ixWhYP) by [Mark Manson](http://amzn.to/2ixWhYP). I'm also cheating in that it's not Monday, January 1st.

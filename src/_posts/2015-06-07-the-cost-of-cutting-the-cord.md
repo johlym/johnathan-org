@@ -2,9 +2,10 @@
 title: The Cost of Cutting the Cord
 featured: false
 layout: post
-categories: posts
+
 date: 2015-06-07 14:16:34 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.567Z
+category: technology
 ---
 
 People talk about “cutting the cord” a.k.a canceling their Cable or Satellite service and opting for internet-based services. One thing that doesn't seem to get a whole lot of coverage, in my opinion, is the cost of cutting the cord.

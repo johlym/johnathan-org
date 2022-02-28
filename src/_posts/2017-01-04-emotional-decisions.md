@@ -2,9 +2,10 @@
 title: Emotional Decisions
 featured: false
 layout: post
-categories: posts
+
 date: 2017-01-04 10:50:00 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.252Z
+category: journal
 ---
 
 Picking up where I left off a few days ago, I wanted to continue my stream on consciousness on emotions.

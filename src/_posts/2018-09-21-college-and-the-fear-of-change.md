@@ -1,11 +1,10 @@
 ---
 title: College and the Fear of Change
 featured: false
-
 layout: post
-categories: posts
 date: 2018-09-21 14:44:20 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.293Z
+category: learning
 ---
 
 An Internet friend of mine, John Saddington, [created a blog post](https://john.do/college-losing-combo/) about College that really got me thinking. The purpose of this post is to share some of those thoughts.

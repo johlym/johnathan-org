@@ -2,9 +2,10 @@
 title: My Overloaded Server Story
 featured: false
 layout: post
-categories: posts
+
 date: 2015-12-07 09:47:35 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.267Z
+category: programming
 ---
 
 So as you probably know by now, I converted my blog to [Jekyll](http://jekyllrb.org/), yesterday, and it's been a huge success, in my opinion. I'm motivated more than ever to start blogging more because I have the added tinker factor and using Git and GitHub to keep everything organized rocks.

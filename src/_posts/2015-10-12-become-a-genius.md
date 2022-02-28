@@ -2,9 +2,10 @@
 title: Become a Genius
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-12 21:30:18 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.286Z
+category: learning
 ---
 
 We all want to be smarter. Thomas Oppong put together a list of 33 Web sites that we all can use to become geniuses. (He did, but it was [taken down](https://lumendatabase.org/notices/11700921#))

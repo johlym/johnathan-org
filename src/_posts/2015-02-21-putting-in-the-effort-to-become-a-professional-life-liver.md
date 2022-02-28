@@ -2,9 +2,10 @@
 title: Putting In the Effort to Become a Professional Life Liver
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-21 13:27:00 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.538Z
+category: books
 ---
 
 What do you think about when I say the words “you're an amateur at living life?”

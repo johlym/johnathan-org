@@ -2,9 +2,9 @@
 title: Anker Roav Dash Cam Review
 featured: false
 layout: post
-categories: posts
 date: 2017-08-15 03:23:20 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.299Z
+category: technology
 ---
 
 Over the last few months, I've pondered adding a dash cam to my car. This idea didn't come out of nowhere, though. After seeing enough individual cases of a dash cam being useful either in daily life or in the course of fighting traffic accident cases or violations, I started doing some research. Luckily for me, one such dash cam essentially landed on my doorstep<sup><a href="#fn-1">1</a></sup>.

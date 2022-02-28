@@ -2,9 +2,10 @@
 title: Fitbit, You Frustrate Me
 featured: false
 layout: post
-categories: posts
+
 date: 2016-03-12 12:36:27 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.275Z
+category: technology
 ---
 
 Don't get me wrong, I like the idea of my Fitbit device. I like the idea of accountability. It may not motivate me to be more physically active, but that's okay.

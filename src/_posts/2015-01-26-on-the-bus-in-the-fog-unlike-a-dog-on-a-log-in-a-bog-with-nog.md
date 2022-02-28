@@ -2,10 +2,10 @@
 title: On the Bus in the Fog Unlike a Dog on a Log in a Bog with Nog
 featured: false
 layout: post
-categories: posts
-date: 2015-01-26 05:06:43 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal
+
+date: 2015-01-26T13:06:43.000Z
+last_modified_at: 2022-02-28T22:57:35.592Z
+category: journal
 ---
 
 This is the first time I've tried to write a post on the bus. There's a lot of free time to be had on the bus, that I could just waste reading ArsTechnica articles or scrolling Facebook. But after my recap on the finicky relationship I have with my iPhone I feel like it's necessary to look into putting it to better use.

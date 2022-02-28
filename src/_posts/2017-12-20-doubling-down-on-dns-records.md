@@ -2,12 +2,12 @@
 title: Doubling Down on DNS Records
 featured: false
 layout: post
-categories: posts
 date: 2017-12-20 00:31:16 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.255Z
+category: programming
 ---
 
- **September 2018:** I have since moved away from this and use [CloudFlare](https://cloudflare.com) exclusively. The odds of enough of CloudFlare going down to cause a problem would be low enough that if something did happen, such a scale would likely affect multiple DNS providers.
+ **September 2018:** I have since moved away from this and use ~Cloudflare~ Dnsimple exclusively. 
 
 It might seem like a pretty silly thing to most but doubling up on DNS records (having a domain name point to two complete sets of name servers from two different DNS providers) is a wise and relatively easy way to add a touch of redundancy to your web properties.
 

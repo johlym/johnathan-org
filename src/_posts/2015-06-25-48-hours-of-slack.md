@@ -2,9 +2,10 @@
 title: 48 Hours of Slack
 featured: false
 layout: post
-categories: posts
+
 date: 2015-06-25 17:35:19 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.571Z
+category: technology
 ---
 
 Two nights ago, I convinced my team to pick up Slack. I wanted them to stop slacking on effective communication and while I can cut them some slack on being in different time zones, there's no excuse with today's technology.

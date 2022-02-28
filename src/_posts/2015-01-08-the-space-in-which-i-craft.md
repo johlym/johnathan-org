@@ -2,10 +2,10 @@
 title: The Space in Which I Craft
 featured: false
 layout: post
-categories: posts
-date: 2015-01-08 04:15:40 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: productivity, journal
+
+date: 2015-01-08T12:15:40.000Z
+last_modified_at: 2022-02-28T22:57:35.581Z
+category: productivity
 ---
 
  **Updated 2017:** a lot of changes have taken place since I wrote this post over two years ago. My most current desk setup [is here](https://johnathan.org/new-workspace-a-story/). One thing I've come to learn is that having a good writing space is important. For some, the room has to be just right. Darkness, music, closed doors. For others, like myself, I don't need as much. I think it's worth breaking down to a more manageable conversation.

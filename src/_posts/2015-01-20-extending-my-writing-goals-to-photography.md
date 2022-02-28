@@ -2,10 +2,10 @@
 title: Extending My Writing Goals to Photography
 featured: false
 layout: post
-categories: posts
-date: 2015-01-20 04:02:57 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
-tags: journal, photography
+
+date: 2015-01-20T12:02:57.000Z
+last_modified_at: 2022-02-28T22:57:35.607Z
+category: photography
 ---
 
 When I'm not working, writing, or studying, I'm (ideally) shooting. I was a landscape photographer and by shooting I mean “taking photos of.” One of the things I struggled with in 2014 was my motivation to shoot more. I've always had a small inkling in the back of my mind that I'd like to live out a career at my desk writing and taking photos. With my start to writing underway (and so far going relatively smoothly), the next half of that is creating more photos.

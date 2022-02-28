@@ -2,9 +2,10 @@
 title: Attempting to Stream a Webcam to an RTMP Server
 featured: false
 layout: post
-categories: posts
+
 date: 2016-07-04 22:16:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.292Z
+category: programming
 ---
 
 This a follow up from [this article I wrote](/fighting-ffmpeg/) talking about trying to get `ffmpeg` + `ffserver` running the Cat Cam. I abandoned that project and went in search for a new solution. What I came up with was `ffmpeg` + `nginx`. Here's how that worked out.

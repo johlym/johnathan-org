@@ -2,12 +2,13 @@
 title: Killing It In People Relations
 featured: false
 layout: post
-categories: posts
+
 date: 2015-04-23 07:37:49 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.561Z
+category: developer support
 ---
 
-(May 2018: I stopped here there a couple years ago)
+(May 2018: I stopped working there as of April 2015)
 
 My latest challenge in my career is executing the position of Senior Technical Support Lead for the Americas at [Zephyr](http://getzephyr.com/), the software company that is, I believe, up-ending the software test management space. My primary responsibility is making technical support as awesome as possible for our Americas customers. This got me thinking on what resources I could use to my advantage in bettering the experiences our customers have when they call in or open a case at [support.getzephyr.com](http://support.getzephyr.com).
 

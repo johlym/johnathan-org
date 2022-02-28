@@ -2,9 +2,10 @@
 title: Starting Ruby on Rails
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-04 22:28:43 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T23:28:56.288Z
+category: programming
 ---
 
 I've started learning Ruby on Rails. One thing I want for myself in the next year or so is to do more software development. As an added bonus, if my career shifted into that type of work, I wouldn't mind.
