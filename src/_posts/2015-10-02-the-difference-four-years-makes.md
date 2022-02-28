@@ -2,9 +2,9 @@
 title: The Difference Four Years Makes
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-02 14:55:32 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.907Z
 ---
 
 So I received my new Macbook Pro, today, thanks to the wonderful folks at UPS. It's in my hands now and I'm super excited. I've only spent about 20 minutes with it so far and here are a few things that stand out to me from the start:

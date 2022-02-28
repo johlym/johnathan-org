@@ -2,10 +2,10 @@
 title: Poor Planning on Your Part Does not Necessarily Constitute an Emergency on Mine
 featured: false manage
 layout: post
-categories: posts
+
 date: 2015-01-02T02:33:21.000Z
-last_modified_at: '2022-02-28T08:05:14.377Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.589Z
+category: journal
 ---
 
 While some would call him a tool, [Bob Carter](http://en.wikipedia.org/wiki/Robert_M._Carter)'s famous statement above rings truer than ever in my world. This post shall kick of a new series on project management faux pas. I'll be tossing in my every so slightly jaded views and perhaps a rant or two where needed. Enjoy!

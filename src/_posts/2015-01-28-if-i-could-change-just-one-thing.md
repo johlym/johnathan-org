@@ -2,10 +2,10 @@
 title: If I Could Change Just One Thing
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-28T12:13:53.000Z
-last_modified_at: '2022-02-28T08:08:06.092Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.589Z
+category: journal
 ---
 
 I get it. Working with another team can suck at times. I've had my fair share of cases where I wasn't exactly thrilled about the idea of working with a team of people who I didn't believe were in the right position to be of assistance. While that's certainly my opinion, it's not my place to tell them they're idiots. It's also not appropriate. That's not the only thing that bothers me about inter-team dynamics that seems all too common today.

@@ -2,9 +2,9 @@
 title: Leaf Turning
 featured: false
 layout: post
-categories: posts
+
 date: 2015-07-24 06:34:41 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.900Z
 ---
 
 Ever heard the saying:

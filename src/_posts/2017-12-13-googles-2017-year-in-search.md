@@ -2,9 +2,9 @@
 title: Google's 2017 Year in Search
 featured: false
 layout: post
-categories: posts
+
 date: 2017-12-13 19:23:33 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.964Z
 ---
 
 Google's 2017 [Year in Search](https://trends.google.com/trends/yis/2017/GLOBAL/?ref=johnathan-org) is out and the trends were somewhat predictable.

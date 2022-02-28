@@ -1,15 +1,15 @@
 ---
 title: Review of Today's Apple iPhone and Watch Announcements
-feature_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
+feature_image: /content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png
 featured: false
-og_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
+og_image: /content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png
 
-twitter_image: "/content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png"
+twitter_image: /content/images/wp-content/uploads/2018/09/Screenshot_2018-09-12-iPhone-XS.png
 
 layout: post
-categories: posts
+
 date: 2018-09-12 13:59:13 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.014Z
 ---
 
 Apple's two-hour event didn't disappoint, though there was little surprise when it came to the design. Here's some of the most important points to take away from today's event.

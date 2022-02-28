@@ -2,9 +2,9 @@
 title: John.ly Version 2
 featured: false
 layout: post
-categories: posts
+
 date: 2017-08-28 03:43:52 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.959Z
 ---
 
 Last week I hacked together a new version of my blog (this site) in hopes that I could actually create what I had envisioned in my head all along. So far, I'm quite pleased with how it turned out. I look forward to hacking on it some more, but this is a great start.

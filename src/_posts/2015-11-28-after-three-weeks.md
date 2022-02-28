@@ -2,9 +2,9 @@
 title: After Three Weeks
 featured: false
 layout: post
-categories: posts
+
 date: 2015-11-28 13:57:36 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.927Z
 ---
 
 I started the Bloc Rails Web Development bootcamp three weeks ago and I'd like to go over my experiences so far.

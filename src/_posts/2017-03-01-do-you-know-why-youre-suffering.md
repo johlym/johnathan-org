@@ -2,9 +2,9 @@
 title: Do You Know Why You're Suffering?
 featured: false
 layout: post
-categories: posts
+
 date: 2017-03-01 17:01:00 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.021Z
 ---
 
 That's a fun question, right? _You're upset so while you're upset, think about why_. That's usually not high on the list of _Things to Do_.

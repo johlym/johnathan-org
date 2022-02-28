@@ -2,9 +2,9 @@
 title: My Year in Review
 featured: false
 layout: post
-categories: posts
+
 date: 2016-12-25 21:02:07 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.954Z
 ---
 
 What better time to take a look back at what's happened the last year than with a glass of scotch on Christmas night? All the festivities are over and tomorrow the lights come down to be stored away until next year.

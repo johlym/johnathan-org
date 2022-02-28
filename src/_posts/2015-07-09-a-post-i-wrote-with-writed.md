@@ -2,9 +2,9 @@
 title: A Post I Wrote with Writed
 featured: false
 layout: post
-categories: posts
+
 date: 2015-07-09 21:15:24 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.018Z
 ---
 
 I'm always on the lookout for new and interesting apps that make the desktop writing experience more enjoyable. I'm a big fan of Desk and [iA Writer](http://ia.net/writer) and wondered what other kinds of markdown-based writing tools were out there.

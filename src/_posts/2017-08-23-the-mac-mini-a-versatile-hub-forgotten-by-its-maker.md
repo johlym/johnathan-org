@@ -1,10 +1,10 @@
 ---
-title: 'The Mac Mini: A Versatile Hub Forgotten By Its Maker'
+title: "The Mac Mini: A Versatile Hub Forgotten By Its Maker"
 featured: false
 layout: post
-categories: posts
+
 date: 2017-08-23 14:20:58 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.020Z
 ---
 
 As we start this story–or is it a technical post–we're already facing the grim realities of the situation. Apple has updated most of its computer-based product line fairly regularly.

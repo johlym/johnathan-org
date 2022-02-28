@@ -2,10 +2,10 @@
 title: Create A Photograph
 featured: false
 layout: post
-categories: posts
+
 date: 2014-09-09T19:01:48.000Z
-last_modified_at: '2022-02-28T08:06:11.747Z'
-tagged: photography
+last_modified_at: 2022-02-28T22:57:35.579Z
+category: photography
 ---
 
 _Level of Entry: Low_  

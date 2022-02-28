@@ -2,9 +2,9 @@
 title: Boy Bye Bot
 featured: false
 layout: post
-categories: posts
+
 date: 2017-01-03 18:22:00 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.925Z
 ---
 
 > It's a fake number you can give out to creeps; and when they text it, they'll be interacting with a crazy chatbot instead of bothering you.

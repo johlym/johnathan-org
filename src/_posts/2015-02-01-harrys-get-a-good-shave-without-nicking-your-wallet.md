@@ -1,11 +1,11 @@
 ---
-title: 'Harry''s: Get a Good Shave Without Nicking Your Wallet'
+title: "Harry's: Get a Good Shave Without Nicking Your Wallet"
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-01T21:48:22.000Z
-last_modified_at: '2022-02-28T08:08:22.425Z'
-tagged: reviews
+last_modified_at: 2022-02-28T22:57:35.587Z
+category: reviews
 ---
 
 To follow up my quick review of NatureBox yesterday, I received a second awesome package in the mail on Saturday. I recently ordered a new shave kit from a great company I hadn't heard of until just recently called Harry's. Harry's does things a bit differently. Their claim to fame is they make all their own blades and firmly believe that charging a boat load of cash for a single replacement razor blade is dumb. Here's what I thought of the kit when I first received it.

@@ -2,9 +2,9 @@
 title: Seeing the Forest for the Trees
 featured: false
 layout: post
-categories: posts
+
 date: 2015-11-10 18:28:43 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.930Z
 ---
 
 It's easy to miss the small picture when looking at the big picture. Thinking about what I have ahead of me in terms of the next year at Bloc gives me two thoughts: it's going to take a long time and it's easy to not see the forest for the trees.

@@ -2,9 +2,9 @@
 title: The Costs of Technology
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-14 22:38:02 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.022Z
 ---
 
 It's pretty common knowledge that the cost of technology goes down over time, but there's one category, as [highlighted](http://www.businessinsider.com/historical-price-trends-for-tech-products-2015-10) by [Buisness Insider](http://www.businessinsider.com/historical-price-trends-for-tech-products-2015-10) in this rather impressive graphic, that's actually become more expensive.

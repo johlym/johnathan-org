@@ -2,9 +2,9 @@
 title: Starbucks Coffeehouse Playlist
 featured: false
 layout: post
-categories: posts
+
 date: 2016-06-09 05:37:43 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.888Z
 ---
 
 [{% cloudinary_img, "13413604_10206144656807181_2769894144566463025_n", "standard" %}

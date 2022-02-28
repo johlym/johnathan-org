@@ -2,9 +2,9 @@
 title: Upgrading to SSL
 featured: false
 layout: post
-categories: posts
+
 date: 2015-08-16 11:43:17 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.009Z
 ---
 
 One thing I never did when I moved my blog to john.ly and away from jlyman.net was to add SSL. I had SSL set up and running on jlyman.net purely because of the low cost of entry. At $10/year, basic SSL gives great HTTPS encryption. Privacy is important, and while I don't take or give sensetive personal information, it's still a nice thing to have.

@@ -2,9 +2,9 @@
 title: The Apple Class-Action Lawsuit
 featured: false
 layout: post
-categories: posts
+
 date: 2018-05-15 12:06:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.985Z
 ---
 
 It was only a matter of time before someone [wielded a class-action lawsuit](https://theoutline.com/post/4532/lawsuit-alleges-apple-knew-its-computers-were-defective-sold-them-anyway?zd=1&zi=kckksjax) and charged after Apple:

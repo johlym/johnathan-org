@@ -2,9 +2,9 @@
 title: Doubling Down on DNS Records
 featured: false
 layout: post
-categories: posts
+
 date: 2017-12-20 00:31:16 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.900Z
 ---
 
  **September 2018:** I have since moved away from this and use [CloudFlare](https://cloudflare.com) exclusively. The odds of enough of CloudFlare going down to cause a problem would be low enough that if something did happen, such a scale would likely affect multiple DNS providers.

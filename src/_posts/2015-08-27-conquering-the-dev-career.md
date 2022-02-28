@@ -2,9 +2,9 @@
 title: Conquering the Dev Career
 featured: false
 layout: post
-categories: posts
+
 date: 2015-08-27 15:59:43 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.012Z
 ---
 
 If you asked me how I felt about this topic a few years ago, I would have told you it's dumb. If you asked me how I felt about becoming a software developer, I would have told you I'd never do it, it's not something I find interesting. If you told me that we could fast forward three years and my tone would be different, I would have laughed in your face.

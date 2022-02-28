@@ -2,10 +2,10 @@
 title: Analytics
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-11T18:49:20.000Z
-last_modified_at: '2022-02-28T08:05:14.374Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.579Z
+category: journal
 ---
 
 I'm cheating a little bit.

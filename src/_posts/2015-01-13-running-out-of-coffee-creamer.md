@@ -2,10 +2,10 @@
 title: Running Out of Coffee (Creamer)
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-13T12:46:12.000Z
-last_modified_at: '2022-02-28T08:05:14.388Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.607Z
+category: journal
 ---
 
 This morning I ran out of coffee creamer so I hope this all makes sense, if not… meh. I'm just a week into my new weekday morning routine. If you're unfamiliar or don't remember how I described it, it's simple.

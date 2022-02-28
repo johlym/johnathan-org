@@ -2,10 +2,10 @@
 title: Through an Open Window
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-06T12:54:20.000Z
-last_modified_at: '2022-02-28T08:09:41.429Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.582Z
+category: journal
 ---
 
 One thing I've never liked about being up early in the morning is how dark it is outside throughout the winter. It's hard getting up at 4AM and seeing nothing but the same darkness you saw when you went to bed the night before. Sure there's a lot of excitement to be had at night, but for those of us with responsibilities, that's just not an option. Instead I'm indoors, wondering what's going on in the wee hours of the morning.

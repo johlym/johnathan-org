@@ -2,9 +2,9 @@
 title: This One's For the Guys
 featured: false
 layout: post
-categories: posts
+
 date: 2017-01-05 16:57:46 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.002Z
 ---
 
 Gentlemen, let's chat.

@@ -2,9 +2,9 @@
 title: Blogging, Statically Speaking
 featured: false
 layout: post
-categories: posts
+
 date: 2016-05-28 19:43:55 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.909Z
 ---
 
 The concept of blogging using a staic site generator isn't news. People have been doing such things for years, now. There are fantastic static site generators out there ([Jekyll](https://jekyllrb.com), [Hugo](https://gohugo.io), [Pelican](http://blog.getpelican.com) to name a few) and all have their unique features, quirks, and _ugh_ moments.

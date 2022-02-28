@@ -2,10 +2,10 @@
 title: My First Smartphone
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-19T12:30:44.000Z
-last_modified_at: '2022-02-28T08:05:14.382Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.597Z
+category: journal
 ---
 
 We all remember our first smartphones, for the most part. I know I remember my transition from the small brick phones that weighed as much as small bricks. They did the job back then. In 2003, texting was a limited thing still in my world and around all of my friends. We mostly emailed and instant-messaged each other. I think I did that pretty much all through high school. When I started using MySpace regularly, I communicated a lot through that service with my friends. Facebook, same story. It wasn't until I bought my first smart phone in 2010 that my communication world really changed.

@@ -2,9 +2,10 @@
 title: 18 Resources for Getting Started with WordPress
 featured: false
 layout: post
-categories: posts
+
 date: 2015-05-03 11:22:10 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.563Z
+category: wordpress
 ---
 
 [WordPress](http://wordpress.org) is one of the most popular blogging platforms and content management systems on the planet. Created by [Matt Mullenweg](http://ma.tt) and the team at [Automattic](http://automattic.com), it's an open source and free tool using [PHP](http://php.net) and [MySQL](http://mysql.com) for creating just about any kind of site you can imagine.

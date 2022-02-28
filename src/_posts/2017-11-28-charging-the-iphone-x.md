@@ -2,9 +2,9 @@
 title: Charging the iPhone X
 featured: false
 layout: post
-categories: posts
+
 date: 2017-11-28 23:41:27 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.882Z
 ---
 
 As a devoted consumer of things Apple for six years, now, it goes without saying when the iPhone X launched, I was up at midnight ordering it. There was chatter that it'd be severely delayed (plot twist: the chatter was dead wrong) and I was able to score my $1,200 (after sales tax) Apple iSlab on November 3rd, launch day.

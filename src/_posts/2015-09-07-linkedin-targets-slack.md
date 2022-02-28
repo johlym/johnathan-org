@@ -2,9 +2,9 @@
 title: LinkedIn Target's Slack
 featured: false
 layout: post
-categories: posts
+
 date: 2015-09-07 10:22:25 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.884Z
 ---
 
 from [GigaOm](https://gigaom.com/2015/09/01/linkedin-puts-slack-in-its-crosshairs-with-updated-messaging-platform/):

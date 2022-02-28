@@ -2,10 +2,10 @@
 title: As You Think
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-11T11:47:18.000Z
-last_modified_at: '2022-02-28T08:10:38.787Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.580Z
+category: journal
 ---
 
 I read some powerful words, yesterday, and I knew right away they were worth discussing.

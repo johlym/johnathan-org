@@ -2,9 +2,9 @@
 title: Please Welcome Dr. Jekyll
 featured: false
 layout: post
-categories: posts
+
 date: 2015-12-07 09:37:18 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.006Z
 ---
 
  **Update May 12, 2018** : See [this post](/an-auto-deploying-static-site-with-backend/) for the latest status on this.

@@ -2,9 +2,9 @@
 title: Custom Domains on Medium
 featured: false
 layout: post
-categories: posts
+
 date: 2015-07-09 22:10:22 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.906Z
 ---
 
  **Update May 12, 2018** : Medium doesn't support this anymore. It was fun while it lasted.

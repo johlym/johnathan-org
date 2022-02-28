@@ -2,9 +2,9 @@
 title: Wireless Streaming of Spotify (sort of)
 featured: false
 layout: post
-categories: posts
+
 date: 2015-07-02 09:25:58 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.919Z
 ---
 
 I'm not sure why I didn't discover this earlier. My excitement when Spotify came to the PlayStation 4 was moderate and I've been using Spotify as an all-but-replacement for my rotting Apple iTunes (now Apple Music) library for some time.

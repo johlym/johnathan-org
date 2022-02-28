@@ -2,9 +2,9 @@
 title: The (Un)Balanced Social Media Landscape
 featured: false
 layout: post
-categories: posts
+
 date: 2017-12-12 23:40:57 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.914Z
 ---
 
 I discovered some stats from [a 2016 Harvard study](https://cyber.harvard.edu/publications/2017/08/mediacloud) which discussed politics in the social media landscape. It's a good read and worth checking out, but one (actually three partial) things stood out most of all: the political distribution on the open web, social media, and especially Facebok in particular.

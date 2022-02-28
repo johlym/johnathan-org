@@ -1,11 +1,11 @@
 ---
-title: 'Hunting the Hunter: Trying to Take a Photo of my Cat'
+title: "Hunting the Hunter: Trying to Take a Photo of my Cat"
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-26T11:55:53.000Z
-last_modified_at: '2022-02-28T08:06:29.512Z'
-tagged: cats
+last_modified_at: 2022-02-28T22:57:35.593Z
+category: cats
 ---
 
 I tried something interesting, yesterday. Every once in a while, I find the urge to pull out my camera and shoot stuff at home. It doesn't happen very often, and for good reason. My space is outside, where things don't move, where all I have to worry about is what time the sun sets, and how cold my fingers will end up at the end. The outdoors is peaceful. Nature doesn't have a schedule and it largely sticks around for as long as it deems necessary. There are great places to hike, camp, and smell the roses, if there are any.

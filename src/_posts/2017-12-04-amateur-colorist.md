@@ -2,9 +2,9 @@
 title: Amateur Colorist
 featured: false
 layout: post
-categories: posts
+
 date: 2017-12-04 16:11:39 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.026Z
 ---
 
 A couple weeks ago, I snagged an [iPad Pro 10.5”](https://www.apple.com/ipad-pro/) on a Black Friday deal. At the time, I had a pretty good idea that I'd end up getting an [Apple Pencil](https://www.apple.com/apple-pencil/) to go with it.

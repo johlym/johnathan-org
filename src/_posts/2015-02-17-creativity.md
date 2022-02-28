@@ -2,10 +2,10 @@
 title: Creativity
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-17 04:04:07 -08:00
-last_modified_at: 2022-02-28T22:38:20.640Z
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.533Z
+category: journal
 ---
 
 > “Creativity is an act of defiance.” – Twyla Tharp

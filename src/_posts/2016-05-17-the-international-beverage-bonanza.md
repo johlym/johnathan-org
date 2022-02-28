@@ -2,9 +2,9 @@
 title: The International Beverage Bonanza
 featured: false
 layout: post
-categories: posts
+
 date: 2016-05-17 09:33:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.968Z
 ---
 
 Some say Americans get all the good stuff. I don't know who those people are, but they're probably crazy. The real winners are the non-American countries. Just about every other country in the world gets awesome flavors of Coca-Cola–without HFCS no less–and America is left with garbage. I suppose a few locations source the good stuff like Club Cool at Epcot.

@@ -2,9 +2,10 @@
 title: Incapacity
 featured: false
 layout: post
-categories: posts
+
 date: 2015-06-16 18:34:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.568Z
+category: journal
 ---
 
 What do you think of when I say that amateurs look for excuses?

@@ -1,10 +1,11 @@
 ---
-title: 'Morning Email: Check In Without Checking Out'
+title: "Morning Email: Check In Without Checking Out"
 featured: false
 layout: post
-categories: posts
+
 date: 2015-05-06 16:03:58 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.564Z
+category: journal
 ---
 
 If you've ever worked in a position where regular communication via email is important, you know what I'm about to discuss.

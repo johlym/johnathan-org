@@ -2,9 +2,9 @@
 title: Easy Redirect Links Within Jekyll
 featured: false
 layout: post
-categories: posts
+
 date: 2018-05-06 17:00:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.946Z
 ---
 
 I am buttoning up the final touches on my new Jekyll-powered blog. One thing I wanted to attempt without having to spin up yet another app or service was short link redirects.

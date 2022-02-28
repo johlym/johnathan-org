@@ -1,11 +1,11 @@
 ---
-title: 'To Write, You Must Read'
+title: To Write, You Must Read
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-02T12:01:47.000Z
-last_modified_at: '2022-02-28T08:08:38.704Z'
-tagged: writing
+last_modified_at: 2022-02-28T22:57:35.585Z
+category: writing
 ---
 
 > “If you want to be a writer, you must do two things above all others: read a lot and write a lot…reading is the creative center of a writer's life…you cannot hope to sweep someone else away by the force of your writing until it has been done to you.” ~ Stephen King

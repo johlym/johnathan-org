@@ -2,9 +2,10 @@
 title: Choosing Your Words
 featured: false
 layout: post
-categories: posts
+
 date: 2015-05-04 08:23:01 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:35.563Z
+category: journal
 ---
 
 We spend a great deal of time communicating via text. Some would argue we communicate more now than ever before as a society, albeit a smaller percentage via speech. This is likely due to the proliferation of text-based communication methods like email, text messages, Skype, etc.

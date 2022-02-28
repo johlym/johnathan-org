@@ -2,9 +2,9 @@
 title: Goodbye Mailbox
 featured: false
 layout: post
-categories: posts
+
 date: 2015-12-07 09:46:17 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.898Z
 ---
 
 >  When the Mailbox team joined Dropbox in 2013, we shared a passion for simplifying the way people work together. And solving the email problem seemed like a strong complement to the challenges Dropbox was already tackling.

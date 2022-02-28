@@ -2,10 +2,10 @@
 title: Vivaldi – A New Browser for our Friends
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-28T01:23:36.000Z
-last_modified_at: '2022-02-28T08:07:57.094Z'
-tagged: software
+last_modified_at: 2022-02-28T22:57:35.577Z
+category: software
 ---
 
 So there's a new browser in town, put out by ex Opera big cheese Jón Stephenson von Tetzchner. It's called [Vivaldi](https://vivaldi.net) and so far, it looks just as good as Vivaldi's music sounds.

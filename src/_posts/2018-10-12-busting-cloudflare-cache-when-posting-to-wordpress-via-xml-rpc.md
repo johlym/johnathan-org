@@ -2,9 +2,9 @@
 title: Busting Cloudflare Cache when Posting to WordPress via XML-RPC
 featured: false
 layout: post
-categories: posts
+
 date: 2018-10-12 08:51:29 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.885Z
 ---
 
 I love [Cloudflare](https://cloudflare.com). I'll come right out and say that now. It's a great service and makes for incredibly performant sites if used right (aggressively). I don't feel like I'm getting the most out of it until it's caching just about everything possible. Most of my content is static and never changes (save for the home page and each paginated set of posts thereafter). Even then, the homepage changes maybe a couple times a day. It makes a lot of sense for Cloudflare to cache them all. I use pretty aggressive Page Rule-based caching to accomplish that.

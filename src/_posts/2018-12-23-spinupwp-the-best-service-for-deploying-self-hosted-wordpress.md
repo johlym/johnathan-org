@@ -1,14 +1,13 @@
 ---
-title: 'SpinupWP: The Best Service for Deploying Self-Hosted WordPress'
-feature_image: "/content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg"
+title: "SpinupWP: The Best Service for Deploying Self-Hosted WordPress"
+feature_image: /content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg
 featured: false
-og_image: "/content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg"
-
+og_image: /content/images/wp-content/uploads/2018/12/spinupwp_homepage.jpg
 
 layout: post
-categories: posts
+
 date: 2018-12-23 14:35:41 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.007Z
 ---
 
 Over the last 10-ish years, I've deployed more WordPress sites than I can count. If there's one service I could have used to make my life easier, it would have been an all-inclusive deployment tool that makes not only servers appear, but a complete and secure WordPress installation, too.

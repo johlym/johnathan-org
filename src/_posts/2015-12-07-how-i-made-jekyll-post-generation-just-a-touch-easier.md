@@ -2,9 +2,9 @@
 title: How I Made Jekyll Post Generation Just a Touch Easier
 featured: false
 layout: post
-categories: posts
+
 date: 2015-12-07 09:44:26 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.997Z
 ---
 
 Now that I'm running my blog using Jekyll, one thing I've already found to be rather frustrating is the post generation process. I have a blank `.md` template I open, save in a new location, then edit, but that seems cumbersome, to me. What I decided to do instead is write a quick Ruby script that generated a post `.md` file for me based on the information I provide.

@@ -2,9 +2,9 @@
 title: The CDN Contemplation
 featured: false
 layout: post
-categories: posts
+
 date: 2016-05-28 17:24:20 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.934Z
 ---
 
 About four weeks ago, I bolted a CDN to my blog. The goal: what kind of benefit would I, someone who receives a small but steady stream of traffic, get from such a technological underpinning?

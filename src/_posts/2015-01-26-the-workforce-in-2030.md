@@ -2,10 +2,10 @@
 title: The Workforce in 2030
 featured: false
 layout: post
-categories: posts
+
 date: 2015-01-27T01:26:17.000Z
-last_modified_at: '2022-02-28T08:05:14.371Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.588Z
+category: journal
 ---
 
 <iframe loading="lazy" src="https://www.youtube.com/embed/ux1GxExRUUY?feature=oembed" width="525" height="295" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

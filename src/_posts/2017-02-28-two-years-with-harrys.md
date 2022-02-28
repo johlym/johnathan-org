@@ -2,9 +2,9 @@
 title: Two Years With Harry's
 featured: false
 layout: post
-categories: posts
+
 date: 2017-02-28 02:16:32 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.992Z
 ---
 
 I don't usually talk about my razor. I'm thinking today's a good day to change that.

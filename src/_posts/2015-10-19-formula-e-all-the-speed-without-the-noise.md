@@ -1,10 +1,10 @@
 ---
-title: 'Formula E: All the Speed Without the Noise'
+title: "Formula E: All the Speed Without the Noise"
 featured: false
 layout: post
-categories: posts
+
 date: 2015-10-19 10:52:08 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.897Z
 ---
 
 Sometimes I wish this type of racing would come to my neck of the woods. In this video, Formula E is described as being the quietest race in the world.

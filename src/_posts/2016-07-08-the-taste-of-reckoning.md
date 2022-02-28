@@ -2,9 +2,9 @@
 title: The Taste of Reckoning
 featured: false
 layout: post
-categories: posts
+
 date: 2016-07-08 16:05:08 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.919Z
 ---
 
 I've been waiting to review Appletieser for some time and now that sometime is Friday afternoon. In the past, I've been blocked by cost-prohibition and the fact that the first time I tried ordering it, Amazon sent me Grapetiser. If you haven't read that post, yet, go do it. Now.

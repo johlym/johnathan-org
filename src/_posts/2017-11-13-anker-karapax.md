@@ -2,9 +2,9 @@
 title: Anker Karapax
 featured: false
 layout: post
-categories: posts
+
 date: 2017-11-13 20:30:44 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.993Z
 ---
 
 Writing about phone cases is always an interesting task. Everyone's positions are usually subjective. Some buy them for the looks, some for the protection, some for both. Some go without cases most of or all the time. When Anker asked if I wanted a copy of one of their new Karapax cases for the iPhone 7 and 8+, I said yes.

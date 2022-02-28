@@ -2,10 +2,10 @@
 title: The Best Way I Make Life Changes
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-09T11:51:54.000Z
-last_modified_at: '2022-02-28T08:10:21.950Z'
-tagged: journal
+last_modified_at: 2022-02-28T22:57:35.581Z
+category: journal
 ---
 
 Some may say it takes time to change a habit, and they'd probably be right. From what I've read, it takes upwards of [three weeks](http://www.brainpickings.org/2014/01/02/how-long-it-takes-to-form-a-new-habit/) to fully break a habit.

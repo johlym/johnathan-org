@@ -2,9 +2,9 @@
 title: An Auto-deploying Static Site with Backend
 featured: false
 layout: post
-categories: posts
+
 date: 2018-05-05 17:00:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.891Z
 ---
 
 I have some nostalgia for static sites. I first learned to write any kind of code with HTML on a Packard Bell 486. I was hooked.

@@ -1,14 +1,12 @@
 ---
 title: Restore the Anywhere Option to Run Apps from Unidentified Developers in macOS
   Sierra
-featured: false
-  to bring
-
+featured: false to bring
 
 layout: post
-categories: posts
+
 date: 2017-03-23 15:41:36 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.932Z
 ---
 
 I hadn't realized until today that this setting was hidden in macOS Sierra. After a colleague pointed it out, I decided this needed fixing. Here's how to bring back the third “Anywhere” option in macOS Sierra.

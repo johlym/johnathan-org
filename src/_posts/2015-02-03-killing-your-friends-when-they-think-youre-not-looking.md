@@ -2,10 +2,10 @@
 title: Killing Your Friends when They Think You're not Looking
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-03T12:29:01.000Z
-last_modified_at: '2022-02-28T08:08:49.449Z'
-tagged: apple
+last_modified_at: 2022-02-28T22:57:35.595Z
+category: apple
 ---
 
 Today is the last day for The Unofficial Apple Weblog. TUAW has been a staple in keeping up with the latest Apple news, products and happenings. The site was always a go-to of mine to keep up to date on rumors, and it did its job well.

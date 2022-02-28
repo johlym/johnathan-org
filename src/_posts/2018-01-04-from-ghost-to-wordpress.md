@@ -2,9 +2,9 @@
 title: From Ghost to WordPress
 featured: false
 layout: post
-categories: posts
+
 date: 2018-01-04 10:31:38 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.885Z
 ---
 
 I did what I never thought I'd end up doing. Over the last month, I'd been contemplating moving away from Ghost as a blogging platform and back to WordPress. [Back in June](/strange-things-around-these-parts/) I moved away from WordPress. My original complaints were related to complexity, bloat, and performance. I felt WordPress was becoming too slow and complicated for a simple blog like this one. I watched as Ghost became a more mature and baked tool so I dove in. Wiring up a design for it was a trivial matter, something I greatly appreciate still. The simplicity in design wasn't enough to keep me, however, along with a few other reasons.

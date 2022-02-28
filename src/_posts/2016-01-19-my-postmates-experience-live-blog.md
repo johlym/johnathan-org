@@ -2,9 +2,9 @@
 title: My Postmates Experience Live Blog
 featured: false
 layout: post
-categories: posts
+
 date: 2016-01-19 19:02:26 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.915Z
 ---
 
 I was feeling a bit lazy tonight but wanted food, so instead of going somewhere, I desired for someone to bring the food to me. Are they up to the challenge of being summoned by Postmates, picking up my Gyro and traversing Silicon Valley, to my driveway, through the first controlled access roadblock, to my building, and through the second controlled access liftway? Let's find out.

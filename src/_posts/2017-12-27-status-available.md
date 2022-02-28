@@ -1,10 +1,10 @@
 ---
-title: 'Status: Available'
+title: "Status: Available"
 featured: false
 layout: post
-categories: posts
+
 date: 2017-12-27 19:19:18 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.995Z
 ---
 
 Over the holiday weekend, I contemplated [this post](https://m.signalvnoise.com/the-presence-prison-4c776292c8d2) from Jason Fried, the CEO and Founder of Basecamp. If you're curious how Basecamp as a company feels about knowing if staff are “online” or not, the opening stanza says it all:

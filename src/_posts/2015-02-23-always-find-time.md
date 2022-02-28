@@ -2,10 +2,10 @@
 title: Always Find Time
 featured: false
 layout: post
-categories: posts
+
 date: 2015-02-23 17:11:22 -08:00
-last_modified_at: 2022-02-28T22:39:34.730Z
-tagged: writing
+last_modified_at: 2022-02-28T22:57:35.540Z
+category: writing
 ---
 
 I found this [Medium post](https://medium.com/@drevets/sit-down-shut-up-write-don-t-stop-d3f671d4a41b) this evening about finding time to write, every day, no matter what:

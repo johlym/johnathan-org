@@ -2,9 +2,9 @@
 title: How Long Has it Been?
 featured: false
 layout: post
-categories: posts
+
 date: 2016-12-09 12:37:19 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:04.922Z
 ---
 
 Way too long. I haven't posted anything to the site since July. I feel like I've neglected a child.

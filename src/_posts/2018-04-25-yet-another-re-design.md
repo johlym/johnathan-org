@@ -2,9 +2,9 @@
 title: Yet Another Re-design
 featured: false
 layout: post
-categories: posts
+
 date: 2018-04-25 17:00:00 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:57:05.012Z
 ---
 
 If you had asked me a few weeks ago if I would be re-doing my blog again, I'd think you're nuts.
