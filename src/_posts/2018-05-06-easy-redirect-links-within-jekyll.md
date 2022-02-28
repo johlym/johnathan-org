@@ -2,9 +2,9 @@
 title: Easy Redirect Links Within Jekyll
 featured: false
 layout: post
-
 date: 2018-05-06 17:00:00 -07:00
-last_modified_at: 2022-02-28T22:57:04.946Z
+last_modified_at: 2022-02-28T23:26:16.298Z
+tagged: programming
 ---
 
 I am buttoning up the final touches on my new Jekyll-powered blog. One thing I wanted to attempt without having to spin up yet another app or service was short link redirects.
@@ -47,6 +47,7 @@ Now that we have the configuration squared away, we need to create an `_includes
 ```html
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta http-equiv="refresh" content="0; url={{ page.destination }}" />
   <script type="text/javascript">
@@ -54,10 +55,13 @@ Now that we have the configuration squared away, we need to create an `_includes
   </script>
   <title>Redirecting...</title>
 </head>
+
 <body>
-Redirecting to {{ page.destination }}. If it doesn't load, click <a href="{{ page.destination }}" />here</a>.
+  Redirecting to {{ page.destination }}. If it doesn't load, click <a
+    href="{{ page.destination }}" />here</a>.
 </body>
-</html>
+
+</html>˝
 ```
 
 `data_page_generator.rb` will take each object in the data file and pump the values into this template. In our example, we're only interested in `destination`.
