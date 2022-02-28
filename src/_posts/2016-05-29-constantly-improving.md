@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2016-05-29 17:29:36 -07:00
-last_modified_at: 2022-02-28T22:57:05.024Z
+last_modified_at: 2022-02-28T23:10:21.400Z
+tagged: books
 ---
 
 While I cook my dinner this evening, I want to write to you very briefly about an experience. It doesn't have anything to do with technology, but does have everything to do with learning.

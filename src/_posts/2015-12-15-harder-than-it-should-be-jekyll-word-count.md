@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2015-12-15 09:51:22 -08:00
-last_modified_at: 2022-02-28T22:57:04.960Z
+last_modified_at: 2022-02-28T23:07:50.558Z
+tagged: programming
 ---
 
 When I was running this site through WordPress, I had a plugin that would count the number of words each of my posts contained and give me some metrics. It was a pretty slick plugin and had all sorts of visuals.

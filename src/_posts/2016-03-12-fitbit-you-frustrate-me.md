@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2016-03-12 12:36:27 -08:00
-last_modified_at: 2022-02-28T22:57:04.966Z
+last_modified_at: 2022-02-28T23:09:06.077Z
+tagged: technology
 ---
 
 Don't get me wrong, I like the idea of my Fitbit device. I like the idea of accountability. It may not motivate me to be more physically active, but that's okay.

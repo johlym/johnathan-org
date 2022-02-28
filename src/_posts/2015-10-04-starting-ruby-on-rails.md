@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-04 22:28:43 -07:00
-last_modified_at: 2022-02-28T22:57:04.988Z
+last_modified_at: 2022-02-28T23:05:10.257Z
+tagged: programming
 ---
 
 I've started learning Ruby on Rails. One thing I want for myself in the next year or so is to do more software development. As an added bonus, if my career shifted into that type of work, I wouldn't mind.

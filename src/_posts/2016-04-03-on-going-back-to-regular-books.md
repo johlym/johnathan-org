@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2016-04-03 21:07:45 -07:00
-last_modified_at: 2022-02-28T22:57:05.024Z
+last_modified_at: 2022-02-28T23:09:16.820Z
+tagged: books
 ---
 
 Last week, I bought my first regular, good old-fashioned book with the intent of reading it in longer than I can remember. It felt satisfying, but it make me think about how technology has progressed in my daily life (I'll cover this more in a future post). In regards to reading material, I haven't picked up a digital book or magazine in months. The last digital magazine I bought was over a year ago.

@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2015-09-28 07:55:59 -07:00
-last_modified_at: 2022-02-28T22:57:04.889Z
+last_modified_at: 2022-02-28T23:04:36.134Z
+tagged: journal
 ---
 
 So I've been experimenting with brewing my own coffee like the ways of the eskimos: cold.

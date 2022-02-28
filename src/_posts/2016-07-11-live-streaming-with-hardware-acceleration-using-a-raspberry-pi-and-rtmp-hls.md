@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2016-07-11 18:42:00 -07:00
-last_modified_at: 2022-02-28T22:57:04.944Z
+last_modified_at: 2022-02-28T23:10:54.178Z
+tagged: programming
 ---
 
 If you've been following my blog post series on the development of my ever so useful cat cam, powered by a Raspberry Pi, you'll know I've made several attempts at a more stable and scalable streaming solution for my Cat Cam. As it stands today, I've been using Motion. While it's a decent tool, Bandwidth has been my primary concern and I'd like to be able to stream real-time without sucking up what measly bits my ISP gives me if more than a few folks decide to show interest.

@@ -4,7 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-11 15:24:32 -07:00
-last_modified_at: 2022-02-28T22:57:04.899Z
+last_modified_at: 2022-02-28T23:05:43.854Z
+tagged: journal
 ---
 
 > Have I not destroyed my enemy when I have made him into my friend? ~ Abraham Lincoln
