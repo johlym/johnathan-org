@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2017-02-26 11:49:00 -08:00
-last_modified_at: 2022-02-28T23:12:57.950Z
-tagged: journal
+last_modified_at: 2022-02-28T23:28:56.249Z
+category: journal
 ---
 
 This is a topic I never thought I'd actually touch. We hear about how people think they're so special, typically using the words _special snowflake_ and typically from the older generations (read: 50+). Typically these low slung insults have the right idea, though the angle at which these statements are being lobbed is all wrong.

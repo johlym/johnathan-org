@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2017-03-01 17:01:00 -08:00
-last_modified_at: 2022-02-28T23:13:10.766Z
-tagged: books
+last_modified_at: 2022-02-28T23:28:56.299Z
+category: books
 ---
 
 That's a fun question, right? _You're upset so while you're upset, think about why_. That's usually not high on the list of _Things to Do_.

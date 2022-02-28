@@ -3,8 +3,8 @@ title: On Developing a WordPress Theme
 featured: false
 layout: post
 date: 2018-01-07 21:07:19 -08:00
-last_modified_at: 2022-02-28T23:20:03.701Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.283Z
+category: programming
 ---
 
 A few weeks ago I started the process of moving this blog over to WordPress from Ghost—and I talked about why I did that in a previous post—so now that I've made the change, the next natural step felt like talking about how I developed a theme for the first time.

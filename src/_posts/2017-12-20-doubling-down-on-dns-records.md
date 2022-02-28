@@ -3,8 +3,8 @@ title: Doubling Down on DNS Records
 featured: false
 layout: post
 date: 2017-12-20 00:31:16 -08:00
-last_modified_at: 2022-02-28T23:15:43.810Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.255Z
+category: programming
 ---
 
  **September 2018:** I have since moved away from this and use ~Cloudflare~ Dnsimple exclusively. 

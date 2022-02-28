@@ -3,8 +3,8 @@ title: Where Work Happens
 featured: false
 layout: post
 date: 2018-02-20 09:53:31 -08:00
-last_modified_at: 2022-02-28T23:20:55.440Z
-tagged: productivity
+last_modified_at: 2022-02-28T23:28:56.277Z
+category: productivity
 ---
 
 In reading [Remote: Office Not Required](http://amzn.to/2GxjBRZ), I had my first revelation moment right in the first chapter of the book. Remote is broken up into parts and each part covers a specific meta-topic related to working remotely with mini-chapters within each part drilling down and covering individual points about the larger topic. In the first part, Jason Fried and DHH discuss how right now is the best time to consider and even make the transition to leaving the office behind in a traditional sense and embrace working from _wherever_. The very first chapter: “Why work doesn't happen at work” made a lot of sense. I didn't realize how right they were until I started reflecting on my past office experiences and how often I struggled to be productive.

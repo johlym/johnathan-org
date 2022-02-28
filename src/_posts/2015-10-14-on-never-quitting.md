@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-14 22:55:02 -07:00
-last_modified_at: 2022-02-28T23:06:02.077Z
-tagged: writing
+last_modified_at: 2022-02-28T23:28:56.261Z
+category: writing
 ---
 
 There seems to be a trend that occurs every few months with me when it comes to my writing. I find myself, and I lose myself, and I repeat. I battle with staying consistent every day and writing something, even if it's not that interesting. When I first started blogging on a regular basis, I did it in the morning before work as a way to get my mind right and get focused for the day.

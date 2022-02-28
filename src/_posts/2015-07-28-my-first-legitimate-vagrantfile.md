@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-07-28 18:41:23 -07:00
-last_modified_at: 2022-02-28T23:03:52.147Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.281Z
+category: programming
 ---
 
 I feel like I've created this sort of new kind of being. Previously, I had rarely used Vagrant or Docker or anything of the sort, so the idea of being able to craft an on-demand virtual machine with whatever the hell I want inside of it was both exciting and terrifying.

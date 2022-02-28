@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-23 17:55:12 -07:00
-last_modified_at: 2022-02-28T23:06:56.943Z
-tagged: learning
+last_modified_at: 2022-02-28T23:28:56.301Z
+category: learning
 ---
 
 “Rails Developer” has a nice ring to it, don't you think?

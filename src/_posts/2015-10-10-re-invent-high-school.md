@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-10 11:13:08 -07:00
-last_modified_at: 2022-02-28T23:05:37.607Z
-tagged: journal
+last_modified_at: 2022-02-28T23:28:56.274Z
+category: journal
 ---
 
 Going to keep this one simple: I wish High School had prepared me for real life. High School never taught me:

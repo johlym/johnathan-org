@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2016-07-08 17:14:00 -07:00
-last_modified_at: 2022-02-28T23:10:45.641Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.265Z
+category: programming
 ---
 
 In the process of trying to figure out the best streaming solution for my cat cam, I had to deviate a bit. I combined my RTMP server for my cat cam and Web server for johnathanlyman.com into one and the latter didn't have the RTMP module installed. This module is required for my attempts to push H.264 video and have Nginx relay it to whomever is watching, cutting down on the bandwidth of my one-to-one reverse proxy setup I have, now.

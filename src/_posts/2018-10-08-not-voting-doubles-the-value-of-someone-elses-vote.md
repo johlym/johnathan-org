@@ -3,8 +3,8 @@ title: Not Voting Doubles the Value of Someone Else's Vote
 featured: false
 layout: post
 date: 2018-10-08 10:34:40 -07:00
-last_modified_at: 2022-02-28T23:23:59.078Z
-tagged: journal
+last_modified_at: 2022-02-28T23:28:56.254Z
+category: journal
 ---
 
 David Foster Wallace wrote a great piece for The Rolling Stone back in 2000 that's still absolutely true, today (emphasis mine):

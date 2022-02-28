@@ -3,8 +3,8 @@ title: "Cloudflare Argo: 228 Days Later"
 featured: false
 layout: post
 date: 2019-01-02 12:32:10 -08:00
-last_modified_at: 2022-02-28T23:25:32.835Z
-tagged: technology
+last_modified_at: 2022-02-28T23:28:56.290Z
+category: technology
 ---
 
 {% cloudinary_img, "cf-logo-v-rgb", "standard" %}

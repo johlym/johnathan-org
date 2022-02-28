@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-07-21 22:04:33 -07:00
-last_modified_at: 2022-02-28T23:03:51.823Z
-tagged: journal
+last_modified_at: 2022-02-28T23:28:56.263Z
+category: journal
 ---
 
 I've been internally reflecting on the future of my career quite a bit over the last month or so. One thing I know for sure is where I want my career to head, but what I'm not 100% sure about is how to get there.

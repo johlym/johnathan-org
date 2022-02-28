@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2016-07-29 16:18:59 -07:00
-last_modified_at: 2022-02-28T23:11:00.978Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.253Z
+category: programming
 ---
 
 I've been meaning to write this post for a while and kept getting distracted. This evening I sat down and finally hammered it out. The goal is to share some of my favorite Ruby on Rails learning resources with the community. Let's get started!

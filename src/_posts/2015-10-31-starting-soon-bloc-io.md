@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-31 10:58:33 -07:00
-last_modified_at: 2022-02-28T23:06:53.153Z
-tagged: learning
+last_modified_at: 2022-02-28T23:28:56.280Z
+category: learning
 ---
 
 I officially signed up last week for [Bloc.io](http://Bloc.io)'s Full-stack developer bootcamp becuase I feel while I can learn a good deal of stuff on my own, I'm not going to make on my own to the level I need to be in order to make a fundamental career shift to software development that will actually still support my family.

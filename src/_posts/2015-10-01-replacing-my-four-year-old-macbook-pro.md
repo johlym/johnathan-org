@@ -4,8 +4,8 @@ featured: false
 layout: post
 
 date: 2015-10-01 09:48:37 -07:00
-last_modified_at: 2022-02-28T23:04:42.215Z
-tagged: technology
+last_modified_at: 2022-02-28T23:28:56.279Z
+category: technology
 ---
 
 So it's finally happening. After over four years—52 months to be exact—my Early-2011-era Macbook Pro is being retired. In its place is going a new Macbook Pro of the same size.

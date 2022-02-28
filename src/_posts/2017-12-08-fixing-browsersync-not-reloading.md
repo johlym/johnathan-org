@@ -3,8 +3,8 @@ title: Fixing Browsersync Not Reloading
 featured: false
 layout: post
 date: 2017-12-08 02:52:00 -08:00
-last_modified_at: 2022-02-28T23:14:57.880Z
-tagged: programming
+last_modified_at: 2022-02-28T23:28:56.297Z
+category: programming
 ---
 
 I wanted to jot this down real quick while I work on the next version of this site. I'm using [Gulp](https://gulpjs.com) and [Browsersync](https://browsersync.io) and for the life of me I couldn't get the reload to actually take place. Turns out I didn't specify properly what files Browsersync needs to trigger when changed. Here's the `gulp.task()` that worked for me:

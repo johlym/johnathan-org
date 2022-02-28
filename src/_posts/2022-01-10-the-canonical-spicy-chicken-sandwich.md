@@ -6,9 +6,9 @@ excerpt: Summarizing my experiences and notes from sampling all the local-area s
   make a great reference sandwich.
 layout: post
 date: 2022-01-10 12:20:13 -08:00
-last_modified_at: 2022-02-28T23:25:57.351Z
+last_modified_at: 2022-02-28T23:28:56.282Z
 image: /images/chicken-sandwich.jpg
-tagged: lists
+category: lists
 ---
 
 - Bun: Chick-Fil-A (buttered)
