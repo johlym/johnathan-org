@@ -4,7 +4,8 @@ featured: false
 layout: post
 categories: posts
 date: 2015-03-06 06:30:55 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:40:43.272Z
+tagged: journal
 ---
 
 One thing I've always struggled with just a bit is my ability to translate my thoughts into words. When I write them down, I typically don't have a problem. When it comes to speaking them, that's where I falter from time to time.

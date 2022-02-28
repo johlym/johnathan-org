@@ -1,10 +1,11 @@
 ---
-title: 'Fake SSL: Another Reason to Own a Mac'
+title: "Fake SSL: Another Reason to Own a Mac"
 featured: false
 layout: post
 categories: posts
 date: 2015-02-21 09:09:39 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:39:08.856Z
+tagged: programming
 ---
 
 I'm almost positive I'll receive flack for this from people who think I'm talking out my @$$, and that's fine. Recently, it has come to light that certain model Lenovo laptops were shipping with what most would chalk up to nothing more than adware, a.k.a Superfish. For a few months at the end of 2014, consumer grade Lenovo laptops received this software that hijacks web browsing sessions ([HTTPS](http://en.wikipedia.org/wiki/HTTP_Secure) included) and injecting them with ads it feels you'll appreciate.

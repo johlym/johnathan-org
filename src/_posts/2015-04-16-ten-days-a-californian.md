@@ -4,7 +4,8 @@ featured: false
 layout: post
 categories: posts
 date: 2015-04-16 19:11:02 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:52:04.079Z
+tagged: journal
 ---
 
 If my calendar is correct, ten days of living in California is today. As someone who's lived in one state their whole life, nay, one metro area in one state, it's been a huge change. The world around me is fresh and exciting, but equally craptacular.

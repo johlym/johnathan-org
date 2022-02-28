@@ -4,7 +4,8 @@ featured: false
 layout: post
 categories: posts
 date: 2015-03-12 06:12:38 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:49:09.063Z
+tagged: writing
 ---
 
 And write what you don't know in hopes that one day you'll learn.

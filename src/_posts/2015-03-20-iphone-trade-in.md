@@ -4,7 +4,8 @@ featured: false
 layout: post
 categories: posts
 date: 2015-03-20 21:37:08 -07:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:51:25.435Z
+tagged: technology
 ---
 
 I did something I never thought I'd have to do.

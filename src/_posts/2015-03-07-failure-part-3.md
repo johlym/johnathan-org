@@ -4,7 +4,8 @@ featured: false
 layout: post
 categories: posts
 date: 2015-03-07 20:27:54 -08:00
-last_modified_at: 2022-02-06 14:00:00 -07:00
+last_modified_at: 2022-02-28T22:40:57.881Z
+tagged: journal
 ---
 
 Recently, I discussed a recent failure of mine that hit home pretty hard. You can read part one and part two, first, if you'd like, but it's not necessary. Today another important event happened that goes well with this impromptu series I've started and I want to talk about it.
