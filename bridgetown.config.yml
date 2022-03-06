@@ -34,3 +34,6 @@ cloudinary:
   cloud_name: johnathan-org
   transformations:
     standard: w_640,c_fill,q_90,dpr_2.0
+
+pagination:
+  enabled: true
