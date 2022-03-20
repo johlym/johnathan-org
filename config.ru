@@ -7,15 +7,15 @@ use Rack::Rewrite do
   
 
   
-  if ENV['BRIDGETOWN_ENV'] == "production" && ENV['HOST_ENV'] == "heroku"
-    # Redirect from www to non-www
-    r301 %r{.*}, 'https://johnathan.org$&', :if => Proc.new {|rack_env|
-      rack_env['SERVER_NAME'] != 'johnathan.org'
-    }
+  # if ENV['BRIDGETOWN_ENV'] == "production" && ENV['HOST_ENV'] == "heroku"
+  #   # Redirect from www to non-www
+  #   r301 %r{.*}, 'https://johnathan.org$&', :if => Proc.new {|rack_env|
+  #     rack_env['SERVER_NAME'] != 'johnathan.org'
+  #   }
 
-    # Redirect http to https when in production and using the Heroku-hosted app
-    r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
-  end
+  #   # Redirect http to https when in production and using the Heroku-hosted app
+  #   r301 %r{.*}, 'https://jdotorg.herokuapp.com$&', :scheme => 'http'
+  # end
 
   # /2020/12/file-name.html => /file-name/
   r301 %r{/\d{4}/\d{2}/(.*).html}, '/$1/'
