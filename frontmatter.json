@@ -1,5 +1,16 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.framework.startCommand": "bin/bridgetown start",
-  "frontMatter.preview.host": "http://localhost:4000"
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.framework.id": "other",
+  "frontMatter.content.publicFolder": "",
+  "frontMatter.content.pageFolders": [
+    {
+      "path": "[[workspace]]/src/_posts"
+    },
+    {
+      "title": "_pages",
+      "path": "[[workspace]]/src/_pages"
+    }
+  ]
 }
