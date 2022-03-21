@@ -5,11 +5,11 @@ description: null
 author: null
 date: 2022-03-21T22:58:26.606Z
 lastmod: 2019-08-22T15:20:28.000Z
-draft: true
+draft: false
 category:
   - journal
 
-last_modified_at: 2022-03-21T23:00:47.556Z
+last_modified_at: 2022-03-21T23:03:44.241Z
 ---
 Taken from a twitter thread where I first posted these bullets.
 
