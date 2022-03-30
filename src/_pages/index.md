@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
-last_modified_at: 2022-02-06 14:30:00 -07:00
+last_modified_at: 2022-03-30T20:19:53.034Z
 ---
 
 <h2>Johnathan Lyman</h2>
@@ -20,4 +20,7 @@ last_modified_at: 2022-02-06 14:30:00 -07:00
   <a href="/posts/">All Posts <i class="far fa-long-arrow-alt-right"></i></a>
 </p>
 <hr>
+<p><strong>Other things:</strong> <a href="/dad-notes">Dad Notes</a></p>
+<hr>
+
 <p class="small text-muted">This site is entirely open-source. If anything is out of sorts, the repo is <a href="https://github.com/johlym/johnathan-org" target="_blank">here</a>.
