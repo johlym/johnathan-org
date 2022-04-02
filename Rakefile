@@ -1,4 +1,8 @@
 require "bridgetown"
+require 'uri'
+require 'net/http'
+require 'openssl'
+require 'dotenv/tasks'
 
 Bridgetown.load_tasks
 
@@ -34,6 +38,26 @@ namespace :frontend do
   task :dev do
     sh "yarn run webpack-dev --color"
   rescue Interrupt
+  end
+end
+
+namespace :cache do
+  desc "Purge Bunny.net CDN cache"
+  task :purge => :dotenv do
+    puts "Purging the CDN cache"
+    url = URI("https://api.bunny.net/pullzone/#{ENV['BUNNY_ZONE_ID']}/purgeCache")
+
+    http = Net::HTTP.new(url.host, url.port)
+    http.use_ssl = true
+
+    request = Net::HTTP::Post.new(url)
+    request["AccessKey"] = ENV['BUNNY_API_KEY']
+
+    response = http.request(request)
+    if response.code != "204"
+      raise "Unexpected response from CDN. Expected 204, got #{response.code}\n Response body: #{response.body}"
+    end
+    puts "Cache purged"
   end
 end
 
