@@ -45,19 +45,24 @@ namespace :cache do
   desc "Purge Bunny.net CDN cache"
   task :purge => :dotenv do
     puts "Purging the CDN cache"
-    url = URI("https://api.bunny.net/pullzone/#{ENV['BUNNY_ZONE_ID']}/purgeCache")
 
-    http = Net::HTTP.new(url.host, url.port)
-    http.use_ssl = true
+    if ENV['REVIEW'] != 'true'
+      url = URI("https://api.bunny.net/pullzone/#{ENV['BUNNY_ZONE_ID']}/purgeCache")
 
-    request = Net::HTTP::Post.new(url)
-    request["AccessKey"] = ENV['BUNNY_API_KEY']
+      http = Net::HTTP.new(url.host, url.port)
+      http.use_ssl = true
 
-    response = http.request(request)
-    if response.code != "204"
-      raise "Unexpected response from CDN. Expected 204, got #{response.code}\n Response body: #{response.body}"
+      request = Net::HTTP::Post.new(url)
+      request["AccessKey"] = ENV['BUNNY_API_KEY']
+
+      response = http.request(request)
+      if response.code != "204"
+        raise "Unexpected response from CDN. Expected 204, got #{response.code}\n Response body: #{response.body}"
+      end
+      puts "Cache purged"
+    else
+      puts "Skipping. In review app."
     end
-    puts "Cache purged"
   end
 end
 
