@@ -20,7 +20,7 @@ last_modified_at: 2022-03-30T20:19:53.034Z
   <a href="/posts/">All Posts <i class="far fa-long-arrow-alt-right"></i></a>
 </p>
 <hr>
-<p><strong>Other things:</strong> <a href="/dad-notes">Dad Notes</a></p>
+<p><strong>Other things:</strong> <a href="/dad-notes">Dad Notes</a> • <a href="/quotes">Quotes</a> </p>
 <hr>
 
 <p class="small text-muted">This site is entirely open-source. If anything is out of sorts, the repo is <a href="https://github.com/johlym/johnathan-org" target="_blank">here</a>.
