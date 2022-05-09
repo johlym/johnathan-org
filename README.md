@@ -1,6 +1,6 @@
-# Bridgetown Website README
+# Johnathan.org
 
-Welcome to your new Bridgetown website! You can update this README file to provide additional context and setup information for yourself or other contributors.
+This is the repository for johnathan.org. The site is powered by [Bridgetown](https://bridgetownrb.com) v1.0.
 
 ## Table of Contents
 
@@ -29,6 +29,7 @@ Welcome to your new Bridgetown website! You can update this README file to provi
 cd bridgetown-site-folder
 bundle install && yarn install
 ```
+
 > Learn more: [Bridgetown Getting Started Documentation](https://www.bridgetownrb.com/docs/).
 
 ## Development
@@ -54,7 +55,7 @@ bin/bridgetown console
 
 ## Deployment
 
-You can deploy Bridgetown sites on hosts like Render or Vercel as well as tranditional web servers by simply building and copying the output folder to your HTML root.
+You can deploy Bridgetown sites on hosts like Render or Vercel as well as traditional web servers by simply building and copying the output folder to your HTML root.
 
 > Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.
 
