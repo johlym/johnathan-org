@@ -24,7 +24,7 @@ Collections of links for things I find interesting on the Internet, broken out b
       </div>
       <div class="col-sm-10">
         <div class="card-body">
-          <h5 class="card-title"><a href="{{ item.url }}"
+          <h5 class="card-title"><a href="{{ item.link }}"
               target="_blank">{{ item.title }}</a></h5>
         </div>
       </div>
