@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "{{ site.metadata.title | xml_escape }}",
+  "description": {{ site.metadata.description | jsonify }},
+  "home_page_url": "{{ "/" | absolute_url }}",
+  "feed_url": "{{ "/feed.json" | absolute_url }}",
+  "user_comment": "This is a JSON-formatted version of the feed from this site, containing the newest 10 posts.",
+  "items": [{% for post in collections.posts.resources %}
+    {
+        "id": "{{ post.url | absolute_url }}",
+        "url": "{{ post.url | absolute_url }}",
+        "title": {{ post.title | jsonify }},
+        "summary": {{ post.excerpt | jsonify }},
+        "content_html": {{ post.content | jsonify }},
+        "date_published": "{{ post.date | date_to_xmlschema }}"
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
