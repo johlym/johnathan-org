@@ -35,7 +35,7 @@ use Rack::Rewrite do
   r301 %r{/tag.*}, '/'
   r301 %r{/author.*}, '/about/'
   r301 %r{/rss.*}, '/feed.xml'
-  r301 %r{/feed?cat=-434}, '/feed.xml'
+  r301 %r{/feed\?cat=-434}, '/feed.xml'
   r301 %r{/rpi-h264-hw-acceleration}, '/live-streaming-with-hardware-acceleration-using-a-raspberry-pi-and-rtmp-hls/'
 end
 
