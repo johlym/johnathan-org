@@ -7,7 +7,7 @@ last_modified_at: 2022-02-28T23:28:56.296Z
 category: programming
 ---
 
-One of the primary steps in making each iteration of this site happen is deploying its generated HTML files to my [Digital Ocean](/goto/digitalocean) server. Since these are just static files and there isn't a CMS backing them up (in a traditional sense), there needs to be an automatic process that takes care of it after I make a change. If I had to manually push or build the site every time I added something, I'd:
+One of the primary steps in making each iteration of this site happen is deploying its generated HTML files to my Digital Ocean server. Since these are just static files and there isn't a CMS backing them up (in a traditional sense), there needs to be an automatic process that takes care of it after I make a change. If I had to manually push or build the site every time I added something, I'd:
 
 1. never do it
 2. go back to a CMS

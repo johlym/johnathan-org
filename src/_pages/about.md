@@ -51,3 +51,7 @@ Everything should look fine on all modern mobile devices and browsers. Anything 
 ### Advertising
 
 Currently, ads are served exclusively through [Carbon](https://www.carbonads.net). To advertise on this site, please get in touch with them.
+
+## Contact
+
+If you need or want to get in touch, find me on twitter <a href="https://twitter.com/_johlym">@_johlym</a> or send me an email: `email at johnathan dot org`.

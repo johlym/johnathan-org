@@ -48,5 +48,5 @@ I don't want to tell you to stop having goals. Having a goal or five is awesome 
 
 ————
 
-What do you think? Is there a goal in life you're trying to accomplish but don't feel like you can ever make it? What do you think would happen if you stopped focusing on the end and started paying attention to what you're doing about it right now? I'd love to hear your story in the comments, via [Twitter](https://twitter.com/_johlym) or [email](/contact/). If your story is good, I might revisit this topic in a future post with your thoughts and comments. Thanks for reading!
+What do you think? Is there a goal in life you're trying to accomplish but don't feel like you can ever make it? What do you think would happen if you stopped focusing on the end and started paying attention to what you're doing about it right now? I'd love to hear your story in the comments, via [Twitter](https://twitter.com/_johlym) or [email](/about/#contact). If your story is good, I might revisit this topic in a future post with your thoughts and comments. Thanks for reading!
 
