@@ -11,6 +11,8 @@ category: data
 
 I stumbled into an article from Studee about [the U.S. States with more colleges than jails and prisons](http://studee.com/discover/usa-prison-v-college/), today. The presentation is disheartening, in that the vast majority of U.S. States are afflicted with large quantities of jails and prisons. 
 
+*This post is a work in progress.*
+
 While I found it interesting, I also found it inaccurate. Their article described a college as one where an individual can get a four-year degree. However, that doesn't necessarily describe what a college is, and thus leaves out a few states. 
 
 Using the same data sources[^1][^2], I re-compiled the list to include schools that offer associates degrees, too. These are mostly community and technical colleges, and by all measures, are colleges.
