@@ -1,0 +1,256 @@
+---
+-
+    state: Alabama
+    jails_prisons: 147
+    schools: 76
+    diff: -71
+-
+    state: Alaska
+    jails_prisons: 27
+    schools: 9
+    diff: -18
+-
+    state: Arizona
+    jails_prisons: 36
+    schools: 105
+    diff: 69
+-
+    state: Arkansas
+    jails_prisons: 95
+    schools: 82
+    diff: -13
+-
+    state: California
+    jails_prisons: 147
+    schools: 917
+    diff: 770
+-
+    state: Colorado
+    jails_prisons: 81
+    schools: 88
+    diff: 7
+-
+    state: Connecticut
+    jails_prisons: 14
+    schools: 66
+    diff: 52
+-
+    state: Delaware
+    jails_prisons: 4
+    schools: 15
+    diff: 11
+-
+    state: D.C.
+    jails_prisons: 2
+    schools: 23
+    diff: 21
+-
+    state: Florida
+    jails_prisons: 230
+    schools: 335
+    diff: 105
+-
+    state: Georgia
+    jails_prisons: 217
+    schools: 140
+    diff: -77
+-
+    state: Hawaii
+    jails_prisons: 8
+    schools: 22
+    diff: 14
+-
+    state: Idaho
+    jails_prisons: 46
+    schools: 36
+    diff: -10
+-
+    state: Illinois
+    jails_prisons: 120
+    schools: 235
+    diff: 115
+-
+    state: Indiana
+    jails_prisons: 110
+    schools: 103
+    diff: -7
+-
+    state: Iowa
+    jails_prisons: 105
+    schools: 77
+    diff: -28
+-
+    state: Kansas
+    jails_prisons: 106
+    schools: 74
+    diff: -32
+-
+    state: Kentucky
+    jails_prisons: 96
+    schools: 84
+    diff: -12
+-
+    state: Louisiana
+    jails_prisons: 120
+    schools: 110
+    diff: -10
+-
+    state: Maine
+    jails_prisons: 19
+    schools: 34
+    diff: 15
+-
+    state: Maryland
+    jails_prisons: 49
+    schools: 76
+    diff: 27
+-
+    state: Massachusetts
+    jails_prisons: 35
+    schools: 145
+    diff: 110
+-
+    state: Michigan
+    jails_prisons: 108
+    schools: 157
+    diff: 49
+-
+    state: Minnesota
+    jails_prisons: 92
+    schools: 95
+    diff: 3
+-
+    state: Mississippi
+    jails_prisons: 92
+    schools: 52
+    diff: -40
+-
+    state: Missouri
+    jails_prisons: 139
+    schools: 144
+    diff: 5
+-
+    state: Montana
+    jails_prisons: 42
+    schools: 30
+    diff: -12
+-
+    state: Nebraska
+    jails_prisons: 73
+    schools: 39
+    diff: -34
+-
+    state: Nevada
+    jails_prisons: 36
+    schools: 40
+    diff: 4
+-
+    state: New Hampshire
+    jails_prisons: 16
+    schools: 34
+    diff: 18
+-
+    state: New Jersey
+    jails_prisons: 28
+    schools: 155
+    diff: 127
+-
+    state: New Mexico
+    jails_prisons: 39
+    schools: 44
+    diff: 5
+-
+    state: New York
+    jails_prisons: 116
+    schools: 422
+    diff: 306
+-
+    state: North Carolina
+    jails_prisons: 157
+    schools: 163
+    diff: 6
+-
+    state: North Dakota
+    jails_prisons: 27
+    schools: 26
+    diff: -1
+-
+    state: Ohio
+    jails_prisons: 133
+    schools: 277
+    diff: 144
+-
+    state: Oklahoma
+    jails_prisons: 117
+    schools: 95
+    diff: -22
+-
+    state: Oregon
+    jails_prisons: 50
+    schools: 76
+    diff: 26
+-
+    state: Pennsylvania
+    jails_prisons: 97
+    schools: 304
+    diff: 207
+-
+    state: Rhode Island
+    jails_prisons: 7
+    schools: 21
+    diff: 14
+-
+    state: South Carolina
+    jails_prisons: 71
+    schools: 91
+    diff: 20
+-
+    state: South Dakota
+    jails_prisons: 32
+    schools: 28
+    diff: -4
+-
+    state: Tennessee
+    jails_prisons: 123
+    schools: 149
+    diff: 26
+-
+    state: Texas
+    jails_prisons: 313
+    schools: 394
+    diff: 81
+-
+    state: Utah
+    jails_prisons: 29
+    schools: 61
+    diff: 32
+-
+    state: Vermont
+    jails_prisons: 8
+    schools: 18
+    diff: 10
+-
+    state: Virginia
+    jails_prisons: 97
+    schools: 143
+    diff: 46
+-
+    state: Washington
+    jails_prisons: 71
+    schools: 97
+    diff: 26
+-
+    state: West Virginia
+    jails_prisons: 24
+    schools: 70
+    diff: 46
+-
+    state: Wisconsin
+    jails_prisons: 100
+    schools: 89
+    diff: -11
+-
+    state: Wyoming
+    jails_prisons: 28
+    schools: 10
+    diff: -18
