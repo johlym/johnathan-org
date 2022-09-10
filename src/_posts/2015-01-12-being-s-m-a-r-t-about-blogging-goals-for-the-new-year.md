@@ -8,7 +8,7 @@ last_modified_at: 2022-02-28T22:57:35.574Z
 category: journal
 ---
 
-If you're still with me, I'm on day eight of the [#10-days-to-a-better-blog](/tag/10-days-to-a-better-blog.html) challenge/workshop/event put on by [John Saddington](http://john.do) of Desk.pm fame. He's on year 14 of blogging so chances are he knows a thing or two. Today's topic has to do with coming up with goals in relation to where I want my blogging to go using the S.M.A.R.T. principle. It is outlined like so:
+If you're still with me, I'm on day eight of the #10DaysToABetterBlog challenge/workshop/event put on by [John Saddington](http://john.do) of Desk.pm fame. He's on year 14 of blogging so chances are he knows a thing or two. Today's topic has to do with coming up with goals in relation to where I want my blogging to go using the S.M.A.R.T. principle. It is outlined like so:
 
 1. **Specific** – target a specific area for improvement.
 2. **Measurable** – quantify or at least suggest an indicator of progress.
