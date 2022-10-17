@@ -21,20 +21,20 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 # If you need to upgrade/switch Bridgetown versions, change the line below
 # and then run `bundle update bridgetown`
-gem "bridgetown", "~> 1.0.0"
+gem "bridgetown", "~> 1.2.0.beta3"
 
 # Uncomment to add file-based dynamic routing to your project:
 # gem "bridgetown-routes", "~> 1.0.0.beta1", group: :bridgetown_plugins
 
 # Puma is a Rack-compatible server used by Bridgetown
 # (you can optionally limit this to the "development" group)
-gem "puma", "~> 5.6"
+gem "puma", "~> 6.0"
 
-gem "reverse_markdown", "~> 2.1"
+gem "reverse_markdown", "~> 2.1.1"
 
-gem "bridgetown-feed", "~> 2.1", :group => :bridgetown_plugins
+gem "bridgetown-feed", "~> 3.0.0", :group => :bridgetown_plugins
 
-gem "dotenv", "~> 2.7"
+gem "dotenv", "~> 2.8.1"
 
 
 group :test, optional: true do
@@ -46,8 +46,8 @@ group :test, optional: true do
   gem "rails-dom-testing"
 end
 
-gem "rack-rewrite", "~> 1.5"
-
-gem "bridgetown-cloudinary", "~> 1.2", :group => :bridgetown_plugins
+gem "rack-rewrite", "~> 1.5.1"
 
 gem "barnes", "~> 0.0.9"
+
+gem "bridgetown-cloudinary", "~> 2.1"
