@@ -43,4 +43,6 @@ Bridgetown.configure do |config|
   init :"bridgetown-cloudinary" do
     cloud_name "johnathan-org"
   end
+
+  init :"bridgetown-feed"
 end
