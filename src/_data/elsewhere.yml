@@ -1,10 +1,22 @@
 - name: Github (@johlym)
   path: https://github.com/johlym
   icon: fab fa-github
+  me: true
+
+- name: "@johlym@ruby.social"
+  path: https://ruby.social/@johlym
+  icon: fab fa-mastodon
+  me: true
+
+- name: "@johnathan@herokai.cafe"
+  path: https://herokai.cafe/@johnathan
+  icon: fab fa-mastodon
+  me: true
 
 - name: LinkedIn
   path: https://linkedin.com/in/johnathanlyman
   icon: fab fa-linkedin
+  me: true
 
 - name: Weather Station
   path: https://leahillwx.org

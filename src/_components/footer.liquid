@@ -42,12 +42,11 @@
         <p class="mb-2 fw-bold">Elsewhere</p>
         <ul class="px-0 list-unstyled">
           {% for item in nav2 %}
-          <li><a class="text-muted fw-normal mb-2 d-inline" rel="noopener"
+          <li><i class="{{ item.icon }} fa-fw"></i> <a class="text-muted fw-normal mb-2 d-inline" rel="noopener{% if item.me %} me{% endif %}"
               href="{{ item.path }}" target="_blank">{{ item.name }}</a></li>
           {% endfor %}
         </ul>
-          <li><a class="text-muted fw-normal mb-2 d-inline" rel="me" href="https://ruby.social/@johlym">Mastodon @ruby.social</a></li>
-          <li><a class="text-muted fw-normal mb-2 d-inline" rel="me" href="https://herokai.cafe/@johnathan">Mastodon @herokai.cafe</a></li>
+
       </div>
     </div>
     <div class="row">
