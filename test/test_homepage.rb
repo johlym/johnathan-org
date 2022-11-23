@@ -16,11 +16,7 @@ class TestHomepage < Minitest::Test
     end
 
     should "contain the site title" do
-      assert_select "h2", /Johnathan Lyman/
-    end
-
-    should "contain ad script" do
-      assert_select "#ad-placement"
+      assert_select "h1", /Johnathan.org/
     end
 
     should "contain latest post header" do
