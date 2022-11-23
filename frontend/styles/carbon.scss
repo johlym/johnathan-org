@@ -28,44 +28,44 @@
     position: relative;
     display: block;
     overflow: hidden;
-  }
 
-  .carbon-wrap {
-    display: flex;
-  }
-
-  .carbon-img {
-    display: block;
-    margin: 0;
-    line-height: 1;
-
-    img {
-      display: block;
+    .carbon-wrap {
+      display: flex;
     }
-  }
-
-  .carbon-text {
-    font-size: 13px;
-    padding: 10px;
-    margin-bottom: 16px;
-    line-height: 1.5;
-    text-align: left;
-  }
-
-  .carbon-poweredby {
-    display: block;
-    padding: 6px 8px;
-    background: #444;
-    color: #ddd;
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    font-weight: 600;
-    font-size: 8px;
-    line-height: 1;
-    border-top-left-radius: 3px;
-    position: absolute;
-    bottom: 0;
-    right: 0;
+  
+    .carbon-img {
+      display: block;
+      margin: 0;
+      line-height: 1;
+  
+      img {
+        display: block;
+      }
+    }
+  
+    .carbon-text {
+      font-size: 13px;
+      padding: 10px;
+      margin-bottom: 16px;
+      line-height: 1.5;
+      text-align: left;
+    }
+  
+    .carbon-poweredby {
+      display: block;
+      padding: 6px 8px;
+      background: #444;
+      color: #ddd;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      font-weight: 600;
+      font-size: 8px;
+      line-height: 1;
+      border-top-left-radius: 3px;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
   }
 }
