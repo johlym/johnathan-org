@@ -41,7 +41,7 @@ const cssRules = {
     {
       loader: "css-loader",
       options: {
-        url: url => !url.startsWith('/'),
+        url: true,
         importLoaders: 1
       }
     }

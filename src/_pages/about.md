@@ -21,6 +21,8 @@ In the past I've been known to host a podcast, and run three side businesses to 
 
 This is year six (2016-2022) of working 100% remote and I've been able to use that time to really hone my [work space](/using/). 
 
+<p>On the side, I also run <a href="https://seaplanecoffee.com" target="_blank">Seaplane Coffee</a> and <a href="https://cascadehandcrafts.com" target="_blank">Cascade Handcrafts</a>.</p>
+
 ## Work History
 
 {% for job in site.data.work %}
@@ -40,7 +42,7 @@ This is year six (2016-2022) of working 100% remote and I've been able to use th
 
 Johnathan.org is operated, maintained, and written by myself, Johnathan Lyman. I’ve maintained this blog to varying degrees since 2014 and have been on the web in about two dozen different formats since 2001-ish. Johnathan.org is my personal blog, first and foremost, where I write about topics that interest me. In particular, technology, some current events, videos, and other bits I discover are what you’re most likely to see here.
 
-Since 2014, I’ve created almost over 400 posts. About 350 of them (as of mid-September 2018) have made it through the various transitions this site has seen. A few of them were so highly irrelevant or didn’t make sense. In hindsight, keeping them around seems like the right thing to do, but I’ve opted to move forward.
+Since 2014, I’ve created almost over 400 posts. About 350 of them (as of mid-September 2018) have made it through the various transitions this site has seen, though through some culling of content, the current count is {% total_posts %} posts. A few of them were so highly irrelevant or didn’t make sense. In hindsight, keeping them around seemed like the right thing to do, but I’ve opted to move forward.
 
 ### Hosting, Toolchain, Standards
 
@@ -55,3 +57,13 @@ Currently, ads are served exclusively through [Carbon](https://www.carbonads.net
 ## Contact
 
 If you need or want to get in touch, find me on twitter <a href="https://twitter.com/_johlym">@_johlym</a> or send me an email: `email at johnathan dot org`.
+
+## Site Stats
+
+<p>
+  <ul class="px-0 list-unstyled">
+    <li>{% total_posts %} posts</li>
+    <li>{% total_post_words %} total words</li>
+    <li>{% total_post_words_average %} words/post (avg)</li>
+  </ul>
+</p>
