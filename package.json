@@ -7,7 +7,7 @@
     "webpack-dev": "webpack --mode development -w"
   },
   "devDependencies": {
-    "css-loader": "^5",
+    "css-loader": "^6",
     "esbuild": "^0.14",
     "esbuild-loader": "^2.16.0",
     "file-loader": "^6.2.0",
