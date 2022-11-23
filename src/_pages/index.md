@@ -5,23 +5,10 @@ layout: default
 last_modified_at: 2022-03-30T20:19:53.034Z
 ---
 
-<h2>Johnathan Lyman</h2>
-<p>I am a veteran Developer/Application Support Engineer turned Full Stack Developer. My background is Ruby and Ruby on Rails. This site is my digital landing zone where I opine on topics I find interesting, collect links to sites, books, and resources I find helpful, and highlight my professional experience.</p>
-<p>On the side, I also run <a href="https://seaplanecoffee.com" target="_blank">Seaplane Coffee</a> and <a href="https://cascadehandcrafts.com" target="_blank">Cascade Handcrafts</a>.</p>
-
-<p><a href="/about/">About me <i class="far fa-long-arrow-alt-right"></i></a></p>
-<hr>
-{% render "carbon" %}
-<hr>
 <h2>Latest Posts</h2>
-<p>A list of the most recent five posts I've created.</p>
-{% render "post_loop", posts: collections.posts.resources, limit: 5 %}
+
+{% render "post_loop", posts: collections.posts.resources, limit: 10 %}
 
 <p>
   <a href="/posts/">All Posts <i class="far fa-long-arrow-alt-right"></i></a>
 </p>
-<hr>
-<p><strong>Other things:</strong> <a href="/dad-notes">Dad Notes</a> • <a href="/quotes">Quotes</a> </p>
-<hr>
-
-<p class="small text-muted">This site is entirely open-source. If anything is out of sorts, the repo is <a href="https://github.com/johlym/johnathan-org" target="_blank">here</a>.
