@@ -12,6 +12,8 @@
                     nav: site.data.nav %}
 </header>
 <main>
+{% assign content_type = page.layout %}
+<code>~/<a href="/">home</a>/{% if content_type == "post" %}<a href="/posts/">post</a>/{% endif %}<a href="{{ page.relative_url }}">{{ page.slug }}</a></code>
 <section>
   {% render "carbon" %}
 </section>
