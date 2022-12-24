@@ -5,7 +5,7 @@ description: For the weather nerds, WeeWX is arguably the defacto weather Web si
 author: null
 date: 2022-12-23T12:33:00:000Z
 last_modified_at: 2022-12-23T12:33:00:000Z
-draft: false
+draft: true
 category: programming
 ---
 
