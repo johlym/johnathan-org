@@ -2,5 +2,5 @@
 {% assign d = post.date | date: "%-d" %}
 {{ post.date | date: "%B" }} 
 {% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, 
-{{ post.date | date: "%Y" }}{% if count != false %} • {{ post.content | number_of_words }} words {% endif %} • filed under <a href="/categories/{{page.category | slugify }}{{post.category | slugify }}/">{{ page.category | capitalize}}{{ post.category | capitalize }}</a>
+{{ post.date | date: "%Y" }} • filed under <a href="/categories/{{page.category | slugify }}{{post.category | slugify }}/">{{ page.category | capitalize}}{{ post.category | capitalize }}</a>
 </small>
