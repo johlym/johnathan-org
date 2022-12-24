@@ -57,16 +57,49 @@ Here's where things start to get spicy. Every add+commit+push dumps roughly 14 f
 
 Hahahaha... 
 
-Shit.
+Shit.[^2]
 
-Where's all that coming from? Minute-by-minute updates of all the JSON objects for the hourly, daily, weekly, monthly, and yearly stats histories, potential changes to every value on every HTML page, and updating the NOAA records. Since all of the temperatures have a precision of 1/10th of a degree, that means even more potential changes of values, even if they're minute.
+Where's all that coming from? Minute-by-minute updates of all the JSON objects for the hourly, daily, weekly, monthly, and yearly stats histories, potential changes to every value on every HTML page, and updating the NOAA records. Since all of the temperatures have a precision of 1/10th of a degree, that means even more potential changes of values, even if they're minute.[^3]
 
 ### APIs and Direct Uploads
 
+So knowing that taking the Git route means we ~pad our stats to intense levels~ have a lot of Git traffic that isn't really that important, I started thinking about alternative means to deploying. To really hone in, I also had to think about where I'd be deploying. The two platforms that came to mind that I'd be interested in deploying this site to are Heroku and Netlify. 
+
+Both platforms have means to directly deploy ([Heroku](https://devcenter.heroku.com/articles/platform-api-deploying-slugs), [Netlify](https://docs.netlify.com/site-deploys/create-deploys/#netlify-cli)) that don't involve Git, so it seems reasonable to think we could figure out a way to utilize them, replacing some of our nightmare cron with API calls.
+
 ## Deploying the WeeWX site to Heroku
 
+Heroku's power comes from the automatic integration with GitHub and thus automatic deploys. Since we're skipping that flow, we need to create the slug manually (including the [Nginx buildpack](https://elements.heroku.com/buildpacks/heroku/heroku-buildpack-nginx)), push the slug up to Heroku via the API, and release it. Since the final product is small (the core Linux image + Nginx + some static HTML), the creation and upload process should be quick.
+
+```
+cp /var/www/html/weewx/belchertown /tmp/app
+cd /tmp
+tar czfv slug.tgz ./app
+
+```
+
 ## Deploying the WeeWX site to Netlify
+
+Netlify's CLI makes pretty quick work of deploying without Git. Since nothing has to be explicitly built, we can run `netlify deploy` and we're done. The process is mimicking what happens when Netlify picks up a GitHub change: 
+
+1. copy the files to the destination and serve them.
+2. GOTO 1 
+
+Running `netlify deploy` for the first time adds an two extra steps of:
+
+1. associating the environment (`/var/www/html/weewx/belchertown`, in this case) to a site
+2. setting the publish directory (`.` or the same directory we're operating in)
+
+We'll get a couple of URLs to check our work. Once everything looks good, we can swap in `netlify deploy --prod --dir .` (the latter to skip the prompt asking for the publish directory) to push everything directly to the production environment.
+
+This turns our cron into:
+
+```
+*/5 * * * * cd /var/www/html/weewx/belchertown && netlify deploy --prod --dir . && curl -fsS --retry 3 -o /dev/null https://ping.ohdear.app/...
+```
 
 ---
 
 [^1]: I could have skipped the rsync process and used something like Tailscale to hook up a small Linux VM on Linode to the WeeWX instance. I might revisit that idea in the future for completeness' sake.
+[^2]: When I implemented this, I had no idea so many changes took place during every five-minute window. The sane side of me would have held off and figured out a more sustainable solution, but then I wouldn't have this quality content.
+[^3]: I can't necessarily extend the delay between git-pushes. Making the gap too wide would create a situation where the originally presentded data (before the MQTT stream took over) would be increasingly innacurate. Plus, there'd still be the copious amounts of stats write-out.
