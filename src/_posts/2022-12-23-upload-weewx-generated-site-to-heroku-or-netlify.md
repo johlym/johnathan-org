@@ -3,8 +3,8 @@ title: Upload a WeeWX-Generated Site to Heroku or Netlify
 slug: upload-weewx-generated-site-to-heroku-or-netlify
 description: For the weather nerds, WeeWX is arguably the defacto weather Web site generator. Here's how to upload the generated content to Heroku and Netlify.
 author: null
-date: 2022-12-23T12:33:00:000Z
-last_modified_at: 2022-12-23T12:33:00:000Z
+date: 2022-12-24T11:24:00:000Z
+last_modified_at: 2022-12-24T11:24:00:000Z
 draft: false
 category: programming
 ---
