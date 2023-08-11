@@ -1,3 +1,5 @@
+# @format
+
 notes:
   - There is no such thing as too many diapers.
   - There is no such thing as enough diapers.
@@ -9,7 +11,7 @@ notes:
   - The stress means you're human.
   - You're doing the best you can.
   - Take more leave than you think you'll need. That N weeks will sneak up on you fast and you'll wish you took more.
-  - Find people to share your stories with. 
+  - Find people to share your stories with.
 
 stats:
   diapers_consumed:
@@ -18,3 +20,4 @@ stats:
     two: 696
     three: 1152
     four: 1044+
+    five: 144+
