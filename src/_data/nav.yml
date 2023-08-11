@@ -1,3 +1,5 @@
+# @format
+
 - name: Home
   path: /
 
@@ -6,6 +8,9 @@
 
 - name: Posts
   path: /posts/
+
+- name: Dad Notes
+  path: /dad-notes/
 
 - name: Links
   path: /links/

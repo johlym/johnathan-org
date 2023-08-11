@@ -22,11 +22,13 @@ notes:
   - Every moment you see them doing something new for the first time feels like a straight dopamine hit.
   - Their first boo-boo is the saddest one.
   - Start teaching them things you're interested in early.
-    - I've started showing our daughter the various tools in the garage. I also take her to the home improvement store with me and show her all the things there.
-    - Watching her say the word "level" or "hammer" for the first time is almost too much to handle in the moment.
+  - I've started showing our daughter the various tools in the garage. I also take her to the home improvement store with me and show her all the things there.
+  - Watching her say the word "level" or "hammer" for the first time is almost too much to handle in the moment.
 
 stats:
-  diapers_consumed:
+  diapers_total: -3753+
+  diapers_per_day: ~6.85 dpd
+  diapers_by_size:
     newborn: 265
     one: 450
     two: 696
