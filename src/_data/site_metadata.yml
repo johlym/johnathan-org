@@ -1,11 +1,8 @@
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.metadata.myvariable }}.
+# @format
 
+# Site settings
 title: Johnathan Lyman
 tagline: Developer Support & Ruby on Rails Developer
 email: email@johnathan.org
 description: >-
-  The personal site of Developer Support veteran-turned Rails developer Johnathan Lyman.
+  Sometimes I write things on the Internet and put them here.
