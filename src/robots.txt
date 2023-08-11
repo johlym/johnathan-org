@@ -3,10 +3,10 @@ layout: none
 permalink: robots.txt
 ---
 
-User-agent: * 
-Allow: /
-
 User-agent: GPTBot
 Disallow: /
+
+User-agent: * 
+Allow: /
 
 Sitemap: https://johnathan.org/sitemap.xml
