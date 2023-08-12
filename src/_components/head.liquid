@@ -1,10 +1,12 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 {% capture resource_title %}{{ title | strip_html | strip_newlines }}{% endcapture %}
-<title>{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}</title>
+{% capture page_title %}{% if resource_title != "Index" %}{{ resource_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}{% endcapture %}
+<title>{{ page_title }}</title>
 
-<meta name="description" content="{{ metadata.description }}" />
+{% seo title=false %}
 
+<meta name="og:image" content="https://res.cloudinary.com/johnathan-org/w_1200,f_auto/l_social,w_100,g_south_east,x_60,y_40/l_text:Georgia_80_bold_center:{{ metadata.title }},co_rgb:ededed,c_fit,w_600/og_background.jpg" />
 <link rel="alternate" title="Johnathan.org Feed" type="application/feed+xml" href="https://johnathan.org/feed.xml" />
 
 <link rel="stylesheet" href="{% asset_path css %}" />

@@ -45,4 +45,5 @@ Bridgetown.configure do |config|
   end
 
   init :"bridgetown-feed"
+  init :"bridgetown-seo-tag"
 end

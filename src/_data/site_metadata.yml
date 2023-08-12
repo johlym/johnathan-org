@@ -1,8 +1,13 @@
 # @format
 
 # Site settings
-title: Johnathan Lyman
+title: Johnathan.org
 tagline: Developer Support & Ruby on Rails Developer
 email: email@johnathan.org
 description: >-
   Sometimes I write things on the Internet and put them here.
+author:
+  twitter: _johlym
+twitter:
+  username: _johlym
+  card: summary
