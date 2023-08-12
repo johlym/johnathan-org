@@ -1,5 +1,5 @@
 ---
-title: Prevent ChatGPT from Scraping Your SIte
+title: Prevent ChatGPT from Scraping Your Site
 slug: no-gpt-scrapey-scrapey
 description: The goods you need to add to robots.txt to keep ChatGPT from consuming your work.
 author: null
