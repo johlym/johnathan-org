@@ -1,0 +1,534 @@
+[
+  [
+    "1948",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 60
+    }
+  ],
+  [
+    "1949",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1950",
+    {
+      "highest_tmax": 86,
+      "highest_tmin": 57
+    }
+  ],
+  [
+    "1951",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 58
+    }
+  ],
+  [
+    "1952",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 57
+    }
+  ],
+  [
+    "1953",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 59
+    }
+  ],
+  [
+    "1954",
+    {
+      "highest_tmax": 80,
+      "highest_tmin": 57
+    }
+  ],
+  [
+    "1955",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 63
+    }
+  ],
+  [
+    "1956",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 63
+    }
+  ],
+  [
+    "1957",
+    {
+      "highest_tmax": 84,
+      "highest_tmin": 58
+    }
+  ],
+  [
+    "1958",
+    {
+      "highest_tmax": 97,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "1959",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1960",
+    {
+      "highest_tmax": 99,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1961",
+    {
+      "highest_tmax": 97,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1962",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 59
+    }
+  ],
+  [
+    "1963",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1964",
+    {
+      "highest_tmax": 90,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1965",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1966",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 61
+    }
+  ],
+  [
+    "1967",
+    {
+      "highest_tmax": 98,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1968",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1969",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 61
+    }
+  ],
+  [
+    "1970",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 63
+    }
+  ],
+  [
+    "1971",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 63
+    }
+  ],
+  [
+    "1972",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1973",
+    {
+      "highest_tmax": 90,
+      "highest_tmin": 60
+    }
+  ],
+  [
+    "1974",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 69
+    }
+  ],
+  [
+    "1975",
+    {
+      "highest_tmax": 90,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1976",
+    {
+      "highest_tmax": 86,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1977",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1978",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1979",
+    {
+      "highest_tmax": 98,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1980",
+    {
+      "highest_tmax": 87,
+      "highest_tmin": 60
+    }
+  ],
+  [
+    "1981",
+    {
+      "highest_tmax": 99,
+      "highest_tmin": 68
+    }
+  ],
+  [
+    "1982",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1983",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 61
+    }
+  ],
+  [
+    "1984",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1985",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1986",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "1987",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 61
+    }
+  ],
+  [
+    "1988",
+    {
+      "highest_tmax": 98,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "1989",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1990",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1991",
+    {
+      "highest_tmax": 99,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "1992",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 67
+    }
+  ],
+  [
+    "1993",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1994",
+    {
+      "highest_tmax": 100,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "1995",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 67
+    }
+  ],
+  [
+    "1996",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 68
+    }
+  ],
+  [
+    "1997",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "1998",
+    {
+      "highest_tmax": 97,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "1999",
+    {
+      "highest_tmax": 87,
+      "highest_tmin": 61
+    }
+  ],
+  [
+    "2000",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 62
+    }
+  ],
+  [
+    "2001",
+    {
+      "highest_tmax": 88,
+      "highest_tmin": 60
+    }
+  ],
+  [
+    "2002",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2003",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2004",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 68
+    }
+  ],
+  [
+    "2005",
+    {
+      "highest_tmax": 89,
+      "highest_tmin": 60
+    }
+  ],
+  [
+    "2006",
+    {
+      "highest_tmax": 97,
+      "highest_tmin": 68
+    }
+  ],
+  [
+    "2007",
+    {
+      "highest_tmax": 98,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "2008",
+    {
+      "highest_tmax": 92,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2009",
+    {
+      "highest_tmax": 103,
+      "highest_tmin": 71
+    }
+  ],
+  [
+    "2010",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "2011",
+    {
+      "highest_tmax": 87,
+      "highest_tmin": 63
+    }
+  ],
+  [
+    "2012",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2013",
+    {
+      "highest_tmax": 93,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2014",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "2015",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2016",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 69
+    }
+  ],
+  [
+    "2017",
+    {
+      "highest_tmax": 96,
+      "highest_tmin": 69
+    }
+  ],
+  [
+    "2018",
+    {
+      "highest_tmax": 94,
+      "highest_tmin": 65
+    }
+  ],
+  [
+    "2019",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 66
+    }
+  ],
+  [
+    "2020",
+    {
+      "highest_tmax": 98,
+      "highest_tmin": 64
+    }
+  ],
+  [
+    "2021",
+    {
+      "highest_tmax": 108,
+      "highest_tmin": 73
+    }
+  ],
+  [
+    "2022",
+    {
+      "highest_tmax": 95,
+      "highest_tmin": 68
+    }
+  ],
+  [
+    "2023",
+    {
+      "highest_tmax": 91,
+      "highest_tmin": 62
+    }
+  ]
+]
