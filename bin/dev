@@ -1,0 +1,28 @@
+#!/usr/bin/env sh
+
+set -e 
+
+if ! gem list foreman -i --silent; then
+  echo "Installing foreman..."
+  gem install foreman
+fi
+
+if ! command -v mkcert &> /dev/null; then
+  echo "mkcert not installed, Installing mkcert..."
+  brew install mkcert
+  mkcert -install
+fi
+
+if [ ! -f johnathan-dev.pem ]; then
+  echo "Local certificate does not exist, running bin/cert..."
+  bin/cert
+fi
+
+if [ ! -f Procfile.dev ]; then
+  echo "Procfile.dev does not exist, copying from Procfile..."
+  cp Procfile Procfile.dev
+  # Remove the line that starts with release:
+  sed -i '' '/^release:/d' Procfile.dev
+fi
+
+exec foreman start -f Procfile.dev "$@"
