@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+# Creates the local cert for johnathan.dev
+
+mkcert --cert-file johnathan-dev.pem --key-file johnathan-dev-key.pem johnathan.dev "*.johnathan.dev" localhost 127.0.0.1 ::1 
