@@ -4,7 +4,7 @@ source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem "barnes", "~> 0.0.9"
-gem "bridgetown", "~> 1.3"
+gem 'bridgetown', '~> 1.3', '>= 1.3.2'
 gem "bridgetown-cloudinary", "~> 2.1"
 gem "bridgetown-feed", "~> 3.0.0"
 gem "bridgetown-seo-tag", "~> 6.0"
