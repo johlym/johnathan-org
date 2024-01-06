@@ -22,7 +22,7 @@ User-agent: GPTBot
 Disallow: /
 ```
 
-### IP Ranges
+## ChatGPT/OpenAI IP Ranges
 
 OpenAI was also generous enough to provide [a list of IP ranges](https://openai.com/gptbot-ranges.txt) their crawler will connect from, so go ahead and add these to your firewall rules, too:
 
