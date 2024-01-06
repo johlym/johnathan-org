@@ -21,7 +21,8 @@
     border-bottom: 0;
 
     &:hover {
-      color: inherit;
+      color: var(--white);
+      background-color: var(--background);
     }
   }
 
