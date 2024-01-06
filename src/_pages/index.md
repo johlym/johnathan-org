@@ -5,7 +5,7 @@ layout: default
 last_modified_at: 2022-03-30T20:19:53.034Z
 ---
 
-<h2>Latest Posts</h2>
+<h1>Latest Posts</h1>
 
 {% render "post_loop", posts: collections.posts.resources, limit: 10 %}
 

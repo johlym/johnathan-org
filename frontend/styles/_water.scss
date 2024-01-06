@@ -5,16 +5,17 @@
  */
 
  :root {
+  --white: #fff;
   --background-body:#222;
   --background:#222;
   --background-alt:#222;
   --selection:#1c76c5;
-  --text-main:#bbb;
+  --text-main:#eee;
   --text-muted:#aaa;
-  --links:#5DA271;
+  --accent:#fc5b5b;
   --focus:#0096bfab;
   --border:#526980;
-  --code:#ffbe85;
+  --code:#ffc2c2;
   --animation-duration:0.1s;
   --button-base:#0c151c;
   --button-hover:#040a0f;
@@ -34,7 +35,7 @@ html {
 }
 
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif;
+  font-family: 'JetBrains Mono', monospace;
   line-height: 1.6;
   max-width: 800px;
   margin: 20px auto;
@@ -220,16 +221,16 @@ label {
 
 input {
   &:not([type='checkbox']):not([type='radio']), &[type='range'] {
-    -webkit-appearance: none;
+    appearance: none;
   }
 }
 
 select, button {
-  -webkit-appearance: none;
+  appearance: none;
 }
 
 textarea {
-  -webkit-appearance: none;
+  appearance: none;
   display: block;
   margin-right: 0;
   box-sizing: border-box;
@@ -326,7 +327,7 @@ input[type='range'] {
     border-radius: 50%;
     background: #526980;
     background: var(--border);
-    -webkit-appearance: none;
+    appearance: none;
     margin-top: -7px;
   }
 
@@ -392,10 +393,11 @@ input[type='range'] {
 a {
   text-decoration: none;
   color: #41adff;
-  color: var(--links);
+  color: var(--accent);
 
   &:hover {
-    text-decoration: underline;
+    color: var(--white);
+    background-color: var(--accent);
   }
 }
 
@@ -406,7 +408,7 @@ code, samp, time {
   color: var(--code);
   padding: 2.5px 5px;
   border-radius: 6px;
-  font-size: 1em;
+  font-size: 1rem;
 }
 
 pre > code {

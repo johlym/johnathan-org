@@ -1,21 +1,8 @@
 <ul class="un">
   {% for post in posts limit: limit %}
-  <li>
-    <div>
-      <h3>
-        <a href="{{ post.relative_url }}">{{ post.title }}</a>
-      </h3>
-      {% if excerpt == "true" %}
-      <p>
-        {% if post.excerpt %}
-        {{ post.excerpt }}
-        {% else %}
-        {{ post.content | strip_html | truncatewords:30 }}
-        {% endif %}
-      </p>
-      {% endif %}
-      {% render "post_meta", post: post %}
-    </div>
+  <li class="post-list">
+    <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+    <a href="{{ post.relative_url }}">{{ post.title }}</a>
   </li>
   {% endfor %}
 </ul>
