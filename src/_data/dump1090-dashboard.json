@@ -1,47 +1,4 @@
 {
-  "__inputs": [
-    {
-      "name": "DS_PROMETHEUS",
-      "label": "prometheus",
-      "description": "",
-      "type": "datasource",
-      "pluginId": "prometheus",
-      "pluginName": "Prometheus"
-    }
-  ],
-  "__elements": {},
-  "__requires": [
-    {
-      "type": "panel",
-      "id": "gauge",
-      "name": "Gauge",
-      "version": ""
-    },
-    {
-      "type": "grafana",
-      "id": "grafana",
-      "name": "Grafana",
-      "version": "10.2.3"
-    },
-    {
-      "type": "datasource",
-      "id": "prometheus",
-      "name": "Prometheus",
-      "version": "1.0.0"
-    },
-    {
-      "type": "panel",
-      "id": "stat",
-      "name": "Stat",
-      "version": ""
-    },
-    {
-      "type": "panel",
-      "id": "timeseries",
-      "name": "Time series",
-      "version": ""
-    }
-  ],
   "annotations": {
     "list": [
       {
@@ -63,14 +20,14 @@
   "fiscalYearStartMonth": 0,
   "gnetId": 768,
   "graphTooltip": 0,
-  "id": null,
+  "id": 2,
   "links": [],
   "liveNow": false,
   "panels": [
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -149,10 +106,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", time_period=\"latest\"}",
+          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "Total",
@@ -164,11 +121,11 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "disableTextWrap": false,
-          "editorMode": "builder",
-          "expr": "max_over_time(dump1090_recent_aircraft_observed{job=\"dump1090\", time_period=\"latest\"}[30d:])",
+          "editorMode": "code",
+          "expr": "max_over_time(dump1090_recent_aircraft_observed{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}[30d:])",
           "fullMetaSearch": false,
           "hide": false,
           "includeNullMetadata": true,
@@ -181,10 +138,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "dump1090_recent_aircraft_with_position{job=\"dump1090\", time_period=\"latest\"}",
+          "expr": "dump1090_recent_aircraft_with_position{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "w/ Position",
@@ -195,10 +152,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", time_period=\"latest\"} - dump1090_recent_aircraft_with_position{job=\"dump1090\", time_period=\"latest\"}",
+          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"} - dump1090_recent_aircraft_with_position{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "w/o Position",
@@ -209,10 +166,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "dump1090_recent_aircraft_with_multilateration{job=\"dump1090\", time_period=\"latest\"}",
+          "expr": "dump1090_recent_aircraft_with_multilateration{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "MLAT",
@@ -227,7 +184,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -278,7 +235,9 @@
         "justifyMode": "auto",
         "orientation": "auto",
         "reduceOptions": {
-          "calcs": ["mean"],
+          "calcs": [
+            "mean"
+          ],
           "fields": "",
           "values": false
         },
@@ -290,7 +249,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
           "expr": "dump1090_recent_aircraft_with_position{job=\"dump1090\", time_period=\"latest\"}",
@@ -310,7 +269,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -363,7 +322,9 @@
         "justifyMode": "auto",
         "orientation": "horizontal",
         "reduceOptions": {
-          "calcs": ["mean"],
+          "calcs": [
+            "mean"
+          ],
           "fields": "",
           "values": false
         },
@@ -375,7 +336,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "disableTextWrap": false,
           "editorMode": "code",
@@ -399,7 +360,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "description": "",
       "fieldConfig": {
@@ -441,7 +402,9 @@
         "justifyMode": "auto",
         "orientation": "auto",
         "reduceOptions": {
-          "calcs": ["lastNotNull"],
+          "calcs": [
+            "lastNotNull"
+          ],
           "fields": "",
           "values": false
         },
@@ -453,15 +416,18 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "editorMode": "code",
-          "expr": "max_over_time((dump1090_recent_aircraft_max_range{job=\"dump1090\"} * 3.28084 / 5280)[365d:])",
-          "hide": false,
+          "disableTextWrap": false,
+          "editorMode": "builder",
+          "expr": "max_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\"}[365d:]) * 3.28084 / 5280",
+          "fullMetaSearch": false,
+          "includeNullMetadata": true,
           "instant": false,
-          "legendFormat": "1 Day",
+          "legendFormat": "__auto",
           "range": true,
-          "refId": "C"
+          "refId": "A",
+          "useBackend": false
         }
       ],
       "timeFrom": "1s",
@@ -471,7 +437,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -523,7 +489,9 @@
         "justifyMode": "auto",
         "orientation": "horizontal",
         "reduceOptions": {
-          "calcs": ["mean"],
+          "calcs": [
+            "mean"
+          ],
           "fields": "",
           "values": false
         },
@@ -535,7 +503,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "expr": "rate(dump1090_messages_total{job=\"dump1090\", time_period=\"latest\"}[1m])",
           "format": "time_series",
@@ -553,7 +521,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -561,6 +529,88 @@
             "mode": "thresholds"
           },
           "decimals": 0,
+          "mappings": [
+            {
+              "options": {
+                "match": "null",
+                "result": {
+                  "text": "N/A"
+                }
+              },
+              "type": "special"
+            }
+          ],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "green",
+                "value": null
+              }
+            ]
+          },
+          "unit": "none"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 12,
+        "y": 3
+      },
+      "hideTimeOverride": true,
+      "id": 9,
+      "interval": "5s",
+      "links": [],
+      "maxDataPoints": 100,
+      "options": {
+        "colorMode": "none",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "horizontal",
+        "reduceOptions": {
+          "calcs": [
+            "last"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "10.2.3",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+          },
+          "editorMode": "builder",
+          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", time_period=\"latest\"}",
+          "format": "time_series",
+          "intervalFactor": 2,
+          "legendFormat": "",
+          "metric": "dump1090_recent_",
+          "range": true,
+          "refId": "A",
+          "step": 2
+        }
+      ],
+      "timeFrom": "1s",
+      "title": "Aircraft Total",
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
           "mappings": [
             {
               "options": {
@@ -592,11 +642,11 @@
       "gridPos": {
         "h": 3,
         "w": 3,
-        "x": 12,
+        "x": 15,
         "y": 3
       },
       "hideTimeOverride": true,
-      "id": 9,
+      "id": 13,
       "interval": "5s",
       "links": [],
       "maxDataPoints": 100,
@@ -606,7 +656,9 @@
         "justifyMode": "auto",
         "orientation": "horizontal",
         "reduceOptions": {
-          "calcs": ["mean"],
+          "calcs": [
+            "mean"
+          ],
           "fields": "",
           "values": false
         },
@@ -618,86 +670,26 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "editorMode": "builder",
-          "expr": "dump1090_recent_aircraft_observed{job=\"dump1090\", time_period=\"latest\"}",
+          "expr": "dump1090_stats_local_peak_signal_strength_dbFS{job=\"dump1090\", time_period=\"last1min\"}",
           "format": "time_series",
-          "intervalFactor": 2,
+          "interval": "1s",
+          "intervalFactor": 1,
           "legendFormat": "",
-          "metric": "dump1090_recent_",
-          "range": true,
+          "metric": "",
           "refId": "A",
-          "step": 2
+          "step": 1
         }
       ],
       "timeFrom": "1s",
-      "title": "Aircraft Total",
+      "title": "Signal Peak",
       "type": "stat"
     },
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "text",
-                "value": null
-              }
-            ]
-          },
-          "unit": "short"
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 3,
-        "w": 3,
-        "x": 15,
-        "y": 3
-      },
-      "id": 26,
-      "options": {
-        "colorMode": "value",
-        "graphMode": "area",
-        "justifyMode": "auto",
-        "orientation": "auto",
-        "reduceOptions": {
-          "calcs": ["lastNotNull"],
-          "fields": "",
-          "values": false
-        },
-        "textMode": "auto",
-        "wideLayout": true
-      },
-      "pluginVersion": "10.2.3",
-      "targets": [
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
-          },
-          "editorMode": "code",
-          "expr": "increase(dump1090_messages_total{job=\"dump1090\"}[1h])",
-          "instant": false,
-          "legendFormat": "__auto",
-          "range": true,
-          "refId": "A"
-        }
-      ],
-      "title": "Messages Last Hour",
-      "type": "stat"
-    },
-    {
-      "datasource": {
-        "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "description": "",
       "fieldConfig": {
@@ -759,7 +751,9 @@
         "minVizWidth": 200,
         "orientation": "auto",
         "reduceOptions": {
-          "calcs": ["lastNotNull"],
+          "calcs": [
+            "lastNotNull"
+          ],
           "fields": "",
           "values": false
         },
@@ -772,7 +766,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "disableTextWrap": false,
           "editorMode": "builder",
@@ -797,38 +791,21 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
-          "color": {
-            "mode": "thresholds"
-          },
-          "mappings": [
-            {
-              "options": {
-                "match": "null",
-                "result": {
-                  "text": "N/A"
-                }
-              },
-              "type": "special"
-            }
-          ],
+          "mappings": [],
           "thresholds": {
             "mode": "absolute",
             "steps": [
               {
-                "color": "green",
+                "color": "text",
                 "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
               }
             ]
           },
-          "unit": "none"
+          "unit": "short"
         },
         "overrides": []
       },
@@ -838,18 +815,16 @@
         "x": 21,
         "y": 3
       },
-      "hideTimeOverride": true,
-      "id": 13,
-      "interval": "5s",
-      "links": [],
-      "maxDataPoints": 100,
+      "id": 26,
       "options": {
-        "colorMode": "none",
-        "graphMode": "none",
+        "colorMode": "value",
+        "graphMode": "area",
         "justifyMode": "auto",
-        "orientation": "horizontal",
+        "orientation": "auto",
         "reduceOptions": {
-          "calcs": ["mean"],
+          "calcs": [
+            "lastNotNull"
+          ],
           "fields": "",
           "values": false
         },
@@ -861,26 +836,23 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_local_peak_signal_strength_dbFS{job=\"dump1090\", time_period=\"last1min\"}",
-          "format": "time_series",
-          "interval": "1s",
-          "intervalFactor": 1,
-          "legendFormat": "",
-          "metric": "",
-          "refId": "A",
-          "step": 1
+          "editorMode": "code",
+          "expr": "increase(dump1090_messages_total{job=\"dump1090\", instance=\"10.31.100.19:11090\"}[1h])",
+          "instant": false,
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
         }
       ],
-      "timeFrom": "1s",
-      "title": "Signal Peak",
+      "title": "Messages Last Hour",
       "type": "stat"
     },
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -964,10 +936,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "dump1090_recent_aircraft_max_range{job=\"dump1090\"} * 3.28084 / 5280",
+          "expr": "dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\",} * 3.28084 / 5280",
           "format": "time_series",
           "hide": false,
           "intervalFactor": 2,
@@ -980,10 +952,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "max_over_time((dump1090_recent_aircraft_max_range{job=\"dump1090\"} * 3.28084 / 5280)[30d:])\n",
+          "expr": "max_over_time((dump1090_recent_aircraft_max_range{instance=\"10.31.100.19:11090\", job=\"dump1090\"} * 3.28084 / 5280)[30d:])\n",
           "hide": false,
           "instant": false,
           "legendFormat": "30d Peak",
@@ -997,7 +969,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -1081,10 +1053,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", time_period=\"latest\"}[1m]) * 3.28084 / 5280\n",
+          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}[1m]) * 3.28084 / 5280\n",
           "format": "time_series",
           "hide": false,
           "intervalFactor": 2,
@@ -1097,10 +1069,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", time_period=\"latest\"}[1h])\n * 3.28084 / 5280",
+          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}[1h])\n * 3.28084 / 5280",
           "hide": false,
           "instant": false,
           "legendFormat": "1 Hour",
@@ -1110,10 +1082,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", time_period=\"latest\"}[12h]) * 3.28084 / 5280\n",
+          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}[12h]) * 3.28084 / 5280\n",
           "hide": false,
           "instant": false,
           "legendFormat": "12 Hours",
@@ -1123,10 +1095,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", time_period=\"latest\"}[1d]) * 3.28084 / 5280\n",
+          "expr": "avg_over_time(dump1090_recent_aircraft_max_range{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"latest\"}[1d]) * 3.28084 / 5280\n",
           "hide": false,
           "instant": false,
           "legendFormat": "1 Day",
@@ -1140,7 +1112,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -1223,10 +1195,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "rate(dump1090_messages_total{job=\"dump1090\", time_period=\"latest\"}[1m])",
+          "expr": "rate(dump1090_messages_total{job=\"dump1090\", instance=\"10.31.100.19:11090\", time_period=\"latest\"}[1m])",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "latest",
@@ -1238,10 +1210,10 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "editorMode": "code",
-          "expr": "max_over_time(rate(dump1090_messages_total{job=\"dump1090\", time_period=\"latest\"}[1m])[30d:])",
+          "expr": "max_over_time(rate(dump1090_messages_total{job=\"dump1090\", instance=\"10.31.100.19:11090\", time_period=\"latest\"}[1m])[30d:])",
           "hide": false,
           "instant": false,
           "legendFormat": "30D Peak",
@@ -1255,9 +1227,204 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "description": "",
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "blue",
+                "value": null
+              }
+            ]
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 6,
+        "w": 3,
+        "x": 18,
+        "y": 6
+      },
+      "id": 25,
+      "interval": "5s",
+      "links": [],
+      "options": {
+        "colorMode": "value",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "10.2.3",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+          },
+          "disableTextWrap": false,
+          "editorMode": "builder",
+          "expr": "dump1090_stats_tracks_all{instance=\"10.31.100.19:11090\", time_period=\"last1min\"}",
+          "format": "time_series",
+          "fullMetaSearch": false,
+          "includeNullMetadata": true,
+          "intervalFactor": 2,
+          "legendFormat": "Quantity",
+          "metric": "dump1090_messages_total",
+          "range": true,
+          "refId": "A",
+          "step": 10,
+          "useBackend": false
+        }
+      ],
+      "title": "Tracks Created",
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "text",
+                "value": null
+              }
+            ]
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 21,
+        "y": 6
+      },
+      "id": 28,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "10.2.3",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+          },
+          "editorMode": "code",
+          "expr": "increase(dump1090_messages_total{job=\"dump1090\", instance=\"10.31.100.19:11090\"}[24h])",
+          "instant": false,
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "Messages Last Day",
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "text",
+                "value": null
+              }
+            ]
+          },
+          "unit": "short"
+        },
+        "overrides": []
+      },
+      "gridPos": {
+        "h": 3,
+        "w": 3,
+        "x": 21,
+        "y": 9
+      },
+      "id": 29,
+      "options": {
+        "colorMode": "value",
+        "graphMode": "area",
+        "justifyMode": "auto",
+        "orientation": "auto",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ],
+          "fields": "",
+          "values": false
+        },
+        "textMode": "auto",
+        "wideLayout": true
+      },
+      "pluginVersion": "10.2.3",
+      "targets": [
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+          },
+          "editorMode": "code",
+          "expr": "increase(dump1090_messages_total{job=\"dump1090\", instance=\"10.31.100.19:11090\"}[30d])",
+          "instant": false,
+          "legendFormat": "__auto",
+          "range": true,
+          "refId": "A"
+        }
+      ],
+      "title": "Messages Last Month",
+      "type": "stat"
+    },
+    {
+      "datasource": {
+        "type": "prometheus",
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+      },
       "fieldConfig": {
         "defaults": {
           "color": {
@@ -1300,8 +1467,12 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "blue",
+                "color": "green",
                 "value": null
+              },
+              {
+                "color": "red",
+                "value": 80
               }
             ]
           },
@@ -1313,9 +1484,9 @@
         "h": 7,
         "w": 6,
         "x": 18,
-        "y": 6
+        "y": 12
       },
-      "id": 25,
+      "id": 24,
       "interval": "5s",
       "links": [],
       "options": {
@@ -1335,26 +1506,47 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
+          "disableTextWrap": false,
           "editorMode": "code",
-          "expr": "dump1090_stats_tracks_all{job=\"dump1090\", time_period=\"last1min\"}",
+          "expr": "dump1090_stats_cpr_local_skipped{time_period=\"last1min\", instance=\"10.31.100.19:11090\"}",
           "format": "time_series",
+          "fullMetaSearch": false,
+          "includeNullMetadata": true,
           "intervalFactor": 2,
-          "legendFormat": "__auto",
+          "legendFormat": "Local",
           "metric": "dump1090_messages_total",
           "range": true,
           "refId": "A",
-          "step": 10
+          "step": 10,
+          "useBackend": false
+        },
+        {
+          "datasource": {
+            "type": "prometheus",
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
+          },
+          "disableTextWrap": false,
+          "editorMode": "builder",
+          "expr": "dump1090_stats_cpr_global_skipped{time_period=\"last1min\", instance=\"10.31.100.19:11090\"}",
+          "fullMetaSearch": false,
+          "hide": false,
+          "includeNullMetadata": true,
+          "instant": false,
+          "legendFormat": "Global",
+          "range": true,
+          "refId": "B",
+          "useBackend": false
         }
       ],
-      "title": "Tracks Created",
+      "title": "Positions Skipped",
       "type": "timeseries"
     },
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -1437,39 +1629,45 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_local_signal_strength_dbFS{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_local_signal_strength_dbFS{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "mean",
           "metric": "dump1090_stats_local_signal_strength_dbFS",
+          "range": true,
           "refId": "A",
           "step": 10
         },
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_local_peak_signal_strength_dbFS{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_local_peak_signal_strength_dbFS{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "peak",
           "metric": "dump1090_stats_local_peak_signal_strength_dbFS",
+          "range": true,
           "refId": "B",
           "step": 10
         },
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_local_noise_level_dbFS{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_local_noise_level_dbFS{job=\"dump1090\",instance=\"10.31.100.19:11090\", time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "noise",
           "metric": "dump1090_stats_local_noise_level_dbFS",
+          "range": true,
           "refId": "C",
           "step": 10
         }
@@ -1480,7 +1678,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -1572,7 +1770,7 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
           "disableTextWrap": false,
           "editorMode": "code",
@@ -1595,7 +1793,7 @@
     {
       "datasource": {
         "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
+        "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
       },
       "fieldConfig": {
         "defaults": {
@@ -1678,171 +1876,54 @@
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_cpu_demod_milliseconds{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_cpu_demod_milliseconds{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "demod",
           "metric": "",
+          "range": true,
           "refId": "B",
           "step": 10
         },
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_cpu_reader_milliseconds{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_cpu_reader_milliseconds{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "usb",
           "metric": "",
+          "range": true,
           "refId": "A",
           "step": 10
         },
         {
           "datasource": {
             "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
+            "uid": "a8a131cf-4266-40bc-8805-295cc766fd8d"
           },
-          "expr": "dump1090_stats_cpu_background_milliseconds{job=\"dump1090\", time_period=\"last1min\"}",
+          "editorMode": "code",
+          "expr": "dump1090_stats_cpu_background_milliseconds{job=\"dump1090\", instance=\"10.31.100.19:11090\",time_period=\"last1min\"}",
           "format": "time_series",
           "intervalFactor": 2,
           "legendFormat": "other",
           "metric": "",
+          "range": true,
           "refId": "C",
           "step": 10
         }
       ],
       "title": "CPU Usage",
       "type": "timeseries"
-    },
-    {
-      "datasource": {
-        "type": "prometheus",
-        "uid": "${DS_PROMETHEUS}"
-      },
-      "fieldConfig": {
-        "defaults": {
-          "color": {
-            "mode": "palette-classic"
-          },
-          "custom": {
-            "axisBorderShow": false,
-            "axisCenteredZero": false,
-            "axisColorMode": "text",
-            "axisLabel": "",
-            "axisPlacement": "auto",
-            "barAlignment": 0,
-            "drawStyle": "line",
-            "fillOpacity": 0,
-            "gradientMode": "none",
-            "hideFrom": {
-              "legend": false,
-              "tooltip": false,
-              "viz": false
-            },
-            "insertNulls": false,
-            "lineInterpolation": "linear",
-            "lineWidth": 1,
-            "pointSize": 5,
-            "scaleDistribution": {
-              "type": "linear"
-            },
-            "showPoints": "never",
-            "spanNulls": true,
-            "stacking": {
-              "group": "A",
-              "mode": "none"
-            },
-            "thresholdsStyle": {
-              "mode": "off"
-            }
-          },
-          "mappings": [],
-          "thresholds": {
-            "mode": "absolute",
-            "steps": [
-              {
-                "color": "green",
-                "value": null
-              },
-              {
-                "color": "red",
-                "value": 80
-              }
-            ]
-          },
-          "unit": "short"
-        },
-        "overrides": []
-      },
-      "gridPos": {
-        "h": 7,
-        "w": 6,
-        "x": 18,
-        "y": 13
-      },
-      "id": 24,
-      "interval": "5s",
-      "links": [],
-      "options": {
-        "legend": {
-          "calcs": [],
-          "displayMode": "list",
-          "placement": "bottom",
-          "showLegend": true
-        },
-        "tooltip": {
-          "mode": "multi",
-          "sort": "none"
-        }
-      },
-      "pluginVersion": "10.2.3",
-      "targets": [
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
-          },
-          "disableTextWrap": false,
-          "editorMode": "builder",
-          "expr": "dump1090_stats_cpr_local_skipped{time_period=\"last1min\"}",
-          "format": "time_series",
-          "fullMetaSearch": false,
-          "includeNullMetadata": true,
-          "intervalFactor": 2,
-          "legendFormat": "Local",
-          "metric": "dump1090_messages_total",
-          "range": true,
-          "refId": "A",
-          "step": 10,
-          "useBackend": false
-        },
-        {
-          "datasource": {
-            "type": "prometheus",
-            "uid": "${DS_PROMETHEUS}"
-          },
-          "disableTextWrap": false,
-          "editorMode": "builder",
-          "expr": "dump1090_stats_cpr_global_skipped{time_period=\"last1min\"}",
-          "fullMetaSearch": false,
-          "hide": false,
-          "includeNullMetadata": true,
-          "instant": false,
-          "legendFormat": "Global",
-          "range": true,
-          "refId": "B",
-          "useBackend": false
-        }
-      ],
-      "title": "Positions Skipped",
-      "type": "timeseries"
     }
   ],
-  "refresh": "5s",
+  "refresh": "10s",
   "schemaVersion": 39,
   "tags": [],
   "templating": {
@@ -1854,7 +1935,6 @@
   },
   "timepicker": {
     "refresh_intervals": [
-      "5s",
       "10s",
       "30s",
       "1m",
@@ -1865,11 +1945,21 @@
       "2h",
       "1d"
     ],
-    "time_options": ["5m", "15m", "1h", "6h", "12h", "24h", "2d", "7d", "30d"]
+    "time_options": [
+      "5m",
+      "15m",
+      "1h",
+      "6h",
+      "12h",
+      "24h",
+      "2d",
+      "7d",
+      "30d"
+    ]
   },
   "timezone": "browser",
   "title": "ADS-B (dump1090-fa)",
   "uid": "jYDJZoviz",
-  "version": 9,
+  "version": 10,
   "weekStart": ""
 }
