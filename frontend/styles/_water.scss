@@ -5,6 +5,7 @@
  */
 
  :root {
+  --width: 800px;
   --white: #fff;
   --background-body:#222;
   --background:#222;
@@ -37,8 +38,7 @@ html {
 body {
   font-family: 'JetBrains Mono', monospace;
   line-height: 1.6;
-  max-width: 100%;
-  margin: 20px 0;
+  margin: 0;
   padding: 0 10px;
   word-wrap: break-word;
   color: #dbdbdb;
@@ -46,6 +46,11 @@ body {
   background: #202b38;
   background: var(--background-body);
   text-rendering: optimizeLegibility;
+}
+
+nav, main > section, footer > p {
+ margin: 0 auto;
+ max-width: var(--width);
 }
 
 button, input, textarea {
