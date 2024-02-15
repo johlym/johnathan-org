@@ -48,7 +48,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-nav, main > section, footer > p {
+nav, main > section, footer > section {
  margin: 0 auto;
  max-width: var(--width);
 }
