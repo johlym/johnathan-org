@@ -1,16 +1,14 @@
 categories:
   - name: Computing
     items: 
-      - title: Apple Macbook Pro 14" M1 Pro
+      - title: Apple Macbook Pro 14-inch M1 Pro
         url: https://apple.com
       - title: Logitech MX Master 3
         url: https://logitech.com
       - title: Logitech K860 Keyboard
         url: https://logitech.com
-      - title: LG 27" 4K Montior (x2)
-        url: https://lg.com
-      - title: CalDigit TB3+ Thunderbolt Dock
-        url: https://caldigit.com
+      - title: Apple Studio Display with matte finish and VESA mount
+        url: https://apple.com
       - title: TwelveSouth Laptop Stand
         url: https://twelvesouth.com
       - title: Logitech Brio webcam
@@ -39,6 +37,9 @@ categories:
           - title: RVM
             class: Ruby Package Manager
             url: https://rvm.io
+          - title: ASDF
+            class: Multi-language Package Manager
+            url: https://asdf-vm.com
           - title: Homebrew
             class: System Package Manager
             url: https://brew.sh
@@ -68,11 +69,14 @@ categories:
     - title: HP Color LaserJet Pro M255dw
       url: https://amzn.to/3s4w48T
       class: Laser Printer
+    - title: Brother ADS-2700W Automatic Document Scanner
+      url: https://amzn.to/3T1oZVB
+      class: Document Scanner
     
   - name: Audio Visual
     items: 
-    - title: Shure SM7B
-      url: https://amzn.to/3g9nDUq
+    - title: Earthworks ETHOS
+      url: https://amzn.to/3uqV7IN
       class: Microphone
     - title: Focusrite Scarlett 2i2
       url: https://amzn.to/3gg74pT
@@ -83,6 +87,9 @@ categories:
     - title: Audio-Technica ATH-M40x
       url: https://amzn.to/3unDIxQ
       class: Desk Headphones
+    - title: Rolls MS111 Mic Switch
+      url: https://amzn.to/3UDvPlj
+      class: Microphone Mute Switch
 
   - name: IOT, Automation, and Networking
     categories:
@@ -127,15 +134,21 @@ categories:
 
   - name: Mobile
     items: 
-    - title: Apple iPhone 13 Pro
-      url: 
+    - title: Apple iPhone 15 Pro
+      url: https://apple.com
       class: Phone
-    - title: Apple iPods (1st Generation)
-      url: 
+    - title: Apple iPad Pro 10.9 in. (1st Generation)
+      url: https://apple.com
+      class: Tablet
+    - title: Apple AirPods (2nd Generation)
+      url: https://apple.com
       class: Headphones
-    - title: Apple iPods Pro
-      url: 
+    - title: Apple AirPods Pro (with USB-C case)
+      url: https://apple.com
       class: Headphones
     - title: Sony WH900N
-      url: 
+      url: https://sony.com
+      class: Headphones
+    - title: Bose QuietComfort Ultra
+      url: https://bose.com
       class: Headphones
