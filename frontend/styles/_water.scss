@@ -48,6 +48,12 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+header {
+  background-color: #191919;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
 nav, main > section, footer > section {
  margin: 0 auto;
  max-width: var(--width);
