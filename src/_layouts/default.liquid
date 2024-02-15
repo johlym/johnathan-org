@@ -14,7 +14,7 @@
 <main>
 {% assign content_type = page.layout %}
   <section>
-    <code>~/<a href="/">home</a>/{% if content_type == "post" %}<a href="/posts/">post</a>/{% endif %}<a href="{{ page.relative_url }}">{{ page.slug }}</a></code>
+    <p class="breadcrumb">~/<a href="/">home</a>/{% if content_type == "post" %}<a href="/posts/">post</a>/{% endif %}<a href="{{ page.relative_url }}">{{ page.slug }}</a></p>
   </section>
   <section>
     {% render "carbon" %}
