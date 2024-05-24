@@ -113,6 +113,8 @@ GEM
     nio4r (2.6.1)
     nokogiri (1.16.0-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.16.0-x86_64-linux)
+      racc (~> 1.4)
     public_suffix (5.0.4)
     puma (6.4.0)
       nio4r (~> 2.0)
@@ -161,6 +163,7 @@ PLATFORMS
   arm64-darwin-21
   arm64-darwin-22
   arm64-darwin-23
+  x86_64-linux
 
 DEPENDENCIES
   barnes (~> 0.0.9)
