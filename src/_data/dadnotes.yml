@@ -33,12 +33,13 @@ notes:
   - Take pictures of everything. Your future self will thank you for it when you no longer have a thing they clung to or their room doesn't look the same, anymore.
 
 stats:
-  diapers_total: 5047+
-  diapers_per_day: ~7.25 dpd
+  diapers_total: 5,623+
+  diapers_per_day: ~7.01 dpd
   diapers_by_size:
     newborn: 265
     one: 450
     two: 696
     three: 1152
     four: 1044
-    five: 1440+
+    five: 1872+
+    six: 144+

@@ -10,7 +10,7 @@ last_modified_at: 2022-02-06 14:30:00 -07:00
 {% endfor %}
 </p>
 {% for category in site.data.using.categories %}
-<h2>{{ category.name }}</h2>
+<h2 id="{{ category.name | slugify }}">{{ category.name }}</h2>
 {% if category.categories %}
 {% for sub in category.categories %}
 <h3>{{ sub.name }}</h3>
