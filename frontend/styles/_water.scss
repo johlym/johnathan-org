@@ -7,9 +7,9 @@
  :root {
   --width: 800px;
   --white: #fff;
-  --background-body:#222;
-  --background:#222;
-  --background-alt:#222;
+  --background-body:#111;
+  --background:#111;
+  --background-alt:#111;
   --selection:#1c76c5;
   --text-main:#eee;
   --text-muted:#aaa;
@@ -39,7 +39,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   line-height: 1.6;
   margin: 0;
-  padding: 0;
+  padding: 12px;
   word-wrap: break-word;
   color: #dbdbdb;
   color: var(--text-main);
@@ -49,7 +49,7 @@ body {
 }
 
 header, footer {
-  background-color: #191919;
+  background-color: var(--background);
   padding: 1rem;
 }
 
@@ -415,7 +415,7 @@ a {
   }
 }
 
-code, samp, time {
+code, samp {
   background: #161f27;
   background: var(--background);
   color: #ffbe85;
@@ -607,8 +607,6 @@ dialog {
 }
 
 footer {
-  border-top: 1px solid #526980;
-  border-top: 1px solid var(--border);
   padding-top: 10px;
   color: #a9b1ba;
   color: var(--text-muted);

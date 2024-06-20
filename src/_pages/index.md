@@ -5,9 +5,9 @@ layout: default
 last_modified_at: 2022-03-30T20:19:53.034Z
 ---
 
-<h1>Latest Posts</h1>
+<h2>Latest Posts</h2>
 
-{% render "post_loop", posts: collections.posts.resources, limit: 10 %}
+{% render "post_loop", posts: collections.posts.resources, limit: 20 %}
 
 <p>
   <a href="/posts/">All Posts <i class="far fa-long-arrow-alt-right"></i></a>

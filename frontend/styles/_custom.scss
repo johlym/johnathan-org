@@ -1,3 +1,19 @@
+nav {
+  .site-title {
+    font-size: 1.5rem;
+    margin: 0;
+    line-height: 1;
+  }
+
+  .sub-title {
+    line-height: 1;
+    margin: 0.25rem 0 0 0;
+    font-size: 0.9rem;
+    color: var(--text-muted);
+  }
+}
+
+
 ul.un {
   list-style: none;
   padding-left: 0;
@@ -5,9 +21,8 @@ ul.un {
 
 section {
   .breadcrumb {
-    background-color: #242424;
-    padding: 1rem;
-    margin-bottom: 1rem;
+    background-color: var(--background);
+    margin: 1rem 0;
 
     font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 

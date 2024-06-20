@@ -12,6 +12,9 @@
 - name: Dad Notes
   path: /dad-notes/
 
+- name: KK7TSS
+  path: /kk7tss/
+
 - name: Links
   path: /links/
 

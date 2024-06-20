@@ -1,6 +1,4 @@
 <small>
 {% assign d = post.date | date: "%-d" %}
-{{ post.date | date: "%B" }} 
-{% case d %}{% when "1" or "21" or "31" %}{{ d }}st{% when "2" or "22" %}{{ d }}nd{% when "3" or "23" %}{{ d }}rd{% else %}{{ d }}th{% endcase %}, 
-{{ post.date | date: "%Y" }} • filed under <a href="/categories/{{page.category | slugify }}{{post.category | slugify }}/">{{ page.category | capitalize}}{{ post.category | capitalize }}</a>
+<time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%A, %B %-d, %Y" }}</time> • filed under <a href="/categories/{{page.category | slugify }}{{post.category | slugify }}/">{{ page.category | lowercase}}{{ post.category | lowercase }}</a> • <a href="{{ post.url }}">permalink</a>
 </small>

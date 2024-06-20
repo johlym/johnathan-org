@@ -1,4 +1,5 @@
 <nav>
-  <p><em>Johnathan.org</em>, a web site by Johnathan Lyman</p>
+  <h1 class="site-title">Johnathan.org</h1>
+  <p class="sub-title">a web site by Johnathan Lyman</p>
   <p>{% for item in nav %}<a href="{{ item.path }}">{{ item.name }}</a>{% unless forloop.last %} • {% endunless %}{% endfor %}</p>
 </nav>

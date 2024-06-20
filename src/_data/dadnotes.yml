@@ -31,15 +31,17 @@ notes:
   - You're doing a great job.
   - The memories will come rushing back when it's time to pack up the baby stuff. Embrace them and let the emotions wash over you. This'll be the last time they feel this strong.
   - Take pictures of everything. Your future self will thank you for it when you no longer have a thing they clung to or their room doesn't look the same, anymore.
+  - Their pains and their ouchies will hurt you more than they hurt them because you can't stand to see them in pain.
+  - Being in the moment is the best thing you can do for them and for you.
 
 stats:
-  diapers_total: 5,623+
-  diapers_per_day: ~7.01 dpd
+  diapers_total: 6,055+
+  diapers_per_day: ~6.71 dpd
   diapers_by_size:
     newborn: 265
     one: 450
     two: 696
     three: 1152
     four: 1044
-    five: 1872+
-    six: 144+
+    five: 1872
+    six: 576+
