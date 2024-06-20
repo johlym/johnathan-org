@@ -3,6 +3,21 @@ ul.un {
   padding-left: 0;
 }
 
+section {
+  .breadcrumb {
+    background-color: #242424;
+    padding: 1rem;
+    margin-bottom: 1rem;
+
+    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
+
+    p {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+  }
+}
+
 .content {
   h1 {
     font-size: 2.2em;
@@ -14,7 +29,6 @@ ul.un {
     &::before {
       content: '#';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
 
@@ -32,7 +46,6 @@ ul.un {
     &::before {
       content: '##';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
   }
@@ -41,7 +54,6 @@ ul.un {
     &::before {
       content: '###';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
   }
@@ -50,7 +62,6 @@ ul.un {
     &::before {
       content: '####';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
   }
@@ -59,7 +70,6 @@ ul.un {
     &::before {
       content: '#####';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
   }
@@ -68,7 +78,6 @@ ul.un {
     &::before {
       content: '######';
       color: var(--accent);
-      font-family: 'JetBrains Mono', monospace;
       margin-right: 0.5rem;
     }
   }
@@ -82,12 +91,8 @@ ul.un {
   margin-bottom: 1rem;
 
   time {
-    font-size: 1.2rem;
     padding: 0;
     color: var(--white);
-  }
-
-  a {
-    font-size: 1.2rem;
+    font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   }
 }

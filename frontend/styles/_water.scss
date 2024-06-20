@@ -5,6 +5,7 @@
  */
 
  :root {
+  --width: 800px;
   --white: #fff;
   --background-body:#222;
   --background:#222;
@@ -35,17 +36,30 @@ html {
 }
 
 body {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   line-height: 1.6;
-  max-width: 800px;
-  margin: 20px auto;
-  padding: 0 10px;
+  margin: 0;
+  padding: 0;
   word-wrap: break-word;
   color: #dbdbdb;
   color: var(--text-main);
   background: #202b38;
   background: var(--background-body);
   text-rendering: optimizeLegibility;
+}
+
+header, footer {
+  background-color: #191919;
+  padding: 1rem;
+}
+
+main {
+  padding: 0 10px;
+}
+
+nav, main > section, footer > section {
+ margin: 0 auto;
+ max-width: var(--width);
 }
 
 button, input, textarea {

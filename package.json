@@ -6,6 +6,9 @@
     "webpack-build": "webpack --mode production",
     "webpack-dev": "webpack --mode development -w"
   },
+  "engines": {
+    "node": ">=20.0.0 <21.0.0"
+  },
   "devDependencies": {
     "css-loader": "~6.7.1",
     "esbuild": "~0.19.11",
