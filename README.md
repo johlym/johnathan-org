@@ -1,6 +1,6 @@
 # Johnathan.org
 
-This is the repository for johnathan.org. The site is powered by [Bridgetown](https://bridgetownrb.com) v1.0.
+This is the repository for johnathan.org. The site is powered by [Bridgetown](https://bridgetownrb.com) v1.3.
 
 ## Table of Contents
 
