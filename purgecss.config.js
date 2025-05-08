@@ -1,5 +1,5 @@
 module.exports = {
   content: ['frontend/javascript/*.js','./output/**/*.html'],
-  safelist: ['carbonads'],
+  safelist: [],
   output: "./output/_bridgetown/static/css"
 }

@@ -56,7 +56,7 @@ Everything should look fine on all modern mobile devices and browsers. Anything 
 
 ### Advertising
 
-Currently, ads are served exclusively through [Carbon](https://www.carbonads.net). To advertise on this site, please get in touch with them.
+None.
 
 ## Contact
 
